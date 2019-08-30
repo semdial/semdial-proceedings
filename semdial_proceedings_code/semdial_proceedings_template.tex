@@ -1,0 +1,272 @@
+%%%% SemDial Proceedings template by Raquel Fernandez, 2013.
+
+\documentclass[a4paper,12pt,oneside]{book}
+\usepackage{times}
+\usepackage{pdfpages}
+\usepackage{color}
+\usepackage{calc}
+\usepackage{url}
+\usepackage{xcolor}
+\pagestyle{plain}
+
+
+\usepackage{longtable}
+
+%% USE THE COLOURS OF YOUR CHOICE
+\definecolor{darkred}{rgb}{.8,0,0} % for links
+\definecolor{myred}{rgb}{.75,0,0}   % for cover
+\definecolor{GUblue}{RGB}{0,75,137}
+
+%% CHANGE YEAR AND NICKNAME
+\usepackage[colorlinks=true,linkcolor=darkred,urlcolor=darkred,bookmarks=true,pdftitle={Proceedings of
+  SEMDIAL 2015 (goDIAL)}]{hyperref}
+
+
+% Textarea
+\setlength{\textwidth}{17.7cm}
+\setlength{\textheight}{25cm}
+\setlength{\oddsidemargin}{-0.6cm}
+\setlength{\topmargin}{-1.5cm}
+
+\renewcommand{\baselinestretch}{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+
+\newcommand{\putframe}{}
+\newcommand{\draft}{\renewcommand{\putframe}{\noindent\vspace*{-8pt}\textcolor{red}{\hrule height 1mm}
+\vfill\noindent\textcolor{red}{\hrule height 1mm}}}
+
+% Parameters: file name, title, authors, horizontal offset, vertical offset
+\newcommand{\paper}[5]{%
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{section}{\hspace{-17pt}#2}
+\addtocontents{toc}{$\,$\textit{#3}\vspace{5pt}}
+\includepdf[pages=-,offset={#4 #5},pagecommand={\putframe}]{#1}
+\cleardoublepage}
+
+\newcommand{\goodpaper}[3]{\paper{#1}{#2}{#3}{-0mm}{-0mm}}
+
+
+%\draft
+
+\begin{document}
+\pagenumbering{roman}
+%%  TITLE PAGE (CHANGE DETAILS)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{SEMDIAL 2015 (goDIAL)}{title}
+\pagecolor{GUblue} %% comment out for white cover
+\thispagestyle{empty}
+\vspace*{1.7cm}
+
+
+\textcolor{white}{\begin{center} \Huge \bf
+SEMDIAL 2015\\
+goDIAL
+\end{center}
+\vfill
+\begin{center} \LARGE \bf
+Proceedings of the 19th Workshop on\\
+the Semantics and Pragmatics of Dialogue
+\end{center}
+\begin{center}\large \bf
+Christine Howes and Staffan Larsson (eds.)
+\end{center}
+\vfill
+\begin{center}\large \bf
+Gothenburg, 24--26 August 2015
+\end{center}}
+%% INCLUDE COVER IMAGES, IF DESIRED
+\vfill
+\begin{center} 
+\includegraphics[width=5cm]{img/LO_GUeng_cen2rNEG.pdf}
+\end{center}
+
+\clearpage
+%%  DETAILS 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{ISSN}{issn}
+\thispagestyle{empty}
+\nopagecolor
+\section*{ISSN 2308-2275}
+Serial title: Proceedings (SemDial)
+
+%% CHANGE URLs
+\section*{SemDial Workshop Series}
+\url{http://www.semdial.org/}
+
+\section*{goDIAL Website}
+\url{http://www.flov.gu.se/godial}
+
+%% CHANGE NICKNAME, SPONSORS AND ENDORSERS
+\vfill
+\section*{goDIAL Sponsors}
+
+\begin{center}
+\begin{minipage}{6cm}\centering \small
+\includegraphics[width=3cm]{img/CLT.png}
+\end{minipage}\hspace{2.5cm}
+\begin{minipage}{6cm}\centering \small
+\includegraphics[width=6cm]{img/talkmatic.jpg}\\
+\end{minipage}
+
+\vspace{2cm}
+\begin{minipage}{6cm}\centering
+Swedish Research Council Vetenskapsrådet 
+\end{minipage}
+\end{center}
+
+\vfill
+\section*{goDIAL Endorsements}
+
+\begin{center}
+\begin{minipage}{6cm}\centering \small
+\includegraphics[width=2.5cm]{img/sigdial.png}\\
+SIGdial
+\end{minipage}
+\begin{minipage}{6cm}\centering \small
+\includegraphics[width=1.8cm]{img/sigsem.jpg}\\
+SIGSEM
+\end{minipage}
+\end{center}
+
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{Preface}{preface}
+
+\section*{Preface}
+
+WRITE YOUR PREFACE HERE
+
+%% CHANGE CHAIR / EDITORS NAMES, LOCATION AND DATE
+\vspace{20pt}
+\hfill Christine Howes and Staffan Larsson
+
+\hfill Gothenburg
+
+\hfill August 2015
+
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{Programme Committee}{pc}
+
+\section*{Programme Committee}
+
+%% ENTER THE PC MEMBERS
+\begin{longtable}{p{0.35\textwidth}p{0.65\textwidth}}
+Nicholas Asher& IRIT, CNRS\\
+Claire Beyssade & CNRS/Institut Jean Nicod\\
+Ellen Breitholtz& University of Gothenburg\\
+Sarah Brown-Schmidt & University of Illinois\\
+Eve Clark& Stanford University\\
+Liz Coppock& University of Gothenburg\\
+Chris Cummins& University of Edinburgh\\
+Valeria De Paiva& University of Birmingham\\
+Paul Dekker& ILLC, University of Amsterdam\\
+David DeVault& ICT USC\\
+Simon Dobnik& University of Gothenburg\\
+Arash Eshghi& Heriot Watt University\\
+Raquel Fernandez& University of Amsterdam\\
+Kallirroi Georgila& University of Southern California\\
+Jonathan Ginzburg& Universite Paris-Diderot, Paris 7\\
+Eleni Gregoromichelaki& King's College London\\
+Pat Healey& Queen Mary University of London\\
+Anna Hjalmarsson& KTH\\
+Judith Holler& Max Planck\\
+Julian Hough& Bielefeld University\\
+Chris Howes& University of Gothenburg\\
+Amy Isard& University of Edinburgh\\
+Kristiina Jokinen& Univerity of Helsinki\\
+Ruth Kempson& King's College London\\
+Alexander Koller& University of Potsdam\\
+Staffan Larsson& University of Gothenburg\\
+Alex Lascarides& University of Edinburgh\\
+Pierre Lison& University of Oslo\\
+Peter Ljunglöf& Chalmers Institute of Technology\\
+Colin Matheson& University of Edinburgh\\
+Gregory Mills& University of Groningen\\
+Chris Potts& Stanford University\\
+Matthew Purver& Queen Mary University of London\\
+Hannes Reiser& Bielefeld University\\
+David Schlangen& Bielefeld University\\
+Gabriel Skantze& KTH\\
+Matthew Stone& Rutgers\\
+David Traum& ICT USC
+\end{longtable}
+
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pdfbookmark{Table of Contents}{toc}
+\setlength{\parskip}{0pt}
+
+\renewcommand{\contentsname}{\mbox{}\\[-108pt]\noindent\textbf{\Large
+    Table of Contents}\\[-28pt]}
+\tableofcontents
+\cleardoublepage
+
+\pagenumbering{arabic}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{Invited Talks}{invited}
+\thispagestyle{empty}
+\mbox{}\vfill
+\begin{center}
+\Huge \bf Invited Talks
+\end{center}
+\mbox{}\vfill
+
+\clearpage
+
+\addtocontents{toc}{\vspace{10pt} $\,$\textbf{Invited Talks}\vspace{5pt}}
+ 
+ 
+$invited
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{Full Papers}{papers}
+\thispagestyle{empty}
+\mbox{}\vfill
+\begin{center}
+\Huge \bf Full Papers
+\end{center}
+\mbox{}\vfill
+
+\clearpage
+
+
+\addtocontents{toc}{{}\\[10pt] \textbf{Full Papers}\vspace{5pt}}
+
+
+$full
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{Poster Abstracts}{posters}
+\thispagestyle{empty}
+\mbox{}\vfill
+\begin{center}
+\Huge \bf Poster Abstracts
+\end{center}
+\mbox{}\vfill
+
+\clearpage
+
+\addtocontents{toc}{{}\\[10pt] \textbf{Poster Abstracts}\vspace{5pt}}
+
+
+$posters
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+
+\end{document}
+
+
+

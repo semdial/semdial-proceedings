@@ -1,0 +1,61 @@
+% Paper in the list below have been ordered by EasyChair
+% using the following order: first invited papers,
+% then papers alphabetically ordered by the last names
+% of their authors
+% then separated in oral/posters by P.M.
+# \part*{Invited talks}
+-4 % Branigan. Say as I say: Alignment as a multi-componential phenomenon
+-1 % Oberlander. Talking to animals and talking to things
+-3 % Purver. Ask Not What Semantics Can Do For Dialogue - Ask What Dialogue Can Do For Semantics
+-2 % Schober. Dialogue, response quality and mode choice in iPhone surveys
+# \part*{Oral presentations}
+21 % Alacam, Acarturk, Habel. Referring Expressions in Discourse about Haptic Line Graphs
+31 % Buschmeier, Kopp. A dynamic minimal model of the listener for feedback-based dialogue coordination
+10 % Cooper. Phrase structure rules as dialogue update rules
+12 % Cummins. Numerical expressions, implicatures and imagined prior context
+23 % Dobnik, Kelleher, Koniaris. Priming and Alignment of Frame of Reference in Situated Conversation
+24 % Eshghi, Lemon. How domain-general can we be? Learning incremental Dialogue Systems without Dialogue Acts
+2 % Guhe, Lascarides. Persuasion in Complex Games
+26 % Harris. Signaling Non-speaker commitment in Transparent Free Relatives: A paired Speaker-Hearer judgment study.
+17 % Howes, Hough, Purver, McCabe. Helping, I mean assessing psychiatric communication: An application of incremental self-repair detection
+29 % Kruijff-Korbayova, Racioppa, Kiefer, Oleari, Pozzi. Analysis of the Responses to System-Initiated Off-Activity Talk in Human-Robot Interaction with Diabetic Children
+19 % Magarreiro, Coheur, Melo. Using subtitles to deal with Out-of-Domain interactions
+13 % Meo, McMahan, Stone. Generating and Resolving Vague Color References
+30 % Moradlou, Ginzburg. Learning to understand questions
+8 % Ortiz, Shen. Dynamic Intention Structures for Dialogue Processing
+27 % Perret, Afantenos, Asher, Lascarides. Revealing Resources in Strategic Contexts
+32 % Stevens, Benz, Reuße, Laarmann-Quante, Klabunde. Indirect answers as potential solutions to decision problems
+22 % Venant, Asher, Dégremont. Credibility and its Attacks.
+# \part*{Posters}
+60 % Cabral, Campbell, Ganesh, Kheirkhah, Gilmartin, Haider, Kenny, Murphy, Ní Chiaráin, Pellegrini, Rey Orozko. MILLA – A Multimodal Interactive Language Learning Agent
+47 % de Kok, Hough, Frank, Schlangen, Kopp. Dialogue Structure of Coaching Sessions
+45 % Dethlefs, Cuayahuitl, Hastie, Rieser, Lemon. Getting to Know Users: Accounting for the Variability in User Ratings
+36 % Efstathiou, Lemon. Learning to manage risks in non-cooperative dialogues
+64 % Ginzburg, Schlangen, Tian, Hough. The Disfluency, Exclamation, and Laughter in Dialogue (DUEL) Project
+48 % Glas, Pelachaud. Hearer Engagement as a Variable in the Perceived Weight of a Face-Threatening Act
+44 % Grimm, Fernández. Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational Approach
+35 % Hahn, Lawler, Rieser. First observations on a corpus of multi-modal trialogues
+54 % Han, Kousidis, Schlangen. Towards Automatic Understanding of ‘Virtual Pointing’ in Interaction
+61 % Hastie, Aufaure, Alexopoulos, Bouchard, Cuayahuitl, Dethlefs, Gasic, Gonzalez-Guimerans, Henderson, Lemon, Liu, Mika, Potter, Rieser, Tsiakoulis, Vanrompay, Villazon-Terrazas, Yazdani, Young, Yu. Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile Platforms for Evaluation “In the Wild”
+59 % Ikoro, Mondragon, White. Disentangling utterances and recovering coherent multi party distinct conversations
+40 % Jiao, Wang, Wang, Tian, Wu, Wang. Large-scale Analysis of the Flight Booking Spoken Dialog System in a Commercial Travel Information Mobile App
+57 % Katagiri, Takanashi, Ishizaki, Enomoto, Den, Okada. A Multi-issue Negotiation Model of Trust Formation through Concern Alignment in Conversations
+51 % Kennington, Kousidis, Schlangen. Multimodal Dialogue Systems with InproTKs and Venice
+52 % Kerzel, Alacam, Habel, Acarturk. Producing Verbal Descriptions for Haptic Line-Graph Explorations 
+43 % Larsson, Dobnik, Berlin. Effects of Speech Cursor on Visual Distraction in In-vehicle Interaction: Preliminary Results
+62 % Lelonkiewicz, Gambi. Common Ground and Joint Utterance Production:  Evidence from the Word Chain Task
+46 % Lewandowska-Tomaszczyk. Language-bound Dialogic elements in Computer-Mediated and Face-to-Face Communication
+49 % Lim, Foster, Janarthanam, Deshmukh, Hastie, Aylett. Studying the Effects of Affective Feedback in Embodied Tutors
+37 % Main, Wang, Rieser. Towards Deep Learning for Dialogue State Tracking Using Restricted Bolzman Machines and Pretraining
+68 % Mast, Couto Vale, Falomir, Elahi. Referential Grounding for Situated Human-Robot Communication
+63 % Mazzocconi, Green, Tian, Addyman. Laughter in mother-child interaction: from 12 to 36 months
+65 % Nazarian, Nouri, Traum. Initiative Patterns in Dialogue Genres
+67 % Rieser, Cercas Curry. Towards Generating Route Instructions Under Uncertainty: A Corpus Study
+41 % Rieser, Janarthanam, Taylor, Yu, Lemon. SpeechCity: A Conversational City Guide based on Open Data
+38 % Schlöder, Fernández. Clarification Requests at the Level of Uptake
+50 % Schole, Tenbrink, Coventry, Andonova. Tailoring Object Orientation Descriptions to the Dialogue Context
+53 % Schuette, Kelleher, Mac Namee. Perception Based Misunderstandings in Human-Computer Dialogues
+55 % Tang, Wang, Rieser, Lemon. Sample Efficient Learning of Strategic Dialogue Policies
+39 % Venhuizen, Brouwer. PDRT-SANDBOX: An implementation of Projective Discourse Representation Theory
+56 % Vourliotakis, Efstathiou, Rieser. Detecting Deception in Non-Cooperative Dialogue: A Smarter Adversary Cannot be Fooled That Easily
+42 % Wallis. User Satisfaction without Task Completion

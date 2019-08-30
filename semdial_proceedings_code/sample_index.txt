@@ -1,0 +1,53 @@
+Referential Grounding for Situated Human-Robot Communication --> Vivien Mast, Daniel Couto Vale, Zoe Falomir and Mohammad Fazleh Elahi
+First observations on a corpus of multi-modal trialogues --> Florian Hahn, Insa Lawler and Hannes Rieser
+Revealing Resources in Strategic Contexts --> J\'er\'emy Perret, Stergos Afantenos, Nicholas Asher and Alex Lascarides
+Towards Deep Learning for Dialogue State Tracking Using Restricted Bolzman Machines and Pretraining --> Callum Main, Zhuoran Wang and Verena Rieser
+How domain-general can we be? Learning incremental Dialogue Systems without Dialogue Acts --> Arash Eshghi and Oliver Lemon
+Dialogue, response quality and mode choice in iPhone surveys --> Michael Schober
+Studying the Effects of Affective Feedback in Embodied Tutors --> Mei Yii Lim, Mary Ellen Foster, Srinivasan Janarthanam, Amol Deshmukh, Helen Hastie and Ruth Aylett
+Clarification Requests at the Level of Uptake --> Julian Schl\"oder and Raquel Fern\'andez
+Effects of Speech Cursor on Visual Distraction in In-vehicle Interaction: Preliminary Results --> Staffan Larsson, Simon Dobnik and Sebastian Berlin
+Initiative Patterns in Dialogue Genres --> Angela Nazarian, Elnaz Nouri and David Traum
+User Satisfaction without Task Completion --> Peter Wallis
+Large-scale Analysis of the Flight Booking Spoken Dialog System in a Commercial Travel Information Mobile App --> Zengtao Jiao, Zhuoran Wang, Guanchun Wang, Hao Tian, Hua Wu and Haifeng Wang
+Laughter in mother-child interaction: from 12 to 36 months --> Chiara Mazzocconi, Sam Green, Ye Tian and Caspar Addyman
+MILLA – A Multimodal Interactive Language Learning Agent --> Jo\~{a}o Paulo Cabral, Nick Campbell, Sree Ganesh, Mina Kheirkhah, Emer Gilmartin, Fasih Haider, Eamonn Kenny, Andrew Murphy, Neasa N\'i Chiar\'ain, Thomas Pellegrini and Odei Rey Orozko
+Say as I say: Alignment as a multi-componential phenomenon --> Holly Branigan
+Hearer Engagement as a Variable in the Perceived Weight of a Face-Threatening Act --> Nadine Glas and Catherine Pelachaud
+Getting to Know Users: Accounting for the Variability in User Ratings --> Nina Dethlefs, Heriberto Cuayahuitl, Helen Hastie, Verena Rieser and Oliver Lemon
+Dynamic Intention Structures for Dialogue Processing --> Charles Ortiz and Jiaying Shen
+Credibility and its Attacks. --> Antoine Venant, Nicholas Asher and C\'edric D\'egremont
+Multimodal Dialogue Systems with InproTKs and Venice --> Casey Kennington, Spyros Kousidis and David Schlangen
+Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational Approach --> Robert Grimm and Raquel Fern\'andez
+Indirect answers as potential solutions to decision problems --> Jon Stevens, Anton Benz, Sebastian Reu{\ss}e, Ronja Laarmann-Quante and Ralf Klabunde
+Towards Generating Route Instructions Under Uncertainty: A Corpus Study --> Verena Rieser and Amanda Cercas Curry
+Sample Efficient Learning of Strategic Dialogue Policies --> Wenshuo Tang, Zhuoran Wang, Verena Rieser and Oliver Lemon
+Analysis of the Responses to System-Initiated Off-Activity Talk in Human-Robot Interaction with Diabetic Children --> Ivana Kruijff-Korbayova, Stefania Racioppa, Bernd Kiefer, Elettra Oleari and Clara Pozzi
+A Multi-issue Negotiation Model of Trust Formation through Concern Alignment in Conversations --> Yasuhiro Katagiri, Katsuya Takanashi, Masato Ishizaki, Mika Enomoto, Yasuharu Den and Shogo Okada
+PDRT-SANDBOX: An implementation of Projective Discourse Representation Theory --> Noortje Venhuizen and Harm Brouwer
+Talking to animals and talking to things --> Jon Oberlander
+Ask Not What Semantics Can Do For Dialogue - Ask What Dialogue Can Do For Semantics --> Matthew Purver
+Perception Based Misunderstandings in Human-Computer Dialogues --> Niels Schuette, John Kelleher and Brian Mac Namee
+Referring Expressions in Discourse about Haptic Line Graphs --> Ozge Alacam, Cengiz Acarturk and Christopher Habel
+Signaling Non-speaker commitment in Transparent Free Relatives: A paired Speaker-Hearer judgment study. --> Jesse Harris
+Persuasion in Complex Games --> Markus Guhe and Alex Lascarides
+Detecting Deception in Non-Cooperative Dialogue: A Smarter Adversary Cannot be Fooled That Easily --> Aimilios Vourliotakis, Ioannis Efstathiou and Verena Rieser
+Dialogue Structure of Coaching Sessions --> Iwan de Kok, Julian Hough, Cornelia Frank, David Schlangen and Stefan Kopp
+Generating and Resolving Vague Color References --> Timothy Meo, Brian McMahan and Matthew Stone
+Producing Verbal Descriptions for Haptic Line-Graph Explorations  --> Matthias Kerzel, Ozge Alacam, Christopher Habel and Cengiz Acarturk
+Tailoring Object Orientation Descriptions to the Dialogue Context --> Gesa Schole, Thora Tenbrink, Kenny Coventry and Elena Andonova
+Disentangling utterances and recovering coherent multi party distinct conversations --> Gibson Ikoro, Raul Mondragon and Graham White
+SpeechCity: A Conversational City Guide based on Open Data --> Verena Rieser, Srinivasan Janarthanam, Andy Taylor, Yanchao Yu and Oliver Lemon
+Towards Automatic Understanding of ‘Virtual Pointing’ in Interaction --> Ting Han, Spyros Kousidis and David Schlangen
+Phrase structure rules as dialogue update rules --> Robin Cooper
+Language-bound Dialogic elements in Computer-Mediated and Face-to-Face Communication --> Barbara Lewandowska-Tomaszczyk
+Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile Platforms for Evaluation “In the Wild” --> Helen Hastie, Marie-Aude Aufaure, Panos Alexopoulos, Hugues Bouchard, Heriberto Cuayahuitl, Nina Dethlefs, Milica Gasic, Almudena Gonzalez-Guimerans, James Henderson, Oliver Lemon, Xingkun Liu, Peter Mika, Tim Potter, Verena Rieser, Pirros Tsiakoulis, Yves Vanrompay, Boris Villazon-Terrazas, Majid Yazdani, Steve Young and Yanchao Yu
+Using subtitles to deal with Out-of-Domain interactions --> Daniel Magarreiro, Lu\'isa Coheur and Francisco Melo
+The Disfluency, Exclamation, and Laughter in Dialogue (DUEL) Project --> Jonathan Ginzburg, David Schlangen, Ye Tian and Julian Hough
+A dynamic minimal model of the listener for feedback-based dialogue coordination --> Hendrik Buschmeier and Stefan Kopp
+Learning to manage risks in non-cooperative dialogues --> Ioannis Efstathiou and Oliver Lemon
+Helping, I mean assessing psychiatric communication: An application of incremental self-repair detection --> Christine Howes, Julian Hough, Matthew Purver and Rose McCabe
+Learning to understand questions --> Sara Moradlou and Jonathan Ginzburg
+Common Ground and Joint Utterance Production:  Evidence from the Word Chain Task --> Jaroslaw Lelonkiewicz and Chiara Gambi
+Priming and Alignment of Frame of Reference in Situated Conversation --> Simon Dobnik, John Kelleher and Christos Koniaris
+Numerical expressions, implicatures and imagined prior context --> Chris Cummins

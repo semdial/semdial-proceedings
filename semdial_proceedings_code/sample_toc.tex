@@ -1,0 +1,126 @@
+\documentclass{easychair}
+\titlerunning{Semdial'14}
+\authorrunning{Table of Contents}
+\usepackage{titletoc}
+\titlecontents{subsubsection}[2pt]{\addvspace{10pt}\bfseries\titlerule[0.5pt]\filright}{}{}{}[]
+\titlecontents{section}[0pt]{\addvspace{5pt}\filright}{}{}{\dotfill\contentspage}[]
+\titlecontents{subsection}[10pt]{\addvspace{1pt}\itshape\filright}{}{}{}[]
+\newcommand{\tocSection}[1]{\contentsline{subsubsection}{#1\\*\titlerule[0.5pt]\vspace{-9pt plus 2pt minus 2pt}}{}{}\nopagebreak[4]}
+\newcommand{\tocTitle}[2]{\contentsline{section}{#1}{#2}{}\nopagebreak[4]}
+\newcommand{\tocAuthors}[1]{\contentsline{subsection}{#1}{}{}}
+\newcommand{\tocEntry}[3]{\tocTitle{#1}{#3}\tocAuthors{#2}}
+\begin{document}
+\pagenumbering{gobble}
+\section*{Table of Contents}
+\tocSection{Invited talks}
+  \tocTitle{Say as I say: Alignment as a multi-componential phenomenon}{1}
+  \tocAuthors{Holly Branigan}
+  \tocTitle{Talking to animals and talking to things}{2}
+  \tocAuthors{Jon Oberlander}
+  \tocTitle{Ask Not What Semantics Can Do For Dialogue - Ask What Dialogue Can Do For Semantics}{3}
+  \tocAuthors{Matthew Purver}
+  \tocTitle{Dialogue, response quality and mode choice in iPhone surveys}{4}
+  \tocAuthors{Michael Schober}
+%================
+\tocSection{Oral presentations}
+  \tocTitle{Referring Expressions in Discourse about Haptic Line Graphs}{5}
+  \tocAuthors{Ozge Alacam, Cengiz Acarturk and Christopher Habel}
+  \tocTitle{A dynamic minimal model of the listener for feedback-based dialogue coordination}{6}
+  \tocAuthors{Hendrik Buschmeier and Stefan Kopp}
+  \tocTitle{Phrase structure rules as dialogue update rules}{7}
+  \tocAuthors{Robin Cooper}
+  \tocTitle{Numerical expressions, implicatures and imagined prior context}{8}
+  \tocAuthors{Chris Cummins}
+  \tocTitle{Priming and Alignment of Frame of Reference in Situated Conversation}{9}
+  \tocAuthors{Simon Dobnik, John Kelleher and Christos Koniaris}
+  \tocTitle{How domain-general can we be? Learning incremental Dialogue Systems without Dialogue Acts}{10}
+  \tocAuthors{Arash Eshghi and Oliver Lemon}
+  \tocTitle{Persuasion in Complex Games}{11}
+  \tocAuthors{Markus Guhe and Alex Lascarides}
+  \tocTitle{Signaling Non-speaker commitment in Transparent Free Relatives: A paired Speaker-Hearer judgment study.}{12}
+  \tocAuthors{Jesse Harris}
+  \tocTitle{Helping, I mean assessing psychiatric communication: An application of incremental self-repair detection}{13}
+  \tocAuthors{Christine Howes, Julian Hough, Matthew Purver and Rose McCabe}
+  \tocTitle{Analysis of the Responses to System-Initiated Off-Activity Talk in Human-Robot Interaction with Diabetic Children}{23}
+  \tocAuthors{Ivana Kruijff-Korbayova, Stefania Racioppa, Bernd Kiefer, Elettra Oleari and Clara Pozzi}
+  \tocTitle{Using subtitles to deal with Out-of-Domain interactions}{24}
+  \tocAuthors{Daniel Magarreiro, Lu\'isa Coheur and Francisco Melo}
+  \tocTitle{Generating and Resolving Vague Color References}{25}
+  \tocAuthors{Timothy Meo, Brian McMahan and Matthew Stone}
+  \tocTitle{Learning to understand questions}{26}
+  \tocAuthors{Sara Moradlou and Jonathan Ginzburg}
+  \tocTitle{Dynamic Intention Structures for Dialogue Processing}{27}
+  \tocAuthors{Charles Ortiz and Jiaying Shen}
+  \tocTitle{Revealing Resources in Strategic Contexts}{28}
+  \tocAuthors{J\'er\'emy Perret, Stergos Afantenos, Nicholas Asher and Alex Lascarides}
+  \tocTitle{Indirect answers as potential solutions to decision problems}{29}
+  \tocAuthors{Jon Stevens, Anton Benz, Sebastian Reu{\ss}e, Ronja Laarmann-Quante and Ralf Klabunde}
+  \tocTitle{Credibility and its Attacks.}{30}
+  \tocAuthors{Antoine Venant, Nicholas Asher and C\'edric D\'egremont}
+%================
+\tocSection{Posters}
+  \tocTitle{MILLA – A Multimodal Interactive Language Learning Agent}{31}
+  \tocAuthors{Jo\~{a}o Paulo Cabral, Nick Campbell, Sree Ganesh, Mina Kheirkhah, Emer Gilmartin, Fasih Haider, Eamonn Kenny, Andrew Murphy, Neasa N\'i Chiar\'ain, Thomas Pellegrini and Odei Rey Orozko}
+  \tocTitle{Dialogue Structure of Coaching Sessions}{32}
+  \tocAuthors{Iwan de Kok, Julian Hough, Cornelia Frank, David Schlangen and Stefan Kopp}
+  \tocTitle{Getting to Know Users: Accounting for the Variability in User Ratings}{33}
+  \tocAuthors{Nina Dethlefs, Heriberto Cuayahuitl, Helen Hastie, Verena Rieser and Oliver Lemon}
+  \tocTitle{Learning to manage risks in non-cooperative dialogues}{34}
+  \tocAuthors{Ioannis Efstathiou and Oliver Lemon}
+  \tocTitle{The Disfluency, Exclamation, and Laughter in Dialogue (DUEL) Project}{35}
+  \tocAuthors{Jonathan Ginzburg, David Schlangen, Ye Tian and Julian Hough}
+  \tocTitle{Hearer Engagement as a Variable in the Perceived Weight of a Face-Threatening Act}{36}
+  \tocAuthors{Nadine Glas and Catherine Pelachaud}
+  \tocTitle{Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational Approach}{37}
+  \tocAuthors{Robert Grimm and Raquel Fern\'andez}
+  \tocTitle{First observations on a corpus of multi-modal trialogues}{38}
+  \tocAuthors{Florian Hahn, Insa Lawler and Hannes Rieser}
+  \tocTitle{Towards Automatic Understanding of ‘Virtual Pointing’ in Interaction}{39}
+  \tocAuthors{Ting Han, Spyros Kousidis and David Schlangen}
+  \tocTitle{Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile Platforms for Evaluation “In the Wild”}{40}
+  \tocAuthors{Helen Hastie, Marie-Aude Aufaure, Panos Alexopoulos, Hugues Bouchard, Heriberto Cuayahuitl, Nina Dethlefs, Milica Gasic, Almudena Gonzalez-Guimerans, James Henderson, Oliver Lemon, Xingkun Liu, Peter Mika, Tim Potter, Verena Rieser, Pirros Tsiakoulis, Yves Vanrompay, Boris Villazon-Terrazas, Majid Yazdani, Steve Young and Yanchao Yu}
+  \tocTitle{Disentangling utterances and recovering coherent multi party distinct conversations}{41}
+  \tocAuthors{Gibson Ikoro, Raul Mondragon and Graham White}
+  \tocTitle{Large-scale Analysis of the Flight Booking Spoken Dialog System in a Commercial Travel Information Mobile App}{42}
+  \tocAuthors{Zengtao Jiao, Zhuoran Wang, Guanchun Wang, Hao Tian, Hua Wu and Haifeng Wang}
+  \tocTitle{A Multi-issue Negotiation Model of Trust Formation through Concern Alignment in Conversations}{43}
+  \tocAuthors{Yasuhiro Katagiri, Katsuya Takanashi, Masato Ishizaki, Mika Enomoto, Yasuharu Den and Shogo Okada}
+  \tocTitle{Multimodal Dialogue Systems with InproTKs and Venice}{44}
+  \tocAuthors{Casey Kennington, Spyros Kousidis and David Schlangen}
+  \tocTitle{Producing Verbal Descriptions for Haptic Line-Graph Explorations }{45}
+  \tocAuthors{Matthias Kerzel, Ozge Alacam, Christopher Habel and Cengiz Acarturk}
+  \tocTitle{Effects of Speech Cursor on Visual Distraction in In-vehicle Interaction: Preliminary Results}{46}
+  \tocAuthors{Staffan Larsson, Simon Dobnik and Sebastian Berlin}
+  \tocTitle{Common Ground and Joint Utterance Production:  Evidence from the Word Chain Task}{47}
+  \tocAuthors{Jaroslaw Lelonkiewicz and Chiara Gambi}
+  \tocTitle{Language-bound Dialogic elements in Computer-Mediated and Face-to-Face Communication}{48}
+  \tocAuthors{Barbara Lewandowska-Tomaszczyk}
+  \tocTitle{Studying the Effects of Affective Feedback in Embodied Tutors}{49}
+  \tocAuthors{Mei Yii Lim, Mary Ellen Foster, Srinivasan Janarthanam, Amol Deshmukh, Helen Hastie and Ruth Aylett}
+  \tocTitle{Towards Deep Learning for Dialogue State Tracking Using Restricted Bolzman Machines and Pretraining}{50}
+  \tocAuthors{Callum Main, Zhuoran Wang and Verena Rieser}
+  \tocTitle{Referential Grounding for Situated Human-Robot Communication}{51}
+  \tocAuthors{Vivien Mast, Daniel Couto Vale, Zoe Falomir and Mohammad Fazleh Elahi}
+  \tocTitle{Laughter in mother-child interaction: from 12 to 36 months}{52}
+  \tocAuthors{Chiara Mazzocconi, Sam Green, Ye Tian and Caspar Addyman}
+  \tocTitle{Initiative Patterns in Dialogue Genres}{55}
+  \tocAuthors{Angela Nazarian, Elnaz Nouri and David Traum}
+  \tocTitle{Towards Generating Route Instructions Under Uncertainty: A Corpus Study}{56}
+  \tocAuthors{Verena Rieser and Amanda Cercas Curry}
+  \tocTitle{SpeechCity: A Conversational City Guide based on Open Data}{57}
+  \tocAuthors{Verena Rieser, Srinivasan Janarthanam, Andy Taylor, Yanchao Yu and Oliver Lemon}
+  \tocTitle{Clarification Requests at the Level of Uptake}{58}
+  \tocAuthors{Julian Schl\"oder and Raquel Fern\'andez}
+  \tocTitle{Tailoring Object Orientation Descriptions to the Dialogue Context}{59}
+  \tocAuthors{Gesa Schole, Thora Tenbrink, Kenny Coventry and Elena Andonova}
+  \tocTitle{Perception Based Misunderstandings in Human-Computer Dialogues}{60}
+  \tocAuthors{Niels Schuette, John Kelleher and Brian Mac Namee}
+  \tocTitle{Sample Efficient Learning of Strategic Dialogue Policies}{61}
+  \tocAuthors{Wenshuo Tang, Zhuoran Wang, Verena Rieser and Oliver Lemon}
+  \tocTitle{PDRT-SANDBOX: An implementation of Projective Discourse Representation Theory}{62}
+  \tocAuthors{Noortje Venhuizen and Harm Brouwer}
+  \tocTitle{Detecting Deception in Non-Cooperative Dialogue: A Smarter Adversary Cannot be Fooled That Easily}{63}
+  \tocAuthors{Aimilios Vourliotakis, Ioannis Efstathiou and Verena Rieser}
+  \tocTitle{User Satisfaction without Task Completion}{64}
+  \tocAuthors{Peter Wallis}
+\end{document}

@@ -1,0 +1,473 @@
+\documentclass[a4paper,12pt,oneside]{book}
+\usepackage{times}
+\usepackage{pdfpages}
+\usepackage{color}
+\usepackage{calc}
+\usepackage{url}
+\usepackage{xcolor}
+\pagestyle{plain}
+
+
+\usepackage{longtable}
+
+\definecolor{darkred}{rgb}{.8,0,0} % for links
+\definecolor{myred}{rgb}{.75,0,0}   % for cover
+
+\usepackage[colorlinks=true,linkcolor=darkred,urlcolor=darkred,bookmarks=true,pdftitle={Proceedings of
+  SEMDIAL 2013 (DialDam)}]{hyperref}
+
+
+% Textarea
+\setlength{\textwidth}{17.7cm}
+\setlength{\textheight}{25cm}
+\setlength{\oddsidemargin}{-0.6cm}
+\setlength{\topmargin}{-1.5cm}
+
+\renewcommand{\baselinestretch}{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+
+\newcommand{\putframe}{}
+\newcommand{\draft}{\renewcommand{\putframe}{\noindent\vspace*{-8pt}\textcolor{red}{\hrule height 1mm}
+\vfill\noindent\textcolor{red}{\hrule height 1mm}}}
+
+% Parameters: file name, title, authors, horizontal offset, vertical offset
+\newcommand{\paper}[5]{%
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{section}{\hspace{-17pt}#2}
+\addtocontents{toc}{$\,$\textit{#3}\vspace{5pt}}
+\includepdf[pages=-,offset={#4 #5},pagecommand={\putframe}]{#1}
+\cleardoublepage}
+
+\newcommand{\goodpaper}[3]{\paper{#1}{#2}{#3}{-0mm}{-0mm}}
+
+
+%\draft
+
+\begin{document}
+\pagenumbering{roman}
+%%  TITLE PAGE 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{SEMDIAL 2013 (DialDam)}{title}
+\pagecolor{myred}
+\thispagestyle{empty}
+\vspace*{1.7cm}
+
+
+\begin{center} \Huge \bf
+SEMDIAL 2013\\
+DialDam
+\end{center}
+\vfill
+\begin{center} \LARGE \bf
+Proceedings of the 17th Workshop on \\
+the Semantics and Pragmatics of Dialogue
+\end{center}
+
+\begin{center}\large \bf
+Raquel Fern\'andez and Amy Isard (eds.)
+\end{center}
+\vfill
+\begin{center}\large \bf
+Amsterdam, 16--18 December 2013
+\end{center}
+\vfill
+\begin{center} 
+\includegraphics[width=5cm]{img/canal-houses.pdf}\\[5pt]
+\includegraphics[width=5cm]{img/uvalogo.pdf}
+\end{center}
+
+\clearpage
+%%  DETAILS 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{ISSN}{issn}
+\thispagestyle{empty}
+\nopagecolor
+\section*{ISSN 2308-2275}
+Serial title: Proceedings (SemDial)
+
+\section*{SemDial Workshop Series}
+\url{http://www.illc.uva.nl/semdial/}
+
+\section*{DialDam Website}
+\url{http://www.illc.uva.nl/semdial/dialdam/}
+
+\vfill
+\section*{DialDam Sponsors}
+
+\begin{center}
+\begin{minipage}{6cm}\centering \small
+\includegraphics[width=3.5cm]{img/NWO-logo-simple.jpg}\\
+Netherlands Organisation\\
+ for Scientific Research 
+\end{minipage}\hspace{2.5cm}
+\begin{minipage}{6cm}\centering \small
+\includegraphics[width=2.5cm]{img/bnvki.png}\\
+Benelux Association\\
+for Artificial Intelligence
+\end{minipage}
+
+\vspace{2cm}
+\begin{minipage}{6cm}\centering
+\includegraphics[width=5cm]{img/ILLC-logo.png}
+\end{minipage}
+\hspace{2.5cm}
+\begin{minipage}{6cm}\centering
+\includegraphics[width=4cm]{img/logo-gemeente-amsterdam.jpg}
+\end{minipage}
+\end{center}
+
+\vfill
+\section*{DialDam Endorsements}
+
+\begin{center}
+\begin{minipage}{6cm}\centering \small
+\includegraphics[width=2.5cm]{img/sigdial.png}\\
+SIGdial
+\end{minipage}
+\begin{minipage}{6cm}\centering \small
+\includegraphics[width=1.8cm]{img/sigsem.png}\\
+SIGSEM
+\end{minipage}
+\end{center}
+
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{Preface}{preface}
+
+\section*{Preface}
+
+DialDam brings the SEMDIAL Workshop on the Semantics and Pragmatics of
+Dialogue back to Amsterdam, where the second meeting ---
+  Amstelogue --- took place in 1999. The return to Amsterdam has brought about the
+opportunity to collocate SEMDIAL with the Amsterdam Colloquium, a
+premier forum for formal work on semantics and pragmatics. 
+We are excited about this opportunity and we hope that it will
+encourage interaction between the two communities, which seem to have
+drifted somewhat apart over the last few years. To stimulate contact, the last session
+of DialDam will be offered as a special session on dialogue within the Amsterdam
+Colloquium.
+
+\hspace*{20pt}
+While in the  initial years of the SEMDIAL series the
+focus was on what could be called classic semantics and
+pragmatics, over the last decade and a half the scope of SEMDIAL has broadened
+significantly. It now covers a wide range of topics concerned with
+ aspects of dialogue, ranging from the acquisition of
+conversational competence by children, experimental semantics and
+psycholinguistic studies, to work on the design of
+artificial conversational agents, human interaction with robots, and
+the computational modelling of disfluencies, gesture, gaze, and
+turn taking. The collection of papers presented in this volume offer a
+good overview of the diversity of angles from which the study of
+dialogue can be tackled. 
+
+\hspace*{20pt}
+We received a total of 40 full paper submissions,  17 of which were
+accepted after a peer-reviewing process during which each submission
+was reviewed by three experts. We are extremely 
+grateful to the Programme Committee members for their very detailed
+and helpful reviews. Three papers amongst the accepted
+submissions were selected for presentation in the special session with
+the Amsterdam Colloquium, in collaboration with Maria Aloni
+(representing the Amsterdam Colloquium) and on the
+basis of affinity with the scope of the colloquium. 
+In response to a later call, we received a total of 30 abstract
+submissions describing ongoing projects or system demonstrations, of
+which 26 were accepted for poster presentation. Abstract submissions were not refereed, but evaluated for
+relevance to the SEMDIAL topics of interest only by ourselves in our role as chairs. All accepted full
+papers and poster abstracts are included in this volume.
+
+\hspace*{20pt}
+In addition, the DialDam programme features three keynote
+presentations by Danielle Matthews,  Marc Swerts, and Matthew Stone (who will give a
+plenary talk for the audiences of both SEMDIAL and the Amsterdam
+Colloquium). We are honoured to have them at the
+workshop and are looking forward to their talks. Abstracts of their
+contributions are also included in this volume.
+
+\hspace*{20pt}
+DialDam has received generous financial support from the Netherlands
+Organisation for Scientific Research (NWO), the Benelux Association for
+Artificial Intelligence (BNVKI), the Gemeente Amsterdam, and the Institute for
+Logic, Language and Computation (ILLC), which hosts the event. We are
+very grateful for their sponsorship, as well as for the endorsement by the
+ACL Special Interest Groups SIGdial and SIGSEM; and last but not least
+for the tireless work of In\'es Crespo who helped with all aspects of
+the local organisation, as well as of Peter van Ormondt from the ILLC office. 
+
+\vspace{20pt}
+\hfill Raquel Fern\'andez and Amy Isard
+
+\hfill Amsterdam \& Edinburgh
+
+\hfill December 2013
+
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{Programme Committee}{pc}
+
+\section*{Programme Committee}
+
+\begin{longtable}{@{}p{0.25\textwidth}p{0.4\textwidth}p{0.25\textwidth}}
+Ron Artstein & Institute for Creative Technologies USC & \\
+Ellen Gurman Bard & University of Edinburgh & \\
+Luciana Benotti & Universidad Nacional de C\'ordoba & \\
+Claire Beyssade & CNRS/Institut Jean Nicod, Paris & \\
+Nate Blaylock & Nuance Communications & \\
+Holly Branigan & University of Edinburgh  & \\
+Susan Brennan & Stony Brook University & \\
+Sarah Brown-Schmidt & University of Illinois & \\
+Mark Core & University of Southern California & \\
+Paul Dekker & ILLC, University of Amsterdam & \\
+David Devault & USC Institute for Creative Technologies & \\
+Simon Dobnik & Gothenburg University & \\
+Jens Edlund & Royal Technical Institute (KTH) & \\
+Raquel Fern\'andez \hfill (\textbf{chair})  & ILLC, University of Amsterdam & \\
+Victor Ferreira & UC San Diego & \\
+Claire Gardent & CNRS/LORIA Nancy & \\
+Kallirroi Georgila & University of Southern California & \\
+Jonathan Ginzburg & Universit\'e Paris-Diderot (Paris 7) & \\
+Amy Isard \hfill (\textbf{chair})  & University of Edinburgh &\\
+Andrew Kehler & UC San Diego & \\
+Ruth Kempson & Kings College London & \\
+Emiel Krahmer & Tilburg University & \\
+Staffan Larsson & Gothenburg University & \\
+Alex Lascarides & University of Edinburgh & \\
+Oliver Lemon & Hariot-Watt Univeristy & \\
+Colin Matheson & University of Edinburgh & \\
+Danielle Matthews & University of Sheffield & \\
+Gregory Mills & University of Edinburgh & \\
+Chris Potts & Stanford University & \\
+Laurent Pr\'evot & Laboratoire Parole et Langage & \\
+Matthew Purver & Queen Mary University of London & \\
+Hannes Rieser & Bielefeld University & \\
+David Schlangen & Bielefeld University & \\
+Gabriel Skantze & Royal Technical Institute (KTH) & \\
+Amanda Stent & Stony Brook University & \\
+Matthew Stone & Rutgers & \\
+David Traum & Institute for Creative Technologies USC & \\
+Nigel Ward & University of Texas at El Paso & \\
+Henk Zeevat & ILLC, University of Amsterdam & \\
+\end{longtable}
+
+\clearpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pdfbookmark{Table of Contents}{toc}
+\setlength{\parskip}{0pt}
+
+\renewcommand{\contentsname}{\mbox{}\\[-108pt]\noindent\textbf{\Large
+    Table of Contents}\\[-28pt]}
+\tableofcontents
+\cleardoublepage
+
+\pagenumbering{arabic}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pdfbookmark{Invited Talks}{invited}
+\thispagestyle{empty}
+\mbox{}\vfill
+\begin{center}
+\Huge \bf Invited Talks
+\end{center}
+\mbox{}\vfill
+
+\clearpage
+
+\addtocontents{toc}{\vspace{10pt} $\,$\textbf{Invited Talks}\vspace{5pt}}
+ 
+\goodpaper{invited/invited1.pdf}{The Development of Reference in Early Childhood: the Roles of Communicative Motivation,\\
+\hspace*{-44pt}Cognitive Abilities and the Caregiving Environment}%
+{Danielle Matthews}
+
+\goodpaper{invited/invited2.pdf}{Coherence and Meaning in Situated Dialogue}%
+{Matthew Stone}
+
+\goodpaper{invited/invited3.pdf}{On Variability in Pitch Accent Distributions}%
+{Marc Swerts}
+
+
+\pdfbookmark{Full Papers}{papers}
+\thispagestyle{empty}
+\mbox{}\vfill
+\begin{center}
+\Huge \bf Full Papers
+\end{center}
+\mbox{}\vfill
+
+\clearpage
+
+\addtocontents{toc}{{}\\[10pt] \textbf{Full Papers}\vspace{5pt}}
+
+\goodpaper{papers/Baggs_dialdam.pdf}{Demand Characteristics as a Tool for Evaluating the Design of Collaborative Tasks}%
+{Ed Baggs}
+
+\goodpaper{papers/Cooper_dialdam.pdf}{Update conditions and intensionality in a type-theoretic approach to dialogue semantics}%
+{Robin Copper}
+
+\goodpaper{papers/DuanEtal_dialdam.pdf}{Visual and linguistic predictors for the definiteness of referring expressions}%
+{Manjuan Duan, Micha Elsner and Marie-Catherine de Marneffe}
+
+\goodpaper{papers/FaustArtstein_dialdam.pdf}{People hesitate more, talk less to virtual interviewers than to human interviewers}%
+{Fauren Faust and Ron Artstein}
+
+\goodpaper{papers/FerreiraLefevre_dialdam.pdf}{On the use of social signal
+  for reward shaping in reinforcement learning for dialogue
+  management}%
+{Emmanuel Ferreira and Fabrice Lef\`evre}
+
+\goodpaper{papers/FreihorstEtal_dialdam.pdf}{When Apples Mean Oranges: Lexical De-Entrainment and Alignment Theories}%
+{Christina Freihorst, Sim\'on Algorta, Vivien Mast and Robert Porzel}
+
+\goodpaper{papers/GinzburgMoradlou_dialdam.pdf}{The earliest utterances in dialogue: towards a formal theory of parent/child talk in interaction}%
+{Jonathan Ginzburg and Sara Moradlou}
+
+\goodpaper{papers/GoodhueEtal_dialdam.pdf}{English reverse prosody in responses to yes-no questions}%
+{Daniel Goodhue, James Pickett and Michael Wagner}
+
+\goodpaper{papers/GuheEtal_dialdam.pdf}{Effects of Belief and Memory on Strategic Negotiation}%
+{Markus Guhe, Alex Lascarides, Kevin O'Connor and Verena Rieser}
+
+\goodpaper{papers/HoughPurver_dialdam.pdf}{Modelling Expectation in
+  the Self-Repair Processing of Annotat-, um, Listeners}%
+{Julian Hough and Matthew Purver}
+
+\goodpaper{papers/MaurerEtal_dialdam.pdf}{Be Open To Computer Based
+  Coaching}%
+{Daniel M\"aurer, Anna Bruns and Karsten Weihe}
+
+\goodpaper{papers/PotsmaNilsenovaEtal_dialdam.pdf}{If you repeat your interlocutor's syntactic structure, you are likely to repeat her pronunciation, too}%
+{Marie Postma-Nilsenova, Lisette Mol and Naomi Kamoen}
+
+\goodpaper{papers/RohlfingEtal_dialdam.pdf}{Learning new words in unfamiliar frames from direct and indirect teaching}%
+{Katharina Rohlfing, Juana Salas Poblete and Frank Joublin}
+
+\goodpaper{papers/RojasEsponda_dialdam.pdf}{The Roadsigns of Communication}%
+{Tania Rojas-Esponda}
+
+
+\goodpaper{papers/WagnerEtal_dialdam.pdf}{Incomplete Answers and the Rise-Fall-Rise Contour}%
+{Michael Wagner, Elise McClay and Lauren Mak}
+
+\goodpaper{papers/Westera_dialdam.pdf}{`Attention, I'm violating a maxim!' A unifying account of the final rise}%
+{Matthijs Westera}
+
+\goodpaper{papers/YuEtal_dialdam.pdf}{Multimodal Prediction of Psychological Disorder: Learning Nonverbal Commonality \\
+\hspace*{-44pt}in Adjacency Pairs}%
+{Zhou Yu, Stefan Scherer, David Devault, Jon Gratch, Giota Stratou, Louis-Philippe Morency\\ 
+and Justine Cassell}
+
+
+\pdfbookmark{Poster Abstracts}{posters}
+\thispagestyle{empty}
+\mbox{}\vfill
+\begin{center}
+\Huge \bf Poster Abstracts
+\end{center}
+\mbox{}\vfill
+
+\clearpage
+
+\addtocontents{toc}{{}\\[10pt] \textbf{Poster Abstracts}\vspace{5pt}}
+
+\goodpaper{abstracts/AbashidzeEtal_dialdam.pdf}{Gaze cue effect during language comprehension}%
+{Dato Abashidze, Pia Knoeferle and Maria Nella Carminati}
+
+\goodpaper{abstracts/AsherPaul_dialdam.pdf}{Conversation and Incomplete Knowledge}%
+{Nicholas Asher and Soumya Paul}
+
+\goodpaper{abstracts/CasillasEtal_dialdam.pdf}{Turn-timing in naturalistic mother-child interactions: A longitudinal perspective}%
+{Marisa Casillas, Elma Hilbrink, Susan C.~Bobb, Eve V.~Clark, Merideth Gattis\\
+and Stephen C.~Levinson} 
+
+\goodpaper{abstracts/CastroviejoEtal_dialdam.pdf}{Putting secondary propositional meanings back on the table}%
+{Elena Castroviejo, Laia Mayol and E.~Allyn Smith}
+ 
+\goodpaper{abstracts/DobnikEtal_dialdam.pdf}{ Investigating the role of priming and alignment of perspective in dialogue}%
+{Simon Dobnik, Christos Koniaris and John Kelleher}
+
+\goodpaper{abstracts/FoxBoyer_dialdam.pdf}{Toward a Tutorial Dialogue System for Urban Navigation}%
+{Christopher Fox and Kristy Elizabeth Boyer} 
+
+\goodpaper{abstracts/Gatius_dialdam.pdf}{Improving Knowledge Representation to Speed up the Generation of Grammars\\ 
+\hspace*{-44pt}for a Multilingual Web Assistant}%
+{Marta Gatius}
+ 
+\goodpaper{abstracts/GilmartinEtal_dialdam.pdf}{Exploring the Role of Laughter in Multiparty Conversation}% 
+{Emer Gilmartin, Francesca Bonin, Carl Vogel and Nick Campbell}
+ 
+\goodpaper{abstracts/GotzeEtal_dialdam.pdf}{Interpreting Instructions in a Pedestrian Routing Domain}%
+{Jana G\"otze, Johan Boye, Morgan Fredriksson and J\"urgen K\"onigsmann}
+
+\goodpaper{abstracts/HaradaEtal_dialdam.pdf}{``That's all. Thank you.'':  Emergence of Formulaic Protocols among Japanese EFL Learners}%
+{Yasunari Harada, Mayumi Kawamura, Daisuke Yokomori and Tomoko Endo}
+
+\goodpaper{abstracts/Karagjosova_dialdam.pdf}{Aboutness topic, discourse topic and the structure of discourse}%
+{Elena Karagjosova}
+
+\goodpaper{abstracts/KatagariEtal_dialddam.pdf}{Analysis and Modeling of Concern Alignment in Consensus-Building}%
+{Yasuhiro Katagiri, Katsuya Takanashi, Masato Ishizaki, Mika Enomoto, Yasuharu Den\\
+and Shogo Okada}
+
+\goodpaper{abstracts/Kirk_dialdam.pdf}{Towards Structural Natural Language Formalization: Mapping Discourse\\
+\hspace*{-44pt}to Controlled Natural Language}%
+{Nicholas Hubert Kirk}
+
+\goodpaper{abstracts/KleinEtal_dialdam.pdf}{Abduction and parameterized semantic composition in speech-gesture integration}%
+{Udo Klein, Hannes Rieser, Florian Hahn and Insa Lawler}
+
+\goodpaper{abstracts/KronlidEtal_dialdam.pdf}{Using Learned Predictions of User Utterances to Decrease Distraction}%
+{Fredrik Kronlid, Staffan Larsson and Pontus W\"arnest\aa l}
+
+\goodpaper{abstracts/KruiffKorvayovaEtal_dialdam.pdf}{Making Human-Robot Quiz Dialogue More Conversational by Adding Non-Quiz Talk}%
+{Ivana Kruijff-Korbayova, Bernd Kiefer, Ilaria Baroni and Mattia Coti Zelati}
+
+\goodpaper{abstracts/LarssonEtal_dialdam.pdf}{Visual distraction test setup for an multimodal in-vehicle dialogue system}%
+{Staffan Larsson, Sebastian Berlin, Anders Eliasson and Fredrik Kronlid}
+
+\goodpaper{abstracts/LiEtal_dialdam.pdf}{A Corpus-Based Study of Accept and Assessment in SWBD-DAMSL}%
+{Yanjiao Li, Alex C. Fang and Jing Cao}
+
+\goodpaper{abstracts/Lucking_dialdam.pdf}{Multimodal Propositions? From Semiotic to Semantic Considerations\\
+\hspace*{-44pt}in the Case of Gestural Deictics}%
+{Andy L\"ucking}
+
+\goodpaper{abstracts/Mills_dialdam.pdf}{Establishing a communication system: Miscommunication drives abstraction}%
+{Gregory Mills}
+
+\goodpaper{abstracts/OniBuraimoh_dialdam.pdf}{Pragmatic Markers of Common Ground in Tertiary Institution Students’ Sexual Discourse\\
+\hspace*{-44pt}in Lagos State, Nigeria}%
+{Olawunmi Oni-Buraimoh}
+
+\goodpaper{abstracts/Prevot_dialdam.pdf}{Toward a semantics for French short positive feedback utterances}%
+{Laurent Pr\'evot}
+
+\goodpaper{abstracts/ReylePortes_dialdam.pdf}{The meaning of French H*L\%-contour}%
+{Uwe Reyle and Cristel Portes}
+
+\goodpaper{abstracts/SchallerMuller_dialdam.pdf}{The contribution of speech-rhythm to end-of-utterance detection}%
+{Franziska Schaller and Horst M\"uller}
+ 
+\goodpaper{abstracts/ScholeEtal_dialdam.pdf}{Successful Strategies for Ambiguity Resolution in Dialogue}%
+{Gesa Schole, Thora Tenbrink, Elena Andonova and Kenny Coventry}
+
+\goodpaper{abstracts/VollmerEtal_dialdam.pdf}{Demonstrating actions to a robot: How na\"ive users adapt to a robot's replication\\
+\hspace*{-44pt}of goal and manner-oriented actions}%
+{Anna-Lisa Vollmer, Manuel M\"uhlig, Katharina J.~Rohlfing, Britta Wrede and Angelo Cangelosi}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+\clearpage
+\thispagestyle{empty}
+\pagecolor{myred}
+\mbox{}
+
+\end{document}
+
+
+
