@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="dinkar-etal-2018-disfluencies">
+    <titleInfo>
+        <title>Disfluencies and Teaching Strategies in Social Interactions Between a Pedagogical Agent and a Student: Background and Challenges.</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tanvi</namePart>
+        <namePart type="family">Dinkar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ioana</namePart>
+        <namePart type="family">Vasilescu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Catherine</namePart>
+        <namePart type="family">Pelachaud</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chloé</namePart>
+        <namePart type="family">Clavel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018-nov</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Aix-en-Provence, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dinkar-etal-2018-disfluencies</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z18-Dinkar_semdial_0024.pdf</url>
+    </location>
+    <part>
+        <date>2018-nov</date>
+    </part>
+</mods>
+</modsCollection>

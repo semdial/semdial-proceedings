@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="papalampidi-etal-2017-dialogue">
+    <titleInfo>
+        <title>Dialogue Act Semantic Representation and Classification Using Recurrent Neural Networks</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Pinelopi</namePart>
+        <namePart type="family">Papalampidi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Elias</namePart>
+        <namePart type="family">Iosif</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alexandros</namePart>
+        <namePart type="family">Potamianos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">papalampidi-etal-2017-dialogue</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z17-Papalampidi_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+</modsCollection>

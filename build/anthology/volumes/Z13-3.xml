@@ -1,0 +1,796 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="baggs-2013-demand">
+    <titleInfo>
+        <title>Demand Characteristics as a Tool for Evaluating the Design of Collaborative Tasks</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ed</namePart>
+        <namePart type="family">Baggs</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">baggs-2013-demand</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Baggs_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="copper-2013-update">
+    <titleInfo>
+        <title>Update conditions and intensionality in a type-theoretic approach to dialogue semantics</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Robin</namePart>
+        <namePart type="family">Copper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">copper-2013-update</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Copper_semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="duan-etal-2013-visual">
+    <titleInfo>
+        <title>Visual and linguistic predictors for the definiteness of referring expressions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Manjuan</namePart>
+        <namePart type="family">Duan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Micha</namePart>
+        <namePart type="family">Elsner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marie-Catherine</namePart>
+        <namePart type="given">de</namePart>
+        <namePart type="family">Marneffe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">duan-etal-2013-visual</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Duan_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="faust-artstein-2013-people">
+    <titleInfo>
+        <title>People hesitate more, talk less to virtual interviewers than to human interviewers</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Fauren</namePart>
+        <namePart type="family">Faust</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ron</namePart>
+        <namePart type="family">Artstein</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">faust-artstein-2013-people</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Faust_semdial_0007.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="ferreira-lefevre-2013-use">
+    <titleInfo>
+        <title>On the use of social signal for reward shaping in reinforcement learning for dialogue management</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Emmanuel</namePart>
+        <namePart type="family">Ferreira</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Fabrice</namePart>
+        <namePart type="family">Lefèvre</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ferreira-lefevre-2013-use</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Ferreira_semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="freihorst-etal-2013-apples">
+    <titleInfo>
+        <title>When Apples Mean Oranges: Lexical De-Entrainment and Alignment Theories</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christina</namePart>
+        <namePart type="family">Freihorst</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simón</namePart>
+        <namePart type="family">Algorta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vivien</namePart>
+        <namePart type="family">Mast</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="family">Porzel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">freihorst-etal-2013-apples</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Freihorst_semdial_0009.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="ginzburg-moradlou-2013-earliest">
+    <titleInfo>
+        <title>The earliest utterances in dialogue: towards a formal theory of parent/child talk in interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sara</namePart>
+        <namePart type="family">Moradlou</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ginzburg-moradlou-2013-earliest</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Ginzburg_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="goodhue-etal-2013-english">
+    <titleInfo>
+        <title>English reverse prosody in responses to yes-no questions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daniel</namePart>
+        <namePart type="family">Goodhue</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">James</namePart>
+        <namePart type="family">Pickett</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Wagner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">goodhue-etal-2013-english</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Goodhue_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="guhe-etal-2013-effects">
+    <titleInfo>
+        <title>Effects of Belief and Memory on Strategic Negotiation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Markus</namePart>
+        <namePart type="family">Guhe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Lascarides</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kevin</namePart>
+        <namePart type="family">O’Connor</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Verena</namePart>
+        <namePart type="family">Rieser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">guhe-etal-2013-effects</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Guhe_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="hough-purver-2013-modelling">
+    <titleInfo>
+        <title>Modelling Expectation in the Self-Repair Processing of Annotat-, um, Listeners</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hough-purver-2013-modelling</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Hough_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="maurer-etal-2013-open">
+    <titleInfo>
+        <title>Be Open To Computer Based Coaching</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daniel</namePart>
+        <namePart type="family">Mäurer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anna</namePart>
+        <namePart type="family">Bruns</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Karsten</namePart>
+        <namePart type="family">Weihe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">maurer-etal-2013-open</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-MÃ€urer_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="postma-nilsenova-etal-2013-repeat">
+    <titleInfo>
+        <title>If you repeat your interlocutor’s syntactic structure, you are likely to repeat her pronunciation, too</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marie</namePart>
+        <namePart type="family">Postma-Nilsenova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lisette</namePart>
+        <namePart type="family">Mol</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Naomi</namePart>
+        <namePart type="family">Kamoen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">postma-nilsenova-etal-2013-repeat</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Postma-Nilsenova_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="rohlfing-etal-2013-learning">
+    <titleInfo>
+        <title>Learning new words in unfamiliar frames from direct and indirect teaching</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Katharina</namePart>
+        <namePart type="family">Rohlfing</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Juana</namePart>
+        <namePart type="given">Salas</namePart>
+        <namePart type="family">Poblete</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Frank</namePart>
+        <namePart type="family">Joublin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">rohlfing-etal-2013-learning</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Rohlfing_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="rojas-esponda-2013-roadsigns">
+    <titleInfo>
+        <title>The Roadsigns of Communication</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tania</namePart>
+        <namePart type="family">Rojas-Esponda</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">rojas-esponda-2013-roadsigns</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Rojas-Esponda_semdial_0017.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="wagner-etal-2013-incomplete">
+    <titleInfo>
+        <title>Incomplete Answers and the Rise-Fall-Rise Contour</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Wagner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Elise</namePart>
+        <namePart type="family">McClay</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lauren</namePart>
+        <namePart type="family">Mak</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">wagner-etal-2013-incomplete</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Wagner_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="westera-2013-attention">
+    <titleInfo>
+        <title>‘Attention, I’m violating a maxim!’ A unifying account of the final rise</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Matthijs</namePart>
+        <namePart type="family">Westera</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">westera-2013-attention</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Westera_semdial_0019.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+<mods ID="yu-etal-2013-multimodal">
+    <titleInfo>
+        <title>Multimodal Prediction of Psychological Disorder: Learning Nonverbal Commonality in Adjacency Pairs</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Zhou</namePart>
+        <namePart type="family">Yu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefan</namePart>
+        <namePart type="family">Scherer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Devault</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jon</namePart>
+        <namePart type="family">Gratch</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Giota</namePart>
+        <namePart type="family">Stratou</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Louis-Philippe</namePart>
+        <namePart type="family">Morency</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Justine</namePart>
+        <namePart type="family">Cassell</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">yu-etal-2013-multimodal</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Yu_semdial_0020.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="wong-ginzburg-2018-conversational">
+    <titleInfo>
+        <title>Conversational types: a topological perspective</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kwong-Cheong</namePart>
+        <namePart type="family">Wong</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018-nov</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Aix-en-Provence, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">wong-ginzburg-2018-conversational</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z18-Wong_semdial_0019.pdf</url>
+    </location>
+    <part>
+        <date>2018-nov</date>
+    </part>
+</mods>
+</modsCollection>

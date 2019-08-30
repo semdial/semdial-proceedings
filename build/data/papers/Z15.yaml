@@ -1,0 +1,1310 @@
+Z15-1000:
+  address: Gothenburg, Sweden
+  author:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: semdial-2015-semantics
+  bibtype: proceedings
+  month: August
+  paper_id: '1000'
+  parent_volume_id: Z15-1
+  publisher: SEMDIAL
+  title: Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2015_godial_front_matter.pdf
+  year: '2015'
+Z15-2001:
+  address: Gothenburg, Sweden
+  author:
+  - first: Ellen
+    full: Ellen Bard
+    id: ellen-bard
+    last: Bard
+  bibkey: bard-2015-weird
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2001'
+  parent_volume_id: Z15-2
+  publisher: SEMDIAL
+  title: How weird is that? Predictability and cognitive difficulty in dialogue
+  title_html: How weird is that? Predictability and cognitive difficulty in dialogue
+  url: http://semdial.org/anthology/Z15-Bard_semdial_0001.pdf
+  year: '2015'
+Z15-2002:
+  address: Gothenburg, Sweden
+  author:
+  - first: Elisabet
+    full: Elisabet Engdahl
+    id: elisabet-engdahl
+    last: Engdahl
+  bibkey: engdahl-2015-connect
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2002'
+  parent_volume_id: Z15-2
+  publisher: SEMDIAL
+  title: 'How to connect an utterance: Strategies for cohesive dialogues in Scandinavian'
+  title_html: 'How to connect an utterance: Strategies for cohesive dialogues in Scandinavian'
+  url: http://semdial.org/anthology/Z15-Engdahl_semdial_0002.pdf
+  year: '2015'
+Z15-2003:
+  address: Gothenburg, Sweden
+  author:
+  - first: Marilyn
+    full: Marilyn Walker
+    id: marilyn-walker
+    last: Walker
+  bibkey: walker-2015-semantics
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2003'
+  parent_volume_id: Z15-2
+  publisher: SEMDIAL
+  title: Semantics and sarcasm in online dialogue
+  title_html: Semantics and sarcasm in online dialogue
+  url: http://semdial.org/anthology/Z15-Walker_semdial_0003.pdf
+  year: '2015'
+Z15-3004:
+  address: Gothenburg, Sweden
+  author:
+  - first: Shauna
+    full: Shauna Concannon
+    id: shauna-concannon
+    last: Concannon
+  - first: Pat
+    full: Pat Healey
+    id: patrick-healey
+    last: Healey
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: concannon-etal-2015-taking
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3004'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: 'Taking a stance: A corpus study of reported speech'
+  title_html: 'Taking a stance: A corpus study of reported speech'
+  url: http://semdial.org/anthology/Z15-Concannon_semdial_0004.pdf
+  year: '2015'
+Z15-3005:
+  address: Gothenburg, Sweden
+  author:
+  - first: Shauna
+    full: Shauna Concannon
+    id: shauna-concannon
+    last: Concannon
+  - first: Pat
+    full: Pat Healey
+    id: patrick-healey
+    last: Healey
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: concannon-etal-2015-shifting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3005'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: 'Shifting opinions: Experiments on agreement and disagreement in dialogue'
+  title_html: 'Shifting opinions: Experiments on agreement and disagreement in dialogue'
+  url: http://semdial.org/anthology/Z15-Concannon_semdial_0005.pdf
+  year: '2015'
+Z15-3006:
+  address: Gothenburg, Sweden
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: John
+    full: John Kelleher
+    id: john-kelleher
+    last: Kelleher
+  bibkey: dobnik-etal-2015-changing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3006'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: 'Changing perspective: Local alignment of reference frames in dialogue'
+  title_html: 'Changing perspective: Local alignment of reference frames in dialogue'
+  url: http://semdial.org/anthology/Z15-Dobnik_semdial_0006.pdf
+  year: '2015'
+Z15-3007:
+  address: Gothenburg, Sweden
+  author:
+  - first: Ioannis
+    full: Ioannis Efstathiou
+    id: ioannis-efstathiou
+    last: Efstathiou
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: efstathiou-lemon-2015-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3007'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: 'Learning non-cooperative dialogue policies to beat opponent models: "The
+    good, the bad and the ugly"'
+  title_html: 'Learning non-cooperative dialogue policies to beat opponent models:
+    "The good, the bad and the ugly"'
+  url: http://semdial.org/anthology/Z15-Efstathiou_semdial_0007.pdf
+  year: '2015'
+Z15-3008:
+  address: Gothenburg, Sweden
+  author:
+  - first: Jeroen
+    full: Jeroen Geertzen
+    id: jeroen-geertzen
+    last: Geertzen
+  bibkey: geertzen-2015-exploring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3008'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: Exploring age-related conversational interaction
+  title_html: Exploring age-related conversational interaction
+  url: http://semdial.org/anthology/Z15-Geertzen_semdial_0008.pdf
+  year: '2015'
+Z15-3009:
+  address: Gothenburg, Sweden
+  author:
+  - first: Nadine
+    full: Nadine Glas
+    id: nadine-glas
+    last: Glas
+  - first: Ken
+    full: Ken Prepin
+    id: ken-prepin
+    last: Prepin
+  - first: Catherine
+    full: Catherine Pelachaud
+    id: catherine-pelachaud
+    last: Pelachaud
+  bibkey: glas-etal-2015-engagement
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3009'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: Engagement driven topic selection for an information-giving agent
+  title_html: Engagement driven topic selection for an information-giving agent
+  url: http://semdial.org/anthology/Z15-Glas_semdial_0009.pdf
+  year: '2015'
+Z15-3010:
+  address: Gothenburg, Sweden
+  author:
+  - first: Ting
+    full: Ting Han
+    id: ting-han
+    last: Han
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: han-etal-2015-building
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3010'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: Building and applying perceptually-grounded representations of multimodal
+    scene descriptions
+  title_html: Building and applying perceptually-grounded representations of multimodal
+    scene descriptions
+  url: http://semdial.org/anthology/Z15-Han_semdial_0010.pdf
+  year: '2015'
+Z15-3011:
+  address: Gothenburg, Sweden
+  author:
+  - first: Toru
+    full: Toru Hirano
+    id: toru-hirano
+    last: Hirano
+  - first: Nozomi
+    full: Nozomi Kobayashi
+    id: nozomi-kobayashi
+    last: Kobayashi
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  - first: Toshiro
+    full: Toshiro Makino
+    id: toshiro-makino
+    last: Makino
+  - first: Yoshihiro
+    full: Yoshihiro Matsuo
+    id: yoshihiro-matsuo
+    last: Matsuo
+  bibkey: hirano-etal-2015-user
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3011'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: User information extraction for personalized dialogue systems
+  title_html: User information extraction for personalized dialogue systems
+  url: http://semdial.org/anthology/Z15-Hirano_semdial_0011.pdf
+  year: '2015'
+Z15-3012:
+  address: Gothenburg, Sweden
+  author:
+  - first: Lisa
+    full: Lisa Hofmann
+    id: lisa-hofmann
+    last: Hofmann
+  bibkey: hofmann-2015-far
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3012'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: How far can we deviate from the performative formula?
+  title_html: How far can we deviate from the performative formula?
+  url: http://semdial.org/anthology/Z15-Hofmann_semdial_0012.pdf
+  year: '2015'
+Z15-3013:
+  address: Gothenburg, Sweden
+  author:
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Iwan de
+    full: Iwan de Kok
+    id: iwan-de-kok
+    last: Kok
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: hough-etal-2015-timing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3013'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: 'Timing and grounding in motor skill coaching interaction: Consequences for
+    the information state'
+  title_html: 'Timing and grounding in motor skill coaching interaction: Consequences
+    for the information state'
+  url: http://semdial.org/anthology/Z15-Hough_semdial_0013.pdf
+  year: '2015'
+Z15-3014:
+  address: Gothenburg, Sweden
+  author:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Eric
+    full: Eric Kow
+    id: eric-kow
+    last: Kow
+  - first: "J\xE9r\xE9my"
+    full: "J\xE9r\xE9my Perret"
+    id: jeremy-perret
+    last: Perret
+  - first: Stergos
+    full: Stergos Afantenos
+    id: stergos-afantenos
+    last: Afantenos
+  bibkey: hunter-etal-2015-defining
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3014'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: Defining the right frontier in multi-party dialogue
+  title_html: Defining the right frontier in multi-party dialogue
+  url: http://semdial.org/anthology/Z15-Hunter_semdial_0014.pdf
+  year: '2015'
+Z15-3015:
+  address: Gothenburg, Sweden
+  author:
+  - first: Simon
+    full: Simon Keizer
+    id: simon-keizer
+    last: Keizer
+  - first: Heriberto
+    full: "Heriberto Cuay\xE1huitl"
+    id: heriberto-cuayahuitl1
+    last: "Cuay\xE1huitl"
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: keizer-etal-2015-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3015'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: Learning trade negotiation policies in strategic conversation
+  title_html: Learning trade negotiation policies in strategic conversation
+  url: http://semdial.org/anthology/Z15-Keizer_semdial_0015.pdf
+  year: '2015'
+Z15-3016:
+  address: Gothenburg, Sweden
+  author:
+  - first: Ramesh
+    full: Ramesh Manuvinakurike
+    id: ramesh-manuvinakurike
+    last: Manuvinakurike
+  - first: Maike
+    full: Maike Paetzel
+    id: maike-paetzel
+    last: Paetzel
+  - first: David
+    full: David Devault
+    id: david-devault
+    last: Devault
+  bibkey: manuvinakurike-etal-2015-reducing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3016'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: Reducing the cost of dialogue system training and evaluation with online,
+    crowd-sourced dialogue data collection
+  title_html: Reducing the cost of dialogue system training and evaluation with online,
+    crowd-sourced dialogue data collection
+  url: http://semdial.org/anthology/Z15-Manuvinakurike_semdial_0016.pdf
+  year: '2015'
+Z15-3017:
+  address: Gothenburg, Sweden
+  author:
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  bibkey: rieser-2015-hands
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3017'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: 'When hands talk to mouth: Gesture and speech as autonomous communicating
+    processes'
+  title_html: 'When hands talk to mouth: Gesture and speech as autonomous communicating
+    processes'
+  url: http://semdial.org/anthology/Z15-Rieser_semdial_0017.pdf
+  year: '2015'
+Z15-3018:
+  address: Gothenburg, Sweden
+  author:
+  - first: Julian
+    full: "Julian Schl\xF6der"
+    id: julian-j-schloder
+    last: "Schl\xF6der"
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  bibkey: schloder-lascarides-2015-interpreting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3018'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: Interpreting English pitch contours in context
+  title_html: Interpreting English pitch contours in context
+  url: "http://semdial.org/anthology/Z15-Schl\xF6der_semdial_0018.pdf"
+  year: '2015'
+Z15-3019:
+  address: Gothenburg, Sweden
+  author:
+  - first: Sammie
+    full: Sammie Tarenskeen
+    id: sammie-tarenskeen
+    last: Tarenskeen
+  - first: Mirjam
+    full: Mirjam Broersma
+    id: mirjam-broersma
+    last: Broersma
+  - first: Bart
+    full: Bart Geurts
+    id: bart-geurts
+    last: Geurts
+  bibkey: tarenskeen-etal-2015-hand
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3019'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: '"Hand me the yellow stapler" or "hand me the yellow dress": Colour overspecification
+    depends on object category'
+  title_html: '"Hand me the yellow stapler" or "hand me the yellow dress": Colour
+    overspecification depends on object category'
+  url: http://semdial.org/anthology/Z15-Tarenskeen_semdial_0019.pdf
+  year: '2015'
+Z15-3020:
+  address: Gothenburg, Sweden
+  author:
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  - first: Claire
+    full: Claire Beyssade
+    id: claire-beyssade
+    last: Beyssade
+  - first: Yannick
+    full: Yannick Mathieu
+    id: yannick-mathieu
+    last: Mathieu
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: tian-etal-2015-editing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3020'
+  parent_volume_id: Z15-3
+  publisher: SEMDIAL
+  title: Editing Phrases
+  title_html: Editing Phrases
+  url: http://semdial.org/anthology/Z15-Tian_semdial_0020.pdf
+  year: '2015'
+Z15-4021:
+  address: Gothenburg, Sweden
+  author:
+  - first: Sara
+    full: "Sara B\xF6gels"
+    id: sara-bogels
+    last: "B\xF6gels"
+  - first: Kobin
+    full: Kobin Kendrick
+    id: kobin-kendrick
+    last: Kendrick
+  - first: Stephen
+    full: Stephen Levinson
+    id: stephen-levinson
+    last: Levinson
+  bibkey: bogels-etal-2015-significance
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4021'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'The significance of silence: Long gaps attenuate the preference for `yes''
+    responses in conversation'
+  title_html: 'The significance of silence: Long gaps attenuate the preference for
+    `yes'' responses in conversation'
+  url: "http://semdial.org/anthology/Z15-B\xF6gels_semdial_0021.pdf"
+  year: '2015'
+Z15-4022:
+  address: Gothenburg, Sweden
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: breitholtz-howes-2015-within
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4022'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'Within reason: Categorising enthymematic reasoning in the balloon task'
+  title_html: 'Within reason: Categorising enthymematic reasoning in the balloon task'
+  url: http://semdial.org/anthology/Z15-Breitholtz_semdial_0022.pdf
+  year: '2015'
+Z15-4023:
+  address: Gothenburg, Sweden
+  author:
+  - first: Lucia
+    full: Lucia Castillo
+    id: lucia-castillo
+    last: Castillo
+  - first: Holly
+    full: Holly Branigan
+    id: holly-branigan
+    last: Branigan
+  - first: Kenny
+    full: Kenny Smith
+    id: kenny-smith
+    last: Smith
+  bibkey: castillo-etal-2015-context
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4023'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'Context influence vs efficiency in establishing conventions: Communities
+    do it better'
+  title_html: 'Context influence vs efficiency in establishing conventions: Communities
+    do it better'
+  url: http://semdial.org/anthology/Z15-Castillo_semdial_0023.pdf
+  year: '2015'
+Z15-4024:
+  address: Gothenburg, Sweden
+  author:
+  - first: Berry
+    full: Berry Claus
+    id: berry-claus
+    last: Claus
+  - first: Marlijn
+    full: Marlijn Meijer
+    id: marlijn-meijer
+    last: Meijer
+  - first: Sophie
+    full: Sophie Repp
+    id: sophie-repp
+    last: Repp
+  - first: Manfred
+    full: Manfred Krifka
+    id: manfred-krifka
+    last: Krifka
+  bibkey: claus-etal-2015-response
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4024'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: "Are response particles not well understood? Yes/No, they aren\u2019t! An\
+    \ experimental study on German ja and nein"
+  title_html: "Are response particles not well understood? Yes/No, they aren\u2019\
+    t! An experimental study on German ja and nein"
+  url: http://semdial.org/anthology/Z15-Claus_semdial_0024.pdf
+  year: '2015'
+Z15-4025:
+  address: Gothenburg, Sweden
+  author:
+  - first: Erik de
+    full: Erik de Graaf
+    id: erik-de-graaf
+    last: Graaf
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  bibkey: graaf-dobnik-2015-kille
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4025'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'KILLE: Learning objects and spatial relations with kinect'
+  title_html: 'KILLE: Learning objects and spatial relations with kinect'
+  url: http://semdial.org/anthology/Z15-Graaf_semdial_0025.pdf
+  year: '2015'
+Z15-4026:
+  address: Gothenburg, Sweden
+  author:
+  - first: Iwan de
+    full: Iwan de Kok
+    id: iwan-de-kok
+    last: Kok
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Felix
+    full: "Felix H\xFClsmann"
+    id: felix-hulsmann
+    last: "H\xFClsmann"
+  - first: Thomas
+    full: Thomas Waltema
+    id: thomas-waltema
+    last: Waltema
+  - first: Mario
+    full: Mario Botsch
+    id: mario-botsch
+    last: Botsch
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: kok-etal-2015-demonstrating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4026'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Demonstrating the dialogue system of the intelligent coaching space
+  title_html: Demonstrating the dialogue system of the intelligent coaching space
+  url: http://semdial.org/anthology/Z15-Kok_semdial_0026.pdf
+  year: '2015'
+Z15-4027:
+  address: Gothenburg, Sweden
+  author:
+  - first: Paolo
+    full: Paolo Dragone
+    id: paolo-dragone
+    last: Dragone
+  - first: Pierre
+    full: Pierre Lison
+    id: pierre-lison
+    last: Lison
+  bibkey: dragone-lison-2015-non
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4027'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'Non-sentential utterances in dialogue: Experiments in classification and
+    interpretation'
+  title_html: 'Non-sentential utterances in dialogue: Experiments in classification
+    and interpretation'
+  url: http://semdial.org/anthology/Z15-Dragone_semdial_0027.pdf
+  year: '2015'
+Z15-4028:
+  address: Gothenburg, Sweden
+  author:
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  bibkey: eshghi-2015-ds
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4028'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'DS-TTR: An incremental, semantic, contextual parser for dialogue'
+  title_html: 'DS-TTR: An incremental, semantic, contextual parser for dialogue'
+  url: http://semdial.org/anthology/Z15-Eshghi_semdial_0028.pdf
+  year: '2015'
+Z15-4029:
+  address: Gothenburg, Sweden
+  author:
+  - first: Christophe
+    full: "Christophe Fouquer\xE9"
+    id: christophe-fouquere
+    last: "Fouquer\xE9"
+  - first: Myriam
+    full: Myriam Quatrini
+    id: myriam-quatrini
+    last: Quatrini
+  bibkey: fouquere-quatrini-2015-interaction
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4029'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: What could interaction mean in natural language and how could it be useful?
+  title_html: What could interaction mean in natural language and how could it be
+    useful?
+  url: "http://semdial.org/anthology/Z15-Fouquer\xE9_semdial_0029.pdf"
+  year: '2015'
+Z15-4030:
+  address: Gothenburg, Sweden
+  author:
+  - first: Sarah
+    full: Sarah Hiller
+    id: sarah-hiller
+    last: Hiller
+  - first: Raquel
+    full: Raquel Fernandez
+    id: raquel-fernandez
+    last: Fernandez
+  bibkey: hiller-fernandez-2015-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4030'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Towards the automatic extraction of corrective feedback in child-adult dialogue
+  title_html: Towards the automatic extraction of corrective feedback in child-adult
+    dialogue
+  url: http://semdial.org/anthology/Z15-Hiller_semdial_0030.pdf
+  year: '2015'
+Z15-4031:
+  address: Gothenburg, Sweden
+  author:
+  - first: Anna
+    full: Anna Hjalmarsson
+    id: anna-hjalmarsson
+    last: Hjalmarsson
+  - first: Margaret
+    full: Margaret Zellers
+    id: margaret-zellers
+    last: Zellers
+  bibkey: hjalmarsson-zellers-2015-spot
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4031'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Spot the difference - A dialog system to explore turn-taking in an interactive
+    setting
+  title_html: Spot the difference - A dialog system to explore turn-taking in an interactive
+    setting
+  url: http://semdial.org/anthology/Z15-Hjalmarsson_semdial_0031.pdf
+  year: '2015'
+Z15-4032:
+  address: Gothenburg, Sweden
+  author:
+  - first: Paul
+    full: "Paul H\xF6mke"
+    id: paul-homke
+    last: "H\xF6mke"
+  - first: Judith
+    full: Judith Holler
+    id: judith-holler
+    last: Holler
+  - first: Stephen C.
+    full: Stephen C. Levinson
+    id: stephen-c-levinson
+    last: Levinson
+  bibkey: homke-etal-2015-eye
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4032'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Eye blinking as addressee feedback in face-to-face conversation
+  title_html: Eye blinking as addressee feedback in face-to-face conversation
+  url: "http://semdial.org/anthology/Z15-H\xF6mke_semdial_0032.pdf"
+  year: '2015'
+Z15-4033:
+  address: Gothenburg, Sweden
+  author:
+  - first: Srinivasan
+    full: Srinivasan Janarthanam
+    id: srinivasan-janarthanam
+    last: Janarthanam
+  - first: Helen
+    full: Helen Hastie
+    id: helen-hastie
+    last: Hastie
+  - first: Amol
+    full: Amol Deshmukh
+    id: amol-deshmukh
+    last: Deshmukh
+  - first: Ruth
+    full: Ruth Aylett
+    id: ruth-aylett
+    last: Aylett
+  - first: Mary Ellen
+    full: Mary Ellen Foster
+    id: mary-ellen-foster
+    last: Foster
+  bibkey: janarthanam-etal-2015-reusable
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4033'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'A reusable interaction management module: Use case for empathic robotic
+    tutoring'
+  title_html: 'A reusable interaction management module: Use case for empathic robotic
+    tutoring'
+  url: http://semdial.org/anthology/Z15-Janarthanam_semdial_0033.pdf
+  year: '2015'
+Z15-4034:
+  address: Gothenburg, Sweden
+  author:
+  - first: Yasuhiro
+    full: Yasuhiro Katagiri
+    id: yasuhiro-katagiri
+    last: Katagiri
+  - first: Katsuya
+    full: Katsuya Takanashi
+    id: katsuya-takanashi
+    last: Takanashi
+  bibkey: katagiri-takanashi-2015-concern
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4034'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Concern-alignment analysis of consultation dialogues
+  title_html: Concern-alignment analysis of consultation dialogues
+  url: http://semdial.org/anthology/Z15-Katagiri_semdial_0034.pdf
+  year: '2015'
+Z15-4035:
+  address: Gothenburg, Sweden
+  author:
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  - first: Stergios
+    full: Stergios Chatzikyriakidis
+    id: stergios-chatzikyriakidis
+    last: Chatzikyriakidis
+  - first: Ronnie
+    full: Ronnie Cann
+    id: ronnie-cann
+    last: Cann
+  bibkey: kempson-etal-2015-interactive
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4035'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: The interactive building of names
+  title_html: The interactive building of names
+  url: http://semdial.org/anthology/Z15-Kempson_semdial_0035.pdf
+  year: '2015'
+Z15-4036:
+  address: Gothenburg, Sweden
+  author:
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  - first: Soledad Lopez
+    full: Soledad Lopez Gambino
+    id: soledad-lopez-gambino
+    last: Gambino
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: kennington-etal-2015-playing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4036'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Playing a real-world reference game using the words-as-classifiers model
+    of reference resolution
+  title_html: Playing a real-world reference game using the words-as-classifiers model
+    of reference resolution
+  url: http://semdial.org/anthology/Z15-Kennington_semdial_0036.pdf
+  year: '2015'
+Z15-4037:
+  address: Gothenburg, Sweden
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: larsson-2015-state
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4037'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: The state of the art in dealing with user answers
+  title_html: The state of the art in dealing with user answers
+  url: http://semdial.org/anthology/Z15-Larsson_semdial_0037.pdf
+  year: '2015'
+Z15-4038:
+  address: Gothenburg, Sweden
+  author:
+  - first: Barbara
+    full: Barbara Lewandowska-Tomaszczyk
+    id: barbara-lewandowska-tomaszczyk
+    last: Lewandowska-Tomaszczyk
+  bibkey: lewandowska-tomaszczyk-2015-polish
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4038'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: "Polish event-linking devices of przed `before' cluster in conversational\
+    \ data \u2013 Implications for contrastive analysis"
+  title_html: "Polish event-linking devices of przed `before' cluster in conversational\
+    \ data \u2013 Implications for contrastive analysis"
+  url: http://semdial.org/anthology/Z15-Lewandowska-Tomaszczyk_semdial_0038.pdf
+  year: '2015'
+Z15-4039:
+  address: Gothenburg, Sweden
+  author:
+  - first: Pierre
+    full: Pierre Lison
+    id: pierre-lison
+    last: Lison
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  bibkey: lison-kennington-2015-developing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4039'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Developing spoken dialogue systems with the OpenDial toolkit
+  title_html: Developing spoken dialogue systems with the OpenDial toolkit
+  url: http://semdial.org/anthology/Z15-Lison_semdial_0039.pdf
+  year: '2015'
+Z15-4040:
+  address: Gothenburg, Sweden
+  author:
+  - first: Sumiyo
+    full: Sumiyo Nishiguchi
+    id: sumiyo-nishiguchi
+    last: Nishiguchi
+  bibkey: nishiguchi-2015-ccg
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4040'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: CCG for discourse
+  title_html: CCG for discourse
+  url: http://semdial.org/anthology/Z15-Nishiguchi_semdial_0040.pdf
+  year: '2015'
+Z15-4041:
+  address: Gothenburg, Sweden
+  author:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  - first: Andrei
+    full: Andrei Malchanau
+    id: andrei-malchanau
+    last: Malchanau
+  - first: Ramkumar
+    full: Ramkumar Aruchamy
+    id: ramkumar-aruchamy
+    last: Aruchamy
+  bibkey: petukhova-etal-2015-experimenting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4041'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Experimenting with grounding strategies in dialogue
+  title_html: Experimenting with grounding strategies in dialogue
+  url: http://semdial.org/anthology/Z15-Petukhova_semdial_0041.pdf
+  year: '2015'
+Z15-4042:
+  address: Gothenburg, Sweden
+  author:
+  - first: "Ond\u0159ej"
+    full: "Ond\u0159ej Pl\xE1tek"
+    id: ondrej-platek
+    last: "Pl\xE1tek"
+  - first: Filip
+    full: "Filip Ju\u0159\xED\u010Dek"
+    id: filip-juricek
+    last: "Ju\u0159\xED\u010Dek"
+  bibkey: platek-juricek-2015-self
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4042'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Self awareness for better common ground
+  title_html: Self awareness for better common ground
+  url: "http://semdial.org/anthology/Z15-Pl\xE1tek_semdial_0042.pdf"
+  year: '2015'
+Z15-4043:
+  address: Gothenburg, Sweden
+  author:
+  - first: Louisa
+    full: Louisa Pragst
+    id: louisa-pragst
+    last: Pragst
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  - first: Matthias
+    full: Matthias Kraus
+    id: matthias-kraus
+    last: Kraus
+  - first: Wolfgang
+    full: Wolfgang Minker
+    id: wolfgang-minker
+    last: Minker
+  bibkey: pragst-etal-2015-adaptive
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4043'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Adaptive dialogue management in the KRISTINA project for multicultural health
+    care applications
+  title_html: Adaptive dialogue management in the KRISTINA project for multicultural
+    health care applications
+  url: http://semdial.org/anthology/Z15-Pragst_semdial_0043.pdf
+  year: '2015'
+Z15-4044:
+  address: Gothenburg, Sweden
+  author:
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  - first: Yao
+    full: Yao Yao
+    id: yao-yao
+    last: Yao
+  - first: Arnaud
+    full: Arnaud Gingold
+    id: arnaud-gingold
+    last: Gingold
+  - first: Bernard
+    full: Bernard Bel
+    id: bernard-bel
+    last: Bel
+  - first: Kam Yiu Joe
+    full: Kam Yiu Joe Chan
+    id: kam-yiu-joe-chan
+    last: Chan
+  bibkey: prevot-etal-2015-toward
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4044'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'Toward a scary comparative corpus: The Werewolf spoken corpus'
+  title_html: 'Toward a scary comparative corpus: The Werewolf spoken corpus'
+  url: "http://semdial.org/anthology/Z15-Pr\xE9vot_semdial_0044.pdf"
+  year: '2015'
+Z15-4045:
+  address: Gothenburg, Sweden
+  author:
+  - first: Matthias A.
+    full: Matthias A. Priesters
+    id: matthias-a-priesters
+    last: Priesters
+  - first: Malte
+    full: Malte Schilling
+    id: malte-schilling
+    last: Schilling
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: priesters-etal-2015-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4045'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Towards a layered framework for embodied language processing in situated
+    human-robot interaction
+  title_html: Towards a layered framework for embodied language processing in situated
+    human-robot interaction
+  url: http://semdial.org/anthology/Z15-Priesters_semdial_0045.pdf
+  year: '2015'
+Z15-4046:
+  address: Gothenburg, Sweden
+  author:
+  - first: Mandy
+    full: Mandy Simons
+    id: mandy-simons
+    last: Simons
+  bibkey: simons-2015-questions
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4046'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: How questions and answers cohere
+  title_html: How questions and answers cohere
+  url: http://semdial.org/anthology/Z15-Simons_semdial_0046.pdf
+  year: '2015'
+Z15-4047:
+  address: Gothenburg, Sweden
+  author:
+  - first: Hodgdon
+    full: Hodgdon Stevens
+    id: hodgdon-stevens
+    last: Stevens
+  - first: Hannah
+    full: Hannah Rohde
+    id: hannah-rohde
+    last: Rohde
+  bibkey: stevens-rohde-2015-modeling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4047'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Modeling referential coordination as a particle swarm optimization task
+  title_html: Modeling referential coordination as a particle swarm optimization task
+  url: http://semdial.org/anthology/Z15-Stevens_semdial_0047.pdf
+  year: '2015'
+Z15-4048:
+  address: Gothenburg, Sweden
+  author:
+  - first: Kwong-Cheong
+    full: Kwong-Cheong Wong
+    id: kwong-cheong-wong
+    last: Wong
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: wong-ginzburg-2015-distribution
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4048'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: 'Distribution of non-sentential utterances across BNC genres: A preliminary
+    report'
+  title_html: 'Distribution of non-sentential utterances across BNC genres: A preliminary
+    report'
+  url: http://semdial.org/anthology/Z15-Wong_semdial_0048.pdf
+  year: '2015'
+Z15-4049:
+  address: Gothenburg, Sweden
+  author:
+  - first: Yanchao
+    full: Yanchao Yu
+    id: yanchao-yu
+    last: Yu
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  bibkey: yu-etal-2015-interactive
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4049'
+  parent_volume_id: Z15-4
+  publisher: SEMDIAL
+  title: Interactive learning through dialogue for multimodal language grounding
+  title_html: Interactive learning through dialogue for multimodal language grounding
+  url: http://semdial.org/anthology/Z15-Yu_semdial_0049.pdf
+  year: '2015'

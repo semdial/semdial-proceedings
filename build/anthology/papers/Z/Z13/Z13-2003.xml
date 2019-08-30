@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="swerts-2013-variability">
+    <titleInfo>
+        <title>On Variability in Pitch Accent Distributions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marc</namePart>
+        <namePart type="family">Swerts</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">swerts-2013-variability</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Swerts_semdial_0003.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+</modsCollection>

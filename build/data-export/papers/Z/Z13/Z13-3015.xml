@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="postma-nilsenova-etal-2013-repeat">
+    <titleInfo>
+        <title>If you repeat your interlocutor’s syntactic structure, you are likely to repeat her pronunciation, too</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marie</namePart>
+        <namePart type="family">Postma-Nilsenova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lisette</namePart>
+        <namePart type="family">Mol</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Naomi</namePart>
+        <namePart type="family">Kamoen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">postma-nilsenova-etal-2013-repeat</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Postma-Nilsenova_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+</modsCollection>

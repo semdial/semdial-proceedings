@@ -1,0 +1,801 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="alacam-etal-2014-referring">
+    <titleInfo>
+        <title>Referring Expressions in Discourse about Haptic Line Graphs</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ozge</namePart>
+        <namePart type="family">Alacam</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Cengiz</namePart>
+        <namePart type="family">Acarturk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christopher</namePart>
+        <namePart type="family">Habel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">alacam-etal-2014-referring</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Alacam_semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="buschmeier-kopp-2014-dynamic">
+    <titleInfo>
+        <title>A dynamic minimal model of the listener for feedback-based dialogue coordination</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hendrik</namePart>
+        <namePart type="family">Buschmeier</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefan</namePart>
+        <namePart type="family">Kopp</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">buschmeier-kopp-2014-dynamic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Buschmeier_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="cooper-2014-phrase">
+    <titleInfo>
+        <title>Phrase structure rules as dialogue update rules</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Robin</namePart>
+        <namePart type="family">Cooper</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cooper-2014-phrase</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Cooper_semdial_0007.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="cummins-2014-numerical">
+    <titleInfo>
+        <title>Numerical expressions, implicatures and imagined prior context</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Chris</namePart>
+        <namePart type="family">Cummins</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cummins-2014-numerical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Cummins_semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="dobnik-etal-2014-priming">
+    <titleInfo>
+        <title>Priming and Alignment of Frame of Reference in Situated Conversation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">John</namePart>
+        <namePart type="family">Kelleher</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christos</namePart>
+        <namePart type="family">Koniaris</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dobnik-etal-2014-priming</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Dobnik_semdial_0009.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="eshghi-lemon-2014-domain">
+    <titleInfo>
+        <title>How domain-general can we be? Learning incremental Dialogue Systems without Dialogue Acts</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Arash</namePart>
+        <namePart type="family">Eshghi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">eshghi-lemon-2014-domain</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Eshghi_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="guhe-lascarides-2014-persuasion">
+    <titleInfo>
+        <title>Persuasion in Complex Games</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Markus</namePart>
+        <namePart type="family">Guhe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Lascarides</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">guhe-lascarides-2014-persuasion</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Guhe_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="harris-2014-signaling">
+    <titleInfo>
+        <title>Signaling Non-speaker commitment in Transparent Free Relatives: A paired Speaker-Hearer judgment study.</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jesse</namePart>
+        <namePart type="family">Harris</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">harris-2014-signaling</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Harris_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="howes-etal-2014-helping">
+    <titleInfo>
+        <title>Helping, I mean assessing psychiatric communication: An application of incremental self-repair detection</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rose</namePart>
+        <namePart type="family">McCabe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">howes-etal-2014-helping</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Howes_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="kruijff-korbayova-etal-2014-analysis">
+    <titleInfo>
+        <title>Analysis of the Responses to System-Initiated Off-Activity Talk in Human-Robot Interaction with Diabetic Children</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ivana</namePart>
+        <namePart type="family">Kruijff-Korbayova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefania</namePart>
+        <namePart type="family">Racioppa</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bernd</namePart>
+        <namePart type="family">Kiefer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Elettra</namePart>
+        <namePart type="family">Oleari</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Clara</namePart>
+        <namePart type="family">Pozzi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kruijff-korbayova-etal-2014-analysis</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Kruijff-Korbayova_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="magarreiro-etal-2014-using">
+    <titleInfo>
+        <title>Using subtitles to deal with Out-of-Domain interactions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daniel</namePart>
+        <namePart type="family">Magarreiro</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Luísa</namePart>
+        <namePart type="family">Coheur</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Francisco</namePart>
+        <namePart type="family">Melo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">magarreiro-etal-2014-using</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Magarreiro_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="meo-etal-2014-generating">
+    <titleInfo>
+        <title>Generating and Resolving Vague Color References</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Timothy</namePart>
+        <namePart type="family">Meo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Brian</namePart>
+        <namePart type="family">McMahan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Stone</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">meo-etal-2014-generating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Meo_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="moradlou-ginzburg-2014-learning">
+    <titleInfo>
+        <title>Learning to understand questions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sara</namePart>
+        <namePart type="family">Moradlou</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">moradlou-ginzburg-2014-learning</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Moradlou_semdial_0017.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="ortiz-shen-2014-dynamic">
+    <titleInfo>
+        <title>Dynamic Intention Structures for Dialogue Processing</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Charles</namePart>
+        <namePart type="family">Ortiz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jiaying</namePart>
+        <namePart type="family">Shen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ortiz-shen-2014-dynamic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Ortiz_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="perret-etal-2014-revealing">
+    <titleInfo>
+        <title>Revealing Resources in Strategic Contexts</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jérémy</namePart>
+        <namePart type="family">Perret</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stergos</namePart>
+        <namePart type="family">Afantenos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nicholas</namePart>
+        <namePart type="family">Asher</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Lascarides</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">perret-etal-2014-revealing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Perret_semdial_0019.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="stevens-etal-2014-indirect">
+    <titleInfo>
+        <title>Indirect answers as potential solutions to decision problems</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jon</namePart>
+        <namePart type="family">Stevens</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anton</namePart>
+        <namePart type="family">Benz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sebastian</namePart>
+        <namePart type="family">Reuße</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ronja</namePart>
+        <namePart type="family">Laarmann-Quante</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ralf</namePart>
+        <namePart type="family">Klabunde</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">stevens-etal-2014-indirect</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Stevens_semdial_0020.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+<mods ID="venant-etal-2014-credibility">
+    <titleInfo>
+        <title>Credibility and its Attacks.</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Antoine</namePart>
+        <namePart type="family">Venant</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nicholas</namePart>
+        <namePart type="family">Asher</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Cédric</namePart>
+        <namePart type="family">Dégremont</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">venant-etal-2014-credibility</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Venant_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+</modsCollection>

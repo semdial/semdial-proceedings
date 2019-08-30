@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="hesse-etal-2018-communicating">
+    <titleInfo>
+        <title>Communicating an understanding of intention: Speech act conditionals and modified numerals in a Q/A system</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christoph</namePart>
+        <namePart type="family">Hesse</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maryam</namePart>
+        <namePart type="family">Mohammadi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maurice</namePart>
+        <namePart type="family">Langner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Judith</namePart>
+        <namePart type="family">Fischer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anton</namePart>
+        <namePart type="family">Benz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ralf</namePart>
+        <namePart type="family">Klabunde</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018-nov</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Aix-en-Provence, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hesse-etal-2018-communicating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z18-Hesse_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2018-nov</date>
+    </part>
+</mods>
+</modsCollection>

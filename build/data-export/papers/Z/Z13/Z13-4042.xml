@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="prevot-2013-toward">
+    <titleInfo>
+        <title>Toward a semantics for French short positive feedback utterances</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Laurent</namePart>
+        <namePart type="family">Prévot</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">prevot-2013-toward</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-PrÃ©vot_semdial_0042.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+</modsCollection>

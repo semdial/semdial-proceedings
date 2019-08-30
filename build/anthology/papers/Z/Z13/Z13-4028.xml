@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="gilmartin-etal-2013-exploring">
+    <titleInfo>
+        <title>Exploring the Role of Laughter in Multiparty Conversation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Emer</namePart>
+        <namePart type="family">Gilmartin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Francesca</namePart>
+        <namePart type="family">Bonin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Carl</namePart>
+        <namePart type="family">Vogel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Nick</namePart>
+        <namePart type="family">Campbell</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2013-dec</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Amsterdam, The Netherlands</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gilmartin-etal-2013-exploring</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z13-Gilmartin_semdial_0028.pdf</url>
+    </location>
+    <part>
+        <date>2013-dec</date>
+    </part>
+</mods>
+</modsCollection>

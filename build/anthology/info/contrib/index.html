@@ -1,0 +1,97 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><!--[if IEMobile]><meta http-equiv=cleartype content=on><![endif]--><title>Information for Submitters - SEMDIAL</title><meta name=generator content="Hugo 0.56.2"><link href=/anthology/aclicon.ico rel="shortcut icon" type=image/x-icon><link rel=stylesheet href=/anthology/css/main.min.200d01a437e018e54153eeb07703db6e7eb464678ee371b16b2bc878cbd696af.css media=screen><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.7.2/css/all.css integrity=sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr crossorigin=anonymous><link rel=stylesheet href=/anthology/css/academicons.min.css></head><body><nav class="navbar navbar-expand navbar-light bg-gradient-light shadow-sm py-0 mb-3 mb-md-4 mb-xl-5"><div id=navbar-container class=container><a class=navbar-brand href=/anthology/></a><form class="form-inline flex-nowrap ml-auto my-1 my-sm-2" action=/anthology/search/? method=get><input id=acl-search-box class="form-control mr-1 mr-sm-2" name=q type=search placeholder=Search... aria-label=Search>
+<button class="btn btn-outline-primary" type=submit><i class="fas fa-search"></i></button></form></div></nav><div id=main-container class=container><main aria-role=main><h2 id=title>Information for Submitters</h2><p class="lead text-muted">General information on submitting proceedings to the ACL Anthology (for event chairs)</p><hr><p class="font-weight-light font-italic text-muted">May 8, 2019</p><p>This page contains general information about how to submit proceedings to the ACL Anthology.
+If you are a chair whose job it is to submit your conference proceedings, this page should be helpful to you.</p><h3 id=overview-of-the-submission-process>Overview of the Submission Process</h3><p>Please contact the Anthology Director as soon as possible to register your intention to submit your proceedings.
+We will work with you to</p><ul><li>assign workshop or conference IDs,</li><li>determine a publication date,</li><li>come up with a timeline for draft and final ingestion, and</li><li>help you to understand the ingestion process.</li></ul><p>Early notification will help us with our planning.</p><p>The actual ingestion is a two-step process:</p><ol><li>The volume data is laid out in our ingestion format, with BibTeX files, PDFs, and other data.
+It is then transformed into our authoritative XML format.</li><li>We apply tools that perform services such as adding case protection and resolving ambiguous author names.</li></ol><p>Step 1 is handled by the <a href=https://github.com/acl-org/ACLPUB/>ACLPUB</a> package, whose output is a minimally compliant XML file that can be ingested into <a href=#authoritative-xml-format>the Anthology&rsquo;s authoritative XML format</a>.
+Step 2 is handled by Anthology staff and uses <a href=https://github.com/acl-org/acl-anthology/tree/master/tools/>Anthology tools</a>.</p><p>You are responsible only for the first step: producting a minimally compliant XML file along with the associated PDFs and optionally other data (such as software).</p><p>If you are using Softconf&rsquo;s STARTv2 system to manage your conference, you are in luck, because it incorporates the ACLPUB package, and directly exports to the Anthology ingestion format.
+(In May of 2019, it will also support Easychair).
+For other conference management soures, the ingestion format is described in the ACLPUB package, and should not be too difficult to generate.</p><p>The ingestion process is manual and requires time to execute and proofcheck, and as such, it&rsquo;s very helpful to ensure that your proceedings are in good order before sending the link.
+Redoing the ingestion costs approximately the same time as the original ingestion and thus incurs significant additional expense for the volunteer staff.</p><h3 id=canonical-ids-and-urls>Canonical IDs and URLs</h3><p>Currently, we assign each paper in the ACL Anthology a unique 8-character identifier, so that we can easily locate papers and reference them.
+The identifier is assigned by the current is in the form of a letter, a two digit year, and a 4 digit paper ID (e.g., P18-1024).
+The paper ID decomposes into a volume ID and a paper ID.
+For large or prominent events related to ACL or its sister organizations that recur on a yearly basis, we use a separate lettered prefix (e.g., ACL, which is &lsquo;P&rsquo;), the volume ID is 1 digit and the paper ID is 3 digits.
+For all other smaller events, we use the &lsquo;W&rsquo; prefix.
+Here, the volume ID is 2 digits, and the paper ID 2 digits.
+These events therefore accommodate up to 99 papers.
+If there are more than 99 papers, they need to be broken out into two separate volume IDs.
+Both paper and volume IDs are zero-padded to ensure that filenames have a fixed width.</p><table class="table table-bordered"><thead><tr><th scope=col>Codes</th><th scope=col>Sets</th><th scope=col>Filename Example</th><th scope=col>Comments</th></tr></thead><tbody><tr><td>A, C, D, E, H, I, L, M, N, P, S, T, X</td><td>Proceedings (syy-xnnn)</td><td>P90-1001</td><td>This is the first paper appearing in the first (or only) volume of the P90 proceedings; most proceedings have just one volume; in rare cases a proceedings volume has a supplement which should be numbered as a separate volume; in rare cases multiple proceedings volumes are bound into one (N00/A00) and these should be treated as separate volumes.
+Each conference proceedings may have up to 999 papers; conferences with more papers than this upper limit should consult the ACL Anthology Editor on how to split the proceedings into separate volumes.
+Proceedings chairs of conferences may choose at their discretion how they would like to partition volumes, although segmentations involving main/full papers, short papers, demonstrations and tutorial abstracts are most common.</td></tr><tr><td>J, F, Q</td><td>Journal (jyy-xnnn)</td><td>J90-2001</td><td>This is for the first paper in the second issue of J90; For combined issues, like 3/4, use the first number of the sequence.
+(E.g., if a journal year consists of combined issues 1/2 and 3/4, use J90-1 and J90-3 only).
+The 'F' prefix is for the Finite String, a newsletter (now obsolete) that used to be part of the Journal.</td></tr><tr><td>W</td><td>Workshops and Smaller Events (wyy-xxnn)</td><td>W90-0201</td><td>This is for the first paper in the second workshop in 1990; there is space for up to 100 workshops per year, and up to 99 papers per workshop.
+If a workshop exceeds 99 papers in a year, please consult with the ACL Anthology Editor.
+In this case, a separate set letter code may be established for the venue.</td></tr></tbody></table><p>Historically, the file names fit within the 8.3 DOS naming constraint for maximum portability, as recommended by Adobe. PDF filenames are globally unique, to support subsetting (saving an ad hoc collection of papers to a single directory).
+This format will likely be generalized in 2019 or 2020.</p><p>The canonical URLs for the Anthology are formed by appending the ACL ID to the Anthology URL.
+For example,</p><pre><code>http://www.aclweb.org/anthology/P18-1023
+</code></pre><p>will return the PDF of this paper.
+Note that the canonical URL does <em>not</em> include the <code>.pdf</code> extension (though that URL will also resolve).</p><p>Workshop chairs should contact the ACL Anthology Editor to receive their workshop number offset (the &lsquo;xx&rsquo; portion of the ACL Anthology ID).
+If your workshop is attached to a conference as a satellite event, please contact the proceedings chair for the main conference to receive the offset ID, as it is easiest to allocate offsets as a whole block.
+Conversely, if you are the proceedings chair for a conference that has satellite workshops, please contact the ACL Anthology Editor with the final list of titles of the workshops (make certain the workshops will actually be run) so that the editor can allocate a suitable block of offsets to the workshops.
+The current list of ingestion prefixes is <a href="https://docs.google.com/spreadsheets/d/166W-eIJX2rzCACbjpQYOaruJda7bTZrY7MBw_oa7B2E/edit?usp=sharing">publicly visible</a> (but read-only).</p><h3 id=paper-numbering>Paper numbering</h3><p>A key notion in file naming is the paper number.
+The general rule is that papers will be numbered consecutively within the bound volume in which they appear.
+When a proceedings is divided into multiple volumes, paper number will begin from number &lsquo;1&rsquo;, with each new volume.
+When multiple proceedings are bound into a single volume (e.g., N18), they will be treated as multiple volumes (e.g., N18-1, N18-2, and so on).</p><p>Any front matter is given the paper number &lsquo;0&rsquo;, padded to the ACL ID length (e.g., N18-1000).
+Any back matter is given the number one more than the last paper in the volume.
+Front and back matter that appears internally to a volume (e.g., in N18) will be counted just like an ordinary paper.</p><h3 id=authoritative-xml-format>Authoritative XML format</h3><p>The Anthology site is generated from an authoritative XML file format containing information about volumes, paper titles, and authors.
+This data is stored in <a href=https://github.com/acl-org/acl-anthology/tree/master/data/xml>the official repository on Github</a>.
+Here is a fragment of a complete XML file (<a href=https://github.com/acl-org/acl-anthology/blob/master/data/xml/P18.xml>P18.xml</a>), to give you the idea.
+The full file contains much more information.</p><pre><code class=language-xml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;
+&lt;volume id=&quot;P18&quot;&gt;
+  &lt;paper id=&quot;3000&quot;&gt;
+    &lt;title&gt;Proceedings of &lt;fixed-case&gt;ACL&lt;/fixed-case&gt; 2018, Student Research Workshop&lt;/title&gt;
+    &lt;editor&gt;&lt;first&gt;Vered&lt;/first&gt;&lt;last&gt;Shwartz&lt;/last&gt;&lt;/editor&gt;
+    &lt;!-- ... --&gt;
+  &lt;/paper&gt;
+  &lt;paper id=&quot;3001&quot;&gt;
+    &lt;title&gt;Towards Opinion Summarization of Customer Reviews&lt;/title&gt;
+    &lt;author&gt;&lt;first&gt;Samuel&lt;/first&gt;&lt;last&gt;Pecar&lt;/last&gt;&lt;/author&gt;
+    &lt;!-- ... --&gt;
+  &lt;/paper&gt;
+  &lt;paper id=&quot;3002&quot;&gt;
+    &lt;title&gt;Sampling Informative Training Data for &lt;fixed-case&gt;RNN&lt;/fixed-case&gt; Language Models&lt;/title&gt;
+    &lt;author&gt;&lt;first&gt;Jared&lt;/first&gt;&lt;last&gt;Fernandez&lt;/last&gt;&lt;/author&gt;
+    &lt;author&gt;&lt;first&gt;Doug&lt;/first&gt;&lt;last&gt;Downey&lt;/last&gt;&lt;/author&gt;
+    &lt;!-- ... --&gt;
+  &lt;/paper&gt;
+  &lt;paper id=&quot;3003&quot;&gt;
+    &lt;title&gt;Learning-based Composite Metrics for Improved Caption Evaluation&lt;/title&gt;
+    &lt;author&gt;&lt;first&gt;Naeha&lt;/first&gt;&lt;last&gt;Sharif&lt;/last&gt;&lt;/author&gt;
+    &lt;author&gt;&lt;first&gt;Lyndon&lt;/first&gt;&lt;last&gt;White&lt;/last&gt;&lt;/author&gt;
+    &lt;author&gt;&lt;first&gt;Mohammed&lt;/first&gt;&lt;last&gt;Bennamoun&lt;/last&gt;&lt;/author&gt;
+    &lt;author&gt;&lt;first&gt;Syed Afaq&lt;/first&gt;&lt;last&gt;Ali Shah&lt;/last&gt;&lt;/author&gt;
+    &lt;!-- ... --&gt;
+  &lt;/paper&gt;
+  &lt;!-- ...  --&gt;
+ &lt;/volume&gt;
+</code></pre><p>You need not necessarily concern yourself with this format, but it may be useful to know.
+This format is generated from</p><h3 id=submitting-to-the-anthology>Submitting to the Anthology</h3><p>To submit to the Anthology, please use the <a href=https://github.com/acl-org/ACLPUB>ACLPUB</a> package.
+The top-level README there includes a pointer information about the required data formats.</p><h4 id=notes-about-softconf-s-start>Notes about Softconf&rsquo;s START</h4><p>If you are using START, the process is easier for you.
+You need only supply the proceedings tarball (named <code>proceedings.tgz</code>) for each of the volumes and workshops that are part of your conference.
+You can download this from START and send it directly to your publication chair.
+If you are the publication chair, you can collect these and coordinate with the Anthology Director.</p><p>Please be aware of the following:</p><ul><li><p><em>Workshop identifiers</em>.
+START uses a formatted string to identify the volume ID.
+For main conference proceedings (e.g., NAACL long papers), for each volume, this looks like</p><p><a href=http://www.aclweb.org/anthology/N19-1%03d>http://www.aclweb.org/anthology/N19-1%03d</a></p></li></ul><p>since the volume ID has one digit and the paper three.
+For workshops, it is</p><pre><code> http://www.aclweb.org/anthology/W19-38%02d
+</code></pre><p>since there are only two digits for the paper ID.
+Note again that the (zero-padded) paper ID &lsquo;0&rsquo; is used for front matter, &lsquo;1&rsquo; for the first paper, and so on.</p><ul><li><em>Special Interest Groups</em>.
+For workshops, your conference publication chair should have noted special interest group affiliations and endorsements for workshops.</li></ul><h3 id=copyright>Copyright</h3><p>For copyright transfers, you can use the default form at:</p><ul><li><a href=https://github.com/acl-org/ACLPUB/blob/master/doc/authors/ACL-copyright-form.pdf>https://github.com/acl-org/ACLPUB/blob/master/doc/authors/ACL-copyright-form.pdf</a></li></ul><p>Ask authors to sign the form, scan a B/W copy at 150 to 200 DPI for you as a
+<code>.pdf</code> (or <code>.jpg</code> or <code>.png</code> if otherwise not possible). Name the forms using
+the ACL Anthology identifiers, and send me a separate <code>.zip</code> or <code>.tgz</code>
+archive as you would for the proceedings of your event (e.g., a file in the
+archive might be <code>copyright-transfers/P11-1001.pdf</code>).
+These copyrights should be delivered in bulk to the Anthology Editor when submitting the proceedings.</p><p>Note that if you are using the START system (softconf.com), there is a
+digital form of this copyright transfer form, so you may not have to ask the
+authors to print, sign and submit to you. You may be able to simply download
+the <code>.zip</code> or <code>.tgz</code> version of the archived forms and submit them to
+me. Please note this when submitting.</p><p>For both current and legacy events, it is good practice for the organizers
+to attempt to obtain copyright transfers for their materials, but we will
+ingest materials even if no copyright transfers are on file.</p><h3 id=isbn-numbers>ISBN Numbers</h3><p>If you need to assign ISBN numbers, please provide the exact titles of each volume to be assigned an ISBN and forward this information to Priscilla Rasmussen, ACL Business Manager.</p><h3 id=publication-date>Publication Date</h3><p>By default, the publication of papers associated with a current event in the Anthology will be on the first day of the event (inclusive of workshops or tutorials).
+If you prefer to have it published on a different date, please inform us.</p><h3 id=errata-and-corrections>Errata and Corrections</h3><p>If you get requests from authors needing to post errata or revised versions of the papers, or supplemental attachments after the publication of the proceedings, please ask them to submit revisions to the current ACL Anthology editor directly (see <a href=/anthology/info/corrections/>Corrections</a>).
+Note that after the publiation date, corrections can only be applied to individual papers; the full proceedings volumes will not be replaced or revised.</p></main></div><footer class="bg-gradient-light py-2 py-xl-3 mt-3 mt-md-4 mt-xl-5"><div class=container><nav role=navigation class="nav w-100 justify-content-center"><a class=nav-link href=/anthology/info/corrections/>Corrections</a>
+<a class=nav-link href=/anthology/info/credits/>Credits</a>
+<a class=nav-link href=/anthology/faq/>FAQ</a>
+<a class=nav-link href=https://github.com/acl-org/acl-anthology/issues/>Report Issues</a>
+<a class=nav-link href=/anthology/info/contrib/>Submitting</a>
+<a class=nav-link href=/anthology/info/volunteer/>Volunteering</a></nav><hr class=mt-2></div><div class=container><p class="text-muted small px-1"><span class="float-right mt-2"><a rel=license href=http://creativecommons.org/licenses/by/4.0/><img alt="Creative Commons License" style=border-width:0 src=https://i.creativecommons.org/l/by/4.0/88x31.png></a></span>
+SEMDIAL materials are Copyright ©&nbsp;1997&ndash;2019 SEMDIAL; other materials are copyrighted by their respective copyright holders.</p></div></footer><script src=https://code.jquery.com/jquery-3.3.1.slim.min.js integrity=sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js integrity=sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut crossorigin=anonymous></script><script src=https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js integrity=sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k crossorigin=anonymous></script><script>$(function(){$('[data-toggle="tooltip"]').tooltip();if($("#toggle-all-abstracts")){$("#toggle-all-abstracts").click(function(){var target=$("#toggle-all-abstracts");target.attr("disabled",true);if(target.attr("data-toggle-state")=="hide"){$(".abstract-collapse").collapse('show');target.attr("data-toggle-state","show");}else{$(".abstract-collapse").collapse('hide');target.attr("data-toggle-state","hide");}
+target.attr("disabled",false);});$("#toggle-all-abstracts").attr("disabled",false);}})</script></body></html>

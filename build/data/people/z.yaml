@@ -1,0 +1,284 @@
+zachary-c-lipton:
+  coauthors: []
+  first: Zachary C.
+  full: Zachary C. Lipton
+  last: Lipton
+  papers: []
+  slug: zachary-c-lipton
+  venues: []
+zaharin-yusoff:
+  coauthors: []
+  first: Zaharin
+  full: Zaharin Yusoff
+  last: Yusoff
+  papers: []
+  slug: zaharin-yusoff
+  venues: []
+zahurul-islam:
+  coauthors: []
+  first: Zahurul
+  full: Zahurul Islam
+  last: Islam
+  papers: []
+  slug: zahurul-islam
+  venues: []
+zarah-weiss:
+  coauthors: []
+  first: Zarah
+  full: Zarah Weiss
+  last: Weiss
+  papers: []
+  slug: zarah-weiss
+  venues: []
+zdenek-kirschner:
+  coauthors: []
+  first: Zdenek
+  full: Zdenek Kirschner
+  last: Kirschner
+  papers: []
+  slug: zdenek-kirschner
+  venues: []
+zdenek-zabokrtsky:
+  coauthors: []
+  first: "Zden\u011Bk"
+  full: "Zden\u011Bk \u017Dabokrtsk\xFD"
+  last: "\u017Dabokrtsk\xFD"
+  papers: []
+  slug: zdenek-zabokrtsky
+  venues: []
+zdenka-uresova:
+  coauthors: []
+  first: Zdenka
+  full: Zdenka Uresova
+  last: Uresova
+  papers: []
+  slug: zdenka-uresova
+  venues: []
+zdravko-kacic:
+  coauthors: []
+  first: Zdravko
+  full: "Zdravko Ka\u010Di\u010D"
+  last: "Ka\u010Di\u010D"
+  papers: []
+  slug: zdravko-kacic
+  venues: []
+ze-yu-zheng:
+  coauthors: []
+  first: Ze-yu
+  full: Ze-yu Zheng
+  last: Zheng
+  papers: []
+  slug: ze-yu-zheng
+  venues: []
+zeljko-agic:
+  coauthors: []
+  first: "\u017Deljko"
+  full: "\u017Deljko Agi\u0107"
+  last: "Agi\u0107"
+  papers: []
+  slug: zeljko-agic
+  venues: []
+zengtao-jiao:
+  coauthors:
+  - - zhuoran-wang
+    - 1
+  - - guanchun-wang
+    - 1
+  - - hao-tian
+    - 1
+  - - hua-wu
+    - 1
+  - - haifeng-wang
+    - 1
+  first: Zengtao
+  full: Zengtao Jiao
+  last: Jiao
+  papers:
+  - Z14-4033
+  slug: zengtao-jiao
+  venues:
+  - - SEMDIAL
+    - 1
+zeynep-orhan:
+  coauthors: []
+  first: Zeynep
+  full: Zeynep Orhan
+  last: Orhan
+  papers: []
+  slug: zeynep-orhan
+  venues: []
+zhao-ming-gao:
+  coauthors: []
+  first: Zhao Ming
+  full: Zhao Ming Gao
+  last: Gao
+  papers: []
+  slug: zhao-ming-gao
+  venues: []
+zhaoyan-ming:
+  coauthors: []
+  first: Zhaoyan
+  full: Zhaoyan Ming
+  last: Ming
+  papers: []
+  slug: zhaoyan-ming
+  venues: []
+zheng-ping-jiang:
+  coauthors: []
+  first: Zheng Ping
+  full: Zheng Ping Jiang
+  last: Jiang
+  papers: []
+  slug: zheng-ping-jiang
+  venues: []
+zheng-yu-niu:
+  coauthors: []
+  first: Zheng-Yu
+  full: Zheng-Yu Niu
+  last: Niu
+  papers: []
+  slug: zheng-yu-niu
+  venues: []
+zhengxian-gong:
+  coauthors: []
+  first: Zhengxian
+  full: Zhengxian Gong
+  last: Gong
+  papers: []
+  slug: zhengxian-gong
+  venues: []
+zhi-hong-deng:
+  coauthors: []
+  first: Zhi-Hong
+  full: Zhi-Hong Deng
+  last: Deng
+  papers: []
+  slug: zhi-hong-deng
+  venues: []
+zhi-min-zhou:
+  coauthors: []
+  first: Zhi Min
+  full: Zhi Min Zhou
+  last: Zhou
+  papers: []
+  slug: zhi-min-zhou
+  venues: []
+zhiming-xu:
+  coauthors: []
+  first: Zhiming
+  full: Zhiming Xu
+  last: Xu
+  papers: []
+  slug: zhiming-xu
+  venues: []
+zhou-yu:
+  coauthors:
+  - - stefan-scherer
+    - 1
+  - - david-devault
+    - 1
+  - - jon-gratch
+    - 1
+  - - giota-stratou
+    - 1
+  - - louis-philippe-morency
+    - 1
+  - - justine-cassell
+    - 1
+  first: Zhou
+  full: Zhou Yu
+  last: Yu
+  papers:
+  - Z13-3020
+  slug: zhou-yu
+  venues:
+  - - SEMDIAL
+    - 1
+zhuoran-wang:
+  coauthors:
+  - - verena-rieser
+    - 2
+  - - zengtao-jiao
+    - 1
+  - - guanchun-wang
+    - 1
+  - - hao-tian
+    - 1
+  - - hua-wu
+    - 1
+  - - haifeng-wang
+    - 1
+  - - callum-main
+    - 1
+  - - wenshuo-tang
+    - 1
+  - - oliver-lemon
+    - 1
+  first: Zhuoran
+  full: Zhuoran Wang
+  last: Wang
+  papers:
+  - Z14-4033
+  - Z14-4041
+  - Z14-4050
+  slug: zhuoran-wang
+  venues:
+  - - SEMDIAL
+    - 3
+ziortza-polin:
+  coauthors: []
+  first: Ziortza
+  full: Ziortza Polin
+  last: Polin
+  papers: []
+  slug: ziortza-polin
+  venues: []
+zoe-falomir:
+  coauthors:
+  - - vivien-mast
+    - 1
+  - - daniel-couto-vale1
+    - 1
+  - - mohammad-fazleh-elahi
+    - 1
+  first: Zoe
+  full: Zoe Falomir
+  last: Falomir
+  papers:
+  - Z14-4042
+  slug: zoe-falomir
+  venues:
+  - - SEMDIAL
+    - 1
+zoltan-alexin:
+  coauthors: []
+  first: "Zolt\xE1n"
+  full: "Zolt\xE1n Alexin"
+  last: Alexin
+  papers: []
+  slug: zoltan-alexin
+  venues: []
+zoya-m-shalyapina:
+  coauthors: []
+  first: Zoya M.
+  full: Zoya M. Shalyapina
+  last: Shalyapina
+  papers: []
+  slug: zoya-m-shalyapina
+  venues: []
+zuzana-fraterova:
+  coauthors: []
+  first: Zuzana
+  full: Zuzana Fraterova
+  last: Fraterova
+  papers: []
+  slug: zuzana-fraterova
+  venues: []
+zvika-marx:
+  coauthors: []
+  first: Zvika
+  full: Zvika Marx
+  last: Marx
+  papers: []
+  slug: zvika-marx
+  venues: []

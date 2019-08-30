@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="lewandowska-tomaszczyk-2014-language">
+    <titleInfo>
+        <title>Language-bound Dialogic elements in Computer-Mediated and Face-to-Face Communication</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Barbara</namePart>
+        <namePart type="family">Lewandowska-Tomaszczyk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lewandowska-tomaszczyk-2014-language</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z14-Lewandowska-Tomaszczyk_semdial_0039.pdf</url>
+    </location>
+    <part>
+        <date>2014-aug</date>
+    </part>
+</mods>
+</modsCollection>

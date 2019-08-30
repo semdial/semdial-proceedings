@@ -1,0 +1,517 @@
+Z16-1000:
+  address: New Brunswick, NJ
+  author:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  bibkey: semdial-2016-semantics
+  bibtype: proceedings
+  month: July
+  paper_id: '1000'
+  parent_volume_id: Z16-1
+  publisher: SEMDIAL
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2016_jersem_front_matter.pdf
+  year: '2016'
+Z16-2001:
+  address: New Brunswick, NJ
+  author:
+  - first: Johnathan
+    full: Johnathan Ginzburg
+    id: johnathan-ginzburg
+    last: Ginzburg
+  bibkey: ginzburg-2016-qud
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July
+  paper_id: '2001'
+  parent_volume_id: Z16-2
+  publisher: SEMDIAL
+  title: 'QUD: Past, Present and Future'
+  title_html: 'QUD: Past, Present and Future'
+  url: http://semdial.org/anthology/Z16-Ginzburg_semdial_0001.pdf
+  year: '2016'
+Z16-2002:
+  address: New Brunswick, NJ
+  author:
+  - first: Kordula De
+    full: Kordula De Kuthy
+    id: kordula-de-kuthy
+    last: Kuthy
+  bibkey: kuthy-2016-annotating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July
+  paper_id: '2002'
+  parent_volume_id: Z16-2
+  publisher: SEMDIAL
+  title: Annotating Questions under Discussions in Authentic Data
+  title_html: Annotating Questions under Discussions in Authentic Data
+  url: http://semdial.org/anthology/Z16-Kuthy_semdial_0002.pdf
+  year: '2016'
+Z16-2003:
+  address: New Brunswick, NJ
+  author:
+  - first: Nigel G.
+    full: Nigel G. Ward
+    id: nigel-ward
+    last: Ward
+  bibkey: ward-2016-prosody
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July
+  paper_id: '2003'
+  parent_volume_id: Z16-2
+  publisher: SEMDIAL
+  title: Prosody, Action, and Coordination in Real-time Gameplay
+  title_html: Prosody, Action, and Coordination in Real-time Gameplay
+  url: http://semdial.org/anthology/Z16-Ward_semdial_0003.pdf
+  year: '2016'
+Z16-2004:
+  address: New Brunswick, NJ
+  author:
+  - first: Elisabeth
+    full: Elisabeth Camp
+    id: elisabeth-camp
+    last: Camp
+  bibkey: camp-2016-sarcasm
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July
+  paper_id: '2004'
+  parent_volume_id: Z16-2
+  publisher: SEMDIAL
+  title: Sarcasm in Conversational Action
+  title_html: Sarcasm in Conversational Action
+  url: http://semdial.org/anthology/Z16-Camp_semdial_0004.pdf
+  year: '2016'
+Z16-3005:
+  address: New Brunswick, NJ
+  author:
+  - first: Julian
+    full: "Julian Schl\xF6der"
+    id: julian-j-schloder
+    last: "Schl\xF6der"
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: schloder-etal-2016-w
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3005'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: W h y ?
+  title_html: W h y ?
+  url: http://semdial.org/anthology/Z16-Schloder_semdial_0005.pdf
+  year: '2016'
+Z16-3006:
+  address: New Brunswick, NJ
+  author:
+  - first: Suwe
+    full: Suwe Reyle
+    id: suwe-reyle
+    last: Reyle
+  - first: Arndt
+    full: Arndt Riester
+    id: arndt-riester
+    last: Riester
+  bibkey: reyle-riester-2016-joint
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3006'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: Joint Information Structure and Discourse Structure Analysis in an Underspecified
+    DRT Framework
+  title_html: Joint Information Structure and Discourse Structure Analysis in an Underspecified
+    DRT Framework
+  url: http://semdial.org/anthology/Z16-Reyle_semdial_0006.pdf
+  year: '2016'
+Z16-3007:
+  address: New Brunswick, NJ
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  bibkey: dobnik-kelleher-2016-model
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3007'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: A Model for Attention-Driven Judgements in Type Theory with Records
+  title_html: A Model for Attention-Driven Judgements in Type Theory with Records
+  url: http://semdial.org/anthology/Z16-Dobnik_semdial_0007.pdf
+  year: '2016'
+Z16-3008:
+  address: New Brunswick, NJ
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: schlangen-2016-grounding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3008'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: 'Grounding, Justification, Adaptation: Towards Machines That Mean What They
+    Say'
+  title_html: 'Grounding, Justification, Adaptation: Towards Machines That Mean What
+    They Say'
+  url: http://semdial.org/anthology/Z16-Schlangen_semdial_0008.pdf
+  year: '2016'
+Z16-3009:
+  address: New Brunswick, NJ
+  author:
+  - first: Yanchao
+    full: Yanchao Yu
+    id: yanchao-yu
+    last: Yu
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  bibkey: yu-etal-2016-comparing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3009'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: Comparing Dialogue Strategies for Learning Grounded Language from Human Tutors
+  title_html: Comparing Dialogue Strategies for Learning Grounded Language from Human
+    Tutors
+  url: http://semdial.org/anthology/Z16-Yu_semdial_0009.pdf
+  year: '2016'
+Z16-3010:
+  address: New Brunswick, NJ
+  author:
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Soumya
+    full: Soumya Paul
+    id: soumya-paul
+    last: Paul
+  bibkey: asher-paul-2016-evaluating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3010'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: 'Evaluating Conversational Success: Weighted Message Exchange Games'
+  title_html: 'Evaluating Conversational Success: Weighted Message Exchange Games'
+  url: http://semdial.org/anthology/Z16-Asher_semdial_0010.pdf
+  year: '2016'
+Z16-3011:
+  address: New Brunswick, NJ
+  author:
+  - first: Natalia
+    full: Natalia Korotkova
+    id: natalia-korotkova
+    last: Korotkova
+  bibkey: korotkova-2016-disagreement
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3011'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: 'Disagreement with Evidentials: A Call for Subjectivity'
+  title_html: 'Disagreement with Evidentials: A Call for Subjectivity'
+  url: http://semdial.org/anthology/Z16-Korotkova_semdial_0011.pdf
+  year: '2016'
+Z16-3012:
+  address: New Brunswick, NJ
+  author:
+  - first: Jeffrey
+    full: Jeffrey Klassen
+    id: jeffrey-klassen
+    last: Klassen
+  - first: Michael
+    full: Michael Wagner
+    id: michael-wagner
+    last: Wagner
+  - first: Annie
+    full: Annie Tremblay,
+    id: annie-tremblay
+    last: Tremblay,
+  - first: Heather
+    full: Heather Goad
+    id: heather-goad
+    last: Goad
+  bibkey: klassen-etal-2016-prominence
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3012'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: Prominence Shifts in English and Spanish Parallel Constructions
+  title_html: Prominence Shifts in English and Spanish Parallel Constructions
+  url: http://semdial.org/anthology/Z16-Klassen_semdial_0012.pdf
+  year: '2016'
+Z16-3013:
+  address: New Brunswick, NJ
+  author:
+  - first: Phil
+    full: Phil Crone
+    id: phil-crone
+    last: Crone
+  bibkey: crone-2016-impotent
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3013'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: Impotent Speech Acts and Awareness
+  title_html: Impotent Speech Acts and Awareness
+  url: http://semdial.org/anthology/Z16-Crone_semdial_0013.pdf
+  year: '2016'
+Z16-3014:
+  address: New Brunswick, NJ
+  author:
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Ye
+    full: Ye Tian,
+    id: ye-tian1
+    last: Tian,
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: mazzocconi-etal-2016-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3014'
+  parent_volume_id: Z16-3
+  publisher: SEMDIAL
+  title: Multi-layered analysis of laughter
+  title_html: Multi-layered analysis of laughter
+  url: http://semdial.org/anthology/Z16-Mazzocconi_semdial_0014.pdf
+  year: '2016'
+Z16-4015:
+  address: New Brunswick, NJ
+  author:
+  - first: Petr
+    full: Petr Babkin
+    id: petr-babkin
+    last: Babkin
+  bibkey: babkin-2016-extralinguistic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July
+  paper_id: '4015'
+  parent_volume_id: Z16-4
+  publisher: SEMDIAL
+  title: Extralinguistic State Localization in Service of Turn Generation in Task-Oriented
+    Dialogue
+  title_html: Extralinguistic State Localization in Service of Turn Generation in
+    Task-Oriented Dialogue
+  url: http://semdial.org/anthology/Z16-Babkin_semdial_0015.pdf
+  year: '2016'
+Z16-4016:
+  address: New Brunswick, NJ
+  author:
+  - first: Kata
+    full: Kata Balogh
+    id: kata-balogh
+    last: Balogh
+  bibkey: balogh-2016-structural
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July
+  paper_id: '4016'
+  parent_volume_id: Z16-4
+  publisher: SEMDIAL
+  title: Structural focus and discourse structure in Hungarian narratives
+  title_html: Structural focus and discourse structure in Hungarian narratives
+  url: http://semdial.org/anthology/Z16-Balogh_semdial_0016.pdf
+  year: '2016'
+Z16-4017:
+  address: New Brunswick, NJ
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Kristina Lundholm
+    full: Kristina Lundholm Fors
+    id: kristina-lundholm-fors
+    last: Fors
+  bibkey: breitholtz-fors-2016-mocking
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July
+  paper_id: '4017'
+  parent_volume_id: Z16-4
+  publisher: SEMDIAL
+  title: Are you mocking me or are you laughing with me?
+  title_html: Are you mocking me or are you laughing with me?
+  url: http://semdial.org/anthology/Z16-Hough_semdial_0017.pdf
+  year: '2016'
+Z16-4018:
+  address: New Brunswick, NJ
+  author:
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: hough-schlangen-2016-pentorob
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July
+  paper_id: '4018'
+  parent_volume_id: Z16-4
+  publisher: SEMDIAL
+  title: 'PentoRob: A Puzzle-Playing Robot for Dialogue Experiments'
+  title_html: 'PentoRob: A Puzzle-Playing Robot for Dialogue Experiments'
+  url: http://semdial.org/anthology/Z16-Efstathiou_semdial_0018.pdf
+  year: '2016'
+Z16-4019:
+  address: New Brunswick, NJ
+  author:
+  - first: Sebastian
+    full: "Sebastian Reu\xDFe"
+    id: sebastian-reusse
+    last: "Reu\xDFe"
+  - first: Ralf
+    full: Ralf Klabunde
+    id: ralf-klabunde
+    last: Klabunde
+  - first: Jon
+    full: Jon Stevens,
+    id: jon-stevens1
+    last: Stevens,
+  - first: Anton
+    full: Anton Benz
+    id: anton-benz
+    last: Benz
+  bibkey: reusse-etal-2016-generating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July
+  paper_id: '4019'
+  parent_volume_id: Z16-4
+  publisher: SEMDIAL
+  title: Generating Surplus Content in a Q/A-Setting
+  title_html: Generating Surplus Content in a Q/A-Setting
+  url: "http://semdial.org/anthology/Z16-Reu\xDFe_semdial_0019.pdf"
+  year: '2016'
+Z16-4020:
+  address: New Brunswick, NJ
+  author:
+  - first: Julian J.
+    full: "Julian J. Schl\xF6der"
+    id: julian-j-schloder
+    last: "Schl\xF6der"
+  - first: Antoine
+    full: Antoine Venant,
+    id: antoine-venant1
+    last: Venant,
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  bibkey: schloder-etal-2016-aligning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July
+  paper_id: '4020'
+  parent_volume_id: Z16-4
+  publisher: SEMDIAL
+  title: 'Aligning Intentions: Acceptance and Rejection in Dialogue'
+  title_html: 'Aligning Intentions: Acceptance and Rejection in Dialogue'
+  url: "http://semdial.org/anthology/Z16-Schl\xF6der_semdial_0020.pdf"
+  year: '2016'
+Z16-4021:
+  address: New Brunswick, NJ
+  author:
+  - first: Yanchao
+    full: Yanchao Yu
+    id: yanchao-yu
+    last: Yu
+  - first: Arash
+    full: Arash Eshghi,
+    id: arash-eshghi1
+    last: Eshghi,
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: yu-etal-2016-incremental
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: July
+  paper_id: '4021'
+  parent_volume_id: Z16-4
+  publisher: SEMDIAL
+  title: An Incremental Dialogue System for Learning Visually Grounded Language
+  title_html: An Incremental Dialogue System for Learning Visually Grounded Language
+  url: http://semdial.org/anthology/Z16-Yu_semdial_0021.pdf
+  year: '2016'

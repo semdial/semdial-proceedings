@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="balogh-2016-structural">
+    <titleInfo>
+        <title>Structural focus and discourse structure in Hungarian narratives</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kata</namePart>
+        <namePart type="family">Balogh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2016-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">New Brunswick, NJ</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">balogh-2016-structural</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z16-Balogh_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2016-jul</date>
+    </part>
+</mods>
+</modsCollection>

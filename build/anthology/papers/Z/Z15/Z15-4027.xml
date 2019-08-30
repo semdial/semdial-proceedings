@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="dragone-lison-2015-non">
+    <titleInfo>
+        <title>Non-sentential utterances in dialogue: Experiments in classification and interpretation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Paolo</namePart>
+        <namePart type="family">Dragone</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pierre</namePart>
+        <namePart type="family">Lison</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dragone-lison-2015-non</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Dragone_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+</modsCollection>

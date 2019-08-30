@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="appelgren-lascarides-2019-coherence">
+    <titleInfo>
+        <title>Coherence, Symbol Grounding and Interactive Task Learning</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mattias</namePart>
+        <namePart type="family">Appelgren</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alex</namePart>
+        <namePart type="family">Lascarides</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">appelgren-lascarides-2019-coherence</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Appelgren_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="testoni-etal-2019-devil">
+    <titleInfo>
+        <title>The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alberto</namePart>
+        <namePart type="family">Testoni</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ravi</namePart>
+        <namePart type="family">Shekhar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raffaella</namePart>
+        <namePart type="family">Bernardi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">testoni-etal-2019-devil</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Testoni_semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="ilinykh-etal-2019-meet">
+    <titleInfo>
+        <title>Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nikolai</namePart>
+        <namePart type="family">Ilinykh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sina</namePart>
+        <namePart type="family">Zarrieß</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ilinykh-etal-2019-meet</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Ilinykh_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="cash-ginzburg-2019-sigh">
+    <titleInfo>
+        <title>A Sigh of Positivity: An Annotation Scheme for Sighs in Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christopher</namePart>
+        <namePart type="family">Cash</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">cash-ginzburg-2019-sigh</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Cash_semdial_0007.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="skach-healey-2019-posture">
+    <titleInfo>
+        <title>Posture Shifts in Conversation: An Exploratory Study with Textile Sensors</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sophie</namePart>
+        <namePart type="family">Skach</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Patrick</namePart>
+        <namePart type="given">G</namePart>
+        <namePart type="given">T</namePart>
+        <namePart type="family">Healey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">skach-healey-2019-posture</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Skach_semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="lorson-etal-2019-objecting">
+    <titleInfo>
+        <title>When Objecting to Presupposed Content Comes Easily</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alexandra</namePart>
+        <namePart type="family">Lorson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Chris</namePart>
+        <namePart type="family">Cummins</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hannah</namePart>
+        <namePart type="family">Rohde</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lorson-etal-2019-objecting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Lorson_semdial_0009.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="verity-2019-implicatures">
+    <titleInfo>
+        <title>Implicatures in Continuation-based Dynamic Semantics</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Florrie</namePart>
+        <namePart type="family">Verity</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">verity-2019-implicatures</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Verity_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="barker-gaizauskas-2019-framework">
+    <titleInfo>
+        <title>A Framework for Annotating Co-working Dialogues in Complex Task Settings</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Emma</namePart>
+        <namePart type="family">Barker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="family">Gaizauskas</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">barker-gaizauskas-2019-framework</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Barker_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="howes-etal-2019-good">
+    <titleInfo>
+        <title>Good call! Grounding in a Directory Enquiries Corpus</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Anastasia</namePart>
+        <namePart type="family">Bondarenko</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">howes-etal-2019-good</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Howes_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="nasreen-etal-2019-corpus">
+    <titleInfo>
+        <title>A Corpus Study on Questions, Responses and Misunderstanding Signals in Conversations with Alzheimer’s Patients</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Shamila</namePart>
+        <namePart type="family">Nasreen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">nasreen-etal-2019-corpus</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Nasreen_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="schloder-fernandez-2019-reject">
+    <titleInfo>
+        <title>How to Reject What in Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Schlöder</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernández</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">schloder-fernandez-2019-reject</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-SchlÃ¶der_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="simons-2019-status">
+    <titleInfo>
+        <title>The Status of Main Point Complement Clauses</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mandy</namePart>
+        <namePart type="family">Simons</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">simons-2019-status</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Simons_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="breitholtz-maraev-2019-put">
+    <titleInfo>
+        <title>How to Put an Elephant in the Title: Modeling Humorous Incongruity with Topoi</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Breitholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Vladislav</namePart>
+        <namePart type="family">Maraev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">breitholtz-maraev-2019-put</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Breitholtz_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="zhang-healey-2019-co">
+    <titleInfo>
+        <title>Co-ordination of Head Nods: Asymmetries between Speakers and Listeners</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Leshao</namePart>
+        <namePart type="family">Zhang</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Patrick</namePart>
+        <namePart type="given">G</namePart>
+        <namePart type="given">T</namePart>
+        <namePart type="family">Healey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">zhang-healey-2019-co</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Zhang_semdial_0017.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="sohail-etal-2019-character">
+    <titleInfo>
+        <title>Character Initiative in Dialogue Increases User Engagement and Rapport</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Usman</namePart>
+        <namePart type="family">Sohail</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Carla</namePart>
+        <namePart type="family">Gordon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ron</namePart>
+        <namePart type="family">Artstein</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Traum</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sohail-etal-2019-character</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Sohail_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+<mods ID="sahay-etal-2019-modeling">
+    <titleInfo>
+        <title>Modeling Intent, Dialog Policies and Response Adaptation for Goal-Oriented Interactions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Saurav</namePart>
+        <namePart type="family">Sahay</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Shachi</namePart>
+        <namePart type="given">H</namePart>
+        <namePart type="family">Kumar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Eda</namePart>
+        <namePart type="family">Okur</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Haroon</namePart>
+        <namePart type="family">Syed</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Lama</namePart>
+        <namePart type="family">Nachman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sahay-etal-2019-modeling</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Sahay_semdial_0019.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+</modsCollection>

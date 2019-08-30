@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z19">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Christine</first><last>Howes</last></editor>
+      <editor><first>Julian</first><last>Hough</last></editor>
+       <editor><first>Casey</first><last>Kennington</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>London, United Kingdom</address>
+      <month>September</month>
+      <year>2019</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2019_londonlogue_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+     <booktitle>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Christine</first><last>Howes</last></editor>
+      <editor><first>Julian</first><last>Hough</last></editor>
+       <editor><first>Casey</first><last>Kennington</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>London, United Kingdom</address>
+      <month>September</month>
+      <year>2019</year>
+    </meta>
+
+<paper id="1"><title>Questions and Answers in Suicide Risk Assessment: A Conversation Analytic Perspective</title><author><first>Rose</first><last>McCabe</last></author><url>Z19-McCabe_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>Meaning as Coordinated Compositional Classification</title><author><first>Staffan</first><last>Larsson</last></author><url>Z19-Larsson_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>The Science of Laughter</title><author><first>Sophie</first><last>Scott</last></author><url>Z19-Scott_semdial_0003.pdf</url></paper>
+
+
+</volume>
+  <volume id="3">
+    <meta>
+<booktitle>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Christine</first><last>Howes</last></editor>
+      <editor><first>Julian</first><last>Hough</last></editor>
+       <editor><first>Casey</first><last>Kennington</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>London, United Kingdom</address>
+      <month>September</month>
+      <year>2019</year>
+    </meta>
+
+<paper id="4"><title>Coherence, Symbol Grounding and Interactive Task Learning</title><author><first>Mattias</first><last>Appelgren</last></author><author><first>Alex</first><last>Lascarides</last></author><url>Z19-Appelgren_semdial_0004.pdf</url></paper>
+
+<paper id="5"><title>The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game</title><author><first>Alberto</first><last>Testoni</last></author><author><first>Ravi</first><last>Shekhar</last></author><author><first>Raquel</first><last>Fern&#225;ndez</last></author><author><first>Raffaella</first><last>Bernardi</last></author><url>Z19-Testoni_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment</title><author><first>Nikolai</first><last>Ilinykh</last></author><author><first>Sina</first><last>Zarrie&#223;</last></author><author><first>David</first><last>Schlangen</last></author><url>Z19-Ilinykh_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>A Sigh of Positivity: An Annotation Scheme for Sighs in Dialogue</title><author><first>Christopher</first><last>Cash</last></author><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z19-Cash_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>Posture Shifts in Conversation: An Exploratory Study with Textile Sensors</title><author><first>Sophie</first><last>Skach</last></author><author><first>Patrick G. T.</first><last>Healey</last></author><url>Z19-Skach_semdial_0008.pdf</url></paper>
+
+<paper id="9"><title>When Objecting to Presupposed Content Comes Easily</title><author><first>Alexandra</first><last>Lorson</last></author><author><first>Chris</first><last>Cummins</last></author><author><first>Hannah</first><last>Rohde</last></author><url>Z19-Lorson_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>Implicatures in Continuation-based Dynamic Semantics</title><author><first>Florrie</first><last>Verity</last></author><url>Z19-Verity_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>A Framework for Annotating Co-working Dialogues in Complex Task Settings</title><author><first>Emma</first><last>Barker</last></author><author><first>Robert</first><last>Gaizauskas</last></author><url>Z19-Barker_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Good call! Grounding in a Directory Enquiries Corpus</title><author><first>Christine</first><last>Howes</last></author><author><first>Anastasia</first><last>Bondarenko</last></author><author><first>Staffan</first><last>Larsson</last></author><url>Z19-Howes_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>A Corpus Study on Questions, Responses and Misunderstanding Signals in Conversations with Alzheimer&#8217;s Patients</title><author><first>Shamila</first><last>Nasreen</last></author><author><first>Matthew</first><last>Purver</last></author><author><first>Julian</first><last>Hough</last></author><url>Z19-Nasreen_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>How to Reject What in Dialogue</title><author><first>Julian</first><last>Schl&#246;der</last></author><author><first>Raquel</first><last>Fern&#225;ndez</last></author><url>Z19-Schl&#246;der_semdial_0014.pdf</url></paper>
+
+<paper id="15"><title>The Status of Main Point Complement Clauses</title><author><first>Mandy</first><last>Simons</last></author><url>Z19-Simons_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>How to Put an Elephant in the Title: Modeling Humorous Incongruity with Topoi</title><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Vladislav</first><last>Maraev</last></author><url>Z19-Breitholtz_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>Co-ordination of Head Nods: Asymmetries between Speakers and Listeners</title><author><first>Leshao</first><last>Zhang</last></author><author><first>Patrick G. T.</first><last>Healey</last></author><url>Z19-Zhang_semdial_0017.pdf</url></paper>
+
+<paper id="18"><title>Character Initiative in Dialogue Increases User Engagement and Rapport</title><author><first>Usman</first><last>Sohail</last></author><author><first>Carla</first><last>Gordon</last></author><author><first>Ron</first><last>Artstein</last></author><author><first>David</first><last>Traum</last></author><url>Z19-Sohail_semdial_0018.pdf</url></paper>
+
+<paper id="19"><title>Modeling Intent, Dialog Policies and Response Adaptation for Goal-Oriented Interactions</title><author><first>Saurav</first><last>Sahay</last></author><author><first>Shachi H.</first><last>Kumar</last></author><author><first>Eda</first><last>Okur</last></author><author><first>Haroon</first><last>Syed</last></author><author><first>Lama</first><last>Nachman</last></author><url>Z19-Sahay_semdial_0019.pdf</url></paper>
+
+
+
+</volume>
+  <volume id="4">
+    <meta>
+<booktitle>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Christine</first><last>Howes</last></editor>
+      <editor><first>Julian</first><last>Hough</last></editor>
+       <editor><first>Casey</first><last>Kennington</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>London, United Kingdom</address>
+      <month>September</month>
+      <year>2019</year>
+    </meta>
+
+<paper id="20"><title>Analysis of Satisfaction and Topics in Repeated Conversation through Days</title><author><first>Tsunehiro</first><last>Arimoto</last></author><author><first>Hiroaki</first><last>Sugiyama</last></author><author><first>Masahiro</first><last>Mizukami</last></author><author><first>Hiromi</first><last>Narimatsu</last></author><author><first>Ryuichiro</first><last>Higashinaka</last></author><url>Z19-Arimoto_semdial_0020.pdf</url></paper>
+
+<paper id="21"><title>On Visual Coreference Chains Resolution</title><author><first>Simon</first><last>Dobnik</last></author><author><first>Sharid</first><last>Lo&#225;iciga</last></author><url>Z19-Dobnik_semdial_0021.pdf</url></paper>
+
+<paper id="22"><title>Rezonator: Visualizing Resonance for Coherence in Dialogue</title><author><first>John</first><last>Dubois</last></author><url>Z19-Dubois_semdial_0022.pdf</url></paper>
+
+<paper id="23"><title>Within and Between Speaker Transitions in Multiparty Casual Conversation</title><author><first>Emer</first><last>Gilmartin</last></author><author><first>Carl</first><last>Vogel</last></author><url>Z19-Gilmartin_semdial_0023.pdf</url></paper>
+
+<paper id="24"><title>A Wizard of Oz Data Collection Framework for Internet of Things Dialogues</title><author><first>Carla</first><last>Gordon</last></author><author><first>Volodymyr</first><last>Yanov</last></author><author><first>David</first><last>Traum</last></author><author><first>Kallirroi</first><last>Georgila</last></author><url>Z19-Gordon_semdial_0024.pdf</url></paper>
+
+<paper id="25"><title>Normativity, Meaning Plasticity, and the Significance of Vector Space Semantics</title><author><first>Eleni</first><last>Gregoromichelaki</last></author><author><first>Christine</first><last>Howes</last></author><author><first>Arash</first><last>Eshghi</last></author><author><first>Ruth</first><last>Kempson</last></author><author><first>Julian</first><last>Hough</last></author><author><first>Mehrnoosh</first><last>Sadrzadeh</last></author><author><first>Matthew</first><last>Purver</last></author><author><first>Gijs</first><last>Wijnholds</last></author><url>Z19-Gregoromichelaki_semdial_0025.pdf</url></paper>
+
+<paper id="26"><title>Comparing Cross Language Relevance vs Deep Neural Network Approaches to Corpus-based End-to-end Dialogue Systems</title><author><first>Seyed Hossein</first><last>Alavi</last></author><author><first>Anton</first><last>Leuski</last></author><author><first>David</first><last>Traum</last></author><url>Z19-Alavi_semdial_0026.pdf</url></paper>
+
+<paper id="27"><title>Collection and Analysis of Meaningful Dialogue by Constructing a Movie Recommendation Dialogue System</title><author><first>Takashi</first><last>Kodama</last></author><author><first>Ribeka</first><last>Tanaka</last></author><author><first>Sadao</first><last>Kurohashi</last></author><url>Z19-Kodama_semdial_0027.pdf</url></paper>
+
+<paper id="28"><title>Towards Finding Appropriate Responses to Multi-Intents - SPM: Sequential Prioritisation Model</title><author><first>Jakob</first><last>Landesberger</last></author><author><first>Ute</first><last>Ehrlich</last></author><url>Z19-Landesberger_semdial_0028.pdf</url></paper>
+
+<paper id="29"><title>Tense Use in Dialogue</title><author><first>Jos</first><last>Tellings</last></author><author><first>Martijn van der</first><last>Klis</last></author><author><first>Bert Le</first><last>Bruyn</last></author><author><first>Henri&#235;tte de</first><last>Swart</last></author><url>Z19-Tellings_semdial_0029.pdf</url></paper>
+
+<paper id="30"><title>Shared Gaze toward the Speaker and Grounding Acts in Native and Second Language Conversation</title><author><first>Ichiro</first><last>Umata</last></author><author><first>Koki</first><last>Ijuin</last></author><author><first>Tsuneo</first><last>Kato</last></author><author><first>Seiichi</first><last>Yamamoto</last></author><url>Z19-Umata_semdial_0030.pdf</url></paper>
+
+<paper id="31"><title>A Taxonomy of Real-Life Questions and Answers in Dialogue</title><author><first>Maxime</first><last>Amblard</last></author><author><first>Maria</first><last>Boritchev</last></author><author><first>Marta</first><last>Carletti</last></author><author><first>Lea</first><last>Dieudonat</last></author><author><first>Yi-Ting</first><last>Tsai</last></author><url>Z19-Amblard_semdial_0031.pdf</url></paper>
+
+<paper id="32"><title>Pattern Recognition is Not Enough: Representing Language, Action and Perception with Modular Neural Networks</title><author><first>Simon</first><last>Dobnik</last></author><author><first>John</first><last>Kelleher</last></author><url>Z19-Dobnik_semdial_0032.pdf</url></paper>
+
+<paper id="33"><title>Investigating Variable Dependencies in Dialogue States</title><author><first>Anh Duong</first><last>Trinh</last></author><author><first>Robert</first><last>Ross</last></author><author><first>John</first><last>Kelleher</last></author><url>Z19-Trinh_semdial_0033.pdf</url></paper>
+
+<paper id="34"><title>"What are you laughing at?" Incremental Processing of Laughter in Interaction</title><author><first>Arash</first><last>Eshghi</last></author><author><first>Vladislav</first><last>Maraev</last></author><author><first>Christine</first><last>Howes</last></author><author><first>Julian</first><last>Hough</last></author><author><first>Chiara</first><last>Mazzocconi</last></author><url>Z19-Eshghi_semdial_0034.pdf</url></paper>
+
+<paper id="35"><title>Exploring Lattice-based Models of Relevance in Dialogue for Questions and Implicatures</title><author><first>Julian</first><last>Hough</last></author><author><first>Andrew</first><last>Lewis-Smith</last></author><url>Z19-Hough_semdial_0035.pdf</url></paper>
+
+<paper id="36"><title>Interactive Visual Grounding with Neural Networks</title><author><first>Jos&#233; Miguel Cano</first><last>Sant&#237;n</last></author><author><first>Simon</first><last>Dobnik</last></author><author><first>Mehdi</first><last>Ghanimifard</last></author><url>Z19-Sant&#237;n_semdial_0036.pdf</url></paper>
+
+<paper id="37"><title>Bouletic and Deontic Modality and Social Choice</title><author><first>Sumiyo</first><last>Nishiguchi</last></author><url>Z19-Nishiguchi_semdial_0037.pdf</url></paper>
+
+<paper id="38"><title>Towards a Formal Model of Word Meaning Negotiation</title><author><first>Bill</first><last>Noble</last></author><author><first>Asad</first><last>Sayeed</last></author><author><first>Staffan</first><last>Larsson</last></author><url>Z19-Noble_semdial_0038.pdf</url></paper>
+
+<paper id="39"><title>Towards Multimodal Understanding of Passenger-Vehicle Interactions in Autonomous Vehicles: Intent/Slot Recognition Utilizing Audio-Visual Data</title><author><first>Eda</first><last>Okur</last></author><author><first>Shachi H.</first><last>Kumar</last></author><author><first>Saurav</first><last>Sahay</last></author><author><first>Lama</first><last>Nachman</last></author><url>Z19-Okur_semdial_0039.pdf</url></paper>
+
+<paper id="40"><title>Pronominal Ambiguity Resolution in Spanish Child Dialogue: A Corpus Based Developmental Language Acquisition Approach</title><author><first>Martha</first><last>Robinson</last></author><url>Z19-Robinson_semdial_0040.pdf</url></paper>
+
+<paper id="41"><title>Eye Gaze in Interaction: Towards an Annotation Scheme for Dialogue</title><author><first>Vidya</first><last>Somashekarappa</last></author><author><first>Christine</first><last>Howes</last></author><author><first>Asad</first><last>Sayeed</last></author><url>Z19-Somashekarappa_semdial_0041.pdf</url></paper>
+
+
+
+  </volume>
+</collection>

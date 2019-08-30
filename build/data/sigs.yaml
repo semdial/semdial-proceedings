@@ -1,0 +1,1331 @@
+SEMITIC:
+  name: Special Interest Group on Computational Approaches to Semitic Languages (SEMITIC)
+  slug: semitic
+  url: http://cl.haifa.ac.il/semitic/
+  volumes_by_year:
+    1998:
+    - W98-10
+    2001:
+    - W01-11
+    2002:
+    - W02-05
+    2003:
+    - name: 'Machine Translation for Semitic Languages: Issues and Approaches'
+      url: http://www.cs.cmu.edu/~alavie/semitic-MT-wshp.html
+    2004:
+    - name: NEMLAR Conference on Arabic Language Resources and Tools
+      url: http://www.elda.org/nemlar-conf/
+    - W04-16
+    - name: Arabic Language Processing - Text and Speech, Traitement Automatique des
+        Langues Naturelles (TALN 2004)
+      url: http://www.lpl.univ-aix.fr/jep-taln04/arabic.htm
+    2005:
+    - W05-07
+    2007:
+    - W07-08
+    2009:
+    - W09-08
+    2017:
+    - W17-13
+  years:
+  - '1998'
+  - '2001'
+  - '2002'
+  - '2003'
+  - '2004'
+  - '2005'
+  - '2007'
+  - '2009'
+  - '2017'
+SIGANN:
+  name: Special Interest Group for Annotation (SIGANN)
+  slug: sigann
+  url: http://www.cs.vassar.edu/sigann/
+  volumes_by_year:
+    2007:
+    - W07-15
+    2008:
+    - name: The LAW II
+      url: http://verbs.colorado.edu/LAW2008/
+    2009:
+    - W09-19
+    - W09-24
+    - W09-30
+    2010:
+    - W10-18
+    2011:
+    - W11-04
+    2012:
+    - W12-36
+    2013:
+    - W13-16
+    - W13-23
+    - W13-54
+    - W13-55
+    2014:
+    - W14-49
+    2015:
+    - W15-16
+    - W15-29
+    2016:
+    - W16-17
+    2017:
+    - W17-08
+    2018:
+    - W18-49
+    2019:
+    - W19-40
+  years:
+  - '2007'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+  - '2019'
+SIGBIOMED:
+  name: Special Interest Group on Biomedical Natural Language Processing
+  slug: sigbiomed
+  url: http://www.sigbiomed.org/
+  volumes_by_year:
+    2009:
+    - W09-13
+    - W09-14
+    2011:
+    - W11-02
+    - W11-18
+    2012:
+    - W12-24
+    2015:
+    - W15-38
+    2016:
+    - W16-29
+    - W16-30
+    - W16-31
+    2017:
+    - W17-23
+    2019:
+    - W19-50
+  years:
+  - '2009'
+  - '2011'
+  - '2012'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2019'
+SIGDAT:
+  name: Special Interest Group on Linguistic data and corpus-based approaches to NLP
+    (SIGDAT)
+  slug: sigdat
+  url: http://www.aclweb.org/sigdat
+  volumes_by_year:
+    1993:
+    - W93-03
+    1994:
+    - name: Second Workshop on Very Large Corpora (WVLC-2)
+      url: null
+    1995:
+    - name: 'EACL-95 SIGDAT Workshop: From Text to Tags'
+      url: http://www.cis.upenn.edu/~yarowsky/eacl_sigdat_prog.html
+    - W95-01
+    1996:
+    - W96-01
+    - W96-02
+    1997:
+    - W97-03
+    - W97-01
+    1998:
+    - W98-11
+    - W98-15
+    1999:
+    - W99-06
+    2000:
+    - W00-13
+    2001:
+    - W01-05
+    2002:
+    - W02-10
+    2003:
+    - W03-10
+    2004:
+    - W04-32
+    2005:
+    - H05-1
+    2006:
+    - W06-16
+    2007:
+    - D07-1
+    2008:
+    - D08-1
+    2009:
+    - D09-1
+    2010:
+    - D10-1
+    2011:
+    - D11-1
+    2012:
+    - D12-1
+    - W12-37
+    - W12-45
+    2013:
+    - D13-1
+    2014:
+    - D14-1
+    2015:
+    - D15-1
+    2016:
+    - D16-1
+  years:
+  - '1993'
+  - '1994'
+  - '1995'
+  - '1996'
+  - '1997'
+  - '1998'
+  - '1999'
+  - '2000'
+  - '2001'
+  - '2002'
+  - '2003'
+  - '2004'
+  - '2005'
+  - '2006'
+  - '2007'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+SIGDIAL:
+  name: ACL/ISCA Special Interest Group on Discourse and Dialogue
+  slug: sigdial
+  url: http://www.aclweb.org/sigdial
+  volumes_by_year:
+    1998:
+    - W98-03
+    1999:
+    - name: 'Amstelogue 1999: Amsterdam Workshop on the Semantics and Pragmatics of
+        Dialogue (Amsterdam, Holland)'
+      url: null
+    - name: '15th Twente Workshop on Language Technology: Interaction in Virtual Worlds
+        (Enschede, The Netherlands)'
+      url: null
+    - W99-01
+    - W99-03
+    - name: 'IJCAI Workshop on Knowledge and Reasoning in Practical Dialogue Systems
+        (Stockholm, Sweden) '
+      url: null
+    - name: AAAI Fall Symposium on Psychological Models of Communication in Collaborative
+        Systems (North Falmouth, Massachusetts, USA)
+      url: null
+    2000:
+    - name: 'AAAI Spring Symposium, My Dinner with R2D2: Natural Dialogues with Practical
+        Robotic Devices'
+      url: null
+    - W00-03
+    - name: 'From spoken dialogue to full natural interactive dialogue: Theory, empirical
+        analysis and evaluation. (LREC 2000) (Athens, Greece)'
+      url: null
+    - name: 'G&ouml;talog 2000: 2000: 4th Workshop on the Semantics and Pragmatics
+        of Dialogue (G&ouml;teborg University, Sweden)'
+      url: null
+    - name: Third Workshop on Human-Computer Conversation (Bellagio, Italy)
+      url: null
+    - W00-10
+    - name: AAAI Fall Symposium, Building Dialogue Systems for Tutorial Applications
+        (North Falmouth, MA, USA)
+      url: null
+    2001:
+    - W01-16
+    2002:
+    - name: ITS 2002 Workshop on Empirical Methods for Tutorial Dialogue Systems  (San
+        Sebastian, Spain)
+      url: http://www.cs.cmu.edu/~aleven/ITS2002DialogueWS/
+    - name: ISCA Tutorial and Research Workshop (ITRW) on Multi-Modal Dialogue in
+        Mobile Environments (IDS 2002) (Kloster Irsee, Germany)
+      url: null
+    - W02-02
+    - name: 'EDILOG 2002: Sixth Workshop on the Semantics and Pragmatics of Dialogue
+        (Edinburgh, Scotland)'
+      url: null
+    2003:
+    - W03-21
+    - W03-27
+    2004:
+    - W04-23
+    2006:
+    - W06-13
+    2008:
+    - W08-01
+    2009:
+    - W09-39
+    2010:
+    - W10-43
+    2011:
+    - W11-20
+    2012:
+    - W12-16
+    2013:
+    - W13-40
+    2014:
+    - W14-43
+    - W14-50
+    2015:
+    - W15-27
+    - W15-46
+    2016:
+    - W16-36
+    2017:
+    - W17-55
+    2018:
+    - W18-50
+  years:
+  - '1998'
+  - '1999'
+  - '2000'
+  - '2001'
+  - '2002'
+  - '2003'
+  - '2004'
+  - '2006'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+SIGEDU:
+  name: Special Interest Group for Building Educational Applications
+  slug: sigedu
+  url: https://sig-edu.org/
+  volumes_by_year:
+    2003:
+    - W03-02
+    2005:
+    - W05-02
+    2008:
+    - W08-09
+    2009:
+    - W09-21
+    2010:
+    - W10-10
+    2011:
+    - W11-14
+    2012:
+    - W12-20
+    2013:
+    - W13-17
+    2014:
+    - W14-18
+    - W14-35
+    2015:
+    - W15-06
+    - W15-19
+    2016:
+    - W16-05
+    - W16-65
+    2017:
+    - W17-50
+    - W17-03
+    2018:
+    - W18-05
+    - W18-71
+    2019:
+    - W19-44
+  years:
+  - '2003'
+  - '2005'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+  - '2019'
+SIGFSM:
+  name: Special Interest Group on Finite-State Methods (SIGFSM)
+  slug: sigfsm
+  url: https://kitwiki.csc.fi/twiki/bin/view/KitWiki/SIGFSM
+  volumes_by_year:
+    2011:
+    - W11-44
+    2012:
+    - W12-62
+    - W12-08
+    2013:
+    - W13-18
+    2014:
+    - W14-28
+    2015:
+    - W15-48
+    2016:
+    - W16-24
+    - W16-33
+    2017:
+    - W17-40
+  years:
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+SIGGEN:
+  name: Special Interest Group on Natural Language Generation (SIGGEN)
+  slug: siggen
+  url: https://aclweb.org/aclwiki/SIGGEN
+  volumes_by_year:
+    1990:
+    - W90-01
+    1994:
+    - W94-03
+    1996:
+    - W96-04
+    - W96-05
+    1998:
+    - W98-14
+    2000:
+    - name: 'Impacts in Language Generation: NLG Between Technology and Applications'
+      url: http://impacts.dfki.de/
+    - W00-14
+    2001:
+    - W01-08
+    - name: International workshop on Computational Models of Natural Language Argument
+      url: http://www.csc.liv.ac.uk/~floriana/CMNLA.html
+    2002:
+    - W02-21
+    2003:
+    - name: AAAI Spring Symposium on Natural Language Generation in Spoken and Written
+        Dialogue
+      url: http://www.cs.niu.edu/~nlgdial
+    - W03-23
+    2004:
+    - name: Third International Conference on Natural Language Generation
+      url: http://www.springer.com/computer/ai/book/978-3-540-22340-5
+    2005:
+    - W05-16
+    - name: Computational Models of Natural Argument
+      url: http://www.csc.liv.ac.uk/~floriana/CMNA5/
+    - name: Using Corpora for Natural Language Generation
+      url: http://www.itri.brighton.ac.uk/ucnlg/
+    - name: Symposium on Dialog Modeling and Generation
+      url: http://lubitsch.lili.uni-bielefeld.de/DMG/
+    2006:
+    - W06-14
+    2007:
+    - W07-23
+    - name: Workshop on Multimodal Output Generation
+      url: http://www.csd.abdn.ac.uk/mog2007/
+    2008:
+    - W08-11
+    2009:
+    - W09-06
+    2010:
+    - W10-42
+    2011:
+    - W11-27
+    - W11-28
+    2012:
+    - W12-15
+    2013:
+    - W13-21
+    2014:
+    - W14-44
+    - W14-50
+    2015:
+    - W15-47
+    2016:
+    - W16-35
+    - W16-55
+    - W16-66
+    2017:
+    - W17-35
+    - W17-36
+    - W17-37
+    - W17-38
+    - W17-39
+    2018:
+    - W18-36
+    - W18-65
+    - W18-66
+    - W18-67
+    - W18-69
+    - W18-70
+  years:
+  - '1990'
+  - '1994'
+  - '1996'
+  - '1998'
+  - '2000'
+  - '2001'
+  - '2002'
+  - '2003'
+  - '2004'
+  - '2005'
+  - '2006'
+  - '2007'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+SIGHAN:
+  name: Special Interest Group on Chinese Language Processing (SIGHAN)
+  slug: sighan
+  url: http://www.sighan.org
+  volumes_by_year:
+    2000:
+    - W00-12
+    2002:
+    - W02-18
+    2003:
+    - W03-17
+    2004:
+    - W04-11
+    2005:
+    - I05-3
+    2006:
+    - W06-01
+    2008:
+    - I08-4
+    2010:
+    - W10-41
+    2012:
+    - W12-63
+    2013:
+    - W13-44
+    2014:
+    - W14-68
+    2015:
+    - W15-31
+    2017:
+    - W17-60
+  years:
+  - '2000'
+  - '2002'
+  - '2003'
+  - '2004'
+  - '2005'
+  - '2006'
+  - '2008'
+  - '2010'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2017'
+SIGHUM:
+  name: Special Interest Group on Language Technologies for the Socio-Economic Sciences
+    and Humanities
+  slug: sighum
+  url: null
+  volumes_by_year:
+    2007:
+    - W07-09
+    2008:
+    - name: Workshop on Language Technology for Cultural Heritage, Social Sciences,
+        and Humanities
+      url: http://www.lrec-conf.org/proceedings/lrec2008/workshops/W22_Proceedings.pdf
+    2009:
+    - W09-03
+    2010:
+    - name: Fourth Workshop on Language Technology for Cultural Heritage, Social Sciences,
+        and Humanities
+      url: http://ilk.uvt.nl/LaTeCH2010/
+    2011:
+    - W11-15
+    2012:
+    - W12-10
+    2013:
+    - W13-27
+    2014:
+    - W14-06
+    2015:
+    - W15-37
+    2016:
+    - W16-21
+    2017:
+    - W17-22
+    2019:
+    - W19-25
+  years:
+  - '2007'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2019'
+SIGLEX:
+  name: Special Interest Group on the Lexicon (SIGLEX)
+  slug: siglex
+  url: http://www.siglex.org/
+  volumes_by_year:
+    1995:
+    - name: AAAI-95 Spring Symposium
+      url: null
+    1997:
+    - name: 'SIGLEX97: Tagging Text with Lexical Semantics: Why, What, and How?'
+      url: http://www.ims.uni-stuttgart.de/~light/tueb_html/semtag_ws.html
+    1998:
+    - S98-1
+    - name: WSD Evaluation Exercise - SENSEVAL AND THE LEXICOGRAPHY LOOP
+      url: http://www.itri.bton.ac.uk/events/senseval/
+    1999:
+    - W99-05
+    2000:
+    - W00-08
+    2001:
+    - S01-1
+    2003:
+    - W03-18
+    - W03-14
+    - W03-06
+    2004:
+    - name: 'Workshop on Lexical Resources and the Web for Word Sense Disambiguation:
+        IBERAMIA 2004, Tonantzintla - Puebla M&eacute;xico, 22 November 2004'
+      url: null
+    - name: Third International Workshop on Dictionary Writing Systems (DWS 2004)'
+      url: http://nlp.fi.muni.cz/dws2004/
+    - W04-06
+    - W04-08
+    - W04-09
+    - W04-04
+    - name: 11th EURALEX International Congress
+      url: http://www.univ-ubs.fr/euralex2004/
+    - name: Building Lexical Resources from Semantically Annotated Corpora
+      url: null
+    - name: 'OntoLex 2004: Ontologies and Lexical Resources in Distributed Environments'
+      url: http://www.loa-cnr.it/ontolex2004.html
+    - name: 'Beyond Named Entity Recognition: Semantic labelling for NLP tasks'
+      url: http://ai-nlp.info.uniroma2.it/ws_lrec04/
+    2005:
+    - W05-10
+    - name: Third International Workshop on Generative Approaches to the Lexicon,
+        Geneva, Switzerland, May 19-21, 2005
+      url: null
+    - name: 'Applications of GermaNet II: Workshop of the GLDV AK Lexikographie'
+      url: http://www.sfs.uni-tuebingen.de/lsd/Workshop2005-eProgramm
+    - name: 'Interdisciplinary Workshop on the Identification and Representation of
+        Verb Features and Verb Classes : Saarland University, Saarbr&uuml;cken, Germany,
+        February 28 - March 1, 2005'
+      url: http://www.coli.uni-saarland.de/conf/verbs-05/
+    2006:
+    - W06-11
+    - W06-12
+    - W06-25
+    - W06-21
+    - W06-24
+    2007:
+    - name: Acquisition and Management of Mulitlingual Lexicons, Workshop at RANLP-2007,
+        September 30, 2007 (Endorsed by the ACL Special Interest Group on the Lexicon)
+      url: http://pers-www.wlv.ac.uk/~in8113/amml07/
+    - S07-1
+    - name: A Broader Perspective on Multiword Expressions, ACL 2007 Workshop, June
+        28, 2007, Prague, Czech Republic (Endorsed by the ACL Special Interest Group
+        on the Lexicon)
+      url: http://www.let.uu.nl/~Nicole.Gregoire/personal/ACL07-MWE/
+    - W07-16
+    - W07-02
+    2008:
+    - W08-20
+    - W08-19
+    2009:
+    - W09-32
+    - W09-29
+    - W09-24
+    - W09-02
+    2010:
+    - W10-31
+    - W10-37
+    2011:
+    - W11-24
+    - W11-25
+    - W11-11
+    - W11-10
+    - W11-08
+    2012:
+    - W12-34
+    - W12-37
+    - W12-42
+    - S12-1
+    2013:
+    - S13-1
+    - S13-2
+    - W13-08
+    - W13-10
+    - W13-38
+    - W13-54
+    - W13-55
+    2014:
+    - W14-58
+    - W14-47
+    - S14-1
+    - S14-2
+    - W14-05
+    - W14-08
+    2015:
+    - S15-1
+    - S15-2
+    - W15-09
+    - W15-10
+    - W15-27
+    2016:
+    - S16-1
+    - S16-2
+    - W16-18
+    2017:
+    - S17-1
+    - S17-2
+    - W17-17
+    2018:
+    - S18-1
+    - S18-2
+    - W18-49
+    2019:
+    - S19-1
+    - S19-2
+    - W19-51
+  years:
+  - '1995'
+  - '1997'
+  - '1998'
+  - '1999'
+  - '2000'
+  - '2001'
+  - '2003'
+  - '2004'
+  - '2005'
+  - '2006'
+  - '2007'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+  - '2019'
+SIGMEDIA:
+  name: Special Interest Group on Multimedia Language Processing (SIGMEDIA)
+  slug: sigmedia
+  url: http://www.sigmedia.org/
+  volumes_by_year:
+    1995:
+    - name: 'First Workshop on Intelligence and Multimodality in Multimedia Interfaces:
+        Research and Applications (IMMI-1)'
+      url: http://www.cogsci.ed.ac.uk/~john/IMMI_call/index.html
+    1996:
+    - name: Reference in Multimedia
+      url: http://www.dfki.uni-sb.de/imedia/workshops/mm-references.html
+    1998:
+    - name: Workshop on Content Visualization and Intermedia Representations (CVIR
+        98)
+      url: http://www.cs.brandeis.edu/~jamesp/CVIR/
+    - name: Workshop on Combining AI and Graphics for the Interface of the Future
+        in association with ECAI 98
+      url: http://www.cs.columbia.edu/~butz/ecai98/index.html
+    - name: 'Workshop on Combining AI and Graphics for the Interface of the Future
+        in association with Second International Conference on Cooperative Multimodal
+        Communication: CMC 98'
+      url: http://www.cs.columbia.edu/~butz/ecai98/index.html
+    1999:
+    - name: Behavior Planning for Life-Like Characters and Avatars
+      url: http://www.dfki.de/imedia/workshops/i3-spring99/w4-info.html
+    2001:
+    - name: Workshop on Temporal and Spatial Processing
+      url: http://epsilon3.georgetown.edu/~discours/spacetime.html
+    2002:
+    - name: Second Conference on Computational Semiotics for Games and New Media
+      url: http://www.kinonet.com/conferences/cosign2002/
+    - name: Multimodal Dialogue in Mobile Environments
+      url: http://mm-werkstatt.informatik.uni-augsburg.de/projects/sigmedia/ids02/index.htm
+    2003:
+    - name: Fourth International Working Conference on Intelligent Virtual Agents
+        (IVA 2003)
+      url: http://www.sigmedia.org/iva03/
+    2004:
+    - name: How much human-like should an Intelligent Interface be?
+      url: http://mm-werkstatt.informatik.uni-augsburg.de/projects/sigmedia/avi04/index.html
+    - name: Tutorial and Research Workshop on Affective Dialogue Systems
+      url: http://mm-werkstatt.informatik.uni-augsburg.de/projects/sigmedia/ads04/index.html
+    - name: Dagstuhl Seminar on Evaluating Embodied Conversational Agents
+      url: http://www.dagstuhl.de/04121/
+    2006:
+    - name: Tutorial and Research Workshop - Perception and Interactive Technologies
+      url: http://it.e-technik.uni-ulm.de/World/Research.DS/irsee-workshops/pit06/introduction.html
+  years:
+  - '1995'
+  - '1996'
+  - '1998'
+  - '1999'
+  - '2001'
+  - '2002'
+  - '2003'
+  - '2004'
+  - '2006'
+SIGMOL:
+  name: Association for Mathematics of Language
+  slug: sigmol
+  url: http://molweb.org/
+  volumes_by_year:
+    2006:
+    - W06-15
+    2013:
+    - W13-30
+    2015:
+    - W15-23
+    2016:
+    - W16-33
+    2017:
+    - W17-34
+    2019:
+    - W19-57
+  years:
+  - '2006'
+  - '2013'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2019'
+SIGMORPHON:
+  name: Special Interest Group on Computational Morphology and Phonology (SIGMORPHON)
+  slug: sigmorphon
+  url: https://sigmorphon.github.io/
+  volumes_by_year:
+    1994:
+    - W94-02
+    1996:
+    - name: Computational Phonology in Speech Technology
+      url: null
+    1997:
+    - W97-11
+    1998:
+    - W98-09
+    2000:
+    - W00-18
+    2002:
+    - W02-06
+    2004:
+    - W04-01
+    2006:
+    - W06-32
+    2007:
+    - W07-13
+    2008:
+    - W08-07
+    2010:
+    - W10-22
+    2012:
+    - W12-23
+    2014:
+    - W14-28
+    2016:
+    - W16-20
+    2018:
+    - W18-58
+    2019:
+    - W19-49
+    - W19-42
+  years:
+  - '1994'
+  - '1996'
+  - '1997'
+  - '1998'
+  - '2000'
+  - '2002'
+  - '2004'
+  - '2006'
+  - '2007'
+  - '2008'
+  - '2010'
+  - '2012'
+  - '2014'
+  - '2016'
+  - '2018'
+  - '2019'
+SIGMT:
+  name: Special Interest Group for Machine Translation
+  slug: sigmt
+  url: http://www.sigmt.org/
+  volumes_by_year:
+    2005:
+    - W05-08
+    2006:
+    - W06-31
+    2007:
+    - W07-04
+    - W07-07
+    2008:
+    - W08-04
+    - W08-03
+    2009:
+    - W09-23
+    - W09-04
+    2011:
+    - W11-21
+    - W11-10
+    2012:
+    - W12-42
+    - W12-31
+    2013:
+    - W13-22
+    - W13-08
+    2014:
+    - W14-33
+    - W14-40
+    2015:
+    - W15-10
+    - W15-30
+    2016:
+    - W16-22
+    - W16-23
+    2017:
+    - W17-47
+    2018:
+    - W18-63
+    - W18-64
+  years:
+  - '2005'
+  - '2006'
+  - '2007'
+  - '2008'
+  - '2009'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+SIGNLL:
+  name: Special Interest Group on Natural Language Learning (SIGNLL)
+  slug: signll
+  url: http://www.signll.org/
+  volumes_by_year:
+    1997:
+    - W97-10
+    1998:
+    - W98-12
+    1999:
+    - W99-07
+    2000:
+    - W00-07
+    2001:
+    - W01-07
+    2002:
+    - W02-20
+    2003:
+    - W03-04
+    2004:
+    - W04-24
+    2005:
+    - W05-06
+    2006:
+    - W06-29
+    2007:
+    - D07-1
+    2008:
+    - W08-21
+    2009:
+    - W09-11
+    - W09-12
+    - W09-19
+    2010:
+    - W10-29
+    - W10-30
+    - W10-31
+    2011:
+    - W11-03
+    - W11-19
+    2012:
+    - D12-1
+    - W12-37
+    - W12-45
+    2013:
+    - W13-16
+    - W13-35
+    - W13-36
+    2014:
+    - W14-16
+    - W14-17
+    - W14-26
+    2015:
+    - K15-1
+    - K15-2
+    - W15-24
+    - W15-29
+    2016:
+    - K16-1
+    - K16-2
+    - W16-19
+    2017:
+    - K17-1
+    - K17-2
+    - K17-3
+    2018:
+    - K18-1
+    - K18-2
+    - K18-3
+  years:
+  - '1997'
+  - '1998'
+  - '1999'
+  - '2000'
+  - '2001'
+  - '2002'
+  - '2003'
+  - '2004'
+  - '2005'
+  - '2006'
+  - '2007'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+SIGPARSE:
+  name: Special Interest Group on Natural Language Parsing (SIGPARSE)
+  slug: sigparse
+  url: http://www.cs.cmu.edu/~sigparse
+  volumes_by_year:
+    1989:
+    - W89-02
+    1991:
+    - name: IWPT 1991
+      url: http://hmi.ewi.utwente.nl/sigparse/iwpt91_toc.html
+    1993:
+    - name: IWPT 1993
+      url: http://hmi.ewi.utwente.nl/sigparse/iwpt93_toc.html
+    1995:
+    - name: IWPT 1995
+      url: http://hmi.ewi.utwente.nl/sigparse/iwpt95_toc.html
+    1997:
+    - name: IWPT 1997
+      url: http://hmi.ewi.utwente.nl/sigparse/iwpt97_abstracts.html
+    2000:
+    - name: IWPT 2000
+      url: http://tcc.itc.it/events/iwpt2000.html
+    2001:
+    - W01-18
+    2003:
+    - W03-30
+    2005:
+    - W05-15
+    2007:
+    - W07-22
+    2009:
+    - W09-38
+    2010:
+    - W10-14
+    2011:
+    - W11-38
+    - W11-29
+    2012:
+    - W12-34
+    2013:
+    - W13-49
+    - W13-57
+    2014:
+    - W14-61
+    2015:
+    - W15-22
+    2017:
+    - W17-63
+  years:
+  - '1989'
+  - '1991'
+  - '1993'
+  - '1995'
+  - '1997'
+  - '2000'
+  - '2001'
+  - '2003'
+  - '2005'
+  - '2007'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2017'
+SIGREP:
+  name: Special Interest Group on Representation Learning
+  slug: sigrep
+  url: http://www.sigrep.org
+  volumes_by_year:
+    2016:
+    - W16-16
+    2017:
+    - W17-26
+    2018:
+    - W18-30
+    2019:
+    - W19-43
+  years:
+  - '2016'
+  - '2017'
+  - '2018'
+  - '2019'
+SIGSEM:
+  name: Special Interest Group on Computational Semantics (SIGSEM)
+  slug: sigsem
+  url: http://www.sigsem.org/
+  volumes_by_year:
+    1994:
+    - name: Proceedings of the First International Workshop on Computational Semantics
+        (IWCS-1)
+      url: null
+    1997:
+    - name: Proceedings of the Second International Workshop on Computational Semantics
+        (IWCS-2)
+      url: null
+    1999:
+    - name: Proceedings of the Third International Workshop on Computational Semantics
+        (IWCS-3)
+      url: null
+    - name: Proceedings of the First International Workshop on Inference in Computational
+        Semantics (ICoS-1)
+      url: http://turing.wins.uva.nl/~mdr/ICoS/
+    2000:
+    - name: Proceedings of the Second International Workshop on Inference in Computational
+        Semantics (ICoS-2)
+      url: http://www.ags.uni-sb.de/~kohlhase/event/icos2/
+    2001:
+    - name: Proceedings of the Fourth International Workshop on Computational Semantics
+        (IWCS-4)
+      url: null
+    - name: Proceedings of the Third International Workshop on Inference in Computational
+        Semantics (ICoS-3)
+      url: http://www.cs.cmu.edu/~kohlhase/event/icos3/
+    2003:
+    - name: Proceedings of the Fifth International Workshop on Computational Semantics
+        (IWCS-5)
+      url: http://let.uvt.nl/research/ti/sigsem/iwcs/iwcs5/
+    - name: Proceedings of the Workshop on Inference in Computational Semantics (ICoS-4)
+      url: http://www.loria.fr/~areces/ICoS-4
+    2005:
+    - W06-21
+    - name: Proceedings of the Sixth International Workshop on Computational Semantics
+        (IWCS-6)
+      url: http://let.uvt.nl/research/ti/sigsem/iwcs/iwcs6/
+    2006:
+    - W06-39
+    2007:
+    - W07-16
+    - name: Proceedings of the Seventh International Workshop on Computational Semantics
+        (IWCS-7)
+      url: http://let.uvt.nl/research/ti/sigsem/iwcs/iwcs7/
+    2008:
+    - W08-22
+    2009:
+    - W09-24
+    - W09-37
+    2010:
+    - W10-31
+    2011:
+    - W11-24
+    - W11-25
+    - W11-01
+    2012:
+    - W12-37
+    - S12-1
+    2013:
+    - S13-1
+    - S13-2
+    - W13-01
+    - W13-02
+    - W13-03
+    - W13-04
+    - W13-06
+    - W13-07
+    - W13-38
+    - W13-54
+    2014:
+    - S14-1
+    2015:
+    - S15-1
+    - S15-2
+    - W15-01
+    - W15-02
+    - W15-03
+    - W15-04
+    - W15-27
+    - W15-29
+    2016:
+    - S16-1
+    - S16-2
+    2017:
+    - S17-1
+    - S17-2
+    - W17-68
+    - W17-69
+    - W17-70
+    - W17-71
+    - W17-72
+    - W17-73
+    - W17-74
+    2018:
+    - S18-1
+    - S18-2
+    2019:
+    - W19-04
+    - W19-05
+    - W19-06
+    - W19-08
+    - W19-09
+    - W19-10
+    - W19-11
+    - W19-12
+    - S19-1
+  years:
+  - '1994'
+  - '1997'
+  - '1999'
+  - '2000'
+  - '2001'
+  - '2003'
+  - '2005'
+  - '2006'
+  - '2007'
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2011'
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+  - '2019'
+SIGSLAV:
+  name: Special Interest Group on Slavic Natural Language Processing
+  slug: sigslav
+  url: http://sigslav.cs.helsinki.fi/
+  volumes_by_year:
+    2013:
+    - W13-24
+    2015:
+    - W15-53
+    2017:
+    - W17-14
+    2019:
+    - W19-37
+  years:
+  - '2013'
+  - '2015'
+  - '2017'
+  - '2019'
+SIGSLPAT:
+  name: Special Interest Group on Speech and Language Processing for Assistive Technologies
+  slug: sigslpat
+  url: http://www.slpat.org/
+  volumes_by_year:
+    2012:
+    - W12-35
+    - W12-29
+    - W12-22
+    2013:
+    - W13-29
+    - W13-39
+    2014:
+    - W14-12
+    2015:
+    - W15-51
+    2019:
+    - W19-17
+  years:
+  - '2012'
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2019'
+SIGUR:
+  name: Special Interest Group on Uralic Languages
+  slug: sigur
+  url: https://acl-sigur.github.io/
+  volumes_by_year:
+    2017:
+    - W17-06
+    2018:
+    - W18-02
+    2019:
+    - W19-03
+  years:
+  - '2017'
+  - '2018'
+  - '2019'
+SIGWAC:
+  name: Special Interest Group on Web as Corpus (SIGWAC)
+  slug: sigwac
+  url: http://www.sigwac.org.uk/
+  volumes_by_year:
+    2005:
+    - name: WAC1, at Corpus Linguistics conference, Birmingham, UK, July 2005
+      url: http://sslmit.unibo.it/~baroni/web_as_corpus_cl05.html
+    2006:
+    - W06-17
+    2007:
+    - name: WAC3, Louvain-la-Neuve, Belgium, 15-16 September 2007
+      url: http://cental.fltr.ucl.ac.be/wac3
+    2010:
+    - W10-15
+    2014:
+    - W14-04
+    2016:
+    - W16-26
+  years:
+  - '2005'
+  - '2006'
+  - '2007'
+  - '2010'
+  - '2014'
+  - '2016'

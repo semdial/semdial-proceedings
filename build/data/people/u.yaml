@@ -1,0 +1,165 @@
+u-rohini:
+  coauthors: []
+  first: U.
+  full: U. Rohini
+  last: Rohini
+  papers: []
+  slug: u-rohini
+  venues: []
+udo-klein:
+  coauthors:
+  - - hannes-rieser
+    - 1
+  - - florian-hahn
+    - 1
+  - - insa-lawler
+    - 1
+  first: Udo
+  full: Udo Klein
+  last: Klein
+  papers:
+  - Z13-4034
+  slug: udo-klein
+  venues:
+  - - SEMDIAL
+    - 1
+udo-kruschwitz:
+  coauthors: []
+  first: Udo
+  full: Udo Kruschwitz
+  last: Kruschwitz
+  papers: []
+  slug: udo-kruschwitz
+  venues: []
+ulrich-schafer:
+  coauthors: []
+  first: Ulrich
+  full: "Ulrich Sch\xE4fer"
+  last: "Sch\xE4fer"
+  papers: []
+  slug: ulrich-schafer
+  venues: []
+ulrike-kugler:
+  coauthors: []
+  first: Ulrike
+  full: Ulrike Kugler
+  last: Kugler
+  papers: []
+  slug: ulrike-kugler
+  venues: []
+ulrike-mosel:
+  coauthors: []
+  first: Ulrike
+  full: Ulrike Mosel
+  last: Mosel
+  papers: []
+  slug: ulrike-mosel
+  venues: []
+ulrike-pado:
+  coauthors: []
+  first: Ulrike
+  full: Ulrike Pado
+  last: Pado
+  papers: []
+  slug: ulrike-pado
+  venues: []
+ulrike-schwall:
+  coauthors: []
+  first: Ulrike
+  full: Ulrike Schwall
+  last: Schwall
+  papers: []
+  slug: ulrike-schwall
+  venues: []
+umit-deniz-turan:
+  coauthors: []
+  first: Umit Deniz
+  full: Umit Deniz Turan
+  last: Turan
+  papers: []
+  slug: umit-deniz-turan
+  venues: []
+un-gian-iunn:
+  coauthors: []
+  first: Un-Gian
+  full: Un-Gian Iunn
+  last: Iunn
+  papers: []
+  slug: un-gian-iunn
+  venues: []
+uri-zernik:
+  coauthors: []
+  first: Uri
+  full: Uri Zernik
+  last: Zernik
+  papers: []
+  slug: uri-zernik
+  venues: []
+usman-sohail:
+  coauthors:
+  - - carla-gordon
+    - 1
+  - - ron-artstein
+    - 1
+  - - david-traum
+    - 1
+  first: Usman
+  full: Usman Sohail
+  last: Sohail
+  papers:
+  - Z19-3018
+  slug: usman-sohail
+  venues:
+  - - SEMDIAL
+    - 1
+ute-ehrlich:
+  coauthors:
+  - - jakob-landesberger
+    - 2
+  first: Ute
+  full: Ute Ehrlich
+  last: Ehrlich
+  papers:
+  - Z19-4028
+  - Z18-4032
+  slug: ute-ehrlich
+  venues:
+  - - SEMDIAL
+    - 2
+ute-ziegenhain:
+  coauthors: []
+  first: Ute
+  full: Ute Ziegenhain
+  last: Ziegenhain
+  papers: []
+  slug: ute-ziegenhain
+  venues: []
+utpal-kumar-sikdar:
+  coauthors: []
+  first: Utpal Kumar
+  full: Utpal Kumar Sikdar
+  last: Sikdar
+  papers: []
+  slug: utpal-kumar-sikdar
+  venues: []
+uwe-reichel:
+  coauthors: []
+  first: Uwe
+  full: Uwe Reichel
+  last: Reichel
+  papers: []
+  slug: uwe-reichel
+  venues: []
+uwe-reyle:
+  coauthors:
+  - - cristel-portes
+    - 1
+  first: Uwe
+  full: Uwe Reyle
+  last: Reyle
+  papers:
+  - Z13-4043
+  slug: uwe-reyle
+  venues:
+  - - SEMDIAL
+    - 1

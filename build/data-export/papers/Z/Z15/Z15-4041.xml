@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="petukhova-etal-2015-experimenting">
+    <titleInfo>
+        <title>Experimenting with grounding strategies in dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Volha</namePart>
+        <namePart type="family">Petukhova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harry</namePart>
+        <namePart type="family">Bunt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andrei</namePart>
+        <namePart type="family">Malchanau</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ramkumar</namePart>
+        <namePart type="family">Aruchamy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">petukhova-etal-2015-experimenting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Petukhova_semdial_0041.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+</modsCollection>

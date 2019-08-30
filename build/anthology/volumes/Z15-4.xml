@@ -1,0 +1,1362 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="bogels-etal-2015-significance">
+    <titleInfo>
+        <title>The significance of silence: Long gaps attenuate the preference for ‘yes’ responses in conversation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sara</namePart>
+        <namePart type="family">Bögels</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kobin</namePart>
+        <namePart type="family">Kendrick</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stephen</namePart>
+        <namePart type="family">Levinson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bogels-etal-2015-significance</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-BÃ¶gels_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="breitholtz-howes-2015-within">
+    <titleInfo>
+        <title>Within reason: Categorising enthymematic reasoning in the balloon task</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Breitholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">breitholtz-howes-2015-within</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Breitholtz_semdial_0022.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="castillo-etal-2015-context">
+    <titleInfo>
+        <title>Context influence vs efficiency in establishing conventions: Communities do it better</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Lucia</namePart>
+        <namePart type="family">Castillo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Holly</namePart>
+        <namePart type="family">Branigan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kenny</namePart>
+        <namePart type="family">Smith</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">castillo-etal-2015-context</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Castillo_semdial_0023.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="claus-etal-2015-response">
+    <titleInfo>
+        <title>Are response particles not well understood? Yes/No, they aren’t! An experimental study on German ja and nein</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Berry</namePart>
+        <namePart type="family">Claus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Marlijn</namePart>
+        <namePart type="family">Meijer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Sophie</namePart>
+        <namePart type="family">Repp</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Manfred</namePart>
+        <namePart type="family">Krifka</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">claus-etal-2015-response</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Claus_semdial_0024.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="graaf-dobnik-2015-kille">
+    <titleInfo>
+        <title>KILLE: Learning objects and spatial relations with kinect</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Erik</namePart>
+        <namePart type="given">de</namePart>
+        <namePart type="family">Graaf</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">graaf-dobnik-2015-kille</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Graaf_semdial_0025.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="kok-etal-2015-demonstrating">
+    <titleInfo>
+        <title>Demonstrating the dialogue system of the intelligent coaching space</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Iwan</namePart>
+        <namePart type="given">de</namePart>
+        <namePart type="family">Kok</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Felix</namePart>
+        <namePart type="family">Hülsmann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Thomas</namePart>
+        <namePart type="family">Waltema</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mario</namePart>
+        <namePart type="family">Botsch</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefan</namePart>
+        <namePart type="family">Kopp</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kok-etal-2015-demonstrating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Kok_semdial_0026.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="dragone-lison-2015-non">
+    <titleInfo>
+        <title>Non-sentential utterances in dialogue: Experiments in classification and interpretation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Paolo</namePart>
+        <namePart type="family">Dragone</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Pierre</namePart>
+        <namePart type="family">Lison</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">dragone-lison-2015-non</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Dragone_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="eshghi-2015-ds">
+    <titleInfo>
+        <title>DS-TTR: An incremental, semantic, contextual parser for dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Arash</namePart>
+        <namePart type="family">Eshghi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">eshghi-2015-ds</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Eshghi_semdial_0028.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="fouquere-quatrini-2015-interaction">
+    <titleInfo>
+        <title>What could interaction mean in natural language and how could it be useful?</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christophe</namePart>
+        <namePart type="family">Fouqueré</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Myriam</namePart>
+        <namePart type="family">Quatrini</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fouquere-quatrini-2015-interaction</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-FouquerÃ©_semdial_0029.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="hiller-fernandez-2015-towards">
+    <titleInfo>
+        <title>Towards the automatic extraction of corrective feedback in child-adult dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sarah</namePart>
+        <namePart type="family">Hiller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Raquel</namePart>
+        <namePart type="family">Fernandez</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hiller-fernandez-2015-towards</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Hiller_semdial_0030.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="hjalmarsson-zellers-2015-spot">
+    <titleInfo>
+        <title>Spot the difference - A dialog system to explore turn-taking in an interactive setting</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Anna</namePart>
+        <namePart type="family">Hjalmarsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Margaret</namePart>
+        <namePart type="family">Zellers</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hjalmarsson-zellers-2015-spot</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Hjalmarsson_semdial_0031.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="homke-etal-2015-eye">
+    <titleInfo>
+        <title>Eye blinking as addressee feedback in face-to-face conversation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Paul</namePart>
+        <namePart type="family">Hömke</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Judith</namePart>
+        <namePart type="family">Holler</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stephen</namePart>
+        <namePart type="given">C</namePart>
+        <namePart type="family">Levinson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">homke-etal-2015-eye</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-HÃ¶mke_semdial_0032.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="janarthanam-etal-2015-reusable">
+    <titleInfo>
+        <title>A reusable interaction management module: Use case for empathic robotic tutoring</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Srinivasan</namePart>
+        <namePart type="family">Janarthanam</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Helen</namePart>
+        <namePart type="family">Hastie</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Amol</namePart>
+        <namePart type="family">Deshmukh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ruth</namePart>
+        <namePart type="family">Aylett</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mary</namePart>
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Foster</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">janarthanam-etal-2015-reusable</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Janarthanam_semdial_0033.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="katagiri-takanashi-2015-concern">
+    <titleInfo>
+        <title>Concern-alignment analysis of consultation dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yasuhiro</namePart>
+        <namePart type="family">Katagiri</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Katsuya</namePart>
+        <namePart type="family">Takanashi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">katagiri-takanashi-2015-concern</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Katagiri_semdial_0034.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="kempson-etal-2015-interactive">
+    <titleInfo>
+        <title>The interactive building of names</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ruth</namePart>
+        <namePart type="family">Kempson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stergios</namePart>
+        <namePart type="family">Chatzikyriakidis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ronnie</namePart>
+        <namePart type="family">Cann</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kempson-etal-2015-interactive</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Kempson_semdial_0035.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="kennington-etal-2015-playing">
+    <titleInfo>
+        <title>Playing a real-world reference game using the words-as-classifiers model of reference resolution</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Casey</namePart>
+        <namePart type="family">Kennington</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Soledad</namePart>
+        <namePart type="given">Lopez</namePart>
+        <namePart type="family">Gambino</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kennington-etal-2015-playing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Kennington_semdial_0036.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="larsson-2015-state">
+    <titleInfo>
+        <title>The state of the art in dealing with user answers</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">larsson-2015-state</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Larsson_semdial_0037.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="lewandowska-tomaszczyk-2015-polish">
+    <titleInfo>
+        <title>Polish event-linking devices of przed ‘before’ cluster in conversational data – Implications for contrastive analysis</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Barbara</namePart>
+        <namePart type="family">Lewandowska-Tomaszczyk</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lewandowska-tomaszczyk-2015-polish</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Lewandowska-Tomaszczyk_semdial_0038.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="lison-kennington-2015-developing">
+    <titleInfo>
+        <title>Developing spoken dialogue systems with the OpenDial toolkit</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Pierre</namePart>
+        <namePart type="family">Lison</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Casey</namePart>
+        <namePart type="family">Kennington</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lison-kennington-2015-developing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Lison_semdial_0039.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="nishiguchi-2015-ccg">
+    <titleInfo>
+        <title>CCG for discourse</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sumiyo</namePart>
+        <namePart type="family">Nishiguchi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">nishiguchi-2015-ccg</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Nishiguchi_semdial_0040.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="petukhova-etal-2015-experimenting">
+    <titleInfo>
+        <title>Experimenting with grounding strategies in dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Volha</namePart>
+        <namePart type="family">Petukhova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Harry</namePart>
+        <namePart type="family">Bunt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andrei</namePart>
+        <namePart type="family">Malchanau</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ramkumar</namePart>
+        <namePart type="family">Aruchamy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">petukhova-etal-2015-experimenting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Petukhova_semdial_0041.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="platek-juricek-2015-self">
+    <titleInfo>
+        <title>Self awareness for better common ground</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">OndŖej</namePart>
+        <namePart type="family">Plátek</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Filip</namePart>
+        <namePart type="family">JuŖíček</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">platek-juricek-2015-self</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-PlÃ¡tek_semdial_0042.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="pragst-etal-2015-adaptive">
+    <titleInfo>
+        <title>Adaptive dialogue management in the KRISTINA project for multicultural health care applications</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Louisa</namePart>
+        <namePart type="family">Pragst</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefan</namePart>
+        <namePart type="family">Ultes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthias</namePart>
+        <namePart type="family">Kraus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wolfgang</namePart>
+        <namePart type="family">Minker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">pragst-etal-2015-adaptive</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Pragst_semdial_0043.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="prevot-etal-2015-toward">
+    <titleInfo>
+        <title>Toward a scary comparative corpus: The Werewolf spoken corpus</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Laurent</namePart>
+        <namePart type="family">Prévot</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Yao</namePart>
+        <namePart type="family">Yao</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Arnaud</namePart>
+        <namePart type="family">Gingold</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bernard</namePart>
+        <namePart type="family">Bel</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Kam</namePart>
+        <namePart type="given">Yiu</namePart>
+        <namePart type="given">Joe</namePart>
+        <namePart type="family">Chan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">prevot-etal-2015-toward</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-PrÃ©vot_semdial_0044.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="priesters-etal-2015-towards">
+    <titleInfo>
+        <title>Towards a layered framework for embodied language processing in situated human-robot interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Matthias</namePart>
+        <namePart type="given">A</namePart>
+        <namePart type="family">Priesters</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Malte</namePart>
+        <namePart type="family">Schilling</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stefan</namePart>
+        <namePart type="family">Kopp</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">priesters-etal-2015-towards</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Priesters_semdial_0045.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="simons-2015-questions">
+    <titleInfo>
+        <title>How questions and answers cohere</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Mandy</namePart>
+        <namePart type="family">Simons</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">simons-2015-questions</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Simons_semdial_0046.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="stevens-rohde-2015-modeling">
+    <titleInfo>
+        <title>Modeling referential coordination as a particle swarm optimization task</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Hodgdon</namePart>
+        <namePart type="family">Stevens</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hannah</namePart>
+        <namePart type="family">Rohde</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">stevens-rohde-2015-modeling</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Stevens_semdial_0047.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="wong-ginzburg-2015-distribution">
+    <titleInfo>
+        <title>Distribution of non-sentential utterances across BNC genres: A preliminary report</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kwong-Cheong</namePart>
+        <namePart type="family">Wong</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">wong-ginzburg-2015-distribution</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Wong_semdial_0048.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+<mods ID="yu-etal-2015-interactive">
+    <titleInfo>
+        <title>Interactive learning through dialogue for multimodal language grounding</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yanchao</namePart>
+        <namePart type="family">Yu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Arash</namePart>
+        <namePart type="family">Eshghi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Gothenburg, Sweden</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">yu-etal-2015-interactive</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z15-Yu_semdial_0049.pdf</url>
+    </location>
+    <part>
+        <date>2015-aug</date>
+    </part>
+</mods>
+</modsCollection>

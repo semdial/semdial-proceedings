@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="reyle-riester-2016-joint">
+    <titleInfo>
+        <title>Joint Information Structure and Discourse Structure Analysis in an Underspecified DRT Framework</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Suwe</namePart>
+        <namePart type="family">Reyle</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Arndt</namePart>
+        <namePart type="family">Riester</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2016-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">New Brunswick, NJ</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">reyle-riester-2016-joint</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z16-Reyle_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2016-jul</date>
+    </part>
+</mods>
+</modsCollection>

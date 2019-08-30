@@ -1,0 +1,1008 @@
+Z13-1:
+  address: Amsterdam, The Netherlands
+  editor:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  has_abstracts: false
+  meta_date: 2013/12
+  month: December
+  papers:
+  - Z13-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2013'
+Z13-2:
+  address: Amsterdam, The Netherlands
+  editor:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  has_abstracts: false
+  meta_date: 2013/12
+  month: December
+  papers:
+  - Z13-2001
+  - Z13-2002
+  - Z13-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2013'
+Z13-3:
+  address: Amsterdam, The Netherlands
+  editor:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  has_abstracts: false
+  meta_date: 2013/12
+  month: December
+  papers:
+  - Z13-3004
+  - Z13-3005
+  - Z13-3006
+  - Z13-3007
+  - Z13-3008
+  - Z13-3009
+  - Z13-3010
+  - Z13-3011
+  - Z13-3012
+  - Z13-3013
+  - Z13-3014
+  - Z13-3015
+  - Z13-3016
+  - Z13-3017
+  - Z13-3018
+  - Z13-3019
+  - Z13-3020
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2013'
+Z13-4:
+  address: Amsterdam, The Netherlands
+  editor:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  has_abstracts: false
+  meta_date: 2013/12
+  month: December
+  papers:
+  - Z13-4021
+  - Z13-4022
+  - Z13-4023
+  - Z13-4024
+  - Z13-4025
+  - Z13-4026
+  - Z13-4027
+  - Z13-4028
+  - Z13-4029
+  - Z13-4030
+  - Z13-4031
+  - Z13-4032
+  - Z13-4033
+  - Z13-4034
+  - Z13-4035
+  - Z13-4036
+  - Z13-4037
+  - Z13-4038
+  - Z13-4039
+  - Z13-4040
+  - Z13-4041
+  - Z13-4042
+  - Z13-4043
+  - Z13-4044
+  - Z13-4045
+  - Z13-4046
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2013'
+Z14-1:
+  address: Edinburgh, United Kingdom
+  editor:
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  has_abstracts: false
+  meta_date: 2014/8
+  month: August
+  papers:
+  - Z14-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2014'
+Z14-2:
+  address: Edinburgh, United Kingdom
+  editor:
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  has_abstracts: false
+  meta_date: 2014/8
+  month: August
+  papers:
+  - Z14-2001
+  - Z14-2002
+  - Z14-2003
+  - Z14-2004
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2014'
+Z14-3:
+  address: Edinburgh, United Kingdom
+  editor:
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  has_abstracts: false
+  meta_date: 2014/8
+  month: August
+  papers:
+  - Z14-3005
+  - Z14-3006
+  - Z14-3007
+  - Z14-3008
+  - Z14-3009
+  - Z14-3010
+  - Z14-3011
+  - Z14-3012
+  - Z14-3013
+  - Z14-3014
+  - Z14-3015
+  - Z14-3016
+  - Z14-3017
+  - Z14-3018
+  - Z14-3019
+  - Z14-3020
+  - Z14-3021
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2014'
+Z14-4:
+  address: Edinburgh, United Kingdom
+  editor:
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  has_abstracts: false
+  meta_date: 2014/8
+  month: August
+  papers:
+  - Z14-4022
+  - Z14-4023
+  - Z14-4024
+  - Z14-4025
+  - Z14-4026
+  - Z14-4027
+  - Z14-4028
+  - Z14-4029
+  - Z14-4030
+  - Z14-4031
+  - Z14-4032
+  - Z14-4033
+  - Z14-4034
+  - Z14-4035
+  - Z14-4036
+  - Z14-4037
+  - Z14-4038
+  - Z14-4039
+  - Z14-4040
+  - Z14-4041
+  - Z14-4042
+  - Z14-4043
+  - Z14-4044
+  - Z14-4045
+  - Z14-4046
+  - Z14-4047
+  - Z14-4048
+  - Z14-4049
+  - Z14-4050
+  - Z14-4051
+  - Z14-4052
+  - Z14-4053
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2014'
+Z15-1:
+  address: Gothenburg, Sweden
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2015/8
+  month: August
+  papers:
+  - Z15-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2015'
+Z15-2:
+  address: Gothenburg, Sweden
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2015/8
+  month: August
+  papers:
+  - Z15-2001
+  - Z15-2002
+  - Z15-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2015'
+Z15-3:
+  address: Gothenburg, Sweden
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2015/8
+  month: August
+  papers:
+  - Z15-3004
+  - Z15-3005
+  - Z15-3006
+  - Z15-3007
+  - Z15-3008
+  - Z15-3009
+  - Z15-3010
+  - Z15-3011
+  - Z15-3012
+  - Z15-3013
+  - Z15-3014
+  - Z15-3015
+  - Z15-3016
+  - Z15-3017
+  - Z15-3018
+  - Z15-3019
+  - Z15-3020
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2015'
+Z15-4:
+  address: Gothenburg, Sweden
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2015/8
+  month: August
+  papers:
+  - Z15-4021
+  - Z15-4022
+  - Z15-4023
+  - Z15-4024
+  - Z15-4025
+  - Z15-4026
+  - Z15-4027
+  - Z15-4028
+  - Z15-4029
+  - Z15-4030
+  - Z15-4031
+  - Z15-4032
+  - Z15-4033
+  - Z15-4034
+  - Z15-4035
+  - Z15-4036
+  - Z15-4037
+  - Z15-4038
+  - Z15-4039
+  - Z15-4040
+  - Z15-4041
+  - Z15-4042
+  - Z15-4043
+  - Z15-4044
+  - Z15-4045
+  - Z15-4046
+  - Z15-4047
+  - Z15-4048
+  - Z15-4049
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 19th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2015'
+Z16-1:
+  address: New Brunswick, NJ
+  editor:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  has_abstracts: false
+  meta_date: 2016/7
+  month: July
+  papers:
+  - Z16-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2016'
+Z16-2:
+  address: New Brunswick, NJ
+  editor:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  has_abstracts: false
+  meta_date: 2016/7
+  month: July
+  papers:
+  - Z16-2001
+  - Z16-2002
+  - Z16-2003
+  - Z16-2004
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2016'
+Z16-3:
+  address: New Brunswick, NJ
+  editor:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  has_abstracts: false
+  meta_date: 2016/7
+  month: July
+  papers:
+  - Z16-3005
+  - Z16-3006
+  - Z16-3007
+  - Z16-3008
+  - Z16-3009
+  - Z16-3010
+  - Z16-3011
+  - Z16-3012
+  - Z16-3013
+  - Z16-3014
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2016'
+Z16-4:
+  address: New Brunswick, NJ
+  editor:
+  - first: Julie
+    full: Julie Hunter
+    id: julie-hunter
+    last: Hunter
+  - first: Mandy
+    full: Mandy Simmons
+    id: mandy-simmons
+    last: Simmons
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  has_abstracts: false
+  meta_date: 2016/7
+  month: July
+  papers:
+  - Z16-4015
+  - Z16-4016
+  - Z16-4017
+  - Z16-4018
+  - Z16-4019
+  - Z16-4020
+  - Z16-4021
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 20th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2016'
+Z17-1:
+  address: "Saarbr\xFCcken, Germany"
+  editor:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  has_abstracts: false
+  meta_date: 2017/8
+  month: August
+  papers:
+  - Z17-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2017'
+Z17-2:
+  address: "Saarbr\xFCcken, Germany"
+  editor:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  has_abstracts: false
+  meta_date: 2017/8
+  month: August
+  papers:
+  - Z17-2001
+  - Z17-2002
+  - Z17-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2017'
+Z17-3:
+  address: "Saarbr\xFCcken, Germany"
+  editor:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  has_abstracts: false
+  meta_date: 2017/8
+  month: August
+  papers:
+  - Z17-3004
+  - Z17-3005
+  - Z17-3006
+  - Z17-3007
+  - Z17-3008
+  - Z17-3009
+  - Z17-3010
+  - Z17-3011
+  - Z17-3012
+  - Z17-3013
+  - Z17-3014
+  - Z17-3015
+  - Z17-3016
+  - Z17-3017
+  - Z17-3018
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2017'
+Z17-4:
+  address: "Saarbr\xFCcken, Germany"
+  editor:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  has_abstracts: false
+  meta_date: 2017/8
+  month: August
+  papers:
+  - Z17-4019
+  - Z17-4020
+  - Z17-4021
+  - Z17-4022
+  - Z17-4023
+  - Z17-4024
+  - Z17-4025
+  - Z17-4026
+  - Z17-4027
+  - Z17-4028
+  - Z17-4029
+  - Z17-4030
+  - Z17-4031
+  - Z17-4032
+  - Z17-4033
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2017'
+Z18-1:
+  address: Aix-en-Provence, France
+  editor:
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  - first: Magalie
+    full: Magalie Ochs
+    id: magalie-ochs
+    last: Ochs
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Favre"
+    id: benoit-favre
+    last: Favre
+  has_abstracts: false
+  meta_date: 2018/11
+  month: November
+  papers:
+  - Z18-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2018'
+Z18-2:
+  address: Aix-en-Provence, France
+  editor:
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  - first: Magalie
+    full: Magalie Ochs
+    id: magalie-ochs
+    last: Ochs
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Favre"
+    id: benoit-favre
+    last: Favre
+  has_abstracts: false
+  meta_date: 2018/11
+  month: November
+  papers:
+  - Z18-2001
+  - Z18-2002
+  - Z18-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2018'
+Z18-3:
+  address: Aix-en-Provence, France
+  editor:
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  - first: Magalie
+    full: Magalie Ochs
+    id: magalie-ochs
+    last: Ochs
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Favre"
+    id: benoit-favre
+    last: Favre
+  has_abstracts: false
+  meta_date: 2018/11
+  month: November
+  papers:
+  - Z18-3004
+  - Z18-3005
+  - Z18-3006
+  - Z18-3007
+  - Z18-3008
+  - Z18-3009
+  - Z18-3010
+  - Z18-3011
+  - Z18-3012
+  - Z18-3013
+  - Z18-3014
+  - Z18-3015
+  - Z18-3016
+  - Z18-3017
+  - Z18-3018
+  - Z18-3019
+  - Z18-3020
+  - Z18-3021
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2018'
+Z18-4:
+  address: Aix-en-Provence, France
+  editor:
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  - first: Magalie
+    full: Magalie Ochs
+    id: magalie-ochs
+    last: Ochs
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Favre"
+    id: benoit-favre
+    last: Favre
+  has_abstracts: false
+  meta_date: 2018/11
+  month: November
+  papers:
+  - Z18-4022
+  - Z18-4023
+  - Z18-4024
+  - Z18-4025
+  - Z18-4026
+  - Z18-4027
+  - Z18-4028
+  - Z18-4029
+  - Z18-4030
+  - Z18-4031
+  - Z18-4032
+  - Z18-4033
+  - Z18-4034
+  - Z18-4035
+  - Z18-4036
+  - Z18-4037
+  - Z18-4038
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2018'
+Z19-1:
+  address: London, United Kingdom
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  has_abstracts: false
+  meta_date: 2019/9
+  month: September
+  papers:
+  - Z19-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2019'
+Z19-2:
+  address: London, United Kingdom
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  has_abstracts: false
+  meta_date: 2019/9
+  month: September
+  papers:
+  - Z19-2001
+  - Z19-2002
+  - Z19-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2019'
+Z19-3:
+  address: London, United Kingdom
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  has_abstracts: false
+  meta_date: 2019/9
+  month: September
+  papers:
+  - Z19-3004
+  - Z19-3005
+  - Z19-3006
+  - Z19-3007
+  - Z19-3008
+  - Z19-3009
+  - Z19-3010
+  - Z19-3011
+  - Z19-3012
+  - Z19-3013
+  - Z19-3014
+  - Z19-3015
+  - Z19-3016
+  - Z19-3017
+  - Z19-3018
+  - Z19-3019
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2019'
+Z19-4:
+  address: London, United Kingdom
+  editor:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  has_abstracts: false
+  meta_date: 2019/9
+  month: September
+  papers:
+  - Z19-4020
+  - Z19-4021
+  - Z19-4022
+  - Z19-4023
+  - Z19-4024
+  - Z19-4025
+  - Z19-4026
+  - Z19-4027
+  - Z19-4028
+  - Z19-4029
+  - Z19-4030
+  - Z19-4031
+  - Z19-4032
+  - Z19-4033
+  - Z19-4034
+  - Z19-4035
+  - Z19-4036
+  - Z19-4037
+  - Z19-4038
+  - Z19-4039
+  - Z19-4040
+  - Z19-4041
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2019'

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="shalyminov-etal-2017-challenging">
+    <titleInfo>
+        <title>Challenging Neural Dialogue Models with Natural Data: Memory Networks Fail on Incremental Phenomena</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Igor</namePart>
+        <namePart type="family">Shalyminov</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Arash</namePart>
+        <namePart type="family">Eshghi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Oliver</namePart>
+        <namePart type="family">Lemon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Saarbrücken, Germany</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">shalyminov-etal-2017-challenging</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z17-Shalyminov_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2017-aug</date>
+    </part>
+</mods>
+</modsCollection>

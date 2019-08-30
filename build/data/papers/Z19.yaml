@@ -1,0 +1,1126 @@
+Z19-1000:
+  address: London, United Kingdom
+  author:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  bibkey: semdial-2019-semantics
+  bibtype: proceedings
+  month: September
+  paper_id: '1000'
+  parent_volume_id: Z19-1
+  publisher: SEMDIAL
+  title: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2019_londonlogue_front_matter.pdf
+  year: '2019'
+Z19-2001:
+  address: London, United Kingdom
+  author:
+  - first: Rose
+    full: Rose McCabe
+    id: rose-mccabe
+    last: McCabe
+  bibkey: mccabe-2019-questions
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2001'
+  parent_volume_id: Z19-2
+  publisher: SEMDIAL
+  title: 'Questions and Answers in Suicide Risk Assessment: A Conversation Analytic
+    Perspective'
+  title_html: 'Questions and Answers in Suicide Risk Assessment: A Conversation Analytic
+    Perspective'
+  url: http://semdial.org/anthology/Z19-McCabe_semdial_0001.pdf
+  year: '2019'
+Z19-2002:
+  address: London, United Kingdom
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: larsson-2019-meaning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2002'
+  parent_volume_id: Z19-2
+  publisher: SEMDIAL
+  title: Meaning as Coordinated Compositional Classification
+  title_html: Meaning as Coordinated Compositional Classification
+  url: http://semdial.org/anthology/Z19-Larsson_semdial_0002.pdf
+  year: '2019'
+Z19-2003:
+  address: London, United Kingdom
+  author:
+  - first: Sophie
+    full: Sophie Scott
+    id: sophie-scott
+    last: Scott
+  bibkey: scott-2019-science
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2003'
+  parent_volume_id: Z19-2
+  publisher: SEMDIAL
+  title: The Science of Laughter
+  title_html: The Science of Laughter
+  url: http://semdial.org/anthology/Z19-Scott_semdial_0003.pdf
+  year: '2019'
+Z19-3004:
+  address: London, United Kingdom
+  author:
+  - first: Mattias
+    full: Mattias Appelgren
+    id: mattias-appelgren
+    last: Appelgren
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  bibkey: appelgren-lascarides-2019-coherence
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3004'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: Coherence, Symbol Grounding and Interactive Task Learning
+  title_html: Coherence, Symbol Grounding and Interactive Task Learning
+  url: http://semdial.org/anthology/Z19-Appelgren_semdial_0004.pdf
+  year: '2019'
+Z19-3005:
+  address: London, United Kingdom
+  author:
+  - first: Alberto
+    full: Alberto Testoni
+    id: alberto-testoni
+    last: Testoni
+  - first: Ravi
+    full: Ravi Shekhar
+    id: ravi-shekhar
+    last: Shekhar
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  bibkey: testoni-etal-2019-devil
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3005'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: 'The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual
+    Dialogue Game'
+  title_html: 'The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual
+    Dialogue Game'
+  url: http://semdial.org/anthology/Z19-Testoni_semdial_0005.pdf
+  year: '2019'
+Z19-3006:
+  address: London, United Kingdom
+  author:
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Sina
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: ilinykh-etal-2019-meet
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3006'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment
+  title_html: Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment
+  url: http://semdial.org/anthology/Z19-Ilinykh_semdial_0006.pdf
+  year: '2019'
+Z19-3007:
+  address: London, United Kingdom
+  author:
+  - first: Christopher
+    full: Christopher Cash
+    id: christopher-cash
+    last: Cash
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: cash-ginzburg-2019-sigh
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3007'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: 'A Sigh of Positivity: An Annotation Scheme for Sighs in Dialogue'
+  title_html: 'A Sigh of Positivity: An Annotation Scheme for Sighs in Dialogue'
+  url: http://semdial.org/anthology/Z19-Cash_semdial_0007.pdf
+  year: '2019'
+Z19-3008:
+  address: London, United Kingdom
+  author:
+  - first: Sophie
+    full: Sophie Skach
+    id: sophie-skach
+    last: Skach
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    id: patrick-healey
+    last: Healey
+  bibkey: skach-healey-2019-posture
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3008'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: 'Posture Shifts in Conversation: An Exploratory Study with Textile Sensors'
+  title_html: 'Posture Shifts in Conversation: An Exploratory Study with Textile Sensors'
+  url: http://semdial.org/anthology/Z19-Skach_semdial_0008.pdf
+  year: '2019'
+Z19-3009:
+  address: London, United Kingdom
+  author:
+  - first: Alexandra
+    full: Alexandra Lorson
+    id: alexandra-lorson
+    last: Lorson
+  - first: Chris
+    full: Chris Cummins
+    id: chris-cummins
+    last: Cummins
+  - first: Hannah
+    full: Hannah Rohde
+    id: hannah-rohde
+    last: Rohde
+  bibkey: lorson-etal-2019-objecting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3009'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: When Objecting to Presupposed Content Comes Easily
+  title_html: When Objecting to Presupposed Content Comes Easily
+  url: http://semdial.org/anthology/Z19-Lorson_semdial_0009.pdf
+  year: '2019'
+Z19-3010:
+  address: London, United Kingdom
+  author:
+  - first: Florrie
+    full: Florrie Verity
+    id: florrie-verity
+    last: Verity
+  bibkey: verity-2019-implicatures
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3010'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: Implicatures in Continuation-based Dynamic Semantics
+  title_html: Implicatures in Continuation-based Dynamic Semantics
+  url: http://semdial.org/anthology/Z19-Verity_semdial_0010.pdf
+  year: '2019'
+Z19-3011:
+  address: London, United Kingdom
+  author:
+  - first: Emma
+    full: Emma Barker
+    id: emma-barker
+    last: Barker
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  bibkey: barker-gaizauskas-2019-framework
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3011'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: A Framework for Annotating Co-working Dialogues in Complex Task Settings
+  title_html: A Framework for Annotating Co-working Dialogues in Complex Task Settings
+  url: http://semdial.org/anthology/Z19-Barker_semdial_0011.pdf
+  year: '2019'
+Z19-3012:
+  address: London, United Kingdom
+  author:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Anastasia
+    full: Anastasia Bondarenko
+    id: anastasia-bondarenko
+    last: Bondarenko
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: howes-etal-2019-good
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3012'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: Good call! Grounding in a Directory Enquiries Corpus
+  title_html: Good call! Grounding in a Directory Enquiries Corpus
+  url: http://semdial.org/anthology/Z19-Howes_semdial_0012.pdf
+  year: '2019'
+Z19-3013:
+  address: London, United Kingdom
+  author:
+  - first: Shamila
+    full: Shamila Nasreen
+    id: shamila-nasreen
+    last: Nasreen
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  bibkey: nasreen-etal-2019-corpus
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3013'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: "A Corpus Study on Questions, Responses and Misunderstanding Signals in Conversations\
+    \ with Alzheimer\u2019s Patients"
+  title_html: "A Corpus Study on Questions, Responses and Misunderstanding Signals\
+    \ in Conversations with Alzheimer\u2019s Patients"
+  url: http://semdial.org/anthology/Z19-Nasreen_semdial_0013.pdf
+  year: '2019'
+Z19-3014:
+  address: London, United Kingdom
+  author:
+  - first: Julian
+    full: "Julian Schl\xF6der"
+    id: julian-j-schloder
+    last: "Schl\xF6der"
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: schloder-fernandez-2019-reject
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3014'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: How to Reject What in Dialogue
+  title_html: How to Reject What in Dialogue
+  url: "http://semdial.org/anthology/Z19-Schl\xF6der_semdial_0014.pdf"
+  year: '2019'
+Z19-3015:
+  address: London, United Kingdom
+  author:
+  - first: Mandy
+    full: Mandy Simons
+    id: mandy-simons
+    last: Simons
+  bibkey: simons-2019-status
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3015'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: The Status of Main Point Complement Clauses
+  title_html: The Status of Main Point Complement Clauses
+  url: http://semdial.org/anthology/Z19-Simons_semdial_0015.pdf
+  year: '2019'
+Z19-3016:
+  address: London, United Kingdom
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  bibkey: breitholtz-maraev-2019-put
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3016'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: 'How to Put an Elephant in the Title: Modeling Humorous Incongruity with
+    Topoi'
+  title_html: 'How to Put an Elephant in the Title: Modeling Humorous Incongruity
+    with Topoi'
+  url: http://semdial.org/anthology/Z19-Breitholtz_semdial_0016.pdf
+  year: '2019'
+Z19-3017:
+  address: London, United Kingdom
+  author:
+  - first: Leshao
+    full: Leshao Zhang
+    id: leshao-zhang
+    last: Zhang
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    id: patrick-healey
+    last: Healey
+  bibkey: zhang-healey-2019-co
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3017'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: 'Co-ordination of Head Nods: Asymmetries between Speakers and Listeners'
+  title_html: 'Co-ordination of Head Nods: Asymmetries between Speakers and Listeners'
+  url: http://semdial.org/anthology/Z19-Zhang_semdial_0017.pdf
+  year: '2019'
+Z19-3018:
+  address: London, United Kingdom
+  author:
+  - first: Usman
+    full: Usman Sohail
+    id: usman-sohail
+    last: Sohail
+  - first: Carla
+    full: Carla Gordon
+    id: carla-gordon
+    last: Gordon
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: sohail-etal-2019-character
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3018'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: Character Initiative in Dialogue Increases User Engagement and Rapport
+  title_html: Character Initiative in Dialogue Increases User Engagement and Rapport
+  url: http://semdial.org/anthology/Z19-Sohail_semdial_0018.pdf
+  year: '2019'
+Z19-3019:
+  address: London, United Kingdom
+  author:
+  - first: Saurav
+    full: Saurav Sahay
+    id: saurav-sahay
+    last: Sahay
+  - first: Shachi H.
+    full: Shachi H. Kumar
+    id: shachi-h-kumar1
+    last: Kumar
+  - first: Eda
+    full: Eda Okur
+    id: eda-okur
+    last: Okur
+  - first: Haroon
+    full: Haroon Syed
+    id: haroon-syed
+    last: Syed
+  - first: Lama
+    full: Lama Nachman
+    id: lama-nachman
+    last: Nachman
+  bibkey: sahay-etal-2019-modeling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3019'
+  parent_volume_id: Z19-3
+  publisher: SEMDIAL
+  title: Modeling Intent, Dialog Policies and Response Adaptation for Goal-Oriented
+    Interactions
+  title_html: Modeling Intent, Dialog Policies and Response Adaptation for Goal-Oriented
+    Interactions
+  url: http://semdial.org/anthology/Z19-Sahay_semdial_0019.pdf
+  year: '2019'
+Z19-4020:
+  address: London, United Kingdom
+  author:
+  - first: Tsunehiro
+    full: Tsunehiro Arimoto
+    id: tsunehiro-arimoto
+    last: Arimoto
+  - first: Hiroaki
+    full: Hiroaki Sugiyama
+    id: hiroaki-sugiyama
+    last: Sugiyama
+  - first: Masahiro
+    full: Masahiro Mizukami
+    id: masahiro-mizukami
+    last: Mizukami
+  - first: Hiromi
+    full: Hiromi Narimatsu
+    id: hiromi-narimatsu
+    last: Narimatsu
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  bibkey: arimoto-etal-2019-analysis
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4020'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Analysis of Satisfaction and Topics in Repeated Conversation through Days
+  title_html: Analysis of Satisfaction and Topics in Repeated Conversation through
+    Days
+  url: http://semdial.org/anthology/Z19-Arimoto_semdial_0020.pdf
+  year: '2019'
+Z19-4021:
+  address: London, United Kingdom
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Sharid
+    full: "Sharid Lo\xE1iciga"
+    id: sharid-loaiciga
+    last: "Lo\xE1iciga"
+  bibkey: dobnik-loaiciga-2019-visual
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4021'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: On Visual Coreference Chains Resolution
+  title_html: On Visual Coreference Chains Resolution
+  url: http://semdial.org/anthology/Z19-Dobnik_semdial_0021.pdf
+  year: '2019'
+Z19-4022:
+  address: London, United Kingdom
+  author:
+  - first: John
+    full: John Dubois
+    id: john-dubois
+    last: Dubois
+  bibkey: dubois-2019-rezonator
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4022'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: 'Rezonator: Visualizing Resonance for Coherence in Dialogue'
+  title_html: 'Rezonator: Visualizing Resonance for Coherence in Dialogue'
+  url: http://semdial.org/anthology/Z19-Dubois_semdial_0022.pdf
+  year: '2019'
+Z19-4023:
+  address: London, United Kingdom
+  author:
+  - first: Emer
+    full: Emer Gilmartin
+    id: emer-gilmartin
+    last: Gilmartin
+  - first: Carl
+    full: Carl Vogel
+    id: carl-vogel
+    last: Vogel
+  bibkey: gilmartin-vogel-2019-within
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4023'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Within and Between Speaker Transitions in Multiparty Casual Conversation
+  title_html: Within and Between Speaker Transitions in Multiparty Casual Conversation
+  url: http://semdial.org/anthology/Z19-Gilmartin_semdial_0023.pdf
+  year: '2019'
+Z19-4024:
+  address: London, United Kingdom
+  author:
+  - first: Carla
+    full: Carla Gordon
+    id: carla-gordon
+    last: Gordon
+  - first: Volodymyr
+    full: Volodymyr Yanov
+    id: volodymyr-yanov
+    last: Yanov
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  bibkey: gordon-etal-2019-wizard
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4024'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: A Wizard of Oz Data Collection Framework for Internet of Things Dialogues
+  title_html: A Wizard of Oz Data Collection Framework for Internet of Things Dialogues
+  url: http://semdial.org/anthology/Z19-Gordon_semdial_0024.pdf
+  year: '2019'
+Z19-4025:
+  address: London, United Kingdom
+  author:
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Mehrnoosh
+    full: Mehrnoosh Sadrzadeh
+    id: mehrnoosh-sadrzadeh
+    last: Sadrzadeh
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Gijs
+    full: Gijs Wijnholds
+    id: gijs-wijnholds
+    last: Wijnholds
+  bibkey: gregoromichelaki-etal-2019-normativity
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4025'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Normativity, Meaning Plasticity, and the Significance of Vector Space Semantics
+  title_html: Normativity, Meaning Plasticity, and the Significance of Vector Space
+    Semantics
+  url: http://semdial.org/anthology/Z19-Gregoromichelaki_semdial_0025.pdf
+  year: '2019'
+Z19-4026:
+  address: London, United Kingdom
+  author:
+  - first: Seyed Hossein
+    full: Seyed Hossein Alavi
+    id: seyed-hossein-alavi
+    last: Alavi
+  - first: Anton
+    full: Anton Leuski
+    id: anton-leuski
+    last: Leuski
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: alavi-etal-2019-comparing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4026'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Comparing Cross Language Relevance vs Deep Neural Network Approaches to Corpus-based
+    End-to-end Dialogue Systems
+  title_html: Comparing Cross Language Relevance vs Deep Neural Network Approaches
+    to Corpus-based End-to-end Dialogue Systems
+  url: http://semdial.org/anthology/Z19-Alavi_semdial_0026.pdf
+  year: '2019'
+Z19-4027:
+  address: London, United Kingdom
+  author:
+  - first: Takashi
+    full: Takashi Kodama
+    id: takashi-kodama
+    last: Kodama
+  - first: Ribeka
+    full: Ribeka Tanaka
+    id: ribeka-tanaka
+    last: Tanaka
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  bibkey: kodama-etal-2019-collection
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4027'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Collection and Analysis of Meaningful Dialogue by Constructing a Movie Recommendation
+    Dialogue System
+  title_html: Collection and Analysis of Meaningful Dialogue by Constructing a Movie
+    Recommendation Dialogue System
+  url: http://semdial.org/anthology/Z19-Kodama_semdial_0027.pdf
+  year: '2019'
+Z19-4028:
+  address: London, United Kingdom
+  author:
+  - first: Jakob
+    full: Jakob Landesberger
+    id: jakob-landesberger
+    last: Landesberger
+  - first: Ute
+    full: Ute Ehrlich
+    id: ute-ehrlich
+    last: Ehrlich
+  bibkey: landesberger-ehrlich-2019-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4028'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: 'Towards Finding Appropriate Responses to Multi-Intents - SPM: Sequential
+    Prioritisation Model'
+  title_html: 'Towards Finding Appropriate Responses to Multi-Intents - SPM: Sequential
+    Prioritisation Model'
+  url: http://semdial.org/anthology/Z19-Landesberger_semdial_0028.pdf
+  year: '2019'
+Z19-4029:
+  address: London, United Kingdom
+  author:
+  - first: Jos
+    full: Jos Tellings
+    id: jos-tellings
+    last: Tellings
+  - first: Martijn van der
+    full: Martijn van der Klis
+    id: martijn-van-der-klis
+    last: Klis
+  - first: Bert Le
+    full: Bert Le Bruyn
+    id: bert-le-bruyn
+    last: Bruyn
+  - first: "Henri\xEBtte de"
+    full: "Henri\xEBtte de Swart"
+    id: henriette-de-swart
+    last: Swart
+  bibkey: tellings-etal-2019-tense
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4029'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Tense Use in Dialogue
+  title_html: Tense Use in Dialogue
+  url: http://semdial.org/anthology/Z19-Tellings_semdial_0029.pdf
+  year: '2019'
+Z19-4030:
+  address: London, United Kingdom
+  author:
+  - first: Ichiro
+    full: Ichiro Umata
+    id: ichiro-umata
+    last: Umata
+  - first: Koki
+    full: Koki Ijuin
+    id: koki-ijuin
+    last: Ijuin
+  - first: Tsuneo
+    full: Tsuneo Kato
+    id: tsuneo-kato
+    last: Kato
+  - first: Seiichi
+    full: Seiichi Yamamoto
+    id: seiichi-yamamoto
+    last: Yamamoto
+  bibkey: umata-etal-2019-shared
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4030'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Shared Gaze toward the Speaker and Grounding Acts in Native and Second Language
+    Conversation
+  title_html: Shared Gaze toward the Speaker and Grounding Acts in Native and Second
+    Language Conversation
+  url: http://semdial.org/anthology/Z19-Umata_semdial_0030.pdf
+  year: '2019'
+Z19-4031:
+  address: London, United Kingdom
+  author:
+  - first: Maxime
+    full: Maxime Amblard
+    id: maxime-amblard
+    last: Amblard
+  - first: Maria
+    full: Maria Boritchev
+    id: maria-boritchev
+    last: Boritchev
+  - first: Marta
+    full: Marta Carletti
+    id: marta-carletti
+    last: Carletti
+  - first: Lea
+    full: Lea Dieudonat
+    id: lea-dieudonat
+    last: Dieudonat
+  - first: Yi-Ting
+    full: Yi-Ting Tsai
+    id: yi-ting-tsai
+    last: Tsai
+  bibkey: amblard-etal-2019-taxonomy
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4031'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: A Taxonomy of Real-Life Questions and Answers in Dialogue
+  title_html: A Taxonomy of Real-Life Questions and Answers in Dialogue
+  url: http://semdial.org/anthology/Z19-Amblard_semdial_0031.pdf
+  year: '2019'
+Z19-4032:
+  address: London, United Kingdom
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: John
+    full: John Kelleher
+    id: john-kelleher
+    last: Kelleher
+  bibkey: dobnik-kelleher-2019-pattern
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4032'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: 'Pattern Recognition is Not Enough: Representing Language, Action and Perception
+    with Modular Neural Networks'
+  title_html: 'Pattern Recognition is Not Enough: Representing Language, Action and
+    Perception with Modular Neural Networks'
+  url: http://semdial.org/anthology/Z19-Dobnik_semdial_0032.pdf
+  year: '2019'
+Z19-4033:
+  address: London, United Kingdom
+  author:
+  - first: Anh Duong
+    full: Anh Duong Trinh
+    id: anh-duong-trinh
+    last: Trinh
+  - first: Robert
+    full: Robert Ross
+    id: robert-ross
+    last: Ross
+  - first: John
+    full: John Kelleher
+    id: john-kelleher
+    last: Kelleher
+  bibkey: trinh-etal-2019-investigating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4033'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Investigating Variable Dependencies in Dialogue States
+  title_html: Investigating Variable Dependencies in Dialogue States
+  url: http://semdial.org/anthology/Z19-Trinh_semdial_0033.pdf
+  year: '2019'
+Z19-4034:
+  address: London, United Kingdom
+  author:
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  bibkey: eshghi-etal-2019-laughing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4034'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: '"What are you laughing at?" Incremental Processing of Laughter in Interaction'
+  title_html: '"What are you laughing at?" Incremental Processing of Laughter in Interaction'
+  url: http://semdial.org/anthology/Z19-Eshghi_semdial_0034.pdf
+  year: '2019'
+Z19-4035:
+  address: London, United Kingdom
+  author:
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Andrew
+    full: Andrew Lewis-Smith
+    id: andrew-lewis-smith
+    last: Lewis-Smith
+  bibkey: hough-lewis-smith-2019-exploring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4035'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Exploring Lattice-based Models of Relevance in Dialogue for Questions and
+    Implicatures
+  title_html: Exploring Lattice-based Models of Relevance in Dialogue for Questions
+    and Implicatures
+  url: http://semdial.org/anthology/Z19-Hough_semdial_0035.pdf
+  year: '2019'
+Z19-4036:
+  address: London, United Kingdom
+  author:
+  - first: "Jos\xE9 Miguel Cano"
+    full: "Jos\xE9 Miguel Cano Sant\xEDn"
+    id: jose-miguel-cano-santin
+    last: "Sant\xEDn"
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Mehdi
+    full: Mehdi Ghanimifard
+    id: mehdi-ghanimifard
+    last: Ghanimifard
+  bibkey: santin-etal-2019-interactive
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4036'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Interactive Visual Grounding with Neural Networks
+  title_html: Interactive Visual Grounding with Neural Networks
+  url: "http://semdial.org/anthology/Z19-Sant\xEDn_semdial_0036.pdf"
+  year: '2019'
+Z19-4037:
+  address: London, United Kingdom
+  author:
+  - first: Sumiyo
+    full: Sumiyo Nishiguchi
+    id: sumiyo-nishiguchi
+    last: Nishiguchi
+  bibkey: nishiguchi-2019-bouletic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4037'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Bouletic and Deontic Modality and Social Choice
+  title_html: Bouletic and Deontic Modality and Social Choice
+  url: http://semdial.org/anthology/Z19-Nishiguchi_semdial_0037.pdf
+  year: '2019'
+Z19-4038:
+  address: London, United Kingdom
+  author:
+  - first: Bill
+    full: Bill Noble
+    id: bill-noble
+    last: Noble
+  - first: Asad
+    full: Asad Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: noble-etal-2019-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4038'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: Towards a Formal Model of Word Meaning Negotiation
+  title_html: Towards a Formal Model of Word Meaning Negotiation
+  url: http://semdial.org/anthology/Z19-Noble_semdial_0038.pdf
+  year: '2019'
+Z19-4039:
+  address: London, United Kingdom
+  author:
+  - first: Eda
+    full: Eda Okur
+    id: eda-okur
+    last: Okur
+  - first: Shachi H.
+    full: Shachi H. Kumar
+    id: shachi-h-kumar1
+    last: Kumar
+  - first: Saurav
+    full: Saurav Sahay
+    id: saurav-sahay
+    last: Sahay
+  - first: Lama
+    full: Lama Nachman
+    id: lama-nachman
+    last: Nachman
+  bibkey: okur-etal-2019-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4039'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: 'Towards Multimodal Understanding of Passenger-Vehicle Interactions in Autonomous
+    Vehicles: Intent/Slot Recognition Utilizing Audio-Visual Data'
+  title_html: 'Towards Multimodal Understanding of Passenger-Vehicle Interactions
+    in Autonomous Vehicles: Intent/Slot Recognition Utilizing Audio-Visual Data'
+  url: http://semdial.org/anthology/Z19-Okur_semdial_0039.pdf
+  year: '2019'
+Z19-4040:
+  address: London, United Kingdom
+  author:
+  - first: Martha
+    full: Martha Robinson
+    id: martha-robinson
+    last: Robinson
+  bibkey: robinson-2019-pronominal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4040'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: 'Pronominal Ambiguity Resolution in Spanish Child Dialogue: A Corpus Based
+    Developmental Language Acquisition Approach'
+  title_html: 'Pronominal Ambiguity Resolution in Spanish Child Dialogue: A Corpus
+    Based Developmental Language Acquisition Approach'
+  url: http://semdial.org/anthology/Z19-Robinson_semdial_0040.pdf
+  year: '2019'
+Z19-4041:
+  address: London, United Kingdom
+  author:
+  - first: Vidya
+    full: Vidya Somashekarappa
+    id: vidya-somashekarappa
+    last: Somashekarappa
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Asad
+    full: Asad Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  bibkey: somashekarappa-etal-2019-eye
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 23rd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4041'
+  parent_volume_id: Z19-4
+  publisher: SEMDIAL
+  title: 'Eye Gaze in Interaction: Towards an Annotation Scheme for Dialogue'
+  title_html: 'Eye Gaze in Interaction: Towards an Annotation Scheme for Dialogue'
+  url: http://semdial.org/anthology/Z19-Somashekarappa_semdial_0041.pdf
+  year: '2019'

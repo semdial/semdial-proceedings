@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "SEMDIAL"
+disablePathToLower = true
+staticDir = ["static", "data-export"]
+
+
+[menu]
+
+  [[menu.footer]]
+    identifier = "issues"
+    name = "Report Issues"
+    url = "https://github.com/acl-org/acl-anthology/issues/"

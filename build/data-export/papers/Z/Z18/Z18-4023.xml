@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="catta-etal-2018-sentence">
+    <titleInfo>
+        <title>Sentence meaning as argumentative dialogues.</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Davide</namePart>
+        <namePart type="family">Catta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Alda</namePart>
+        <namePart type="family">Mari</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christian</namePart>
+        <namePart type="family">Retoré</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018-nov</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Aix-en-Provence, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">catta-etal-2018-sentence</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z18-Catta_semdial_0023.pdf</url>
+    </location>
+    <part>
+        <date>2018-nov</date>
+    </part>
+</mods>
+</modsCollection>

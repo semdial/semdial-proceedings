@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="arimoto-etal-2019-analysis">
+    <titleInfo>
+        <title>Analysis of Satisfaction and Topics in Repeated Conversation through Days</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tsunehiro</namePart>
+        <namePart type="family">Arimoto</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hiroaki</namePart>
+        <namePart type="family">Sugiyama</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Masahiro</namePart>
+        <namePart type="family">Mizukami</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Hiromi</namePart>
+        <namePart type="family">Narimatsu</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ryuichiro</namePart>
+        <namePart type="family">Higashinaka</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">London, United Kingdom</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">arimoto-etal-2019-analysis</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z19-Arimoto_semdial_0020.pdf</url>
+    </location>
+    <part>
+        <date>2019-sep</date>
+    </part>
+</mods>
+</modsCollection>

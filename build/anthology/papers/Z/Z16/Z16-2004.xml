@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="camp-2016-sarcasm">
+    <titleInfo>
+        <title>Sarcasm in Conversational Action</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Elisabeth</namePart>
+        <namePart type="family">Camp</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2016-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">New Brunswick, NJ</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">camp-2016-sarcasm</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z16-Camp_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2016-jul</date>
+    </part>
+</mods>
+</modsCollection>

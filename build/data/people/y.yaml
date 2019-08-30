@@ -1,0 +1,1086 @@
+y-albert-park:
+  coauthors: []
+  first: Y. Albert
+  full: Y. Albert Park
+  last: Park
+  papers: []
+  slug: y-albert-park
+  venues: []
+ya-ting-lin:
+  coauthors: []
+  first: Ya-Ting
+  full: Ya-Ting Lin
+  last: Lin
+  papers: []
+  slug: ya-ting-lin
+  venues: []
+yaakov-hacohen-kerner:
+  coauthors: []
+  first: Yaakov
+  full: Yaakov HaCohen-Kerner
+  last: HaCohen-Kerner
+  papers: []
+  slug: yaakov-hacohen-kerner
+  venues: []
+yael-cohen-sygal:
+  coauthors: []
+  first: Yael
+  full: Yael Cohen-Sygal
+  last: Cohen-Sygal
+  papers: []
+  slug: yael-cohen-sygal
+  venues: []
+yael-netzer:
+  coauthors: []
+  first: Yael
+  full: Yael Netzer
+  last: Netzer
+  papers: []
+  slug: yael-netzer
+  venues: []
+yael-ravin:
+  coauthors: []
+  first: Yael
+  full: Yael Ravin
+  last: Ravin
+  papers: []
+  slug: yael-ravin
+  venues: []
+yajuan-lu:
+  coauthors: []
+  first: Yajuan
+  full: "Yajuan L\xFC"
+  last: "L\xFC"
+  papers: []
+  slug: yajuan-lu
+  venues: []
+yan-zuo-zhou:
+  coauthors: []
+  first: Yan-Zuo
+  full: Yan-Zuo Zhou
+  last: Zhou
+  papers: []
+  slug: yan-zuo-zhou
+  venues: []
+yanchao-yu:
+  coauthors:
+  - - oliver-lemon
+    - 5
+  - - verena-rieser
+    - 2
+  - - arash-eshghi
+    - 2
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - yves-vanrompay
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - srinivasan-janarthanam
+    - 1
+  - - andy-taylor
+    - 1
+  - - arash-eshghi1
+    - 1
+  first: Yanchao
+  full: Yanchao Yu
+  last: Yu
+  papers:
+  - Z16-3009
+  - Z16-4021
+  - Z15-4049
+  - Z14-4031
+  - Z14-4046
+  slug: yanchao-yu
+  venues:
+  - - SEMDIAL
+    - 5
+yang-liu:
+  coauthors: []
+  comment: May refer to several people
+  first: Yang
+  full: Yang Liu
+  last: Liu
+  papers: []
+  similar:
+  - yang-liu-edinburgh
+  - yang-liu-icsi
+  - yang-liu-ict
+  slug: yang-liu
+  venues: []
+yang-liu-edinburgh:
+  coauthors: []
+  comment: Edinburgh
+  first: Yang
+  full: Yang Liu
+  last: Liu
+  papers: []
+  similar:
+  - yang-liu
+  - yang-liu-icsi
+  - yang-liu-ict
+  slug: yang-liu-edinburgh
+  venues: []
+yang-liu-georgetown:
+  coauthors: []
+  comment: "\u5218\u6D0B; Georgetown"
+  first: Yang (Janet)
+  full: Yang (Janet) Liu
+  last: Liu
+  papers: []
+  slug: yang-liu-georgetown
+  venues: []
+yang-liu-icsi:
+  coauthors: []
+  comment: "\u5218\u626C; ICSI, Dallas, Facebook, Liulishuo"
+  first: Yang
+  full: Yang Liu
+  last: Liu
+  papers: []
+  similar:
+  - yang-liu
+  - yang-liu-edinburgh
+  - yang-liu-ict
+  slug: yang-liu-icsi
+  venues: []
+yang-liu-ict:
+  coauthors: []
+  comment: "\u5218\u6D0B; ICT, Tsinghua"
+  first: Yang
+  full: Yang Liu
+  last: Liu
+  papers: []
+  similar:
+  - yang-liu
+  - yang-liu-edinburgh
+  - yang-liu-icsi
+  slug: yang-liu-ict
+  venues: []
+yanjiao-li:
+  coauthors:
+  - - alex-chengyu-fang
+    - 1
+  - - jing-cao
+    - 1
+  first: Yanjiao
+  full: Yanjiao Li
+  last: Li
+  papers:
+  - Z13-4038
+  slug: yanjiao-li
+  venues:
+  - - SEMDIAL
+    - 1
+yannick-marchand:
+  coauthors: []
+  first: Yannick
+  full: Yannick Marchand
+  last: Marchand
+  papers: []
+  slug: yannick-marchand
+  venues: []
+yannick-mathieu:
+  coauthors:
+  - - ye-tian
+    - 1
+  - - claire-beyssade
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Yannick
+  full: Yannick Mathieu
+  last: Mathieu
+  papers:
+  - Z15-3020
+  slug: yannick-mathieu
+  venues:
+  - - SEMDIAL
+    - 1
+yao-qian:
+  coauthors:
+  - - rutuja-ubale
+    - 1
+  - - vikram-ramanaryanan
+    - 1
+  - - david-suendermann-oeft
+    - 1
+  - - keelan-evanini
+    - 1
+  - - patrick-l-lange
+    - 1
+  - - eugene-tsuprun
+    - 1
+  first: Yao
+  full: Yao Qian
+  last: Qian
+  papers:
+  - Z17-4026
+  slug: yao-qian
+  venues:
+  - - SEMDIAL
+    - 1
+yao-ting-sung:
+  coauthors: []
+  first: Yao-Ting
+  full: Yao-Ting Sung
+  last: Sung
+  papers: []
+  slug: yao-ting-sung
+  venues: []
+yao-yao:
+  coauthors:
+  - - laurent-prevot
+    - 1
+  - - arnaud-gingold
+    - 1
+  - - bernard-bel
+    - 1
+  - - kam-yiu-joe-chan
+    - 1
+  first: Yao
+  full: Yao Yao
+  last: Yao
+  papers:
+  - Z15-4044
+  slug: yao-yao
+  venues:
+  - - SEMDIAL
+    - 1
+yao-zhong-zhang:
+  coauthors: []
+  first: Yao-Zhong
+  full: Yao-Zhong Zhang
+  last: Zhang
+  papers: []
+  slug: yao-zhong-zhang
+  venues: []
+yaosheng-yang:
+  coauthors: []
+  first: Yaosheng
+  full: Yaosheng Yang
+  last: Yang
+  papers: []
+  slug: yaosheng-yang
+  venues: []
+yaser-al-onaizan:
+  coauthors: []
+  first: Yaser
+  full: Yaser Al-Onaizan
+  last: Al-Onaizan
+  papers: []
+  slug: yaser-al-onaizan
+  venues: []
+yasuharu-den:
+  coauthors:
+  - - yasuhiro-katagiri
+    - 4
+  - - katsuya-takanashi
+    - 4
+  - - masato-ishizaki
+    - 4
+  - - mika-enomoto
+    - 4
+  - - shogo-okada
+    - 2
+  first: Yasuharu
+  full: Yasuharu Den
+  last: Den
+  papers:
+  - Z18-4030
+  - Z17-4020
+  - Z14-4034
+  - Z13-4032
+  slug: yasuharu-den
+  venues:
+  - - SEMDIAL
+    - 4
+yasuhiro-katagiri:
+  coauthors:
+  - - katsuya-takanashi
+    - 5
+  - - masato-ishizaki
+    - 4
+  - - mika-enomoto
+    - 4
+  - - yasuharu-den
+    - 4
+  - - shogo-okada
+    - 2
+  first: Yasuhiro
+  full: Yasuhiro Katagiri
+  last: Katagiri
+  papers:
+  - Z18-4030
+  - Z17-4020
+  - Z15-4034
+  - Z14-4034
+  - Z13-4032
+  slug: yasuhiro-katagiri
+  venues:
+  - - SEMDIAL
+    - 5
+yasunari-harada:
+  coauthors:
+  - - miwa-morishita
+    - 1
+  - - mayumi-kawamura
+    - 1
+  - - daisuke-yokomori
+    - 1
+  - - tomoko-endo
+    - 1
+  first: Yasunari
+  full: Yasunari Harada
+  last: Harada
+  papers:
+  - Z17-4025
+  - Z13-4030
+  slug: yasunari-harada
+  venues:
+  - - SEMDIAL
+    - 2
+yasutsugu-morimoto:
+  coauthors: []
+  first: Yasutsugu
+  full: Yasutsugu Morimoto
+  last: Morimoto
+  papers: []
+  slug: yasutsugu-morimoto
+  venues: []
+yau-tarng-juang:
+  coauthors: []
+  first: Yau-Tarng
+  full: Yau-Tarng Juang
+  last: Juang
+  papers: []
+  slug: yau-tarng-juang
+  venues: []
+ye-tian:
+  coauthors:
+  - - jonathan-ginzburg
+    - 3
+  - - david-schlangen
+    - 1
+  - - julian-hough
+    - 1
+  - - chiara-mazzocconi
+    - 1
+  - - sam-green
+    - 1
+  - - caspar-addyman
+    - 1
+  - - vladislav-maraev
+    - 1
+  - - staffan-larsson
+    - 1
+  - - jean-philippe-bernardy
+    - 1
+  - - volha-petukhova
+    - 1
+  - - claire-beyssade
+    - 1
+  - - yannick-mathieu
+    - 1
+  first: Ye
+  full: Ye Tian
+  last: Tian
+  papers:
+  - Z18-3011
+  - Z17-1000
+  - Z15-3020
+  - Z14-4026
+  - Z14-4043
+  slug: ye-tian
+  venues:
+  - - SEMDIAL
+    - 5
+ye-tian1:
+  coauthors:
+  - - chiara-mazzocconi
+    - 1
+  - - jonathan-ginzburg
+    - 1
+  first: Ye
+  full: Ye Tian,
+  last: Tian,
+  papers:
+  - Z16-3014
+  slug: ye-tian1
+  venues:
+  - - SEMDIAL
+    - 1
+yen-lu-chow:
+  coauthors: []
+  first: Yen-Lu
+  full: Yen-Lu Chow
+  last: Chow
+  papers: []
+  slug: yen-lu-chow
+  venues: []
+yeon-su-lee:
+  coauthors: []
+  first: Yeon Su
+  full: Yeon Su Lee
+  last: Lee
+  papers: []
+  slug: yeon-su-lee
+  venues: []
+yerai-doval:
+  coauthors: []
+  first: Yerai
+  full: Yerai Doval
+  last: Doval
+  papers: []
+  slug: yerai-doval
+  venues: []
+yeun-bae-kim:
+  coauthors: []
+  first: Yeun-Bae
+  full: Yeun-Bae Kim
+  last: Kim
+  papers: []
+  slug: yeun-bae-kim
+  venues: []
+yi-cheng-pan:
+  coauthors: []
+  first: Yi-Cheng
+  full: Yi-Cheng Pan
+  last: Pan
+  papers: []
+  slug: yi-cheng-pan
+  venues: []
+yi-jing-zhao:
+  coauthors: []
+  first: Yi-jing
+  full: Yi-jing Zhao
+  last: Zhao
+  papers: []
+  slug: yi-jing-zhao
+  venues: []
+yi-rong-chen:
+  coauthors: []
+  first: Yi-Rong
+  full: Yi-Rong Chen
+  last: Chen
+  papers: []
+  slug: yi-rong-chen
+  venues: []
+yi-ting-tsai:
+  coauthors:
+  - - maxime-amblard
+    - 1
+  - - maria-boritchev
+    - 1
+  - - marta-carletti
+    - 1
+  - - lea-dieudonat
+    - 1
+  first: Yi-Ting
+  full: Yi-Ting Tsai
+  last: Tsai
+  papers:
+  - Z19-4031
+  slug: yi-ting-tsai
+  venues:
+  - - SEMDIAL
+    - 1
+yichun-chen:
+  coauthors: []
+  first: YiChun
+  full: YiChun Chen
+  last: Chen
+  papers: []
+  slug: yichun-chen
+  venues: []
+yih-ru-wang:
+  coauthors: []
+  first: Yih-Ru
+  full: Yih-Ru Wang
+  last: Wang
+  papers: []
+  slug: yih-ru-wang
+  venues: []
+yiming-yang:
+  coauthors: []
+  first: Yiming
+  full: Yiming Yang
+  last: Yang
+  papers: []
+  slug: yiming-yang
+  venues: []
+ying-chieh-tu:
+  coauthors: []
+  first: Ying-Chieh
+  full: Ying-Chieh Tu
+  last: Tu
+  papers: []
+  slug: ying-chieh-tu
+  venues: []
+ying-mei-guo:
+  coauthors: []
+  first: Ying-Mei
+  full: Ying-Mei Guo
+  last: Guo
+  papers: []
+  slug: ying-mei-guo
+  venues: []
+ying-zhang:
+  coauthors: []
+  first: Ying
+  full: Ying Zhang
+  last: Zhang
+  papers: []
+  slug: ying-zhang
+  venues: []
+yingju-xia:
+  coauthors: []
+  first: Yingju
+  full: Yingju Xia
+  last: Xia
+  papers: []
+  slug: yingju-xia
+  venues: []
+yoan-gutierrez:
+  coauthors: []
+  first: Yoan
+  full: "Yoan Guti\xE9rrez"
+  last: "Guti\xE9rrez"
+  papers: []
+  slug: yoan-gutierrez
+  venues: []
+yoichi-yamashita:
+  coauthors: []
+  first: Yoichi
+  full: Yoichi Yamashita
+  last: Yamashita
+  papers: []
+  slug: yoichi-yamashita
+  venues: []
+yonael-gorfu:
+  coauthors: []
+  first: Yonael
+  full: Yonael Gorfu
+  last: Gorfu
+  papers: []
+  slug: yonael-gorfu
+  venues: []
+yong-hun-lee:
+  coauthors: []
+  first: Yong-Hun
+  full: Yong-Hun Lee
+  last: Lee
+  papers: []
+  slug: yong-hun-lee
+  venues: []
+yongcheng-wang:
+  coauthors: []
+  first: YongCheng
+  full: YongCheng Wang
+  last: Wang
+  papers: []
+  slug: yongcheng-wang
+  venues: []
+yonglin-teng:
+  coauthors: []
+  first: Yonglin
+  full: Yonglin Teng
+  last: Teng
+  papers: []
+  slug: yonglin-teng
+  venues: []
+yoong-keok-lee:
+  coauthors: []
+  first: Yoong Keok
+  full: Yoong Keok Lee
+  last: Lee
+  papers: []
+  slug: yoong-keok-lee
+  venues: []
+yorick-wilks:
+  coauthors: []
+  first: Yorick
+  full: Yorick Wilks
+  last: Wilks
+  papers: []
+  slug: yorick-wilks
+  venues: []
+yoshihide-kato:
+  coauthors: []
+  first: Yoshihide
+  full: Yoshihide Kato
+  last: Kato
+  papers: []
+  slug: yoshihide-kato
+  venues: []
+yoshihiko-hayashi:
+  coauthors: []
+  first: Yoshihiko
+  full: Yoshihiko Hayashi
+  last: Hayashi
+  papers: []
+  slug: yoshihiko-hayashi
+  venues: []
+yoshihiko-ono:
+  coauthors: []
+  first: Yoshihiko
+  full: Yoshihiko Ono
+  last: Ono
+  papers: []
+  slug: yoshihiko-ono
+  venues: []
+yoshihiro-matsuo:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 2
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - toru-hirano
+    - 1
+  - - nozomi-kobayashi
+    - 1
+  - - toshiro-makino
+    - 1
+  first: Yoshihiro
+  full: Yoshihiro Matsuo
+  last: Matsuo
+  papers:
+  - Z17-4019
+  - Z15-3011
+  slug: yoshihiro-matsuo
+  venues:
+  - - SEMDIAL
+    - 2
+yoshihiro-tomiyama:
+  coauthors: []
+  first: Yoshihiro
+  full: Yoshihiro Tomiyama
+  last: Tomiyama
+  papers: []
+  slug: yoshihiro-tomiyama
+  venues: []
+yoshihiro-ueda:
+  coauthors: []
+  first: Yoshihiro
+  full: Yoshihiro Ueda
+  last: Ueda
+  papers: []
+  slug: yoshihiro-ueda
+  venues: []
+yoshiyuki-kotani:
+  coauthors: []
+  first: Yoshiyuki
+  full: Yoshiyuki Kotani
+  last: Kotani
+  papers: []
+  slug: yoshiyuki-kotani
+  venues: []
+yosuke-takashima:
+  coauthors: []
+  first: Yosuke
+  full: Yosuke Takashima
+  last: Takashima
+  papers: []
+  slug: yosuke-takashima
+  venues: []
+you-shan-chung:
+  coauthors: []
+  first: You-Shan
+  full: You-Shan Chung
+  last: Chung
+  papers: []
+  slug: you-shan-chung
+  venues: []
+young-chol-song:
+  coauthors: []
+  first: Young Chol
+  full: Young Chol Song
+  last: Song
+  papers: []
+  slug: young-chol-song
+  venues: []
+young-gil-kim:
+  coauthors: []
+  first: Young-Gil
+  full: Young-Gil Kim
+  last: Kim
+  papers: []
+  slug: young-gil-kim
+  venues: []
+younggyun-hahm:
+  coauthors: []
+  first: Younggyun
+  full: Younggyun Hahm
+  last: Hahm
+  papers: []
+  slug: younggyun-hahm
+  venues: []
+yu-da-lai:
+  coauthors: []
+  first: Yu-da
+  full: Yu-da Lai
+  last: Lai
+  papers: []
+  slug: yu-da-lai
+  venues: []
+yu-hang-mao:
+  coauthors: []
+  first: Yu Hang
+  full: Yu Hang Mao
+  last: Mao
+  papers: []
+  slug: yu-hang-mao
+  venues: []
+yu-ling-una-hsu:
+  coauthors: []
+  first: Yu-Ling Una
+  full: Yu-Ling Una Hsu
+  last: Hsu
+  papers: []
+  slug: yu-ling-una-hsu
+  venues: []
+yu-wei-chang:
+  coauthors: []
+  first: Yu-wei
+  full: Yu-wei Chang
+  last: Chang
+  papers: []
+  slug: yu-wei-chang
+  venues: []
+yuang-chin-chiang:
+  coauthors: []
+  first: Yuang-Chin
+  full: Yuang-Chin Chiang
+  last: Chiang
+  papers: []
+  slug: yuang-chin-chiang
+  venues: []
+yuanzhu-peter-chen:
+  coauthors: []
+  first: Yuanzhu Peter
+  full: Yuanzhu Peter Chen
+  last: Chen
+  papers: []
+  slug: yuanzhu-peter-chen
+  venues: []
+yucel-saygin:
+  coauthors: []
+  first: Yucel
+  full: Yucel Saygin
+  last: Saygin
+  papers: []
+  slug: yucel-saygin
+  venues: []
+yuen-hsien-tseng:
+  coauthors: []
+  first: Yuen-Hsien
+  full: Yuen-Hsien Tseng
+  last: Tseng
+  papers: []
+  slug: yuen-hsien-tseng
+  venues: []
+yufang-sun:
+  coauthors: []
+  first: Yufang
+  full: Yufang Sun
+  last: Sun
+  papers: []
+  slug: yufang-sun
+  venues: []
+yuguang-duan:
+  coauthors: []
+  first: Yuguang
+  full: Yuguang Duan
+  last: Duan
+  papers: []
+  slug: yuguang-duan
+  venues: []
+yuichiro-yoshikawa:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - yusuke-ijima
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Yuichiro
+  full: Yuichiro Yoshikawa
+  last: Yoshikawa
+  papers:
+  - Z17-4019
+  slug: yuichiro-yoshikawa
+  venues:
+  - - SEMDIAL
+    - 1
+yuiko-tsunomori:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - tetsuro-takahashi
+    - 1
+  - - michimasa-inaba
+    - 1
+  first: Yuiko
+  full: Yuiko Tsunomori
+  last: Tsunomori
+  papers:
+  - Z18-3007
+  slug: yuiko-tsunomori
+  venues:
+  - - SEMDIAL
+    - 1
+yuji-matsumoto:
+  coauthors: []
+  first: Yuji
+  full: Yuji Matsumoto
+  last: Matsumoto
+  papers: []
+  slug: yuji-matsumoto
+  venues: []
+yuka-takei:
+  coauthors: []
+  first: Yuka
+  full: Yuka Takei
+  last: Takei
+  papers: []
+  slug: yuka-takei
+  venues: []
+yuka-tateisi:
+  coauthors: []
+  first: Yuka
+  full: Yuka Tateisi
+  last: Tateisi
+  papers: []
+  slug: yuka-tateisi
+  venues: []
+yukihiro-itoh:
+  coauthors: []
+  first: Yukihiro
+  full: Yukihiro Itoh
+  last: Itoh
+  papers: []
+  slug: yukihiro-itoh
+  venues: []
+yukiko-i-nakano:
+  coauthors: []
+  first: Yukiko I.
+  full: Yukiko I. Nakano
+  last: Nakano
+  papers: []
+  slug: yukiko-i-nakano
+  venues: []
+yumiko-yoshimura:
+  coauthors: []
+  first: Yumiko
+  full: Yumiko Yoshimura
+  last: Yoshimura
+  papers: []
+  slug: yumiko-yoshimura
+  venues: []
+yun-cheng-ju:
+  coauthors: []
+  first: Yun-Cheng
+  full: Yun-Cheng Ju
+  last: Ju
+  papers: []
+  slug: yun-cheng-ju
+  venues: []
+yun-qian-qu:
+  coauthors: []
+  first: Yun-Qian
+  full: Yun-Qian Qu
+  last: Qu
+  papers: []
+  slug: yun-qian-qu
+  venues: []
+yung-taek-kim:
+  coauthors: []
+  first: Yung Taek
+  full: Yung Taek Kim
+  last: Kim
+  papers: []
+  slug: yung-taek-kim
+  venues: []
+yuqing-guo:
+  coauthors: []
+  first: Yuqing
+  full: Yuqing Guo
+  last: Guo
+  papers: []
+  slug: yuqing-guo
+  venues: []
+yurii-kuratov:
+  coauthors: []
+  first: Yurii
+  full: Yurii Kuratov
+  last: Kuratov
+  papers: []
+  slug: yurii-kuratov
+  venues: []
+yusuke-ijima:
+  coauthors:
+  - - ryuichiro-higashinaka
+    - 1
+  - - kazuki-sakai
+    - 1
+  - - hiroaki-sugiyama
+    - 1
+  - - hiromi-narimatsu
+    - 1
+  - - tsunehiro-arimoto
+    - 1
+  - - takaaki-fukutomi-kiyoaki-matsui
+    - 1
+  - - hiroaki-ito
+    - 1
+  - - shoko-araki
+    - 1
+  - - yuichiro-yoshikawa
+    - 1
+  - - hiroshi-ishiguro
+    - 1
+  - - yoshihiro-matsuo
+    - 1
+  first: Yusuke
+  full: Yusuke Ijima
+  last: Ijima
+  papers:
+  - Z17-4019
+  slug: yusuke-ijima
+  venues:
+  - - SEMDIAL
+    - 1
+yutaka-mitsuishi:
+  coauthors: []
+  first: Yutaka
+  full: Yutaka Mitsuishi
+  last: Mitsuishi
+  papers: []
+  slug: yutaka-mitsuishi
+  venues: []
+yves-lepage:
+  coauthors: []
+  first: Yves
+  full: Yves Lepage
+  last: Lepage
+  papers: []
+  slug: yves-lepage
+  venues: []
+yves-schabes:
+  coauthors: []
+  first: Yves
+  full: Yves Schabes
+  last: Schabes
+  papers: []
+  slug: yves-schabes
+  venues: []
+yves-vanrompay:
+  coauthors:
+  - - helen-hastie
+    - 1
+  - - marie-aude-aufaure
+    - 1
+  - - panos-alexopoulos
+    - 1
+  - - hugues-bouchard
+    - 1
+  - - heriberto-cuayahuitl
+    - 1
+  - - nina-dethlefs
+    - 1
+  - - milica-gasic
+    - 1
+  - - almudena-gonzalez-guimerans
+    - 1
+  - - james-henderson
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - peter-mika
+    - 1
+  - - ti-potter
+    - 1
+  - - verena-rieser
+    - 1
+  - - pirros-tsiakoulis
+    - 1
+  - - boris-villazon-terrazas
+    - 1
+  - - majid-yazdani
+    - 1
+  - - steve-young
+    - 1
+  - - yanchao-yu
+    - 1
+  first: Yves
+  full: Yves Vanrompay
+  last: Vanrompay
+  papers:
+  - Z14-4031
+  slug: yves-vanrompay
+  venues:
+  - - SEMDIAL
+    - 1

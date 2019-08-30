@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z17">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Volha</first><last>Petukhova</last></editor>
+      <editor><first>Ye</first><last>Tian</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Saarbrücken, Germany</address>
+      <month>August</month>
+      <year>2017</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2017_saardial_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+
+  <volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Volha</first><last>Petukhova</last></editor>
+      <editor><first>Ye</first><last>Tian</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Saarbrücken, Germany</address>
+      <month>August</month>
+      <year>2017</year>
+    </meta>
+
+<paper id="1"><title>Challenges for Data-driven Dialogue Systems: finding the goldilocks zone conversational data</title><author><first>Oliver</first><last>Lemon</last></author><url>Z17-Lemon_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>Empowering Human-Robot Dialogue by Affective Computing Research</title><author><first>Elisabeth</first><last>Andr&#233;</last></author><url>Z17-Andr&#233;_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>Conversational Eliciture in a Bayesian Model of Language Interpretation</title><author><first>Andrew</first><last>Kehler</last></author><url>Z17-Kehler_semdial_0003.pdf</url></paper>
+
+</volume>
+  <volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Volha</first><last>Petukhova</last></editor>
+      <editor><first>Ye</first><last>Tian</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Saarbrücken, Germany</address>
+      <month>August</month>
+      <year>2017</year>
+    </meta>
+
+
+
+<paper id="4"><title>Referring Expressions and Communicative Success in Task-oriented Dialogues</title><author><first>Laura</first><last>Aina</last></author><author><first>Natalia</first><last>Philippova</last></author><author><first>Valentin</first><last>Vogelmann,</last></author><author><first>Raquel</first><last>Fern&#225;ndez</last></author><url>Z17-Aina_semdial_0004.pdf</url></paper>
+
+<paper id="5"><title>(Perceptual) grounding as interaction</title><author><first>Simon</first><last>Dobnik</last></author><author><first>Amelie</first><last>&#197;stbom</last></author><url>Z17-Dobnik_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>Unimodal and Bimodal Backchannels in Conversational English</title><author><first>Gaelle</first><last>Ferre</last></author><author><first>Suzanne</first><last>Renaudier</last></author><url>Z17-Ferre_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>Meta-conversational since when-questions and the common ground</title><author><first>Angelika</first><last>Kiss</last></author><url>Z17-Kiss_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>Multimodal Coreference Resolution for Exploratory Data Visualization Dialogue: Context-Based Annotation and Gesture Identification</title><author><first>Abhinav</first><last>Kumar</last></author><author><first>Jillian</first><last>Aurisano</last></author><author><first>Barbara Di</first><last>Eugenio</last></author><author><first>Andrew</first><last>Johnson</last></author><author><first>Abeer</first><last>Alsaiari</last></author><author><first>Nigel</first><last>Flowers</last></author><author><first>Alberto</first><last>Gonzalez</last></author><author><first>Jason</first><last>Leigh</last></author><url>Z17-Kumar_semdial_0008.pdf</url></paper>
+
+<paper id="9"><title>Dialogue Acts and Updates for Semantic Coordination</title><author><first>Staffan</first><last>Larsson</last></author><author><first>Jenny</first><last>Myrendal</last></author><url>Z17-Larsson_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>Resuscitation procedures as multi-party dialogue</title><author><first>Ernisa</first><last>Marzuki</last></author><author><first>Hannah</first><last>Rohde</last></author><author><first>Chris</first><last>Cummins</last></author><author><first>Gareth</first><last>Clegg</last></author><author><first>Holly</first><last>Branigan</last></author><url>Z17-Marzuki_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>Special Session - Summarizing Dialogic Arguments from Social Media</title><author><first>Amita</first><last>Misra</last></author><author><first>Shereen</first><last>Oraby</last></author><author><first>Shubhangi</first><last>Tandon</last></author><author><first>Sharath</first><last>Ts</last></author><author><first>Pranav</first><last>Anand</last></author><author><first>Marilyn</first><last>Walker</last></author><url>Z17-Misra_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Special Session - Online learning and transfer for user adaptation in dialogue systems</title><author><first>Carrara</first><last>Nicolas</last></author><author><first>Romain</first><last>Laroche</last></author><author><first>Olivier</first><last>Pietquin</last></author><url>Z17-Nicolas_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>Negotiation of discourse moves: right periphery tags</title><author><first>Adriana</first><last>Osa</last></author><url>Z17-Osa_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>Dialogue Act Semantic Representation and Classification Using Recurrent Neural Networks</title><author><first>Pinelopi</first><last>Papalampidi</last></author><author><first>Elias</first><last>Iosif</last></author><author><first>Alexandros</first><last>Potamianos</last></author><url>Z17-Papalampidi_semdial_0014.pdf</url></paper>
+
+<paper id="15"><title>Computing Negotiation Update Semantics in Multi-issue Bargaining Dialogues</title><author><first>Volha</first><last>Petukhova</last></author><author><first>Harry</first><last>Bunt</last></author><author><first>Andrei</first><last>Malchanau</last></author><url>Z17-Petukhova_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>Challenging Neural Dialogue Models with Natural Data: Memory Networks Fail on Incremental Phenomena</title><author><first>Igor</first><last>Shalyminov</last></author><author><first>Arash</first><last>Eshghi</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z17-Shalyminov_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>Finding the Zone of Proximal Development: Student-Tutor Second Language Dialogue Interactions</title><author><first>Arabella</first><last>Sinclair</last></author><author><first>Jon</first><last>Oberlander</last></author><author><first>Dragan</first><last>Gasevic</last></author><url>Z17-Sinclair_semdial_0017.pdf</url></paper>
+
+<paper id="18"><title>Designing interactive, automated dialogues for L2 pragmatics learning</title><author><first>Veronika</first><last>Timpe-Laughlin</last></author><author><first>Keelan</first><last>Evanini</last></author><author><first>Ashley</first><last>Green</last></author><author><first>Ian</first><last>Blood</last></author><author><first>Judit</first><last>Dombi</last></author><author><first>Vikram</first><last>Ramanarayanan</last></author><url>Z17-Timpe-Laughlin_semdial_0018.pdf</url></paper>
+
+</volume>
+  <volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Volha</first><last>Petukhova</last></editor>
+      <editor><first>Ye</first><last>Tian</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Saarbrücken, Germany</address>
+      <month>August</month>
+      <year>2017</year>
+    </meta>
+
+<paper id="19"><title>Argumentative dialogue system based on argumentation structures</title><author><first>Ryuichiro</first><last>Higashinaka</last></author><author><first>Kazuki</first><last>Sakai</last></author><author><first>Hiroaki</first><last>Sugiyama</last></author><author><first>Hiromi</first><last>Narimatsu</last></author><author><first>Tsunehiro</first><last>Arimoto</last></author><author><first>Takaaki Fukutomi,Kiyoaki</first><last>Matsui</last></author><author><first>Yusuke</first><last>Ijima</last></author><author><first>Hiroaki</first><last>Ito</last></author><author><first>Shoko</first><last>Araki</last></author><author><first>Yuichiro</first><last>Yoshikawa</last></author><author><first>Hiroshi</first><last>Ishiguro</last></author><author><first>Yoshihiro</first><last>Matsuo</last></author><url>Z17-Higashinaka_semdial_0019.pdf</url></paper>
+
+<paper id="20"><title>Concern-Alignment for Negotiation and Joint Inquiry in Dialogues</title><author><first>Yasuhiro</first><last>Katagiri</last></author><author><first>Katsuya</first><last>Takanashi</last></author><author><first>Masato</first><last>Ishizaki</last></author><author><first>Mika</first><last>Enomoto</last></author><author><first>Yasuharu</first><last>Den</last></author><url>Z17-Katagiri_semdial_0020.pdf</url></paper>
+
+<paper id="21"><title>Towards Learning Transferable Conversational Skills using Multi-dimensional Dialogue Modelling</title><author><first>Simon</first><last>Keizer</last></author><author><first>Verena</first><last>Rieser</last></author><url>Z17-Keizer_semdial_0021.pdf</url></paper>
+
+<paper id="22"><title>Towards a Dialogue System with Long-term, Episodic Memory</title><author><first>Daniel</first><last>Kondratyuk</last></author><author><first>Casey</first><last>Kennington</last></author><url>Z17-Kondratyuk_semdial_0022.pdf</url></paper>
+
+<paper id="23"><title>Incremental Processing for Neural Conversation Models</title><author><first>Pierre</first><last>Lison</last></author><author><first>Casey</first><last>Kennington</last></author><url>Z17-Lison_semdial_0023.pdf</url></paper>
+
+<paper id="24"><title>An Intelligent Digital Assistant for Clinical Operating Rooms</title><author><first>Juliana</first><last>Miehle</last></author><author><first>Nadine</first><last>Gerstenlauer</last></author><author><first>Daniel</first><last>Ostler</last></author><author><first>Hubertus</first><last>Feussner</last></author><author><first>Wolfgang</first><last>Minker</last></author><author><first>Stefan</first><last>Ultes</last></author><url>Z17-Miehle_semdial_0024.pdf</url></paper>
+
+<paper id="25"><title>Syntactic Priming by Japanese EFL Learners in Dialogue Contexts based on Different Task Types</title><author><first>Miwa</first><last>Morishita</last></author><author><first>Yasunari</first><last>Harada</last></author><url>Z17-Morishita_semdial_0025.pdf</url></paper>
+
+<paper id="26"><title>Towards End-to-End Modeling of Spoken Language Understanding in a Cloud-based Spoken Dialog System</title><author><first>Yao</first><last>Qian</last></author><author><first>Rutuja</first><last>Ubale</last></author><author><first>Vikram</first><last>Ramanaryanan</last></author><author><first>David</first><last>Suendermann-Oeft</last></author><author><first>Keelan</first><last>Evanini</last></author><author><first>Patrick</first><last>Lange</last></author><author><first>Eugene</first><last>Tsuprun</last></author><url>Z17-Qian_semdial_0026.pdf</url></paper>
+
+<paper id="27"><title>A Phonetic Adaptation Module for Spoken Dialogue Systems</title><author><first>Eran</first><last>Raveh</last></author><author><first>Ingmar</first><last>Steiner</last></author><url>Z17-Raveh_semdial_0027.pdf</url></paper>
+
+<paper id="28"><title>An Open Source Standards-Compliant Voice Browser with Support for Multiple Language Understanding Implementations</title><author><first>Dirk</first><last>Schnelle-Walka</last></author><author><first>Vikram</first><last>Ramanarayanan</last></author><author><first>Stefan</first><last>Radomski</last></author><author><first>Patrick</first><last>Lange</last></author><author><first>David</first><last>Suendermann-Oeft</last></author><url>Z17-Schnelle-Walka_semdial_0028.pdf</url></paper>
+
+<paper id="29"><title>Training Argumentation Skills with Argumentative Writing Support</title><author><first>Christian</first><last>Stab</last></author><author><first>Iryna</first><last>Gurevych</last></author><url>Z17-Stab_semdial_0029.pdf</url></paper>
+
+<paper id="30"><title>Incremental Joint Modelling for Dialogue State Tracking</title><author><first>Anh Duong</first><last>Trinh</last></author><author><first>Robert J.</first><last>Ross</last></author><author><first>John D.</first><last>Kelleher</last></author><url>Z17-Trinh_semdial_0030.pdf</url></paper>
+
+<paper id="31"><title>Factor Analysis of Gazing Activities in Native and Second Language Conversations</title><author><first>Ichiro</first><last>Umata</last></author><author><first>Koki</first><last>Ijuin</last></author><author><first>Seiichi</first><last>Yamamoto</last></author><url>Z17-Umata_semdial_0031.pdf</url></paper>
+
+<paper id="32"><title>Towards a Natural User Interface for Small Groups in Real Museum Environments</title><author><first>Marco</first><last>Valentino</last></author><author><first>Maria Di</first><last>Maro</last></author><author><first>Franco</first><last>Cutugno</last></author><url>Z17-Valentino_semdial_0032.pdf</url></paper>
+
+<paper id="33"><title>A Transferentive Connective Marker -etaka in Korean: perspectives of grammaticalilzation and pragmatics</title><author><first>Sunhee</first><last>Yae</last></author><url>Z17-Yae_semdial_0033.pdf</url></paper>
+
+  </volume>
+
+</collection>

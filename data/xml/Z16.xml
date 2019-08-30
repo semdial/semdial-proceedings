@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z16">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Julie</first><last>Hunter</last></editor>
+      <editor><first>Mandy</first><last>Simmons</last></editor>
+      <editor><first>Matthew</first><last>Stone</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>New Brunswick, NJ</address>
+      <month>July</month>
+      <year>2016</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2016_jersem_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+<booktitle>Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Julie</first><last>Hunter</last></editor>
+      <editor><first>Mandy</first><last>Simmons</last></editor>
+      <editor><first>Matthew</first><last>Stone</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>New Brunswick, NJ</address>
+      <month>July</month>
+      <year>2016</year>
+    </meta>
+
+<paper id="1"><title>QUD: Past, Present and Future</title><author><first>Johnathan</first><last>Ginzburg</last></author><url>Z16-Ginzburg_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>Annotating Questions under Discussions in Authentic Data</title><author><first>Kordula De</first><last>Kuthy</last></author><url>Z16-Kuthy_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>Prosody, Action, and Coordination in Real-time Gameplay</title><author><first>Nigel G.</first><last>Ward</last></author><url>Z16-Ward_semdial_0003.pdf</url></paper>
+
+<paper id="4"><title>Sarcasm in Conversational Action</title><author><first>Elisabeth</first><last>Camp</last></author><url>Z16-Camp_semdial_0004.pdf</url></paper>
+
+</volume>
+
+  <volume id="3">
+    <meta>
+<booktitle>Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Julie</first><last>Hunter</last></editor>
+      <editor><first>Mandy</first><last>Simmons</last></editor>
+      <editor><first>Matthew</first><last>Stone</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>New Brunswick, NJ</address>
+      <month>July</month>
+      <year>2016</year>
+    </meta>
+
+
+<paper id="5"><title>W h y ?</title><author><first>Julian</first><last>Schl&#246;der</last></author><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Raquel</first><last>Fern&#225;ndez</last></author><url>Z16-Schloder_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>Joint Information Structure and Discourse Structure Analysis in an Underspecified DRT Framework</title><author><first>Suwe</first><last>Reyle</last></author><author><first>Arndt</first><last>Riester</last></author><url>Z16-Reyle_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>A Model for Attention-Driven Judgements in Type Theory with Records</title><author><first>Simon</first><last>Dobnik</last></author><author><first>John D.</first><last>Kelleher</last></author><url>Z16-Dobnik_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>Grounding, Justification, Adaptation: Towards Machines That Mean What They Say</title><author><first>David</first><last>Schlangen</last></author><url>Z16-Schlangen_semdial_0008.pdf</url></paper>
+
+<paper id="9"><title>Comparing Dialogue Strategies for Learning Grounded Language from Human Tutors</title><author><first>Yanchao</first><last>Yu</last></author><author><first>Oliver</first><last>Lemon</last></author><author><first>Arash</first><last>Eshghi</last></author><url>Z16-Yu_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>Evaluating Conversational Success: Weighted Message Exchange Games</title><author><first>Nicholas</first><last>Asher</last></author><author><first>Soumya</first><last>Paul</last></author><url>Z16-Asher_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>Disagreement with Evidentials: A Call for Subjectivity</title><author><first>Natalia</first><last>Korotkova</last></author><url>Z16-Korotkova_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Prominence Shifts in English and Spanish Parallel Constructions</title><author><first>Jeffrey</first><last>Klassen</last></author><author><first>Michael</first><last>Wagner</last></author><author><first>Annie</first><last>Tremblay,</last></author><author><first>Heather</first><last>Goad</last></author><url>Z16-Klassen_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>Impotent Speech Acts and Awareness</title><author><first>Phil</first><last>Crone</last></author><url>Z16-Crone_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>Multi-layered analysis of laughter</title><author><first>Chiara</first><last>Mazzocconi</last></author><author><first>Ye</first><last>Tian,</last></author><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z16-Mazzocconi_semdial_0014.pdf</url></paper>
+
+
+</volume>
+  <volume id="4">
+    <meta>
+<booktitle>Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Julie</first><last>Hunter</last></editor>
+      <editor><first>Mandy</first><last>Simmons</last></editor>
+      <editor><first>Matthew</first><last>Stone</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>New Brunswick, NJ</address>
+      <month>July</month>
+      <year>2016</year>
+    </meta>
+
+<paper id="15"><title>Extralinguistic State Localization in Service of Turn Generation in Task-Oriented Dialogue</title><author><first>Petr</first><last>Babkin</last></author><url>Z16-Babkin_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>Structural focus and discourse structure in Hungarian narratives</title><author><first>Kata</first><last>Balogh</last></author><url>Z16-Balogh_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>Are you mocking me or are you laughing with me?</title><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Kristina Lundholm</first><last>Fors</last></author><url>Z16-Hough_semdial_0017.pdf</url></paper>
+
+<paper id="18"><title>PentoRob: A Puzzle-Playing Robot for Dialogue Experiments</title><author><first>Julian</first><last>Hough</last></author><author><first>David</first><last>Schlangen</last></author><url>Z16-Efstathiou_semdial_0018.pdf</url></paper>
+
+<paper id="19"><title>Generating Surplus Content in a Q/A-Setting</title><author><first>Sebastian</first><last>Reu&#223;e</last></author><author><first>Ralf</first><last>Klabunde</last></author><author><first>Jon</first><last>Stevens,</last></author><author><first>Anton</first><last>Benz</last></author><url>Z16-Reu&#223;e_semdial_0019.pdf</url></paper>
+
+<paper id="20"><title>Aligning Intentions: Acceptance and Rejection in Dialogue</title><author><first>Julian J.</first><last>Schl&#246;der</last></author><author><first>Antoine</first><last>Venant,</last></author><author><first>Nicholas</first><last>Asher</last></author><url>Z16-Schl&#246;der_semdial_0020.pdf</url></paper>
+
+<paper id="21"><title>An Incremental Dialogue System for Learning Visually Grounded Language</title><author><first>Yanchao</first><last>Yu</last></author><author><first>Arash</first><last>Eshghi,</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z16-Yu_semdial_0021.pdf</url></paper>
+
+
+  </volume>
+</collection>

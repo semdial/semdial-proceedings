@@ -1,0 +1,1237 @@
+Z13-1000:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  bibkey: semdial-2013-semantics
+  bibtype: proceedings
+  month: December
+  paper_id: '1000'
+  parent_volume_id: Z13-1
+  publisher: SEMDIAL
+  title: Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2013_dialdem_front_matter.pdf
+  year: '2013'
+Z13-2001:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Danielle
+    full: Danielle Matthews
+    id: danielle-matthews
+    last: Matthews
+  bibkey: matthews-2013-development
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: December
+  paper_id: '2001'
+  parent_volume_id: Z13-2
+  publisher: SEMDIAL
+  title: 'The Development of Reference in Early Childhood: the Roles of Communicative
+    Motivation, Cognitive Abilities and the Caregiving Environment'
+  title_html: 'The Development of Reference in Early Childhood: the Roles of Communicative
+    Motivation, Cognitive Abilities and the Caregiving Environment'
+  url: http://semdial.org/anthology/Z13-Matthews_semdial_0001.pdf
+  year: '2013'
+Z13-2002:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  bibkey: stone-2013-coherence
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: December
+  paper_id: '2002'
+  parent_volume_id: Z13-2
+  publisher: SEMDIAL
+  title: Coherence and Meaning in Situated Dialogue
+  title_html: Coherence and Meaning in Situated Dialogue
+  url: http://semdial.org/anthology/Z13-Stone_semdial_0002.pdf
+  year: '2013'
+Z13-2003:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Marc
+    full: Marc Swerts
+    id: marc-swerts
+    last: Swerts
+  bibkey: swerts-2013-variability
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: December
+  paper_id: '2003'
+  parent_volume_id: Z13-2
+  publisher: SEMDIAL
+  title: On Variability in Pitch Accent Distributions
+  title_html: On Variability in Pitch Accent Distributions
+  url: http://semdial.org/anthology/Z13-Swerts_semdial_0003.pdf
+  year: '2013'
+Z13-3004:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Ed
+    full: Ed Baggs
+    id: ed-baggs
+    last: Baggs
+  bibkey: baggs-2013-demand
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3004'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: Demand Characteristics as a Tool for Evaluating the Design of Collaborative
+    Tasks
+  title_html: Demand Characteristics as a Tool for Evaluating the Design of Collaborative
+    Tasks
+  url: http://semdial.org/anthology/Z13-Baggs_semdial_0004.pdf
+  year: '2013'
+Z13-3005:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Robin
+    full: Robin Copper
+    id: robin-copper
+    last: Copper
+  bibkey: copper-2013-update
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3005'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: Update conditions and intensionality in a type-theoretic approach to dialogue
+    semantics
+  title_html: Update conditions and intensionality in a type-theoretic approach to
+    dialogue semantics
+  url: http://semdial.org/anthology/Z13-Copper_semdial_0005.pdf
+  year: '2013'
+Z13-3006:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Manjuan
+    full: Manjuan Duan
+    id: manjuan-duan
+    last: Duan
+  - first: Micha
+    full: Micha Elsner
+    id: micha-elsner
+    last: Elsner
+  - first: Marie-Catherine de
+    full: Marie-Catherine de Marneffe
+    id: marie-catherine-de-marneffe
+    last: Marneffe
+  bibkey: duan-etal-2013-visual
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3006'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: Visual and linguistic predictors for the definiteness of referring expressions
+  title_html: Visual and linguistic predictors for the definiteness of referring expressions
+  url: http://semdial.org/anthology/Z13-Duan_semdial_0006.pdf
+  year: '2013'
+Z13-3007:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Fauren
+    full: Fauren Faust
+    id: fauren-faust
+    last: Faust
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  bibkey: faust-artstein-2013-people
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3007'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: People hesitate more, talk less to virtual interviewers than to human interviewers
+  title_html: People hesitate more, talk less to virtual interviewers than to human
+    interviewers
+  url: http://semdial.org/anthology/Z13-Faust_semdial_0007.pdf
+  year: '2013'
+Z13-3008:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Emmanuel
+    full: Emmanuel Ferreira
+    id: emmanuel-ferreira
+    last: Ferreira
+  - first: Fabrice
+    full: "Fabrice Lef\xE8vre"
+    id: fabrice-lefevre
+    last: "Lef\xE8vre"
+  bibkey: ferreira-lefevre-2013-use
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3008'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: On the use of social signal for reward shaping in reinforcement learning
+    for dialogue management
+  title_html: On the use of social signal for reward shaping in reinforcement learning
+    for dialogue management
+  url: http://semdial.org/anthology/Z13-Ferreira_semdial_0008.pdf
+  year: '2013'
+Z13-3009:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Christina
+    full: Christina Freihorst
+    id: christina-freihorst
+    last: Freihorst
+  - first: "Sim\xF3n"
+    full: "Sim\xF3n Algorta"
+    id: simon-algorta
+    last: Algorta
+  - first: Vivien
+    full: Vivien Mast
+    id: vivien-mast
+    last: Mast
+  - first: Robert
+    full: Robert Porzel
+    id: robert-porzel
+    last: Porzel
+  bibkey: freihorst-etal-2013-apples
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3009'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: 'When Apples Mean Oranges: Lexical De-Entrainment and Alignment Theories'
+  title_html: 'When Apples Mean Oranges: Lexical De-Entrainment and Alignment Theories'
+  url: http://semdial.org/anthology/Z13-Freihorst_semdial_0009.pdf
+  year: '2013'
+Z13-3010:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Sara
+    full: Sara Moradlou
+    id: sara-moradlou
+    last: Moradlou
+  bibkey: ginzburg-moradlou-2013-earliest
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3010'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: 'The earliest utterances in dialogue: towards a formal theory of parent/child
+    talk in interaction'
+  title_html: 'The earliest utterances in dialogue: towards a formal theory of parent/child
+    talk in interaction'
+  url: http://semdial.org/anthology/Z13-Ginzburg_semdial_0010.pdf
+  year: '2013'
+Z13-3011:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Daniel
+    full: Daniel Goodhue
+    id: daniel-goodhue
+    last: Goodhue
+  - first: James
+    full: James Pickett
+    id: james-pickett
+    last: Pickett
+  - first: Michael
+    full: Michael Wagner
+    id: michael-wagner
+    last: Wagner
+  bibkey: goodhue-etal-2013-english
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3011'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: English reverse prosody in responses to yes-no questions
+  title_html: English reverse prosody in responses to yes-no questions
+  url: http://semdial.org/anthology/Z13-Goodhue_semdial_0011.pdf
+  year: '2013'
+Z13-3012:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Markus
+    full: Markus Guhe
+    id: markus-guhe
+    last: Guhe
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  - first: Kevin
+    full: Kevin O'Connor
+    id: kevin-o-connor
+    last: O'Connor
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  bibkey: guhe-etal-2013-effects
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3012'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: Effects of Belief and Memory on Strategic Negotiation
+  title_html: Effects of Belief and Memory on Strategic Negotiation
+  url: http://semdial.org/anthology/Z13-Guhe_semdial_0012.pdf
+  year: '2013'
+Z13-3013:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: hough-purver-2013-modelling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3013'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: Modelling Expectation in the Self-Repair Processing of Annotat-, um, Listeners
+  title_html: Modelling Expectation in the Self-Repair Processing of Annotat-, um,
+    Listeners
+  url: http://semdial.org/anthology/Z13-Hough_semdial_0013.pdf
+  year: '2013'
+Z13-3014:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Daniel
+    full: "Daniel M\xE4urer"
+    id: daniel-maurer
+    last: "M\xE4urer"
+  - first: Anna
+    full: Anna Bruns
+    id: anna-bruns
+    last: Bruns
+  - first: Karsten
+    full: Karsten Weihe
+    id: karsten-weihe
+    last: Weihe
+  bibkey: maurer-etal-2013-open
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3014'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: Be Open To Computer Based Coaching
+  title_html: Be Open To Computer Based Coaching
+  url: "http://semdial.org/anthology/Z13-M\xE4urer_semdial_0014.pdf"
+  year: '2013'
+Z13-3015:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Marie
+    full: Marie Postma-Nilsenova
+    id: marie-postma-nilsenova
+    last: Postma-Nilsenova
+  - first: Lisette
+    full: Lisette Mol
+    id: lisette-mol
+    last: Mol
+  - first: Naomi
+    full: Naomi Kamoen
+    id: naomi-kamoen
+    last: Kamoen
+  bibkey: postma-nilsenova-etal-2013-repeat
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3015'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: If you repeat your interlocutor's syntactic structure, you are likely to
+    repeat her pronunciation, too
+  title_html: If you repeat your interlocutor's syntactic structure, you are likely
+    to repeat her pronunciation, too
+  url: http://semdial.org/anthology/Z13-Postma-Nilsenova_semdial_0015.pdf
+  year: '2013'
+Z13-3016:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Katharina
+    full: Katharina Rohlfing
+    id: katharina-rohlfing
+    last: Rohlfing
+  - first: Juana Salas
+    full: Juana Salas Poblete
+    id: juana-salas-poblete
+    last: Poblete
+  - first: Frank
+    full: Frank Joublin
+    id: frank-joublin
+    last: Joublin
+  bibkey: rohlfing-etal-2013-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3016'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: Learning new words in unfamiliar frames from direct and indirect teaching
+  title_html: Learning new words in unfamiliar frames from direct and indirect teaching
+  url: http://semdial.org/anthology/Z13-Rohlfing_semdial_0016.pdf
+  year: '2013'
+Z13-3017:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Tania
+    full: Tania Rojas-Esponda
+    id: tania-rojas-esponda
+    last: Rojas-Esponda
+  bibkey: rojas-esponda-2013-roadsigns
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3017'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: The Roadsigns of Communication
+  title_html: The Roadsigns of Communication
+  url: http://semdial.org/anthology/Z13-Rojas-Esponda_semdial_0017.pdf
+  year: '2013'
+Z13-3018:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Michael
+    full: Michael Wagner
+    id: michael-wagner
+    last: Wagner
+  - first: Elise
+    full: Elise McClay
+    id: elise-mcclay
+    last: McClay
+  - first: Lauren
+    full: Lauren Mak
+    id: lauren-mak
+    last: Mak
+  bibkey: wagner-etal-2013-incomplete
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3018'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: Incomplete Answers and the Rise-Fall-Rise Contour
+  title_html: Incomplete Answers and the Rise-Fall-Rise Contour
+  url: http://semdial.org/anthology/Z13-Wagner_semdial_0018.pdf
+  year: '2013'
+Z13-3019:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Matthijs
+    full: Matthijs Westera
+    id: matthijs-westera
+    last: Westera
+  bibkey: westera-2013-attention
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3019'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: '`Attention, I''m violating a maxim!'' A unifying account of the final rise'
+  title_html: '`Attention, I''m violating a maxim!'' A unifying account of the final
+    rise'
+  url: http://semdial.org/anthology/Z13-Westera_semdial_0019.pdf
+  year: '2013'
+Z13-3020:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Zhou
+    full: Zhou Yu
+    id: zhou-yu
+    last: Yu
+  - first: Stefan
+    full: Stefan Scherer
+    id: stefan-scherer
+    last: Scherer
+  - first: David
+    full: David Devault
+    id: david-devault
+    last: Devault
+  - first: Jon
+    full: Jon Gratch
+    id: jon-gratch
+    last: Gratch
+  - first: Giota
+    full: Giota Stratou
+    id: giota-stratou
+    last: Stratou
+  - first: Louis-Philippe
+    full: Louis-Philippe Morency
+    id: louis-philippe-morency
+    last: Morency
+  - first: Justine
+    full: Justine Cassell
+    id: justine-cassell
+    last: Cassell
+  bibkey: yu-etal-2013-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: December
+  paper_id: '3020'
+  parent_volume_id: Z13-3
+  publisher: SEMDIAL
+  title: 'Multimodal Prediction of Psychological Disorder: Learning Nonverbal Commonality
+    in Adjacency Pairs'
+  title_html: 'Multimodal Prediction of Psychological Disorder: Learning Nonverbal
+    Commonality in Adjacency Pairs'
+  url: http://semdial.org/anthology/Z13-Yu_semdial_0020.pdf
+  year: '2013'
+Z13-4021:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Dato
+    full: Dato Abashidze
+    id: dato-abashidze
+    last: Abashidze
+  - first: Pia
+    full: Pia Knoeferle
+    id: pia-knoeferle
+    last: Knoeferle
+  - first: Maria Nella
+    full: Maria Nella Carminati
+    id: maria-nella-carminati
+    last: Carminati
+  bibkey: abashidze-etal-2013-gaze
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4021'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Gaze cue effect during language comprehension
+  title_html: Gaze cue effect during language comprehension
+  url: http://semdial.org/anthology/Z13-Abashidze_semdial_0021.pdf
+  year: '2013'
+Z13-4022:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Soumya
+    full: Soumya Paul
+    id: soumya-paul
+    last: Paul
+  bibkey: asher-paul-2013-conversation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4022'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Conversation and Incomplete Knowledge
+  title_html: Conversation and Incomplete Knowledge
+  url: http://semdial.org/anthology/Z13-Asher_semdial_0022.pdf
+  year: '2013'
+Z13-4023:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Marisa
+    full: Marisa Casillas
+    id: marisa-casillas
+    last: Casillas
+  - first: Elma
+    full: Elma Hilbrink
+    id: elma-hilbrink
+    last: Hilbrink
+  - first: Susan
+    full: Susan C.~Bobb
+    id: susan-c-bobb
+    last: C.~Bobb
+  - first: Eve
+    full: Eve V.~Clark
+    id: eve-v-clark
+    last: V.~Clark
+  - first: Merideth
+    full: Merideth Gattis
+    id: merideth-gattis
+    last: Gattis
+  - first: Stephen
+    full: Stephen C.~Levinson
+    id: stephen-c-levinson1
+    last: C.~Levinson
+  bibkey: casillas-etal-2013-turn
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4023'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: 'Turn-timing in naturalistic mother-child interactions: A longitudinal perspective'
+  title_html: 'Turn-timing in naturalistic mother-child interactions: A longitudinal
+    perspective'
+  url: http://semdial.org/anthology/Z13-Casillas_semdial_0023.pdf
+  year: '2013'
+Z13-4024:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Elena
+    full: Elena Castroviejo
+    id: elena-castroviejo
+    last: Castroviejo
+  - first: Laia
+    full: Laia Mayol
+    id: laia-mayol
+    last: Mayol
+  - first: E.~Allyn
+    full: E.~Allyn Smith
+    id: e-allyn-smith
+    last: Smith
+  bibkey: castroviejo-etal-2013-putting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4024'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Putting secondary propositional meanings back on the table
+  title_html: Putting secondary propositional meanings back on the table
+  url: http://semdial.org/anthology/Z13-Castroviejo_semdial_0024.pdf
+  year: '2013'
+Z13-4025:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Christos
+    full: Christos Koniaris
+    id: christos-koniaris
+    last: Koniaris
+  - first: John
+    full: John Kelleher
+    id: john-kelleher
+    last: Kelleher
+  bibkey: dobnik-etal-2013-investigating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4025'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Investigating the role of priming and alignment of perspective in dialogue
+  title_html: Investigating the role of priming and alignment of perspective in dialogue
+  url: http://semdial.org/anthology/Z13-Dobnik_semdial_0025.pdf
+  year: '2013'
+Z13-4026:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Christopher
+    full: Christopher Fox
+    id: christopher-fox
+    last: Fox
+  - first: Kristy Elizabeth
+    full: Kristy Elizabeth Boyer
+    id: kristy-boyer
+    last: Boyer
+  bibkey: fox-boyer-2013-toward
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4026'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Toward a Tutorial Dialogue System for Urban Navigation
+  title_html: Toward a Tutorial Dialogue System for Urban Navigation
+  url: http://semdial.org/anthology/Z13-Fox_semdial_0026.pdf
+  year: '2013'
+Z13-4027:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Marta
+    full: Marta Gatius
+    id: marta-gatius
+    last: Gatius
+  bibkey: gatius-2013-improving
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4027'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Improving Knowledge Representation to Speed up the Generation of Grammars
+    for a Multilingual Web Assistant
+  title_html: Improving Knowledge Representation to Speed up the Generation of Grammars
+    for a Multilingual Web Assistant
+  url: http://semdial.org/anthology/Z13-Gatius_semdial_0027.pdf
+  year: '2013'
+Z13-4028:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Emer
+    full: Emer Gilmartin
+    id: emer-gilmartin
+    last: Gilmartin
+  - first: Francesca
+    full: Francesca Bonin
+    id: francesca-bonin
+    last: Bonin
+  - first: Carl
+    full: Carl Vogel
+    id: carl-vogel
+    last: Vogel
+  - first: Nick
+    full: Nick Campbell
+    id: nick-campbell
+    last: Campbell
+  bibkey: gilmartin-etal-2013-exploring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4028'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Exploring the Role of Laughter in Multiparty Conversation
+  title_html: Exploring the Role of Laughter in Multiparty Conversation
+  url: http://semdial.org/anthology/Z13-Gilmartin_semdial_0028.pdf
+  year: '2013'
+Z13-4029:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Jana
+    full: "Jana G\xF6tze"
+    id: jana-gotze
+    last: "G\xF6tze"
+  - first: Johan
+    full: Johan Boye
+    id: johan-boye
+    last: Boye
+  - first: Morgan
+    full: Morgan Fredriksson
+    id: morgan-fredriksson
+    last: Fredriksson
+  - first: "J\xFCrgen"
+    full: "J\xFCrgen K\xF6nigsmann"
+    id: jurgen-konigsmann
+    last: "K\xF6nigsmann"
+  bibkey: gotze-etal-2013-interpreting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4029'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Interpreting Instructions in a Pedestrian Routing Domain
+  title_html: Interpreting Instructions in a Pedestrian Routing Domain
+  url: "http://semdial.org/anthology/Z13-G\xF6tze_semdial_0029.pdf"
+  year: '2013'
+Z13-4030:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Yasunari
+    full: Yasunari Harada
+    id: yasunari-harada
+    last: Harada
+  - first: Mayumi
+    full: Mayumi Kawamura
+    id: mayumi-kawamura
+    last: Kawamura
+  - first: Daisuke
+    full: Daisuke Yokomori
+    id: daisuke-yokomori
+    last: Yokomori
+  - first: Tomoko
+    full: Tomoko Endo
+    id: tomoko-endo
+    last: Endo
+  bibkey: harada-etal-2013-thank
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4030'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: '"That''s all. Thank you.": Emergence of Formulaic Protocols among Japanese
+    EFL Learners'
+  title_html: '"That''s all. Thank you.": Emergence of Formulaic Protocols among Japanese
+    EFL Learners'
+  url: http://semdial.org/anthology/Z13-Harada_semdial_0030.pdf
+  year: '2013'
+Z13-4031:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Elena
+    full: Elena Karagjosova
+    id: elena-karagjosova
+    last: Karagjosova
+  bibkey: karagjosova-2013-aboutness
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4031'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Aboutness topic, discourse topic and the structure of discourse
+  title_html: Aboutness topic, discourse topic and the structure of discourse
+  url: http://semdial.org/anthology/Z13-Karagjosova_semdial_0031.pdf
+  year: '2013'
+Z13-4032:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Yasuhiro
+    full: Yasuhiro Katagiri
+    id: yasuhiro-katagiri
+    last: Katagiri
+  - first: Katsuya
+    full: Katsuya Takanashi
+    id: katsuya-takanashi
+    last: Takanashi
+  - first: Masato
+    full: Masato Ishizaki
+    id: masato-ishizaki
+    last: Ishizaki
+  - first: Mika
+    full: Mika Enomoto
+    id: mika-enomoto
+    last: Enomoto
+  - first: Yasuharu
+    full: Yasuharu Den
+    id: yasuharu-den
+    last: Den
+  - first: Shogo
+    full: Shogo Okada
+    id: shogo-okada
+    last: Okada
+  bibkey: katagiri-etal-2013-analysis
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4032'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Analysis and Modeling of Concern Alignment in Consensus-Building
+  title_html: Analysis and Modeling of Concern Alignment in Consensus-Building
+  url: http://semdial.org/anthology/Z13-Katagiri_semdial_0032.pdf
+  year: '2013'
+Z13-4033:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Nicholas Hubert
+    full: Nicholas Hubert Kirk
+    id: nicholas-hubert-kirk
+    last: Kirk
+  bibkey: kirk-2013-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4033'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: 'Towards Structural Natural Language Formalization: Mapping Discourse to
+    Controlled Natural Language'
+  title_html: 'Towards Structural Natural Language Formalization: Mapping Discourse
+    to Controlled Natural Language'
+  url: http://semdial.org/anthology/Z13-Kirk_semdial_0033.pdf
+  year: '2013'
+Z13-4034:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Udo
+    full: Udo Klein
+    id: udo-klein
+    last: Klein
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  - first: Florian
+    full: Florian Hahn
+    id: florian-hahn
+    last: Hahn
+  - first: Insa
+    full: Insa Lawler
+    id: insa-lawler
+    last: Lawler
+  bibkey: klein-etal-2013-abduction
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4034'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Abduction and parameterized semantic composition in speech-gesture integration
+  title_html: Abduction and parameterized semantic composition in speech-gesture integration
+  url: http://semdial.org/anthology/Z13-Klein_semdial_0034.pdf
+  year: '2013'
+Z13-4035:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Fredrik
+    full: Fredrik Kronlid
+    id: fredrik-kronlid
+    last: Kronlid
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Pontus
+    full: "Pontus W\xE4rnest\xE5l"
+    id: pontus-warnestal
+    last: "W\xE4rnest\xE5l"
+  bibkey: kronlid-etal-2013-using
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4035'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Using Learned Predictions of User Utterances to Decrease Distraction
+  title_html: Using Learned Predictions of User Utterances to Decrease Distraction
+  url: http://semdial.org/anthology/Z13-Kronlid_semdial_0035.pdf
+  year: '2013'
+Z13-4036:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Ivana
+    full: Ivana Kruijff-Korbayova
+    id: ivana-kruijff-korbayova
+    last: Kruijff-Korbayova
+  - first: Bernd
+    full: Bernd Kiefer
+    id: bernd-kiefer
+    last: Kiefer
+  - first: Ilaria
+    full: Ilaria Baroni
+    id: ilaria-baroni
+    last: Baroni
+  - first: Mattia Coti
+    full: Mattia Coti Zelati
+    id: mattia-coti-zelati
+    last: Zelati
+  bibkey: kruijff-korbayova-etal-2013-making
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4036'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Making Human-Robot Quiz Dialogue More Conversational by Adding Non-Quiz Talk
+  title_html: Making Human-Robot Quiz Dialogue More Conversational by Adding Non-Quiz
+    Talk
+  url: http://semdial.org/anthology/Z13-Kruijff-Korbayova_semdial_0036.pdf
+  year: '2013'
+Z13-4037:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Sebastian
+    full: Sebastian Berlin
+    id: sebastian-berlin
+    last: Berlin
+  - first: Anders
+    full: Anders Eliasson
+    id: anders-eliasson
+    last: Eliasson
+  - first: Fredrik
+    full: Fredrik Kronlid
+    id: fredrik-kronlid
+    last: Kronlid
+  bibkey: larsson-etal-2013-visual
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4037'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Visual distraction test setup for an multimodal in-vehicle dialogue system
+  title_html: Visual distraction test setup for an multimodal in-vehicle dialogue
+    system
+  url: http://semdial.org/anthology/Z13-Larsson_semdial_0037.pdf
+  year: '2013'
+Z13-4038:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Yanjiao
+    full: Yanjiao Li
+    id: yanjiao-li
+    last: Li
+  - first: Alex C.
+    full: Alex C. Fang
+    id: alex-chengyu-fang
+    last: Fang
+  - first: Jing
+    full: Jing Cao
+    id: jing-cao
+    last: Cao
+  bibkey: li-etal-2013-corpus
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4038'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: A Corpus-Based Study of Accept and Assessment in SWBD-DAMSL
+  title_html: A Corpus-Based Study of Accept and Assessment in SWBD-DAMSL
+  url: http://semdial.org/anthology/Z13-Li_semdial_0038.pdf
+  year: '2013'
+Z13-4039:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  bibkey: lucking-2013-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4039'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Multimodal Propositions? From Semiotic to Semantic Considerations in the
+    Case of Gestural Deictics
+  title_html: Multimodal Propositions? From Semiotic to Semantic Considerations in
+    the Case of Gestural Deictics
+  url: "http://semdial.org/anthology/Z13-L\xFCcking_semdial_0039.pdf"
+  year: '2013'
+Z13-4040:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Gregory
+    full: Gregory Mills
+    id: gregory-mills
+    last: Mills
+  bibkey: mills-2013-establishing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4040'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: 'Establishing a communication system: Miscommunication drives abstraction'
+  title_html: 'Establishing a communication system: Miscommunication drives abstraction'
+  url: http://semdial.org/anthology/Z13-Mills_semdial_0040.pdf
+  year: '2013'
+Z13-4041:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Olawunmi
+    full: Olawunmi Oni-Buraimoh
+    id: olawunmi-oni-buraimoh
+    last: Oni-Buraimoh
+  bibkey: oni-buraimoh-2013-pragmatic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4041'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: "Pragmatic Markers of Common Ground in Tertiary Institution Students\u2019\
+    \ Sexual Discourse in Lagos State, Nigeria"
+  title_html: "Pragmatic Markers of Common Ground in Tertiary Institution Students\u2019\
+    \ Sexual Discourse in Lagos State, Nigeria"
+  url: http://semdial.org/anthology/Z13-Oni-Buraimoh_semdial_0041.pdf
+  year: '2013'
+Z13-4042:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  bibkey: prevot-2013-toward
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4042'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Toward a semantics for French short positive feedback utterances
+  title_html: Toward a semantics for French short positive feedback utterances
+  url: "http://semdial.org/anthology/Z13-Pr\xE9vot_semdial_0042.pdf"
+  year: '2013'
+Z13-4043:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Uwe
+    full: Uwe Reyle
+    id: uwe-reyle
+    last: Reyle
+  - first: Cristel
+    full: Cristel Portes
+    id: cristel-portes
+    last: Portes
+  bibkey: reyle-portes-2013-meaning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4043'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: The meaning of French H*L%-contour
+  title_html: The meaning of French H*L%-contour
+  url: http://semdial.org/anthology/Z13-Reyle_semdial_0043.pdf
+  year: '2013'
+Z13-4044:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Franziska
+    full: Franziska Schaller
+    id: franziska-schaller
+    last: Schaller
+  - first: Horst
+    full: "Horst M\xFCller"
+    id: horst-muller
+    last: "M\xFCller"
+  bibkey: schaller-muller-2013-contribution
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4044'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: The contribution of speech-rhythm to end-of-utterance detection
+  title_html: The contribution of speech-rhythm to end-of-utterance detection
+  url: http://semdial.org/anthology/Z13-Schaller_semdial_0044.pdf
+  year: '2013'
+Z13-4045:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Gesa
+    full: Gesa Schole
+    id: gesa-schole
+    last: Schole
+  - first: Thora
+    full: Thora Tenbrink
+    id: thora-tenbrink
+    last: Tenbrink
+  - first: Elena
+    full: Elena Andonova
+    id: elena-andonova
+    last: Andonova
+  - first: Kenny
+    full: Kenny Coventry
+    id: kenny-coventry
+    last: Coventry
+  bibkey: schole-etal-2013-successful
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4045'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: Successful Strategies for Ambiguity Resolution in Dialogue
+  title_html: Successful Strategies for Ambiguity Resolution in Dialogue
+  url: http://semdial.org/anthology/Z13-Schole_semdial_0045.pdf
+  year: '2013'
+Z13-4046:
+  address: Amsterdam, The Netherlands
+  author:
+  - first: Anna-Lisa
+    full: Anna-Lisa Vollmer
+    id: anna-lisa-vollmer
+    last: Vollmer
+  - first: Manuel
+    full: "Manuel M\xFChlig"
+    id: manuel-muhlig
+    last: "M\xFChlig"
+  - first: Katharina J.
+    full: Katharina J. Rohlfing
+    id: katharina-j-rohlfing
+    last: Rohlfing
+  - first: Britta
+    full: Britta Wrede
+    id: britta-wrede
+    last: Wrede
+  - first: Angelo
+    full: Angelo Cangelosi
+    id: angelo-cangelosi
+    last: Cangelosi
+  bibkey: vollmer-etal-2013-demonstrating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 17th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: December
+  paper_id: '4046'
+  parent_volume_id: Z13-4
+  publisher: SEMDIAL
+  title: "Demonstrating actions to a robot: How na\xEFve users adapt to a robot's\
+    \ replication of goal and manner-oriented actions"
+  title_html: "Demonstrating actions to a robot: How na\xEFve users adapt to a robot's\
+    \ replication of goal and manner-oriented actions"
+  url: http://semdial.org/anthology/Z13-Vollmer_semdial_0046.pdf
+  year: '2013'

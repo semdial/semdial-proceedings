@@ -1,0 +1,1410 @@
+'*SEM':
+  is_acl: true
+  is_toplevel: false
+  name: Joint Conference on Lexical and Computational Semantics
+  slug: sem
+  type: ACL
+  volumes_by_year: {}
+  years: []
+'*SEMEVAL':
+  is_acl: true
+  is_toplevel: true
+  main_letter: S
+  name: Lexical and Computational Semantics and Semantic Evaluation (formerly Workshop
+    on Sense Evaluation)
+  slug: semeval
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ACL:
+  is_acl: true
+  is_toplevel: true
+  main_letter: P
+  name: ACL Annual Meeting
+  slug: acl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+AHA:
+  is_acl: false
+  is_toplevel: false
+  name: AHA!-Workshop on Information Discovery in Text
+  slug: aha
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+AKBC:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Automated Knowledge Base Construction
+  slug: akbc
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ALNLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Active Learning for Natural Language Processing
+  slug: alnlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ALR:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Asian Language Resources
+  slug: alr
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+ALTA:
+  is_acl: false
+  is_toplevel: true
+  main_letter: U
+  name: Australasian Language Technology Association Workshop
+  slug: alta
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+ALW:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Abusive Language Online
+  slug: alw
+  type: ACL
+  volumes_by_year: {}
+  years: []
+AMTA:
+  is_acl: false
+  is_toplevel: false
+  name: Conference of the Association for Machine Translation in the Americas
+  slug: amta
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+ANLP:
+  is_acl: true
+  is_toplevel: true
+  main_letter: A
+  name: Applied Natural Language Processing Conference
+  slug: anlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ATANLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Applications of Tree Automata Techniques in Natural Language Processing
+  slug: atanlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ATS-MA:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Automatic Text Simplification - Methods and Applications in the
+    Multilingual Society
+  slug: ats-ma
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+ArgMining:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Argument Mining
+  slug: argmining
+  type: ACL
+  volumes_by_year: {}
+  years: []
+BEA:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Innovative Use of NLP for Building Educational Applications
+  slug: bea
+  type: ACL
+  volumes_by_year: {}
+  years: []
+BIRNDL:
+  is_acl: false
+  is_toplevel: false
+  name: Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural
+    Language Processing for Digital Libraries
+  slug: birndl
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+BSNLP:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Balto-Slavic Natural Language Processing
+  slug: bsnlp
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+BUCC:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Building and Using Comparable Corpora
+  slug: bucc
+  type: ACL
+  volumes_by_year: {}
+  years: []
+BioASQ:
+  is_acl: true
+  is_toplevel: false
+  name: BioASQ Workshop
+  slug: bioasq
+  type: ACL
+  volumes_by_year: {}
+  years: []
+BioNLP:
+  is_acl: true
+  is_toplevel: false
+  name: Biomedical Natural Language Processing Workshop
+  slug: bionlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CAtoCL:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Approaches to Causality in Language
+  slug: catocl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CCNLG:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Creativity in Natural Language Generation
+  slug: ccnlg
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CL:
+  is_acl: true
+  is_toplevel: true
+  main_letter: J
+  name: Computational Linguistics Journal
+  slug: cl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CL4LC:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Linguistics for Linguistic Complexity
+  slug: cl4lc
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CLFL:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Linguistics for Literature
+  slug: clfl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CLP:
+  is_acl: false
+  is_toplevel: false
+  name: Chinese Language Processing
+  slug: clp
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+CLPsych:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Linguistics and Clinical Psychology
+  slug: clpsych
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CLTW:
+  is_acl: false
+  is_toplevel: false
+  name: Celtic Language Technology Workshop
+  slug: cltw
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+CMCL:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Cognitive Modeling and Computational Linguistics
+  slug: cmcl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CNS:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computing News Storylines
+  slug: cns
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CNewsStory:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computing News Storylines
+  slug: cnewsstory
+  type: ACL
+  volumes_by_year: {}
+  years: []
+COLING:
+  is_acl: false
+  is_toplevel: true
+  main_letter: C
+  name: Int'l Committee on Computational Linguistics (ICCL) Conf.
+  slug: coling
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+CORBON:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Coreference Resolution Beyond OntoNotes
+  slug: corbon
+  type: ACL
+  volumes_by_year: {}
+  years: []
+COSLI:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Models of Spatial Language Interpretation and Generation
+  slug: cosli
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CRAC:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational models of Reference
+  slug: crac
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CSCT:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Computational Semantics in Clinical Text
+  slug: csct
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+CVIR:
+  is_acl: true
+  is_toplevel: false
+  name: Content Visualization and Intermedia Representations
+  slug: cvir
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CVSC:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Continuous Vector Space Models and their Compositionality
+  slug: cvsc
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ClinicalNLP:
+  is_acl: true
+  is_toplevel: false
+  name: Clinical Natural Language Processing Workshop
+  slug: clinicalnlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CoNLL:
+  is_acl: true
+  is_toplevel: true
+  main_letter: K
+  name: Conference on Computational Natural Language Learning
+  slug: conll
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CoSLI:
+  is_acl: false
+  is_toplevel: false
+  name: Computational Models of Spatial Language Interpretation and Generation
+  slug: cosli
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+CodeSwitch:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Approaches to Code Switching
+  slug: codeswitch
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CogACLL:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Cognitive Aspects of Computational Language Learning
+  slug: cogacll
+  type: ACL
+  volumes_by_year: {}
+  years: []
+CogALex:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Cognitive Aspects of the Lexicon
+  slug: cogalex
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ComAComA:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Computational Approaches to Compound Analysis
+  slug: comacoma
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+CompuTerm:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Computational Terminology
+  slug: computerm
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+DMTW:
+  is_acl: false
+  is_toplevel: false
+  name: Deep Machine Translation Workshop
+  slug: dmtw
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+DepLing:
+  is_acl: false
+  is_toplevel: false
+  name: International Conference on Dependency Linguistics
+  slug: depling
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+DiscoMT:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Discourse in Machine Translation
+  slug: discomt
+  type: ACL
+  volumes_by_year: {}
+  years: []
+EACL:
+  is_acl: true
+  is_toplevel: true
+  main_letter: E
+  name: European Chapter of ACL
+  slug: eacl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+EAMT:
+  is_acl: false
+  is_toplevel: false
+  name: Conference of the European Association for Machine Translation
+  slug: eamt
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+EMNLP:
+  is_acl: true
+  is_toplevel: true
+  main_letter: D
+  name: Conference on Empirical Methods in Natural Language Processing (and forerunners)
+  slug: emnlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ENLG:
+  is_acl: true
+  is_toplevel: false
+  name: European Workshop on Natural Language Generation
+  slug: enlg
+  type: ACL
+  volumes_by_year: {}
+  years: []
+EVENTS:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on EVENTS
+  slug: events
+  type: ACL
+  volumes_by_year: {}
+  years: []
+EXprom:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Extra-Propositional Aspects of Meaning in Computational Semantics
+  slug: exprom
+  type: ACL
+  volumes_by_year: {}
+  years: []
+EthNLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Ethics in NLP
+  slug: ethnlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+Ethics-NLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Ethics in Natural Language Processing
+  slug: ethics-nlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+EventStory:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Events and Stories in the News
+  slug: eventstory
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+FSMNLP:
+  is_acl: true
+  is_toplevel: false
+  name: International Conference on Finite State Methods for Natural Language Processing
+  slug: fsmnlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+Fig-Lang:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Figurative Language Processing
+  slug: fig-lang
+  type: ACL
+  volumes_by_year: {}
+  years: []
+GEAF:
+  is_acl: true
+  is_toplevel: false
+  name: Grammar Engineering Across Frameworks Workshop
+  slug: geaf
+  type: ACL
+  volumes_by_year: {}
+  years: []
+GEMS:
+  is_acl: true
+  is_toplevel: false
+  name: GEometrical Models of Natural Language Semantics
+  slug: gems
+  type: ACL
+  volumes_by_year: {}
+  years: []
+GL:
+  is_acl: true
+  is_toplevel: false
+  name: International Conference on the Generative Lexicon
+  slug: gl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+GWC:
+  is_acl: false
+  is_toplevel: false
+  name: Global WordNet Conference
+  slug: gwc
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+Gen-Deep:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Generalization in the Age of Deep Learning
+  slug: gen-deep
+  type: ACL
+  volumes_by_year: {}
+  years: []
+GramLex:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Grammar and Lexicon
+  slug: gramlex
+  type: ACL
+  volumes_by_year: {}
+  years: []
+HLT:
+  is_acl: false
+  is_toplevel: true
+  main_letter: H
+  name: Human Language Technology Conf.
+  slug: hlt
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+HyTra:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Hybrid Approaches to Machine Translation
+  slug: hytra
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ICON:
+  is_acl: false
+  is_toplevel: false
+  name: International Conference on Natural Language Processing
+  slug: icon
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+ICoS:
+  is_acl: true
+  is_toplevel: false
+  name: International Workshop on Inference in Computational Semantics
+  slug: icos
+  type: ACL
+  volumes_by_year: {}
+  years: []
+IJCNLP:
+  is_acl: false
+  is_toplevel: true
+  main_letter: I
+  name: Int'l Joint Conf. on Natural Language Processing (and workshops)
+  slug: ijcnlp
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+INLG:
+  is_acl: true
+  is_toplevel: false
+  name: International Natural Language Generation Conference
+  slug: inlg
+  type: ACL
+  volumes_by_year: {}
+  years: []
+ISA:
+  is_acl: false
+  is_toplevel: false
+  name: ISO Workshop on Interoperable Semantic Annotation
+  slug: isa
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+IWCS:
+  is_acl: true
+  is_toplevel: false
+  name: International Conference on Computational Semantics
+  slug: iwcs
+  type: ACL
+  volumes_by_year: {}
+  years: []
+IWPT:
+  is_acl: true
+  is_toplevel: false
+  name: International Conference on Parsing Technologies
+  slug: iwpt
+  type: ACL
+  volumes_by_year: {}
+  years: []
+JEP/TALN/RECITAL:
+  is_acl: false
+  is_toplevel: true
+  main_letter: F
+  name: JEP/TALN/RECITAL
+  slug: jep-taln-recital
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+LASM:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Language Analysis for Social Media
+  slug: lasm
+  type: ACL
+  volumes_by_year: {}
+  years: []
+LAW:
+  is_acl: true
+  is_toplevel: false
+  name: Linguistic Annotation Workshop
+  slug: law
+  type: ACL
+  volumes_by_year: {}
+  years: []
+LCCM:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Language, Cognition and Computational Models
+  slug: lccm
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+LDL:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Linked Data in Linguistics
+  slug: ldl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+LG-LP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Lexical and Grammatical Resources for Language Processing
+  slug: lg-lp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+LR4NLP:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Linguistic Resources for NLP
+  slug: lr4nlp
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+LREC:
+  is_acl: false
+  is_toplevel: true
+  main_letter: L
+  name: International Conference on Language Resources and Evaluation
+  slug: lrec
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+LSDSem:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level
+    Semantics
+  slug: lsdsem
+  type: ACL
+  volumes_by_year: {}
+  years: []
+LT4DH:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Language Technology Resources and Tools for Digital Humanities
+  slug: lt4dh
+  type: ACL
+  volumes_by_year: {}
+  years: []
+LT4VAR:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Language Technology for Closely Related Languages and Language
+    Variants
+  slug: lt4var
+  type: ACL
+  volumes_by_year: {}
+  years: []
+LaTeCH:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Language Technology for Cultural Heritage, Social Sciences, and
+    Humanities
+  slug: latech
+  type: ACL
+  volumes_by_year: {}
+  years: []
+LatentVar:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Vector Space Modeling for Natural Language Processing
+  slug: latentvar
+  type: ACL
+  volumes_by_year: {}
+  years: []
+Louhi:
+  is_acl: true
+  is_toplevel: false
+  name: International Workshop on Health Text Mining and Information Analysis
+  slug: louhi
+  type: ACL
+  volumes_by_year: {}
+  years: []
+MOOCs:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Modeling Large Scale Social Interaction In Massively Open Online
+    Courses
+  slug: moocs
+  type: ACL
+  volumes_by_year: {}
+  years: []
+MUC:
+  is_acl: false
+  is_toplevel: true
+  main_letter: M
+  name: Message Understanding Conf.
+  slug: muc
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+MWE:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Multiword Expressions
+  slug: mwe
+  type: ACL
+  volumes_by_year: {}
+  years: []
+Metaphor:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Metaphor in NLP
+  slug: metaphor
+  type: ACL
+  volumes_by_year: {}
+  years: []
+MoL:
+  is_acl: true
+  is_toplevel: false
+  name: Meeting on the Mathematics of Language
+  slug: mol
+  type: ACL
+  volumes_by_year: {}
+  years: []
+MultiLing:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Multilingual Summarization
+  slug: multiling
+  type: ACL
+  volumes_by_year: {}
+  years: []
+NAACL:
+  is_acl: true
+  is_toplevel: true
+  main_letter: 'N'
+  name: North American Chapter of ACL
+  slug: naacl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+NEWS:
+  is_acl: true
+  is_toplevel: false
+  name: Named Entities Workshop
+  slug: news
+  type: ACL
+  volumes_by_year: {}
+  years: []
+NLP+CSS:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on NLP and Computational Social Science
+  slug: nlp-css
+  type: ACL
+  volumes_by_year: {}
+  years: []
+NLP-TEA:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Natural Language Processing Techniques for Educational Applications
+  slug: nlp-tea
+  type: ACL
+  volumes_by_year: {}
+  years: []
+NLP4CALL:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on NLP for Computer-Assisted Language Learning
+  slug: nlp4call
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+NLP4IF:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on NLP for Internet Freedom
+  slug: nlp4if
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+NLP4ITA:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Natural Language Processing for Improving Textual Accessibility
+  slug: nlp4ita
+  type: ACL
+  volumes_by_year: {}
+  years: []
+NLP4TM:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Natural Language Processing for Translation Memories
+  slug: nlp4tm
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+NLPLOD:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Natural Language Processing and Linked Open Data
+  slug: nlplod
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+NMT:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Neural Machine Translation
+  slug: nmt
+  type: ACL
+  volumes_by_year: {}
+  years: []
+NeSp-NLP:
+  is_acl: true
+  is_toplevel: false
+  name: Negation and Speculation in Natural Language Processing
+  slug: nesp-nlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+NoDaLiDa:
+  is_acl: false
+  is_toplevel: false
+  name: Nordic Conference of Computational Linguistics
+  slug: nodalida
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+OIAF4HLT:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Open Infrastructures and Analysis Frameworks for HLT
+  slug: oiaf4hlt
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+PACLIC:
+  is_acl: false
+  is_toplevel: true
+  main_letter: 'Y'
+  name: Pacific Asia Conference on Language, Information and Computation
+  slug: paclic
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+PEOPLES:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Modeling of People's Opinions, Personality, and
+    Emotions in Social Media
+  slug: peoples
+  type: ACL
+  volumes_by_year: {}
+  years: []
+PITR:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Predicting and Improving Text Readability for Target Reader Populations
+  slug: pitr
+  type: ACL
+  volumes_by_year: {}
+  years: []
+PREP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Prepositions
+  slug: prep
+  type: ACL
+  volumes_by_year: {}
+  years: []
+PYLO:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Computational Modeling of Polysynthetic Languages
+  slug: pylo
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+RANLP:
+  is_acl: false
+  is_toplevel: true
+  main_letter: R
+  name: International Conference Recent Advances in Natural Language Processing
+  slug: ranlp
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+ROCLING/IJCLCLP:
+  is_acl: false
+  is_toplevel: true
+  main_letter: O
+  name: Rocling Computation Linguistics Conference and Journal
+  slug: rocling-ijclclp
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+Rep4NLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Representation Learning for NLP
+  slug: rep4nlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+RepEval:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Evaluating Vector-Space Representations for NLP
+  slug: repeval
+  type: ACL
+  volumes_by_year: {}
+  years: []
+RoboNLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Language Grounding for Robotics
+  slug: robonlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+S2MT:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Semantics-Driven Statistical Machine Translation
+  slug: s2mt
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SADAATL:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Synchronic and Diachronic Approaches to Analyzing Technical Language
+  slug: sadaatl
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+SCLeM:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Subword and Character LEvel Models in NLP
+  slug: sclem
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SCiL:
+  is_acl: false
+  is_toplevel: false
+  name: Society for Computation in Linguistics
+  slug: scil
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+SEMDIAL:
+  is_acl: false
+  is_toplevel: true
+  main_letter: Z
+  name: SEMDIAL Workshop
+  slug: semdial
+  type: Non ACL
+  volumes_by_year:
+    '2013':
+    - Z13-1
+    - Z13-2
+    - Z13-3
+    - Z13-4
+    '2014':
+    - Z14-1
+    - Z14-2
+    - Z14-3
+    - Z14-4
+    '2015':
+    - Z15-1
+    - Z15-2
+    - Z15-3
+    - Z15-4
+    '2016':
+    - Z16-1
+    - Z16-2
+    - Z16-3
+    - Z16-4
+    '2017':
+    - Z17-1
+    - Z17-2
+    - Z17-3
+    - Z17-4
+    '2018':
+    - Z18-1
+    - Z18-2
+    - Z18-3
+    - Z18-4
+    '2019':
+    - Z19-1
+    - Z19-2
+    - Z19-3
+    - Z19-4
+  years:
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - '2018'
+  - '2019'
+SEMITIC:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Approaches to Semitic Languages
+  slug: semitic
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SENSE:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Sense, Concept and Entity Representations and their Applications
+  slug: sense
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SEW:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Semantic Evaluations
+  slug: sew
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SIGDIAL:
+  is_acl: true
+  is_toplevel: false
+  name: SIGDial Conference
+  slug: sigdial
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SIGHAN:
+  is_acl: true
+  is_toplevel: false
+  name: SIGHAN Workshop on Chinese Language Processing
+  slug: sighan
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SIGMORPHON:
+  is_acl: true
+  is_toplevel: false
+  name: Meeting of the ACL Special Interest Group on Computational Morphology and
+    Phonology
+  slug: sigmorphon
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SLPAT:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Speech and Language Processing for Assistive Technologies
+  slug: slpat
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SPMRL:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Statistical Parsing of Morphologically Rich Languages
+  slug: spmrl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SSST:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Syntax, Semantics and Structure in Statistical Translation
+  slug: ssst
+  type: ACL
+  volumes_by_year: {}
+  years: []
+STEP:
+  is_acl: true
+  is_toplevel: false
+  name: Semantics in Text Processing
+  slug: step
+  type: ACL
+  volumes_by_year: {}
+  years: []
+STIL:
+  is_acl: false
+  is_toplevel: false
+  name: Brazilian Symposium in Information and Human Language Technology
+  slug: stil
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+SWAIE:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Semantic Web and Information Extraction
+  slug: swaie
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+SedMT:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Semantics-Driven Machine Translation
+  slug: sedmt
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SemBEaR:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Semantics Beyond Events and Roles
+  slug: sembear
+  type: ACL
+  volumes_by_year: {}
+  years: []
+SemDeep:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Semantic Deep Learning
+  slug: semdeep
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+SocialNLP:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Natural Language Processing for Social Media
+  slug: socialnlp
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+SpLU:
+  is_acl: true
+  is_toplevel: false
+  name: Spatial Language Understanding
+  slug: splu
+  type: ACL
+  volumes_by_year: {}
+  years: []
+StatFSM:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Statistical NLP and Weighted Automata
+  slug: statfsm
+  type: ACL
+  volumes_by_year: {}
+  years: []
+Story-NLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Storytelling
+  slug: story-nlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+Style-Var:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Stylistic Variation
+  slug: style-var
+  type: ACL
+  volumes_by_year: {}
+  years: []
+TACL:
+  is_acl: true
+  is_toplevel: true
+  main_letter: Q
+  name: Transactions of the Association for Computational Linguistics
+  slug: tacl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+TAG+:
+  is_acl: false
+  is_toplevel: false
+  name: International Workshop on Tree Adjoining Grammars and Related Formalisms
+  slug: tag
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+TINLAP:
+  is_acl: false
+  is_toplevel: true
+  main_letter: T
+  name: Theoretical Issues In Natural Language Processing
+  slug: tinlap
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+TIPSTER:
+  is_acl: false
+  is_toplevel: true
+  main_letter: X
+  name: NIST's TIPSTER Text Program
+  slug: tipster
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+TRAC:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Trolling, Aggression and Cyberbullying
+  slug: trac
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+TTNLS:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Type Theory and Natural Language Semantics
+  slug: ttnls
+  type: ACL
+  volumes_by_year: {}
+  years: []
+TeachingNLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Teaching Natural Language Processing
+  slug: teachingnlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+TextGraphs:
+  is_acl: true
+  is_toplevel: false
+  name: Graph-based Methods for Natural Language Processing
+  slug: textgraphs
+  type: ACL
+  volumes_by_year: {}
+  years: []
+TextInfer:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Textual Entailment
+  slug: textinfer
+  type: ACL
+  volumes_by_year: {}
+  years: []
+UDW:
+  is_acl: false
+  is_toplevel: false
+  name: Universal Dependencies Workshop
+  slug: udw
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+VL:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Vision and Language
+  slug: vl
+  type: ACL
+  volumes_by_year: {}
+  years: []
+VLC:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Very Large Corpora
+  slug: vlc
+  type: ACL
+  volumes_by_year: {}
+  years: []
+VarDial:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Applying NLP Tools to Similar Languages, Varieties and Dialects
+  slug: vardial
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+WAC:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Web as Corpus
+  slug: wac
+  type: ACL
+  volumes_by_year: {}
+  years: []
+WAMM:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Annotation of Modal Meanings in Natural Language
+  slug: wamm
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+WANLP:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Arabic Natural Language Processing
+  slug: wanlp
+  type: ACL
+  volumes_by_year: {}
+  years: []
+WASSA:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Computational Approaches to Subjectivity and Sentiment Analysis
+  slug: wassa
+  type: ACL
+  volumes_by_year: {}
+  years: []
+WAT:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on Asian Translation
+  slug: wat
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+WMT:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Statistical Machine Translation
+  slug: wmt
+  type: ACL
+  volumes_by_year: {}
+  years: []
+WNUT:
+  is_acl: true
+  is_toplevel: false
+  name: Workshop on Noisy User-generated Text
+  slug: wnut
+  type: ACL
+  volumes_by_year: {}
+  years: []
+WS:
+  is_acl: true
+  is_toplevel: true
+  main_letter: W
+  name: Other Workshops and Events
+  slug: ws
+  type: ACL
+  volumes_by_year: {}
+  years: []
+WSSANLP:
+  is_acl: false
+  is_toplevel: false
+  name: Workshop on South and Southeast Asian NLP
+  slug: wssanlp
+  type: Non ACL
+  volumes_by_year: {}
+  years: []
+WebNLG:
+  is_acl: true
+  is_toplevel: false
+  name: International Workshop on Natural Language Generation and the Semantic Web
+  slug: webnlg
+  type: ACL
+  volumes_by_year: {}
+  years: []
+WiNLP:
+  is_acl: true
+  is_toplevel: false
+  name: Women and Underrepresented Minorities in Natural Language Processing
+  slug: winlp
+  type: ACL
+  volumes_by_year: {}
+  years: []

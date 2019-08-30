@@ -1,0 +1,1575 @@
+Z14-1000:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  bibkey: semdial-2014-semantics
+  bibtype: proceedings
+  month: August
+  paper_id: '1000'
+  parent_volume_id: Z14-1
+  publisher: SEMDIAL
+  title: Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2014_dialwatt_front_matter.pdf
+  year: '2014'
+Z14-2001:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Holly
+    full: Holly Branigan
+    id: holly-branigan
+    last: Branigan
+  bibkey: branigan-2014-say
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2001'
+  parent_volume_id: Z14-2
+  publisher: SEMDIAL
+  title: 'Say as I say: Alignment as a multi-componential phenomenon'
+  title_html: 'Say as I say: Alignment as a multi-componential phenomenon'
+  url: http://semdial.org/anthology/Z14-Branigan_semdial_0001.pdf
+  year: '2014'
+Z14-2002:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Jon
+    full: Jon Oberlander
+    id: jon-oberlander
+    last: Oberlander
+  bibkey: oberlander-2014-talking
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2002'
+  parent_volume_id: Z14-2
+  publisher: SEMDIAL
+  title: Talking to animals and talking to things
+  title_html: Talking to animals and talking to things
+  url: http://semdial.org/anthology/Z14-Oberlander_semdial_0002.pdf
+  year: '2014'
+Z14-2003:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: purver-2014-ask
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2003'
+  parent_volume_id: Z14-2
+  publisher: SEMDIAL
+  title: Ask Not What Semantics Can Do For Dialogue - Ask What Dialogue Can Do For
+    Semantics
+  title_html: Ask Not What Semantics Can Do For Dialogue - Ask What Dialogue Can Do
+    For Semantics
+  url: http://semdial.org/anthology/Z14-Purver_semdial_0003.pdf
+  year: '2014'
+Z14-2004:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Michael
+    full: Michael Schober
+    id: michael-schober
+    last: Schober
+  bibkey: schober-2014-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2004'
+  parent_volume_id: Z14-2
+  publisher: SEMDIAL
+  title: Dialogue, response quality and mode choice in iPhone surveys
+  title_html: Dialogue, response quality and mode choice in iPhone surveys
+  url: http://semdial.org/anthology/Z14-Schober_semdial_0004.pdf
+  year: '2014'
+Z14-3005:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Ozge
+    full: Ozge Alacam
+    id: ozge-alacam
+    last: Alacam
+  - first: Cengiz
+    full: Cengiz Acarturk
+    id: cengiz-acarturk
+    last: Acarturk
+  - first: Christopher
+    full: Christopher Habel
+    id: christopher-habel
+    last: Habel
+  bibkey: alacam-etal-2014-referring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3005'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Referring Expressions in Discourse about Haptic Line Graphs
+  title_html: Referring Expressions in Discourse about Haptic Line Graphs
+  url: http://semdial.org/anthology/Z14-Alacam_semdial_0005.pdf
+  year: '2014'
+Z14-3006:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: buschmeier-kopp-2014-dynamic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3006'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: A dynamic minimal model of the listener for feedback-based dialogue coordination
+  title_html: A dynamic minimal model of the listener for feedback-based dialogue
+    coordination
+  url: http://semdial.org/anthology/Z14-Buschmeier_semdial_0006.pdf
+  year: '2014'
+Z14-3007:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  bibkey: cooper-2014-phrase
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3007'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Phrase structure rules as dialogue update rules
+  title_html: Phrase structure rules as dialogue update rules
+  url: http://semdial.org/anthology/Z14-Cooper_semdial_0007.pdf
+  year: '2014'
+Z14-3008:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Chris
+    full: Chris Cummins
+    id: chris-cummins
+    last: Cummins
+  bibkey: cummins-2014-numerical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3008'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Numerical expressions, implicatures and imagined prior context
+  title_html: Numerical expressions, implicatures and imagined prior context
+  url: http://semdial.org/anthology/Z14-Cummins_semdial_0008.pdf
+  year: '2014'
+Z14-3009:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: John
+    full: John Kelleher
+    id: john-kelleher
+    last: Kelleher
+  - first: Christos
+    full: Christos Koniaris
+    id: christos-koniaris
+    last: Koniaris
+  bibkey: dobnik-etal-2014-priming
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3009'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Priming and Alignment of Frame of Reference in Situated Conversation
+  title_html: Priming and Alignment of Frame of Reference in Situated Conversation
+  url: http://semdial.org/anthology/Z14-Dobnik_semdial_0009.pdf
+  year: '2014'
+Z14-3010:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: eshghi-lemon-2014-domain
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3010'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: How domain-general can we be? Learning incremental Dialogue Systems without
+    Dialogue Acts
+  title_html: How domain-general can we be? Learning incremental Dialogue Systems
+    without Dialogue Acts
+  url: http://semdial.org/anthology/Z14-Eshghi_semdial_0010.pdf
+  year: '2014'
+Z14-3011:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Markus
+    full: Markus Guhe
+    id: markus-guhe
+    last: Guhe
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  bibkey: guhe-lascarides-2014-persuasion
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3011'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Persuasion in Complex Games
+  title_html: Persuasion in Complex Games
+  url: http://semdial.org/anthology/Z14-Guhe_semdial_0011.pdf
+  year: '2014'
+Z14-3012:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Jesse
+    full: Jesse Harris
+    id: jesse-harris
+    last: Harris
+  bibkey: harris-2014-signaling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3012'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: 'Signaling Non-speaker commitment in Transparent Free Relatives: A paired
+    Speaker-Hearer judgment study.'
+  title_html: 'Signaling Non-speaker commitment in Transparent Free Relatives: A paired
+    Speaker-Hearer judgment study.'
+  url: http://semdial.org/anthology/Z14-Harris_semdial_0012.pdf
+  year: '2014'
+Z14-3013:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Rose
+    full: Rose McCabe
+    id: rose-mccabe
+    last: McCabe
+  bibkey: howes-etal-2014-helping
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3013'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: 'Helping, I mean assessing psychiatric communication: An application of incremental
+    self-repair detection'
+  title_html: 'Helping, I mean assessing psychiatric communication: An application
+    of incremental self-repair detection'
+  url: http://semdial.org/anthology/Z14-Howes_semdial_0013.pdf
+  year: '2014'
+Z14-3014:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Ivana
+    full: Ivana Kruijff-Korbayova
+    id: ivana-kruijff-korbayova
+    last: Kruijff-Korbayova
+  - first: Stefania
+    full: Stefania Racioppa
+    id: stefania-racioppa
+    last: Racioppa
+  - first: Bernd
+    full: Bernd Kiefer
+    id: bernd-kiefer
+    last: Kiefer
+  - first: Elettra
+    full: Elettra Oleari
+    id: elettra-oleari
+    last: Oleari
+  - first: Clara
+    full: Clara Pozzi
+    id: clara-pozzi
+    last: Pozzi
+  bibkey: kruijff-korbayova-etal-2014-analysis
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3014'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Analysis of the Responses to System-Initiated Off-Activity Talk in Human-Robot
+    Interaction with Diabetic Children
+  title_html: Analysis of the Responses to System-Initiated Off-Activity Talk in Human-Robot
+    Interaction with Diabetic Children
+  url: http://semdial.org/anthology/Z14-Kruijff-Korbayova_semdial_0014.pdf
+  year: '2014'
+Z14-3015:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Daniel
+    full: Daniel Magarreiro
+    id: daniel-magarreiro
+    last: Magarreiro
+  - first: "Lu\xEDsa"
+    full: "Lu\xEDsa Coheur"
+    id: luisa-coheur
+    last: Coheur
+  - first: Francisco
+    full: Francisco Melo
+    id: francisco-melo
+    last: Melo
+  bibkey: magarreiro-etal-2014-using
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3015'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Using subtitles to deal with Out-of-Domain interactions
+  title_html: Using subtitles to deal with Out-of-Domain interactions
+  url: http://semdial.org/anthology/Z14-Magarreiro_semdial_0015.pdf
+  year: '2014'
+Z14-3016:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Timothy
+    full: Timothy Meo
+    id: timothy-meo
+    last: Meo
+  - first: Brian
+    full: Brian McMahan
+    id: brian-mcmahan
+    last: McMahan
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  bibkey: meo-etal-2014-generating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3016'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Generating and Resolving Vague Color References
+  title_html: Generating and Resolving Vague Color References
+  url: http://semdial.org/anthology/Z14-Meo_semdial_0016.pdf
+  year: '2014'
+Z14-3017:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Sara
+    full: Sara Moradlou
+    id: sara-moradlou
+    last: Moradlou
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: moradlou-ginzburg-2014-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3017'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Learning to understand questions
+  title_html: Learning to understand questions
+  url: http://semdial.org/anthology/Z14-Moradlou_semdial_0017.pdf
+  year: '2014'
+Z14-3018:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Charles
+    full: Charles Ortiz
+    id: charles-ortiz
+    last: Ortiz
+  - first: Jiaying
+    full: Jiaying Shen
+    id: jiaying-shen
+    last: Shen
+  bibkey: ortiz-shen-2014-dynamic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3018'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Dynamic Intention Structures for Dialogue Processing
+  title_html: Dynamic Intention Structures for Dialogue Processing
+  url: http://semdial.org/anthology/Z14-Ortiz_semdial_0018.pdf
+  year: '2014'
+Z14-3019:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: "J\xE9r\xE9my"
+    full: "J\xE9r\xE9my Perret"
+    id: jeremy-perret
+    last: Perret
+  - first: Stergos
+    full: Stergos Afantenos
+    id: stergos-afantenos
+    last: Afantenos
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  bibkey: perret-etal-2014-revealing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3019'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Revealing Resources in Strategic Contexts
+  title_html: Revealing Resources in Strategic Contexts
+  url: http://semdial.org/anthology/Z14-Perret_semdial_0019.pdf
+  year: '2014'
+Z14-3020:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Jon
+    full: Jon Stevens
+    id: jon-stevens
+    last: Stevens
+  - first: Anton
+    full: Anton Benz
+    id: anton-benz
+    last: Benz
+  - first: Sebastian
+    full: "Sebastian Reu\xDFe"
+    id: sebastian-reusse
+    last: "Reu\xDFe"
+  - first: Ronja
+    full: Ronja Laarmann-Quante
+    id: ronja-laarmann-quante
+    last: Laarmann-Quante
+  - first: Ralf
+    full: Ralf Klabunde
+    id: ralf-klabunde
+    last: Klabunde
+  bibkey: stevens-etal-2014-indirect
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3020'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Indirect answers as potential solutions to decision problems
+  title_html: Indirect answers as potential solutions to decision problems
+  url: http://semdial.org/anthology/Z14-Stevens_semdial_0020.pdf
+  year: '2014'
+Z14-3021:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Antoine
+    full: Antoine Venant
+    id: antoine-venant
+    last: Venant
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: "C\xE9dric"
+    full: "C\xE9dric D\xE9gremont"
+    id: cedric-degremont
+    last: "D\xE9gremont"
+  bibkey: venant-etal-2014-credibility
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3021'
+  parent_volume_id: Z14-3
+  publisher: SEMDIAL
+  title: Credibility and its Attacks.
+  title_html: Credibility and its Attacks.
+  url: http://semdial.org/anthology/Z14-Venant_semdial_0021.pdf
+  year: '2014'
+Z14-4022:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: "Jo\xE3o Paulo"
+    full: "Jo\xE3o Paulo Cabral"
+    id: joao-paulo-cabral1
+    last: Cabral
+  - first: Nick
+    full: Nick Campbell
+    id: nick-campbell
+    last: Campbell
+  - first: Sree
+    full: Sree Ganesh
+    id: sree-ganesh
+    last: Ganesh
+  - first: Mina
+    full: Mina Kheirkhah
+    id: mina-kheirkhah
+    last: Kheirkhah
+  - first: Emer
+    full: Emer Gilmartin
+    id: emer-gilmartin
+    last: Gilmartin
+  - first: Fasih
+    full: Fasih Haider
+    id: fasih-haider
+    last: Haider
+  - first: Eamonn
+    full: Eamonn Kenny
+    id: eamonn-kenny
+    last: Kenny
+  - first: Andrew
+    full: Andrew Murphy
+    id: andrew-murphy
+    last: Murphy
+  - first: "Neasa N\xED"
+    full: "Neasa N\xED Chiar\xE1in"
+    id: neasa-ni-chiarain
+    last: "Chiar\xE1in"
+  - first: Thomas
+    full: Thomas Pellegrini
+    id: thomas-pellegrini
+    last: Pellegrini
+  - first: Odei Rey
+    full: Odei Rey Orozko
+    id: odei-rey-orozko
+    last: Orozko
+  bibkey: cabral-etal-2014-milla
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4022'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: "MILLA \u2013 A Multimodal Interactive Language Learning Agent"
+  title_html: "MILLA \u2013 A Multimodal Interactive Language Learning Agent"
+  url: http://semdial.org/anthology/Z14-Cabral_semdial_0022.pdf
+  year: '2014'
+Z14-4023:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Iwan de
+    full: Iwan de Kok
+    id: iwan-de-kok
+    last: Kok
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Cornelia
+    full: Cornelia Frank
+    id: cornelia-frank
+    last: Frank
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: kok-etal-2014-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4023'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Dialogue Structure of Coaching Sessions
+  title_html: Dialogue Structure of Coaching Sessions
+  url: http://semdial.org/anthology/Z14-Kok_semdial_0023.pdf
+  year: '2014'
+Z14-4024:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Nina
+    full: Nina Dethlefs
+    id: nina-dethlefs
+    last: Dethlefs
+  - first: Heriberto
+    full: Heriberto Cuayahuitl
+    id: heriberto-cuayahuitl
+    last: Cuayahuitl
+  - first: Helen
+    full: Helen Hastie
+    id: helen-hastie
+    last: Hastie
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: dethlefs-etal-2014-getting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4024'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'Getting to Know Users: Accounting for the Variability in User Ratings'
+  title_html: 'Getting to Know Users: Accounting for the Variability in User Ratings'
+  url: http://semdial.org/anthology/Z14-Dethlefs_semdial_0024.pdf
+  year: '2014'
+Z14-4025:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Ioannis
+    full: Ioannis Efstathiou
+    id: ioannis-efstathiou
+    last: Efstathiou
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: efstathiou-lemon-2014-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4025'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Learning to manage risks in non-cooperative dialogues
+  title_html: Learning to manage risks in non-cooperative dialogues
+  url: http://semdial.org/anthology/Z14-Efstathiou_semdial_0025.pdf
+  year: '2014'
+Z14-4026:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  bibkey: ginzburg-etal-2014-disfluency
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4026'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: The Disfluency, Exclamation, and Laughter in Dialogue (DUEL) Project
+  title_html: The Disfluency, Exclamation, and Laughter in Dialogue (DUEL) Project
+  url: http://semdial.org/anthology/Z14-Ginzburg_semdial_0026.pdf
+  year: '2014'
+Z14-4027:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Nadine
+    full: Nadine Glas
+    id: nadine-glas
+    last: Glas
+  - first: Catherine
+    full: Catherine Pelachaud
+    id: catherine-pelachaud
+    last: Pelachaud
+  bibkey: glas-pelachaud-2014-hearer
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4027'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Hearer Engagement as a Variable in the Perceived Weight of a Face-Threatening
+    Act
+  title_html: Hearer Engagement as a Variable in the Perceived Weight of a Face-Threatening
+    Act
+  url: http://semdial.org/anthology/Z14-Glas_semdial_0027.pdf
+  year: '2014'
+Z14-4028:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Robert
+    full: Robert Grimm
+    id: robert-grimm
+    last: Grimm
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: grimm-fernandez-2014-assessing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4028'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational
+    Approach'
+  title_html: 'Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A
+    Recurrence-Quantificational Approach'
+  url: http://semdial.org/anthology/Z14-Grimm_semdial_0028.pdf
+  year: '2014'
+Z14-4029:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Florian
+    full: Florian Hahn
+    id: florian-hahn
+    last: Hahn
+  - first: Insa
+    full: Insa Lawler
+    id: insa-lawler
+    last: Lawler
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  bibkey: hahn-etal-2014-first
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4029'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: First observations on a corpus of multi-modal trialogues
+  title_html: First observations on a corpus of multi-modal trialogues
+  url: http://semdial.org/anthology/Z14-Hahn_semdial_0029.pdf
+  year: '2014'
+Z14-4030:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Ting
+    full: Ting Han
+    id: ting-han
+    last: Han
+  - first: Spyros
+    full: Spyros Kousidis
+    id: spyros-kousidis
+    last: Kousidis
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: han-etal-2014-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4030'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: "Towards Automatic Understanding of \u2018Virtual Pointing\u2019 in Interaction"
+  title_html: "Towards Automatic Understanding of \u2018Virtual Pointing\u2019 in\
+    \ Interaction"
+  url: http://semdial.org/anthology/Z14-Han_semdial_0030.pdf
+  year: '2014'
+Z14-4031:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Helen
+    full: Helen Hastie
+    id: helen-hastie
+    last: Hastie
+  - first: Marie-Aude
+    full: Marie-Aude Aufaure
+    id: marie-aude-aufaure
+    last: Aufaure
+  - first: Panos
+    full: Panos Alexopoulos
+    id: panos-alexopoulos
+    last: Alexopoulos
+  - first: Hugues
+    full: Hugues Bouchard
+    id: hugues-bouchard
+    last: Bouchard
+  - first: Heriberto
+    full: Heriberto Cuayahuitl
+    id: heriberto-cuayahuitl
+    last: Cuayahuitl
+  - first: Nina
+    full: Nina Dethlefs
+    id: nina-dethlefs
+    last: Dethlefs
+  - first: Milica
+    full: Milica Gasic
+    id: milica-gasic
+    last: Gasic
+  - first: Almudena
+    full: Almudena Gonzalez-Guimerans
+    id: almudena-gonzalez-guimerans
+    last: Gonzalez-Guimerans
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Xingkun
+    full: Xingkun Liu
+    id: xingkun-liu
+    last: Liu
+  - first: Peter
+    full: Peter Mika
+    id: peter-mika
+    last: Mika
+  - first: Ti
+    full: Ti Potter
+    id: ti-potter
+    last: Potter
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Pirros
+    full: Pirros Tsiakoulis
+    id: pirros-tsiakoulis
+    last: Tsiakoulis
+  - first: Yves
+    full: Yves Vanrompay
+    id: yves-vanrompay
+    last: Vanrompay
+  - first: Boris
+    full: Boris Villazon-Terrazas
+    id: boris-villazon-terrazas
+    last: Villazon-Terrazas
+  - first: Majid
+    full: Majid Yazdani
+    id: majid-yazdani
+    last: Yazdani
+  - first: Steve
+    full: Steve Young
+    id: steve-young
+    last: Young
+  - first: Yanchao
+    full: Yanchao Yu
+    id: yanchao-yu
+    last: Yu
+  bibkey: hastie-etal-2014-two
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4031'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: "Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile\
+    \ Platforms for Evaluation \u201CIn the Wild\u201D"
+  title_html: "Two Alternative Frameworks for Deploying Spoken Dialogue Systems to\
+    \ Mobile Platforms for Evaluation \u201CIn the Wild\u201D"
+  url: http://semdial.org/anthology/Z14-Hastie_semdial_0031.pdf
+  year: '2014'
+Z14-4032:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Gibson
+    full: Gibson Ikoro
+    id: gibson-ikoro
+    last: Ikoro
+  - first: Raul
+    full: Raul Mondragon
+    id: raul-mondragon
+    last: Mondragon
+  - first: Graham
+    full: Graham White
+    id: graham-white
+    last: White
+  bibkey: ikoro-etal-2014-disentangling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4032'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Disentangling utterances and recovering coherent multi party distinct conversations
+  title_html: Disentangling utterances and recovering coherent multi party distinct
+    conversations
+  url: http://semdial.org/anthology/Z14-Ikoro_semdial_0032.pdf
+  year: '2014'
+Z14-4033:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Zengtao
+    full: Zengtao Jiao
+    id: zengtao-jiao
+    last: Jiao
+  - first: Zhuoran
+    full: Zhuoran Wang
+    id: zhuoran-wang
+    last: Wang
+  - first: Guanchun
+    full: Guanchun Wang
+    id: guanchun-wang
+    last: Wang
+  - first: Hao
+    full: Hao Tian
+    id: hao-tian
+    last: Tian
+  - first: Hua
+    full: Hua Wu
+    id: hua-wu
+    last: Wu
+  - first: Haifeng
+    full: Haifeng Wang
+    id: haifeng-wang
+    last: Wang
+  bibkey: jiao-etal-2014-large
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4033'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Large-scale Analysis of the Flight Booking Spoken Dialog System in a Commercial
+    Travel Information Mobile App
+  title_html: Large-scale Analysis of the Flight Booking Spoken Dialog System in a
+    Commercial Travel Information Mobile App
+  url: http://semdial.org/anthology/Z14-Jiao_semdial_0033.pdf
+  year: '2014'
+Z14-4034:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Yasuhiro
+    full: Yasuhiro Katagiri
+    id: yasuhiro-katagiri
+    last: Katagiri
+  - first: Katsuya
+    full: Katsuya Takanashi
+    id: katsuya-takanashi
+    last: Takanashi
+  - first: Masato
+    full: Masato Ishizaki
+    id: masato-ishizaki
+    last: Ishizaki
+  - first: Mika
+    full: Mika Enomoto
+    id: mika-enomoto
+    last: Enomoto
+  - first: Yasuharu
+    full: Yasuharu Den
+    id: yasuharu-den
+    last: Den
+  - first: Shogo
+    full: Shogo Okada
+    id: shogo-okada
+    last: Okada
+  bibkey: katagiri-etal-2014-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4034'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: A Multi-issue Negotiation Model of Trust Formation through Concern Alignment
+    in Conversations
+  title_html: A Multi-issue Negotiation Model of Trust Formation through Concern Alignment
+    in Conversations
+  url: http://semdial.org/anthology/Z14-Katagiri_semdial_0034.pdf
+  year: '2014'
+Z14-4035:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  - first: Spyros
+    full: Spyros Kousidis
+    id: spyros-kousidis
+    last: Kousidis
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: kennington-etal-2014-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4035'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Multimodal Dialogue Systems with InproTKs and Venice
+  title_html: Multimodal Dialogue Systems with InproTKs and Venice
+  url: http://semdial.org/anthology/Z14-Kennington_semdial_0035.pdf
+  year: '2014'
+Z14-4036:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Matthias
+    full: Matthias Kerzel
+    id: matthias-kerzel
+    last: Kerzel
+  - first: Ozge
+    full: Ozge Alacam
+    id: ozge-alacam
+    last: Alacam
+  - first: Christopher
+    full: Christopher Habel
+    id: christopher-habel
+    last: Habel
+  - first: Cengiz
+    full: Cengiz Acarturk
+    id: cengiz-acarturk
+    last: Acarturk
+  bibkey: kerzel-etal-2014-producing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4036'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Producing Verbal Descriptions for Haptic Line-Graph Explorations
+  title_html: Producing Verbal Descriptions for Haptic Line-Graph Explorations
+  url: http://semdial.org/anthology/Z14-Kerzel_semdial_0036.pdf
+  year: '2014'
+Z14-4037:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Sebastian
+    full: Sebastian Berlin
+    id: sebastian-berlin
+    last: Berlin
+  bibkey: larsson-etal-2014-effects
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4037'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'Effects of Speech Cursor on Visual Distraction in In-vehicle Interaction:
+    Preliminary Results'
+  title_html: 'Effects of Speech Cursor on Visual Distraction in In-vehicle Interaction:
+    Preliminary Results'
+  url: http://semdial.org/anthology/Z14-Larsson_semdial_0037.pdf
+  year: '2014'
+Z14-4038:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Jaroslaw
+    full: Jaroslaw Lelonkiewicz
+    id: jaroslaw-lelonkiewicz
+    last: Lelonkiewicz
+  - first: Chiara
+    full: Chiara Gambi
+    id: chiara-gambi
+    last: Gambi
+  bibkey: lelonkiewicz-gambi-2014-common
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4038'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'Common Ground and Joint Utterance Production: Evidence from the Word Chain
+    Task'
+  title_html: 'Common Ground and Joint Utterance Production: Evidence from the Word
+    Chain Task'
+  url: http://semdial.org/anthology/Z14-Lelonkiewicz_semdial_0038.pdf
+  year: '2014'
+Z14-4039:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Barbara
+    full: Barbara Lewandowska-Tomaszczyk
+    id: barbara-lewandowska-tomaszczyk
+    last: Lewandowska-Tomaszczyk
+  bibkey: lewandowska-tomaszczyk-2014-language
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4039'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Language-bound Dialogic elements in Computer-Mediated and Face-to-Face Communication
+  title_html: Language-bound Dialogic elements in Computer-Mediated and Face-to-Face
+    Communication
+  url: http://semdial.org/anthology/Z14-Lewandowska-Tomaszczyk_semdial_0039.pdf
+  year: '2014'
+Z14-4040:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Mei Yii
+    full: Mei Yii Lim
+    id: mei-yii-lim
+    last: Lim
+  - first: Mary Ellen
+    full: Mary Ellen Foster
+    id: mary-ellen-foster
+    last: Foster
+  - first: Srinivasan
+    full: Srinivasan Janarthanam
+    id: srinivasan-janarthanam
+    last: Janarthanam
+  - first: Amol
+    full: Amol Deshmukh
+    id: amol-deshmukh
+    last: Deshmukh
+  - first: Helen
+    full: Helen Hastie
+    id: helen-hastie
+    last: Hastie
+  - first: Ruth
+    full: Ruth Aylett
+    id: ruth-aylett
+    last: Aylett
+  bibkey: lim-etal-2014-studying
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4040'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Studying the Effects of Affective Feedback in Embodied Tutors
+  title_html: Studying the Effects of Affective Feedback in Embodied Tutors
+  url: http://semdial.org/anthology/Z14-Lim_semdial_0040.pdf
+  year: '2014'
+Z14-4041:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Callum
+    full: Callum Main
+    id: callum-main
+    last: Main
+  - first: Zhuoran
+    full: Zhuoran Wang
+    id: zhuoran-wang
+    last: Wang
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  bibkey: main-etal-2014-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4041'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Towards Deep Learning for Dialogue State Tracking Using Restricted Bolzman
+    Machines and Pretraining
+  title_html: Towards Deep Learning for Dialogue State Tracking Using Restricted Bolzman
+    Machines and Pretraining
+  url: http://semdial.org/anthology/Z14-Main_semdial_0041.pdf
+  year: '2014'
+Z14-4042:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Vivien
+    full: Vivien Mast
+    id: vivien-mast
+    last: Mast
+  - first: Daniel Couto
+    full: Daniel Couto Vale
+    id: daniel-couto-vale1
+    last: Vale
+  - first: Zoe
+    full: Zoe Falomir
+    id: zoe-falomir
+    last: Falomir
+  - first: Mohammad Fazleh
+    full: Mohammad Fazleh Elahi
+    id: mohammad-fazleh-elahi
+    last: Elahi
+  bibkey: mast-etal-2014-referential
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4042'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Referential Grounding for Situated Human-Robot Communication
+  title_html: Referential Grounding for Situated Human-Robot Communication
+  url: http://semdial.org/anthology/Z14-Mast_semdial_0042.pdf
+  year: '2014'
+Z14-4043:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Sam
+    full: Sam Green
+    id: sam-green
+    last: Green
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  - first: Caspar
+    full: Caspar Addyman
+    id: caspar-addyman
+    last: Addyman
+  bibkey: mazzocconi-etal-2014-laughter
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4043'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'Laughter in mother-child interaction: from 12 to 36 months'
+  title_html: 'Laughter in mother-child interaction: from 12 to 36 months'
+  url: http://semdial.org/anthology/Z14-Mazzocconi_semdial_0043.pdf
+  year: '2014'
+Z14-4044:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Angela
+    full: Angela Nazarian
+    id: angela-nazarian
+    last: Nazarian
+  - first: Elnaz
+    full: Elnaz Nouri
+    id: elnaz-nouri
+    last: Nouri
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: nazarian-etal-2014-initiative
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4044'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Initiative Patterns in Dialogue Genres
+  title_html: Initiative Patterns in Dialogue Genres
+  url: http://semdial.org/anthology/Z14-Nazarian_semdial_0044.pdf
+  year: '2014'
+Z14-4045:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Amanda Cercas
+    full: Amanda Cercas Curry
+    id: amanda-cercas-curry
+    last: Curry
+  bibkey: rieser-curry-2014-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4045'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'Towards Generating Route Instructions Under Uncertainty: A Corpus Study'
+  title_html: 'Towards Generating Route Instructions Under Uncertainty: A Corpus Study'
+  url: http://semdial.org/anthology/Z14-Rieser_semdial_0045.pdf
+  year: '2014'
+Z14-4046:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Srinivasan
+    full: Srinivasan Janarthanam
+    id: srinivasan-janarthanam
+    last: Janarthanam
+  - first: Andy
+    full: Andy Taylor
+    id: andy-taylor
+    last: Taylor
+  - first: Yanchao
+    full: Yanchao Yu
+    id: yanchao-yu
+    last: Yu
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: rieser-etal-2014-speechcity
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4046'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'SpeechCity: A Conversational City Guide based on Open Data'
+  title_html: 'SpeechCity: A Conversational City Guide based on Open Data'
+  url: http://semdial.org/anthology/Z14-Rieser_semdial_0046.pdf
+  year: '2014'
+Z14-4047:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Julian
+    full: "Julian Schl\xF6der"
+    id: julian-j-schloder
+    last: "Schl\xF6der"
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: schloder-fernandez-2014-clarification
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4047'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Clarification Requests at the Level of Uptake
+  title_html: Clarification Requests at the Level of Uptake
+  url: "http://semdial.org/anthology/Z14-Schl\xF6der_semdial_0047.pdf"
+  year: '2014'
+Z14-4048:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Gesa
+    full: Gesa Schole
+    id: gesa-schole
+    last: Schole
+  - first: Thora
+    full: Thora Tenbrink
+    id: thora-tenbrink
+    last: Tenbrink
+  - first: Kenny
+    full: Kenny Coventry
+    id: kenny-coventry
+    last: Coventry
+  - first: Elena
+    full: Elena Andonova
+    id: elena-andonova
+    last: Andonova
+  bibkey: schole-etal-2014-tailoring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4048'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Tailoring Object Orientation Descriptions to the Dialogue Context
+  title_html: Tailoring Object Orientation Descriptions to the Dialogue Context
+  url: http://semdial.org/anthology/Z14-Schole_semdial_0048.pdf
+  year: '2014'
+Z14-4049:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Niels
+    full: Niels Schuette
+    id: niels-schuette
+    last: Schuette
+  - first: John
+    full: John Kelleher
+    id: john-kelleher
+    last: Kelleher
+  - first: Brian Mac
+    full: Brian Mac Namee
+    id: brian-mac-namee
+    last: Namee
+  bibkey: schuette-etal-2014-perception
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4049'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Perception Based Misunderstandings in Human-Computer Dialogues
+  title_html: Perception Based Misunderstandings in Human-Computer Dialogues
+  url: http://semdial.org/anthology/Z14-Schuette_semdial_0049.pdf
+  year: '2014'
+Z14-4050:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Wenshuo
+    full: Wenshuo Tang
+    id: wenshuo-tang
+    last: Tang
+  - first: Zhuoran
+    full: Zhuoran Wang
+    id: zhuoran-wang
+    last: Wang
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: tang-etal-2014-sample
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4050'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: Sample Efficient Learning of Strategic Dialogue Policies
+  title_html: Sample Efficient Learning of Strategic Dialogue Policies
+  url: http://semdial.org/anthology/Z14-Tang_semdial_0050.pdf
+  year: '2014'
+Z14-4051:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Noortje
+    full: Noortje Venhuizen
+    id: noortje-venhuizen
+    last: Venhuizen
+  - first: Harm
+    full: Harm Brouwer
+    id: harm-brouwer
+    last: Brouwer
+  bibkey: venhuizen-brouwer-2014-pdrt
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4051'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'PDRT-SANDBOX: An implementation of Projective Discourse Representation Theory'
+  title_html: 'PDRT-SANDBOX: An implementation of Projective Discourse Representation
+    Theory'
+  url: http://semdial.org/anthology/Z14-Venhuizen_semdial_0051.pdf
+  year: '2014'
+Z14-4052:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Aimilios
+    full: Aimilios Vourliotakis
+    id: aimilios-vourliotakis
+    last: Vourliotakis
+  - first: Ioannis
+    full: Ioannis Efstathiou
+    id: ioannis-efstathiou
+    last: Efstathiou
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  bibkey: vourliotakis-etal-2014-detecting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4052'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: 'Detecting Deception in Non-Cooperative Dialogue: A Smarter Adversary Cannot
+    be Fooled That Easily'
+  title_html: 'Detecting Deception in Non-Cooperative Dialogue: A Smarter Adversary
+    Cannot be Fooled That Easily'
+  url: http://semdial.org/anthology/Z14-Vourliotakis_semdial_0052.pdf
+  year: '2014'
+Z14-4053:
+  address: Edinburgh, United Kingdom
+  author:
+  - first: Peter
+    full: Peter Wallis
+    id: peter-wallis
+    last: Wallis
+  bibkey: wallis-2014-user
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 18th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4053'
+  parent_volume_id: Z14-4
+  publisher: SEMDIAL
+  title: User Satisfaction without Task Completion
+  title_html: User Satisfaction without Task Completion
+  url: http://semdial.org/anthology/Z14-Wallis_semdial_0053.pdf
+  year: '2014'

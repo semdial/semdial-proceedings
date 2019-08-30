@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="semdial-2014-semantics">
+    <titleInfo>
+        <title>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Philippe</namePart>
+        <namePart type="family">Muller</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Verena</namePart>
+        <namePart type="family">Rieser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2014-aug</dateIssued>
+        <publisher>SEMDIAL</publisher>
+        <place>
+            <placeTerm type="text">Edinburgh, United Kingdom</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">semdial-2014-semantics</identifier>
+    <location>
+        <url>http://semdial.org/anthology/semdial2014_dialwatt_front_matter.pdf</url>
+    </location>
+</mods>
+</modsCollection>

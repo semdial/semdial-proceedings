@@ -1,0 +1,988 @@
+Z17-1000:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  bibkey: semdial-2017-semantics
+  bibtype: proceedings
+  month: August
+  paper_id: '1000'
+  parent_volume_id: Z17-1
+  publisher: SEMDIAL
+  title: Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2017_saardial_front_matter.pdf
+  year: '2017'
+Z17-2001:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: lemon-2017-challenges
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2001'
+  parent_volume_id: Z17-2
+  publisher: SEMDIAL
+  title: 'Challenges for Data-driven Dialogue Systems: finding the goldilocks zone
+    conversational data'
+  title_html: 'Challenges for Data-driven Dialogue Systems: finding the goldilocks
+    zone conversational data'
+  url: http://semdial.org/anthology/Z17-Lemon_semdial_0001.pdf
+  year: '2017'
+Z17-2002:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Elisabeth
+    full: "Elisabeth Andr\xE9"
+    id: elisabeth-andre
+    last: "Andr\xE9"
+  bibkey: andre-2017-empowering
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2002'
+  parent_volume_id: Z17-2
+  publisher: SEMDIAL
+  title: Empowering Human-Robot Dialogue by Affective Computing Research
+  title_html: Empowering Human-Robot Dialogue by Affective Computing Research
+  url: "http://semdial.org/anthology/Z17-Andr\xE9_semdial_0002.pdf"
+  year: '2017'
+Z17-2003:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Andrew
+    full: Andrew Kehler
+    id: andrew-kehler
+    last: Kehler
+  bibkey: kehler-2017-conversational
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: August
+  paper_id: '2003'
+  parent_volume_id: Z17-2
+  publisher: SEMDIAL
+  title: Conversational Eliciture in a Bayesian Model of Language Interpretation
+  title_html: Conversational Eliciture in a Bayesian Model of Language Interpretation
+  url: http://semdial.org/anthology/Z17-Kehler_semdial_0003.pdf
+  year: '2017'
+Z17-3004:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Laura
+    full: Laura Aina
+    id: laura-aina
+    last: Aina
+  - first: Natalia
+    full: Natalia Philippova
+    id: natalia-philippova
+    last: Philippova
+  - first: Valentin
+    full: Valentin Vogelmann,
+    id: valentin-vogelmann
+    last: Vogelmann,
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: aina-etal-2017-referring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3004'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Referring Expressions and Communicative Success in Task-oriented Dialogues
+  title_html: Referring Expressions and Communicative Success in Task-oriented Dialogues
+  url: http://semdial.org/anthology/Z17-Aina_semdial_0004.pdf
+  year: '2017'
+Z17-3005:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Amelie
+    full: "Amelie \xC5stbom"
+    id: amelie-astbom
+    last: "\xC5stbom"
+  bibkey: dobnik-astbom-2017-perceptual
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3005'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: (Perceptual) grounding as interaction
+  title_html: (Perceptual) grounding as interaction
+  url: http://semdial.org/anthology/Z17-Dobnik_semdial_0005.pdf
+  year: '2017'
+Z17-3006:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Gaelle
+    full: Gaelle Ferre
+    id: gaelle-ferre1
+    last: Ferre
+  - first: Suzanne
+    full: Suzanne Renaudier
+    id: suzanne-renaudier
+    last: Renaudier
+  bibkey: ferre-renaudier-2017-unimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3006'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Unimodal and Bimodal Backchannels in Conversational English
+  title_html: Unimodal and Bimodal Backchannels in Conversational English
+  url: http://semdial.org/anthology/Z17-Ferre_semdial_0006.pdf
+  year: '2017'
+Z17-3007:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Angelika
+    full: Angelika Kiss
+    id: angelika-kiss
+    last: Kiss
+  bibkey: kiss-2017-meta
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3007'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Meta-conversational since when-questions and the common ground
+  title_html: Meta-conversational since when-questions and the common ground
+  url: http://semdial.org/anthology/Z17-Kiss_semdial_0007.pdf
+  year: '2017'
+Z17-3008:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Abhinav
+    full: Abhinav Kumar
+    id: abhinav-kumar
+    last: Kumar
+  - first: Jillian
+    full: Jillian Aurisano
+    id: jillian-aurisano
+    last: Aurisano
+  - first: Barbara Di
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Eugenio
+  - first: Andrew
+    full: Andrew Johnson
+    id: andrew-johnson
+    last: Johnson
+  - first: Abeer
+    full: Abeer Alsaiari
+    id: abeer-alsaiari
+    last: Alsaiari
+  - first: Nigel
+    full: Nigel Flowers
+    id: nigel-flowers
+    last: Flowers
+  - first: Alberto
+    full: Alberto Gonzalez
+    id: alberto-gonzalez
+    last: Gonzalez
+  - first: Jason
+    full: Jason Leigh
+    id: jason-leigh
+    last: Leigh
+  bibkey: kumar-etal-2017-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3008'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: 'Multimodal Coreference Resolution for Exploratory Data Visualization Dialogue:
+    Context-Based Annotation and Gesture Identification'
+  title_html: 'Multimodal Coreference Resolution for Exploratory Data Visualization
+    Dialogue: Context-Based Annotation and Gesture Identification'
+  url: http://semdial.org/anthology/Z17-Kumar_semdial_0008.pdf
+  year: '2017'
+Z17-3009:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Jenny
+    full: Jenny Myrendal
+    id: jenny-myrendal
+    last: Myrendal
+  bibkey: larsson-myrendal-2017-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3009'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Dialogue Acts and Updates for Semantic Coordination
+  title_html: Dialogue Acts and Updates for Semantic Coordination
+  url: http://semdial.org/anthology/Z17-Larsson_semdial_0009.pdf
+  year: '2017'
+Z17-3010:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Ernisa
+    full: Ernisa Marzuki
+    id: ernisa-marzuki
+    last: Marzuki
+  - first: Hannah
+    full: Hannah Rohde
+    id: hannah-rohde
+    last: Rohde
+  - first: Chris
+    full: Chris Cummins
+    id: chris-cummins
+    last: Cummins
+  - first: Gareth
+    full: Gareth Clegg
+    id: gareth-clegg
+    last: Clegg
+  - first: Holly
+    full: Holly Branigan
+    id: holly-branigan
+    last: Branigan
+  bibkey: marzuki-etal-2017-resuscitation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3010'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Resuscitation procedures as multi-party dialogue
+  title_html: Resuscitation procedures as multi-party dialogue
+  url: http://semdial.org/anthology/Z17-Marzuki_semdial_0010.pdf
+  year: '2017'
+Z17-3011:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Amita
+    full: Amita Misra
+    id: amita-misra
+    last: Misra
+  - first: Shereen
+    full: Shereen Oraby
+    id: shereen-oraby
+    last: Oraby
+  - first: Shubhangi
+    full: Shubhangi Tandon
+    id: shubhangi-tandon
+    last: Tandon
+  - first: Sharath
+    full: Sharath Ts
+    id: sharath-ts
+    last: Ts
+  - first: Pranav
+    full: Pranav Anand
+    id: pranav-anand
+    last: Anand
+  - first: Marilyn
+    full: Marilyn Walker
+    id: marilyn-walker
+    last: Walker
+  bibkey: misra-etal-2017-special
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3011'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Special Session - Summarizing Dialogic Arguments from Social Media
+  title_html: Special Session - Summarizing Dialogic Arguments from Social Media
+  url: http://semdial.org/anthology/Z17-Misra_semdial_0011.pdf
+  year: '2017'
+Z17-3012:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Carrara
+    full: Carrara Nicolas
+    id: carrara-nicolas
+    last: Nicolas
+  - first: Romain
+    full: Romain Laroche
+    id: romain-laroche
+    last: Laroche
+  - first: Olivier
+    full: Olivier Pietquin
+    id: olivier-pietquin
+    last: Pietquin
+  bibkey: nicolas-etal-2017-special
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3012'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Special Session - Online learning and transfer for user adaptation in dialogue
+    systems
+  title_html: Special Session - Online learning and transfer for user adaptation in
+    dialogue systems
+  url: http://semdial.org/anthology/Z17-Nicolas_semdial_0012.pdf
+  year: '2017'
+Z17-3013:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Adriana
+    full: Adriana Osa
+    id: adriana-osa
+    last: Osa
+  bibkey: osa-2017-negotiation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3013'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: 'Negotiation of discourse moves: right periphery tags'
+  title_html: 'Negotiation of discourse moves: right periphery tags'
+  url: http://semdial.org/anthology/Z17-Osa_semdial_0013.pdf
+  year: '2017'
+Z17-3014:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Pinelopi
+    full: Pinelopi Papalampidi
+    id: pinelopi-papalampidi
+    last: Papalampidi
+  - first: Elias
+    full: Elias Iosif
+    id: elias-iosif
+    last: Iosif
+  - first: Alexandros
+    full: Alexandros Potamianos
+    id: alexandros-potamianos
+    last: Potamianos
+  bibkey: papalampidi-etal-2017-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3014'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Dialogue Act Semantic Representation and Classification Using Recurrent Neural
+    Networks
+  title_html: Dialogue Act Semantic Representation and Classification Using Recurrent
+    Neural Networks
+  url: http://semdial.org/anthology/Z17-Papalampidi_semdial_0014.pdf
+  year: '2017'
+Z17-3015:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Volha
+    full: Volha Petukhova
+    id: volha-petukhova
+    last: Petukhova
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  - first: Andrei
+    full: Andrei Malchanau
+    id: andrei-malchanau
+    last: Malchanau
+  bibkey: petukhova-etal-2017-computing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3015'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Computing Negotiation Update Semantics in Multi-issue Bargaining Dialogues
+  title_html: Computing Negotiation Update Semantics in Multi-issue Bargaining Dialogues
+  url: http://semdial.org/anthology/Z17-Petukhova_semdial_0015.pdf
+  year: '2017'
+Z17-3016:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Igor
+    full: Igor Shalyminov
+    id: igor-shalyminov
+    last: Shalyminov
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: shalyminov-etal-2017-challenging
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3016'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: 'Challenging Neural Dialogue Models with Natural Data: Memory Networks Fail
+    on Incremental Phenomena'
+  title_html: 'Challenging Neural Dialogue Models with Natural Data: Memory Networks
+    Fail on Incremental Phenomena'
+  url: http://semdial.org/anthology/Z17-Shalyminov_semdial_0016.pdf
+  year: '2017'
+Z17-3017:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Arabella
+    full: Arabella Sinclair
+    id: arabella-sinclair
+    last: Sinclair
+  - first: Jon
+    full: Jon Oberlander
+    id: jon-oberlander
+    last: Oberlander
+  - first: Dragan
+    full: Dragan Gasevic
+    id: dragan-gasevic
+    last: Gasevic
+  bibkey: sinclair-etal-2017-finding
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3017'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: 'Finding the Zone of Proximal Development: Student-Tutor Second Language
+    Dialogue Interactions'
+  title_html: 'Finding the Zone of Proximal Development: Student-Tutor Second Language
+    Dialogue Interactions'
+  url: http://semdial.org/anthology/Z17-Sinclair_semdial_0017.pdf
+  year: '2017'
+Z17-3018:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Veronika
+    full: Veronika Timpe-Laughlin
+    id: veronika-timpe-laughlin
+    last: Timpe-Laughlin
+  - first: Keelan
+    full: Keelan Evanini
+    id: keelan-evanini
+    last: Evanini
+  - first: Ashley
+    full: Ashley Green
+    id: ashley-green
+    last: Green
+  - first: Ian
+    full: Ian Blood
+    id: ian-blood
+    last: Blood
+  - first: Judit
+    full: Judit Dombi
+    id: judit-dombi
+    last: Dombi
+  - first: Vikram
+    full: Vikram Ramanarayanan
+    id: vikram-ramanarayanan
+    last: Ramanarayanan
+  bibkey: timpe-laughlin-etal-2017-designing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: August
+  paper_id: '3018'
+  parent_volume_id: Z17-3
+  publisher: SEMDIAL
+  title: Designing interactive, automated dialogues for L2 pragmatics learning
+  title_html: Designing interactive, automated dialogues for L2 pragmatics learning
+  url: http://semdial.org/anthology/Z17-Timpe-Laughlin_semdial_0018.pdf
+  year: '2017'
+Z17-4019:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  - first: Kazuki
+    full: Kazuki Sakai
+    id: kazuki-sakai
+    last: Sakai
+  - first: Hiroaki
+    full: Hiroaki Sugiyama
+    id: hiroaki-sugiyama
+    last: Sugiyama
+  - first: Hiromi
+    full: Hiromi Narimatsu
+    id: hiromi-narimatsu
+    last: Narimatsu
+  - first: Tsunehiro
+    full: Tsunehiro Arimoto
+    id: tsunehiro-arimoto
+    last: Arimoto
+  - first: Takaaki Fukutomi,Kiyoaki
+    full: Takaaki Fukutomi,Kiyoaki Matsui
+    id: takaaki-fukutomi-kiyoaki-matsui
+    last: Matsui
+  - first: Yusuke
+    full: Yusuke Ijima
+    id: yusuke-ijima
+    last: Ijima
+  - first: Hiroaki
+    full: Hiroaki Ito
+    id: hiroaki-ito
+    last: Ito
+  - first: Shoko
+    full: Shoko Araki
+    id: shoko-araki
+    last: Araki
+  - first: Yuichiro
+    full: Yuichiro Yoshikawa
+    id: yuichiro-yoshikawa
+    last: Yoshikawa
+  - first: Hiroshi
+    full: Hiroshi Ishiguro
+    id: hiroshi-ishiguro
+    last: Ishiguro
+  - first: Yoshihiro
+    full: Yoshihiro Matsuo
+    id: yoshihiro-matsuo
+    last: Matsuo
+  bibkey: higashinaka-etal-2017-argumentative
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4019'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Argumentative dialogue system based on argumentation structures
+  title_html: Argumentative dialogue system based on argumentation structures
+  url: http://semdial.org/anthology/Z17-Higashinaka_semdial_0019.pdf
+  year: '2017'
+Z17-4020:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Yasuhiro
+    full: Yasuhiro Katagiri
+    id: yasuhiro-katagiri
+    last: Katagiri
+  - first: Katsuya
+    full: Katsuya Takanashi
+    id: katsuya-takanashi
+    last: Takanashi
+  - first: Masato
+    full: Masato Ishizaki
+    id: masato-ishizaki
+    last: Ishizaki
+  - first: Mika
+    full: Mika Enomoto
+    id: mika-enomoto
+    last: Enomoto
+  - first: Yasuharu
+    full: Yasuharu Den
+    id: yasuharu-den
+    last: Den
+  bibkey: katagiri-etal-2017-concern
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4020'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Concern-Alignment for Negotiation and Joint Inquiry in Dialogues
+  title_html: Concern-Alignment for Negotiation and Joint Inquiry in Dialogues
+  url: http://semdial.org/anthology/Z17-Katagiri_semdial_0020.pdf
+  year: '2017'
+Z17-4021:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Simon
+    full: Simon Keizer
+    id: simon-keizer
+    last: Keizer
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  bibkey: keizer-rieser-2017-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4021'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Towards Learning Transferable Conversational Skills using Multi-dimensional
+    Dialogue Modelling
+  title_html: Towards Learning Transferable Conversational Skills using Multi-dimensional
+    Dialogue Modelling
+  url: http://semdial.org/anthology/Z17-Keizer_semdial_0021.pdf
+  year: '2017'
+Z17-4022:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Daniel
+    full: Daniel Kondratyuk
+    id: daniel-kondratyuk
+    last: Kondratyuk
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  bibkey: kondratyuk-kennington-2017-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4022'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Towards a Dialogue System with Long-term, Episodic Memory
+  title_html: Towards a Dialogue System with Long-term, Episodic Memory
+  url: http://semdial.org/anthology/Z17-Kondratyuk_semdial_0022.pdf
+  year: '2017'
+Z17-4023:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Pierre
+    full: Pierre Lison
+    id: pierre-lison
+    last: Lison
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  bibkey: lison-kennington-2017-incremental
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4023'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Incremental Processing for Neural Conversation Models
+  title_html: Incremental Processing for Neural Conversation Models
+  url: http://semdial.org/anthology/Z17-Lison_semdial_0023.pdf
+  year: '2017'
+Z17-4024:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Juliana
+    full: Juliana Miehle
+    id: juliana-miehle
+    last: Miehle
+  - first: Nadine
+    full: Nadine Gerstenlauer
+    id: nadine-gerstenlauer
+    last: Gerstenlauer
+  - first: Daniel
+    full: Daniel Ostler
+    id: daniel-ostler
+    last: Ostler
+  - first: Hubertus
+    full: Hubertus Feussner
+    id: hubertus-feussner
+    last: Feussner
+  - first: Wolfgang
+    full: Wolfgang Minker
+    id: wolfgang-minker
+    last: Minker
+  - first: Stefan
+    full: Stefan Ultes
+    id: stefan-ultes
+    last: Ultes
+  bibkey: miehle-etal-2017-intelligent
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4024'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: An Intelligent Digital Assistant for Clinical Operating Rooms
+  title_html: An Intelligent Digital Assistant for Clinical Operating Rooms
+  url: http://semdial.org/anthology/Z17-Miehle_semdial_0024.pdf
+  year: '2017'
+Z17-4025:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Miwa
+    full: Miwa Morishita
+    id: miwa-morishita
+    last: Morishita
+  - first: Yasunari
+    full: Yasunari Harada
+    id: yasunari-harada
+    last: Harada
+  bibkey: morishita-harada-2017-syntactic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4025'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Syntactic Priming by Japanese EFL Learners in Dialogue Contexts based on
+    Different Task Types
+  title_html: Syntactic Priming by Japanese EFL Learners in Dialogue Contexts based
+    on Different Task Types
+  url: http://semdial.org/anthology/Z17-Morishita_semdial_0025.pdf
+  year: '2017'
+Z17-4026:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Yao
+    full: Yao Qian
+    id: yao-qian
+    last: Qian
+  - first: Rutuja
+    full: Rutuja Ubale
+    id: rutuja-ubale
+    last: Ubale
+  - first: Vikram
+    full: Vikram Ramanaryanan
+    id: vikram-ramanaryanan
+    last: Ramanaryanan
+  - first: David
+    full: David Suendermann-Oeft
+    id: david-suendermann-oeft
+    last: Suendermann-Oeft
+  - first: Keelan
+    full: Keelan Evanini
+    id: keelan-evanini
+    last: Evanini
+  - first: Patrick
+    full: Patrick Lange
+    id: patrick-l-lange
+    last: Lange
+  - first: Eugene
+    full: Eugene Tsuprun
+    id: eugene-tsuprun
+    last: Tsuprun
+  bibkey: qian-etal-2017-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4026'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Towards End-to-End Modeling of Spoken Language Understanding in a Cloud-based
+    Spoken Dialog System
+  title_html: Towards End-to-End Modeling of Spoken Language Understanding in a Cloud-based
+    Spoken Dialog System
+  url: http://semdial.org/anthology/Z17-Qian_semdial_0026.pdf
+  year: '2017'
+Z17-4027:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Eran
+    full: Eran Raveh
+    id: eran-raveh
+    last: Raveh
+  - first: Ingmar
+    full: Ingmar Steiner
+    id: ingmar-steiner
+    last: Steiner
+  bibkey: raveh-steiner-2017-phonetic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4027'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: A Phonetic Adaptation Module for Spoken Dialogue Systems
+  title_html: A Phonetic Adaptation Module for Spoken Dialogue Systems
+  url: http://semdial.org/anthology/Z17-Raveh_semdial_0027.pdf
+  year: '2017'
+Z17-4028:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Dirk
+    full: Dirk Schnelle-Walka
+    id: dirk-schnelle-walka
+    last: Schnelle-Walka
+  - first: Vikram
+    full: Vikram Ramanarayanan
+    id: vikram-ramanarayanan
+    last: Ramanarayanan
+  - first: Stefan
+    full: Stefan Radomski
+    id: stefan-radomski
+    last: Radomski
+  - first: Patrick
+    full: Patrick Lange
+    id: patrick-l-lange
+    last: Lange
+  - first: David
+    full: David Suendermann-Oeft
+    id: david-suendermann-oeft
+    last: Suendermann-Oeft
+  bibkey: schnelle-walka-etal-2017-open
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4028'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: An Open Source Standards-Compliant Voice Browser with Support for Multiple
+    Language Understanding Implementations
+  title_html: An Open Source Standards-Compliant Voice Browser with Support for Multiple
+    Language Understanding Implementations
+  url: http://semdial.org/anthology/Z17-Schnelle-Walka_semdial_0028.pdf
+  year: '2017'
+Z17-4029:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Christian
+    full: Christian Stab
+    id: christian-stab
+    last: Stab
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  bibkey: stab-gurevych-2017-training
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4029'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Training Argumentation Skills with Argumentative Writing Support
+  title_html: Training Argumentation Skills with Argumentative Writing Support
+  url: http://semdial.org/anthology/Z17-Stab_semdial_0029.pdf
+  year: '2017'
+Z17-4030:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Anh Duong
+    full: Anh Duong Trinh
+    id: anh-duong-trinh
+    last: Trinh
+  - first: Robert J.
+    full: Robert J. Ross
+    id: robert-j-ross1
+    last: Ross
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  bibkey: trinh-etal-2017-incremental
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4030'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Incremental Joint Modelling for Dialogue State Tracking
+  title_html: Incremental Joint Modelling for Dialogue State Tracking
+  url: http://semdial.org/anthology/Z17-Trinh_semdial_0030.pdf
+  year: '2017'
+Z17-4031:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Ichiro
+    full: Ichiro Umata
+    id: ichiro-umata
+    last: Umata
+  - first: Koki
+    full: Koki Ijuin
+    id: koki-ijuin
+    last: Ijuin
+  - first: Seiichi
+    full: Seiichi Yamamoto
+    id: seiichi-yamamoto
+    last: Yamamoto
+  bibkey: umata-etal-2017-factor
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4031'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Factor Analysis of Gazing Activities in Native and Second Language Conversations
+  title_html: Factor Analysis of Gazing Activities in Native and Second Language Conversations
+  url: http://semdial.org/anthology/Z17-Umata_semdial_0031.pdf
+  year: '2017'
+Z17-4032:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Marco
+    full: Marco Valentino
+    id: marco-valentino
+    last: Valentino
+  - first: Maria Di
+    full: Maria Di Maro
+    id: maria-di-maro
+    last: Maro
+  - first: Franco
+    full: Franco Cutugno
+    id: franco-cutugno
+    last: Cutugno
+  bibkey: valentino-etal-2017-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4032'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: Towards a Natural User Interface for Small Groups in Real Museum Environments
+  title_html: Towards a Natural User Interface for Small Groups in Real Museum Environments
+  url: http://semdial.org/anthology/Z17-Valentino_semdial_0032.pdf
+  year: '2017'
+Z17-4033:
+  address: "Saarbr\xFCcken, Germany"
+  author:
+  - first: Sunhee
+    full: Sunhee Yae
+    id: sunhee-yae
+    last: Yae
+  bibkey: yae-2017-transferentive
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 21st Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: August
+  paper_id: '4033'
+  parent_volume_id: Z17-4
+  publisher: SEMDIAL
+  title: 'A Transferentive Connective Marker -etaka in Korean: perspectives of grammaticalilzation
+    and pragmatics'
+  title_html: 'A Transferentive Connective Marker -etaka in Korean: perspectives of
+    grammaticalilzation and pragmatics'
+  url: http://semdial.org/anthology/Z17-Yae_semdial_0033.pdf
+  year: '2017'

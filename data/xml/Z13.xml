@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z13">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>
+      <editor><first>Amy</first><last>Isard</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Amsterdam, The Netherlands</address>
+      <month>December</month>
+      <year>2013</year>
+
+    </meta>
+    <frontmatter>
+      <url>semdial2013_dialdem_front_matter.pdf</url>
+    </frontmatter>
+
+</volume>
+<volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>
+      <editor><first>Amy</first><last>Isard</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Amsterdam, The Netherlands</address>
+      <month>December</month>
+      <year>2013</year>
+    </meta>
+
+<paper id="1"><title>The Development of Reference in Early Childhood: the Roles of Communicative Motivation, Cognitive Abilities and the Caregiving Environment</title><author><first>Danielle</first><last>Matthews</last></author><url>Z13-Matthews_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>Coherence and Meaning in Situated Dialogue</title><author><first>Matthew</first><last>Stone</last></author><url>Z13-Stone_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>On Variability in Pitch Accent Distributions</title><author><first>Marc</first><last>Swerts</last></author><url>Z13-Swerts_semdial_0003.pdf</url></paper>
+
+
+</volume>
+<volume id="3">
+    <meta>
+ <booktitle>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>
+      <editor><first>Amy</first><last>Isard</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Amsterdam, The Netherlands</address>
+      <month>December</month>
+      <year>2013</year>
+    </meta>
+
+<paper id="4"><title>Demand Characteristics as a Tool for Evaluating the Design of Collaborative Tasks</title><author><first>Ed</first><last>Baggs</last></author><url>Z13-Baggs_semdial_0004.pdf</url></paper>
+
+<paper id="5"><title>Update conditions and intensionality in a type-theoretic approach to dialogue semantics</title><author><first>Robin</first><last>Copper</last></author><url>Z13-Copper_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>Visual and linguistic predictors for the definiteness of referring expressions</title><author><first>Manjuan</first><last>Duan</last></author><author><first>Micha</first><last>Elsner</last></author><author><first>Marie-Catherine de</first><last>Marneffe</last></author><url>Z13-Duan_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>People hesitate more, talk less to virtual interviewers than to human interviewers</title><author><first>Fauren</first><last>Faust</last></author><author><first>Ron</first><last>Artstein</last></author><url>Z13-Faust_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>On the use of social signal for reward shaping in reinforcement learning for dialogue management</title><author><first>Emmanuel</first><last>Ferreira</last></author><author><first>Fabrice</first><last>Lef&#232;vre</last></author><url>Z13-Ferreira_semdial_0008.pdf</url></paper>
+
+<paper id="9"><title>When Apples Mean Oranges: Lexical De-Entrainment and Alignment Theories</title><author><first>Christina</first><last>Freihorst</last></author><author><first>Sim&#243;n</first><last>Algorta</last></author><author><first>Vivien</first><last>Mast</last></author><author><first>Robert</first><last>Porzel</last></author><url>Z13-Freihorst_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>The earliest utterances in dialogue: towards a formal theory of parent/child talk in interaction</title><author><first>Jonathan</first><last>Ginzburg</last></author><author><first>Sara</first><last>Moradlou</last></author><url>Z13-Ginzburg_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>English reverse prosody in responses to yes-no questions</title><author><first>Daniel</first><last>Goodhue</last></author><author><first>James</first><last>Pickett</last></author><author><first>Michael</first><last>Wagner</last></author><url>Z13-Goodhue_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Effects of Belief and Memory on Strategic Negotiation</title><author><first>Markus</first><last>Guhe</last></author><author><first>Alex</first><last>Lascarides</last></author><author><first>Kevin</first><last>O'Connor</last></author><author><first>Verena</first><last>Rieser</last></author><url>Z13-Guhe_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>Modelling Expectation in the Self-Repair Processing of Annotat-, um, Listeners</title><author><first>Julian</first><last>Hough</last></author><author><first>Matthew</first><last>Purver</last></author><url>Z13-Hough_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>Be Open To Computer Based Coaching</title><author><first>Daniel</first><last>M&#228;urer</last></author><author><first>Anna</first><last>Bruns</last></author><author><first>Karsten</first><last>Weihe</last></author><url>Z13-M&#228;urer_semdial_0014.pdf</url></paper>
+
+<paper id="15"><title>If you repeat your interlocutor's syntactic structure, you are likely to repeat her pronunciation, too</title><author><first>Marie</first><last>Postma-Nilsenova</last></author><author><first>Lisette</first><last>Mol</last></author><author><first>Naomi</first><last>Kamoen</last></author><url>Z13-Postma-Nilsenova_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>Learning new words in unfamiliar frames from direct and indirect teaching</title><author><first>Katharina</first><last>Rohlfing</last></author><author><first>Juana Salas</first><last>Poblete</last></author><author><first>Frank</first><last>Joublin</last></author><url>Z13-Rohlfing_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>The Roadsigns of Communication</title><author><first>Tania</first><last>Rojas-Esponda</last></author><url>Z13-Rojas-Esponda_semdial_0017.pdf</url></paper>
+
+<paper id="18"><title>Incomplete Answers and the Rise-Fall-Rise Contour</title><author><first>Michael</first><last>Wagner</last></author><author><first>Elise</first><last>McClay</last></author><author><first>Lauren</first><last>Mak</last></author><url>Z13-Wagner_semdial_0018.pdf</url></paper>
+
+<paper id="19"><title>`Attention, I'm violating a maxim!' A unifying account of the final rise</title><author><first>Matthijs</first><last>Westera</last></author><url>Z13-Westera_semdial_0019.pdf</url></paper>
+
+<paper id="20"><title>Multimodal Prediction of Psychological Disorder: Learning Nonverbal Commonality in Adjacency Pairs</title><author><first>Zhou</first><last>Yu</last></author><author><first>Stefan</first><last>Scherer</last></author><author><first>David</first><last>Devault</last></author><author><first>Jon</first><last>Gratch</last></author><author><first>Giota</first><last>Stratou</last></author><author><first>Louis-Philippe</first><last>Morency</last></author><author><first>Justine</first><last>Cassell</last></author><url>Z13-Yu_semdial_0020.pdf</url></paper>
+
+
+</volume>
+<volume id="4">
+    <meta>
+ <booktitle>Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>
+      <editor><first>Amy</first><last>Isard</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Amsterdam, The Netherlands</address>
+      <month>December</month>
+      <year>2013</year>
+    </meta>
+
+
+
+<paper id="21"><title>Gaze cue effect during language comprehension</title><author><first>Dato</first><last>Abashidze</last></author><author><first>Pia</first><last>Knoeferle</last></author><author><first>Maria Nella</first><last>Carminati</last></author><url>Z13-Abashidze_semdial_0021.pdf</url></paper>
+
+<paper id="22"><title>Conversation and Incomplete Knowledge</title><author><first>Nicholas</first><last>Asher</last></author><author><first>Soumya</first><last>Paul</last></author><url>Z13-Asher_semdial_0022.pdf</url></paper>
+
+<paper id="23"><title>Turn-timing in naturalistic mother-child interactions: A longitudinal perspective</title><author><first>Marisa</first><last>Casillas</last></author><author><first>Elma</first><last>Hilbrink</last></author><author><first>Susan</first><last>C.~Bobb</last></author><author><first>Eve</first><last>V.~Clark</last></author><author><first>Merideth</first><last>Gattis</last></author><author><first>Stephen</first><last>C.~Levinson</last></author><url>Z13-Casillas_semdial_0023.pdf</url></paper>
+
+<paper id="24"><title>Putting secondary propositional meanings back on the table</title><author><first>Elena</first><last>Castroviejo</last></author><author><first>Laia</first><last>Mayol</last></author><author><first>E.~Allyn</first><last>Smith</last></author><url>Z13-Castroviejo_semdial_0024.pdf</url></paper>
+
+<paper id="25"><title> Investigating the role of priming and alignment of perspective in dialogue</title><author><first>Simon</first><last>Dobnik</last></author><author><first>Christos</first><last>Koniaris</last></author><author><first>John</first><last>Kelleher</last></author><url>Z13-Dobnik_semdial_0025.pdf</url></paper>
+
+<paper id="26"><title>Toward a Tutorial Dialogue System for Urban Navigation</title><author><first>Christopher</first><last>Fox</last></author><author><first>Kristy Elizabeth</first><last>Boyer</last></author><url>Z13-Fox_semdial_0026.pdf</url></paper>
+
+<paper id="27"><title>Improving Knowledge Representation to Speed up the Generation of Grammars for a Multilingual Web Assistant</title><author><first>Marta</first><last>Gatius</last></author><url>Z13-Gatius_semdial_0027.pdf</url></paper>
+
+<paper id="28"><title>Exploring the Role of Laughter in Multiparty Conversation</title><author><first>Emer</first><last>Gilmartin</last></author><author><first>Francesca</first><last>Bonin</last></author><author><first>Carl</first><last>Vogel</last></author><author><first>Nick</first><last>Campbell</last></author><url>Z13-Gilmartin_semdial_0028.pdf</url></paper>
+
+<paper id="29"><title>Interpreting Instructions in a Pedestrian Routing Domain</title><author><first>Jana</first><last>G&#246;tze</last></author><author><first>Johan</first><last>Boye</last></author><author><first>Morgan</first><last>Fredriksson</last></author><author><first>J&#252;rgen</first><last>K&#246;nigsmann</last></author><url>Z13-G&#246;tze_semdial_0029.pdf</url></paper>
+
+<paper id="30"><title>"That's all. Thank you.":  Emergence of Formulaic Protocols among Japanese EFL Learners</title><author><first>Yasunari</first><last>Harada</last></author><author><first>Mayumi</first><last>Kawamura</last></author><author><first>Daisuke</first><last>Yokomori</last></author><author><first>Tomoko</first><last>Endo</last></author><url>Z13-Harada_semdial_0030.pdf</url></paper>
+
+<paper id="31"><title>Aboutness topic, discourse topic and the structure of discourse</title><author><first>Elena</first><last>Karagjosova</last></author><url>Z13-Karagjosova_semdial_0031.pdf</url></paper>
+
+<paper id="32"><title>Analysis and Modeling of Concern Alignment in Consensus-Building</title><author><first>Yasuhiro</first><last>Katagiri</last></author><author><first>Katsuya</first><last>Takanashi</last></author><author><first>Masato</first><last>Ishizaki</last></author><author><first>Mika</first><last>Enomoto</last></author><author><first>Yasuharu</first><last>Den</last></author><author><first>Shogo</first><last>Okada</last></author><url>Z13-Katagiri_semdial_0032.pdf</url></paper>
+
+<paper id="33"><title>Towards Structural Natural Language Formalization: Mapping Discourse to Controlled Natural Language</title><author><first>Nicholas Hubert</first><last>Kirk</last></author><url>Z13-Kirk_semdial_0033.pdf</url></paper>
+
+<paper id="34"><title>Abduction and parameterized semantic composition in speech-gesture integration</title><author><first>Udo</first><last>Klein</last></author><author><first>Hannes</first><last>Rieser</last></author><author><first>Florian</first><last>Hahn</last></author><author><first>Insa</first><last>Lawler</last></author><url>Z13-Klein_semdial_0034.pdf</url></paper>
+
+<paper id="35"><title>Using Learned Predictions of User Utterances to Decrease Distraction</title><author><first>Fredrik</first><last>Kronlid</last></author><author><first>Staffan</first><last>Larsson</last></author><author><first>Pontus</first><last>W&#228;rnest&#229;l</last></author><url>Z13-Kronlid_semdial_0035.pdf</url></paper>
+
+<paper id="36"><title>Making Human-Robot Quiz Dialogue More Conversational by Adding Non-Quiz Talk</title><author><first>Ivana</first><last>Kruijff-Korbayova</last></author><author><first>Bernd</first><last>Kiefer</last></author><author><first>Ilaria</first><last>Baroni</last></author><author><first>Mattia Coti</first><last>Zelati</last></author><url>Z13-Kruijff-Korbayova_semdial_0036.pdf</url></paper>
+
+<paper id="37"><title>Visual distraction test setup for an multimodal in-vehicle dialogue system</title><author><first>Staffan</first><last>Larsson</last></author><author><first>Sebastian</first><last>Berlin</last></author><author><first>Anders</first><last>Eliasson</last></author><author><first>Fredrik</first><last>Kronlid</last></author><url>Z13-Larsson_semdial_0037.pdf</url></paper>
+
+<paper id="38"><title>A Corpus-Based Study of Accept and Assessment in SWBD-DAMSL</title><author><first>Yanjiao</first><last>Li</last></author><author><first>Alex C.</first><last>Fang</last></author><author><first>Jing</first><last>Cao</last></author><url>Z13-Li_semdial_0038.pdf</url></paper>
+
+<paper id="39"><title>Multimodal Propositions? From Semiotic to Semantic Considerations in the Case of Gestural Deictics</title><author><first>Andy</first><last>L&#252;cking</last></author><url>Z13-L&#252;cking_semdial_0039.pdf</url></paper>
+
+<paper id="40"><title>Establishing a communication system: Miscommunication drives abstraction</title><author><first>Gregory</first><last>Mills</last></author><url>Z13-Mills_semdial_0040.pdf</url></paper>
+
+<paper id="41"><title>Pragmatic Markers of Common Ground in Tertiary Institution Students&#8217; Sexual Discourse in Lagos State, Nigeria</title><author><first>Olawunmi</first><last>Oni-Buraimoh</last></author><url>Z13-Oni-Buraimoh_semdial_0041.pdf</url></paper>
+
+<paper id="42"><title>Toward a semantics for French short positive feedback utterances</title><author><first>Laurent</first><last>Pr&#233;vot</last></author><url>Z13-Pr&#233;vot_semdial_0042.pdf</url></paper>
+
+<paper id="43"><title>The meaning of French H*L%-contour</title><author><first>Uwe</first><last>Reyle</last></author><author><first>Cristel</first><last>Portes</last></author><url>Z13-Reyle_semdial_0043.pdf</url></paper>
+
+<paper id="44"><title>The contribution of speech-rhythm to end-of-utterance detection</title><author><first>Franziska</first><last>Schaller</last></author><author><first>Horst</first><last>M&#252;ller</last></author><url>Z13-Schaller_semdial_0044.pdf</url></paper>
+
+<paper id="45"><title>Successful Strategies for Ambiguity Resolution in Dialogue</title><author><first>Gesa</first><last>Schole</last></author><author><first>Thora</first><last>Tenbrink</last></author><author><first>Elena</first><last>Andonova</last></author><author><first>Kenny</first><last>Coventry</last></author><url>Z13-Schole_semdial_0045.pdf</url></paper>
+
+<paper id="46"><title>Demonstrating actions to a robot: How na&#239;ve users adapt to a robot's replication of goal and manner-oriented actions</title><author><first>Anna-Lisa</first><last>Vollmer</last></author><author><first>Manuel</first><last>M&#252;hlig</last></author><author><first>Katharina J.</first><last>Rohlfing</last></author><author><first>Britta</first><last>Wrede</last></author><author><first>Angelo</first><last>Cangelosi</last></author><url>Z13-Vollmer_semdial_0046.pdf</url></paper>
+
+
+
+
+  </volume>
+</collection>

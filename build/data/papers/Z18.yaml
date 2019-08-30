@@ -1,0 +1,1093 @@
+Z18-1000:
+  address: Aix-en-Provence, France
+  author:
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  - first: Magalie
+    full: Magalie Ochs
+    id: magalie-ochs
+    last: Ochs
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Favre"
+    id: benoit-favre
+    last: Favre
+  bibkey: semdial-2018-semantics
+  bibtype: proceedings
+  month: November
+  paper_id: '1000'
+  parent_volume_id: Z18-1
+  publisher: SEMDIAL
+  title: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2018_aixdial_front_matter.pdf
+  year: '2018'
+Z18-2001:
+  address: Aix-en-Provence, France
+  author:
+  - first: Judith
+    full: Judith Holler
+    id: judith-holler
+    last: Holler
+  bibkey: holler-2018-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: November
+  paper_id: '2001'
+  parent_volume_id: Z18-2
+  publisher: SEMDIAL
+  title: 'Multimodal pragmatics: language and the body in interaction'
+  title_html: 'Multimodal pragmatics: language and the body in interaction'
+  url: http://semdial.org/anthology/Z18-Holler_semdial_0001.pdf
+  year: '2018'
+Z18-2002:
+  address: Aix-en-Provence, France
+  author:
+  - first: Olivier
+    full: Olivier Pietquin
+    id: olivier-pietquin
+    last: Pietquin
+  bibkey: pietquin-2018-guesswhat
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: November
+  paper_id: '2002'
+  parent_volume_id: Z18-2
+  publisher: SEMDIAL
+  title: Guesswhat?! - Learning strategies for visually grounded dialogue
+  title_html: Guesswhat?! - Learning strategies for visually grounded dialogue
+  url: http://semdial.org/anthology/Z18-Pietquin_semdial_0002.pdf
+  year: '2018'
+Z18-2003:
+  address: Aix-en-Provence, France
+  author:
+  - first: Michael
+    full: Michael Wagner
+    id: michael-wagner
+    last: Wagner
+  bibkey: wagner-2018-toward
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: November
+  paper_id: '2003'
+  parent_volume_id: Z18-2
+  publisher: SEMDIAL
+  title: Toward a Bestiary of the Intonational Tunes of English
+  title_html: Toward a Bestiary of the Intonational Tunes of English
+  url: http://semdial.org/anthology/Z18-Wagner_semdial_0003.pdf
+  year: '2018'
+Z18-3004:
+  address: Aix-en-Provence, France
+  author:
+  - first: Ting
+    full: Ting Han
+    id: ting-han
+    last: Han
+  - first: Sina
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
+  - first: Kazunori
+    full: Kazunori Komatani
+    id: kazunori-komatani
+    last: Komatani
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: han-etal-2018-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3004'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Learning to describe multimodally from parallel unimodal data? A pilot study
+    on verbal and sketched object descriptions
+  title_html: Learning to describe multimodally from parallel unimodal data? A pilot
+    study on verbal and sketched object descriptions
+  url: http://semdial.org/anthology/Z18-Han_semdial_0004.pdf
+  year: '2018'
+Z18-3005:
+  address: Aix-en-Provence, France
+  author:
+  - first: Chiara
+    full: Chiara Mazzocconi
+    id: chiara-mazzocconi
+    last: Mazzocconi
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: mazzocconi-etal-2018-laughter
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3005'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Laughter Repair
+  title_html: Laughter Repair
+  url: http://semdial.org/anthology/Z18-Mazzocconi_semdial_0005.pdf
+  year: '2018'
+Z18-3006:
+  address: Aix-en-Provence, France
+  author:
+  - first: Poulami
+    full: Poulami Debnath
+    id: poulami-debnath
+    last: Debnath
+  - first: Shubhashis
+    full: Shubhashis Sengupta
+    id: shubhashis-sengupta
+    last: Sengupta
+  - first: Harshawardhan Madhukar
+    full: Harshawardhan Madhukar Wabgaonkar
+    id: harshawardhan-madhukar-wabgaonkar
+    last: Wabgaonkar
+  bibkey: debnath-etal-2018-identifying
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3006'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Identifying, Classifying and Resolving Non-Sentential Utterances in Customer
+    Support Systems
+  title_html: Identifying, Classifying and Resolving Non-Sentential Utterances in
+    Customer Support Systems
+  url: http://semdial.org/anthology/Z18-Debnath_semdial_0006.pdf
+  year: '2018'
+Z18-3007:
+  address: Aix-en-Provence, France
+  author:
+  - first: Yuiko
+    full: Yuiko Tsunomori
+    id: yuiko-tsunomori
+    last: Tsunomori
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  - first: Tetsuro
+    full: Tetsuro Takahashi
+    id: tetsuro-takahashi
+    last: Takahashi
+  - first: Michimasa
+    full: Michimasa Inaba
+    id: michimasa-inaba
+    last: Inaba
+  bibkey: tsunomori-etal-2018-evaluating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3007'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Evaluating dialogue breakdown detection in chat-oriented dialogue systems
+  title_html: Evaluating dialogue breakdown detection in chat-oriented dialogue systems
+  url: http://semdial.org/anthology/Z18-Tsunomori_semdial_0007.pdf
+  year: '2018'
+Z18-3008:
+  address: Aix-en-Provence, France
+  author:
+  - first: Igor
+    full: Igor Shalyminov
+    id: igor-shalyminov
+    last: Shalyminov
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  bibkey: shalyminov-etal-2018-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3008'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Multi-Task Learning for Domain-General Spoken Disfluency Detection in Dialogue
+    Systems
+  title_html: Multi-Task Learning for Domain-General Spoken Disfluency Detection in
+    Dialogue Systems
+  url: http://semdial.org/anthology/Z18-Shalyminov_semdial_0008.pdf
+  year: '2018'
+Z18-3009:
+  address: Aix-en-Provence, France
+  author:
+  - first: Jiaying
+    full: Jiaying Shen
+    id: jiaying-shen
+    last: Shen
+  - first: Hendrik
+    full: Hendrik Harkema
+    id: hendrik-harkema
+    last: Harkema
+  - first: Richard
+    full: Richard Crouch
+    id: richard-crouch
+    last: Crouch
+  - first: Peng
+    full: Peng Yu
+    id: peng-yu
+    last: Yu
+  - first: Ciaran
+    full: Ciaran OReilly
+    id: ciaran-oreilly
+    last: OReilly
+  bibkey: shen-etal-2018-layered
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3009'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Layered Semantic Graphs for Dialogue Management
+  title_html: Layered Semantic Graphs for Dialogue Management
+  url: http://semdial.org/anthology/Z18-Shen_semdial_0009.pdf
+  year: '2018'
+Z18-3010:
+  address: Aix-en-Provence, France
+  author:
+  - first: Carla
+    full: Carla Gordon
+    id: carla-gordon
+    last: Gordon
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: Hyungtak
+    full: Hyungtak Choi
+    id: hyungtak-choi
+    last: Choi
+  - first: Jill
+    full: Jill Boberg
+    id: jill-boberg
+    last: Boberg
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  bibkey: gordon-etal-2018-evaluating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3010'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Evaluating Subjective Feedback for Internet of Things Dialogues
+  title_html: Evaluating Subjective Feedback for Internet of Things Dialogues
+  url: http://semdial.org/anthology/Z18-Gordon_semdial_0010.pdf
+  year: '2018'
+Z18-3011:
+  address: Aix-en-Provence, France
+  author:
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  - first: Ye
+    full: Ye Tian
+    id: ye-tian
+    last: Tian
+  - first: Jean-Philippe
+    full: Jean-Philippe Bernardy
+    id: jean-philippe-bernardy
+    last: Bernardy
+  bibkey: maraev-etal-2018-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3011'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Towards KoS/TTR-based proof-theoretic dialogue management
+  title_html: Towards KoS/TTR-based proof-theoretic dialogue management
+  url: http://semdial.org/anthology/Z18-Maraev_semdial_0011.pdf
+  year: '2018'
+Z18-3012:
+  address: Aix-en-Provence, France
+  author:
+  - first: Daniele
+    full: Daniele Moro
+    id: daniele-moro
+    last: Moro
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  bibkey: moro-kennington-2018-multimodal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3012'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Multimodal Visual and Simulated Muscle Activations for Grounded Semantics
+    of Hand-related Descriptions
+  title_html: Multimodal Visual and Simulated Muscle Activations for Grounded Semantics
+    of Hand-related Descriptions
+  url: http://semdial.org/anthology/Z18-Moro_semdial_0012.pdf
+  year: '2018'
+Z18-3013:
+  address: Aix-en-Provence, France
+  author:
+  - first: Chenjie
+    full: Chenjie Yuan
+    id: chenjie-yuan
+    last: Yuan
+  bibkey: yuan-2018-questions
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3013'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Questions as Functions
+  title_html: Questions as Functions
+  url: http://semdial.org/anthology/Z18-Yuan_semdial_0013.pdf
+  year: '2018'
+Z18-3014:
+  address: Aix-en-Provence, France
+  author:
+  - first: Christoph
+    full: Christoph Hesse
+    id: christoph-hesse
+    last: Hesse
+  - first: Maryam
+    full: Maryam Mohammadi
+    id: maryam-mohammadi
+    last: Mohammadi
+  - first: Maurice
+    full: Maurice Langner
+    id: maurice-langner
+    last: Langner
+  - first: Judith
+    full: Judith Fischer
+    id: judith-fischer
+    last: Fischer
+  - first: Anton
+    full: Anton Benz
+    id: anton-benz
+    last: Benz
+  - first: Ralf
+    full: Ralf Klabunde
+    id: ralf-klabunde
+    last: Klabunde
+  bibkey: hesse-etal-2018-communicating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3014'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: 'Communicating an understanding of intention: Speech act conditionals and
+    modified numerals in a Q/A system'
+  title_html: 'Communicating an understanding of intention: Speech act conditionals
+    and modified numerals in a Q/A system'
+  url: http://semdial.org/anthology/Z18-Hesse_semdial_0014.pdf
+  year: '2018'
+Z18-3015:
+  address: Aix-en-Provence, France
+  author:
+  - first: Damien
+    full: Damien Fleury
+    id: damien-fleury
+    last: Fleury
+  - first: Lucia
+    full: Lucia Tovena
+    id: lucia-tovena
+    last: Tovena
+  bibkey: fleury-tovena-2018-reason
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3015'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Reason questions with comment are expressions of an attributional search
+  title_html: Reason questions with comment are expressions of an attributional search
+  url: http://semdial.org/anthology/Z18-Fleury_semdial_0015.pdf
+  year: '2018'
+Z18-3016:
+  address: Aix-en-Provence, France
+  author:
+  - first: Mehrnoosh
+    full: Mehrnoosh Sadrzadeh
+    id: mehrnoosh-sadrzadeh
+    last: Sadrzadeh
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  bibkey: sadrzadeh-etal-2018-exploring
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3016'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Exploring Semantic Incrementality with Dynamic Syntax and Vector Space Semantics
+  title_html: Exploring Semantic Incrementality with Dynamic Syntax and Vector Space
+    Semantics
+  url: http://semdial.org/anthology/Z18-Sadrzadeh_semdial_0016.pdf
+  year: '2018'
+Z18-3017:
+  address: Aix-en-Provence, France
+  author:
+  - first: Anh Duong
+    full: Anh Duong Trinh
+    id: anh-duong-trinh
+    last: Trinh
+  - first: Robert J
+    full: Robert J Ross
+    id: robert-j-ross
+    last: Ross
+  - first: John D
+    full: John D Kelleher
+    id: john-d-kelleher
+    last: Kelleher
+  bibkey: trinh-etal-2018-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3017'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: A Multi-Task Approach to Incremental Dialogue State Tracking
+  title_html: A Multi-Task Approach to Incremental Dialogue State Tracking
+  url: http://semdial.org/anthology/Z18-Trinh_semdial_0017.pdf
+  year: '2018'
+Z18-3018:
+  address: Aix-en-Provence, France
+  author:
+  - first: Soledad Lopez
+    full: Soledad Lopez Gambino
+    id: soledad-lopez-gambino
+    last: Gambino
+  - first: Sina
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: gambino-etal-2018-learning
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3018'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: 'Learning to Buy Time: A Data-Driven Model For Avoiding Silence While Task-Related
+    Information Cannot Yet Be Presented'
+  title_html: 'Learning to Buy Time: A Data-Driven Model For Avoiding Silence While
+    Task-Related Information Cannot Yet Be Presented'
+  url: http://semdial.org/anthology/Z18-Gambino_semdial_0018.pdf
+  year: '2018'
+Z18-3019:
+  address: Aix-en-Provence, France
+  author:
+  - first: Kwong-Cheong
+    full: Kwong-Cheong Wong
+    id: kwong-cheong-wong
+    last: Wong
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: wong-ginzburg-2018-conversational
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3019'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: 'Conversational types: a topological perspective'
+  title_html: 'Conversational types: a topological perspective'
+  url: http://semdial.org/anthology/Z18-Wong_semdial_0019.pdf
+  year: '2018'
+Z18-3020:
+  address: Aix-en-Provence, France
+  author:
+  - first: Patricia
+    full: Patricia Kittel
+    id: patricia-kittel
+    last: Kittel
+  - first: Wolfgang
+    full: Wolfgang Maier
+    id: wolfgang-maier
+    last: Maier
+  - first: Maria
+    full: Maria Schmidt
+    id: maria-schmidt
+    last: Schmidt
+  - first: Wolfgang
+    full: Wolfgang Minker
+    id: wolfgang-minker
+    last: Minker
+  bibkey: kittel-etal-2018-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3020'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Towards a Categorization of Natural Language Variability in Data for Spoken
+    Dialog Systems
+  title_html: Towards a Categorization of Natural Language Variability in Data for
+    Spoken Dialog Systems
+  url: http://semdial.org/anthology/Z18-Kittel_semdial_0020.pdf
+  year: '2018'
+Z18-3021:
+  address: Aix-en-Provence, France
+  author:
+  - first: Maria
+    full: Maria Boritchev
+    id: maria-boritchev
+    last: Boritchev
+  - first: Maxime
+    full: Maxime Amblard
+    id: maxime-amblard
+    last: Amblard
+  bibkey: boritchev-amblard-2018-coffee
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: November
+  paper_id: '3021'
+  parent_volume_id: Z18-3
+  publisher: SEMDIAL
+  title: Coffee or tea? Yes.
+  title_html: Coffee or tea? Yes.
+  url: http://semdial.org/anthology/Z18-Boritchev_semdial_0021.pdf
+  year: '2018'
+Z18-4022:
+  address: Aix-en-Provence, France
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Robin
+    full: Robin Cooper
+    id: robin-cooper
+    last: Cooper
+  bibkey: breitholtz-cooper-2018-linking
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4022'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Linking topoi in argumentative dialogue to personae.
+  title_html: Linking topoi in argumentative dialogue to personae.
+  url: http://semdial.org/anthology/Z18-Breitholtz_semdial_0022.pdf
+  year: '2018'
+Z18-4023:
+  address: Aix-en-Provence, France
+  author:
+  - first: Davide
+    full: Davide Catta
+    id: davide-catta
+    last: Catta
+  - first: Alda
+    full: Alda Mari
+    id: alda-mari
+    last: Mari
+  - first: Christian
+    full: "Christian Retor\xE9"
+    id: christian-retore
+    last: "Retor\xE9"
+  bibkey: catta-etal-2018-sentence
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4023'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Sentence meaning as argumentative dialogues.
+  title_html: Sentence meaning as argumentative dialogues.
+  url: http://semdial.org/anthology/Z18-Catta_semdial_0023.pdf
+  year: '2018'
+Z18-4024:
+  address: Aix-en-Provence, France
+  author:
+  - first: Tanvi
+    full: Tanvi Dinkar
+    id: tanvi-dinkar
+    last: Dinkar
+  - first: Ioana
+    full: Ioana Vasilescu
+    id: ioana-vasilescu
+    last: Vasilescu
+  - first: Catherine
+    full: Catherine Pelachaud
+    id: catherine-pelachaud
+    last: Pelachaud
+  - first: "Chlo\xE9"
+    full: "Chlo\xE9 Clavel"
+    id: chloe-clavel
+    last: Clavel
+  bibkey: dinkar-etal-2018-disfluencies
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4024'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: 'Disfluencies and Teaching Strategies in Social Interactions Between a Pedagogical
+    Agent and a Student: Background and Challenges.'
+  title_html: 'Disfluencies and Teaching Strategies in Social Interactions Between
+    a Pedagogical Agent and a Student: Background and Challenges.'
+  url: http://semdial.org/anthology/Z18-Dinkar_semdial_0024.pdf
+  year: '2018'
+Z18-4025:
+  address: Aix-en-Provence, France
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Axel
+    full: Axel Storckenfeldt
+    id: axel-storckenfeldt
+    last: Storckenfeldt
+  bibkey: dobnik-storckenfeldt-2018-categorisation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4025'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Categorisation of conversational games in free dialogue over spatial scenes.
+  title_html: Categorisation of conversational games in free dialogue over spatial
+    scenes.
+  url: http://semdial.org/anthology/Z18-Dobnik_semdial_0025.pdf
+  year: '2018'
+Z18-4026:
+  address: Aix-en-Provence, France
+  author:
+  - first: Simone
+    full: Simone Fuscone
+    id: simone-fuscone
+    last: Fuscone
+  - first: Laurent
+    full: Laurent Pr\'evot
+    id: laurent-pr-evot
+    last: Pr\'evot
+  - first: Benoit
+    full: Benoit Favre
+    id: benoit-favre
+    last: Favre
+  bibkey: fuscone-etal-2018-exploratory
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4026'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: An exploratory study on how the use of general lexical and linguistics information
+    helps to predict the dynamic of speech rate in dyadic conversations.
+  title_html: An exploratory study on how the use of general lexical and linguistics
+    information helps to predict the dynamic of speech rate in dyadic conversations.
+  url: http://semdial.org/anthology/Z18-Fuscone_semdial_0026.pdf
+  year: '2018'
+Z18-4027:
+  address: Aix-en-Provence, France
+  author:
+  - first: Tom
+    full: Tom Gurion
+    id: tom-gurion
+    last: Gurion
+  - first: Patrick G.T.
+    full: Patrick G.T. Healey
+    id: patrick-healey
+    last: Healey
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  bibkey: gurion-etal-2018-real
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4027'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: 'Real-time testing of non-verbal interaction: An experimental method and
+    platform'
+  title_html: 'Real-time testing of non-verbal interaction: An experimental method
+    and platform'
+  url: http://semdial.org/anthology/Z18-Gurion_semdial_0027.pdf
+  year: '2018'
+Z18-4028:
+  address: Aix-en-Provence, France
+  author:
+  - first: Janosch
+    full: Janosch Haber
+    id: janosch-haber
+    last: Haber
+  - first: Elia
+    full: Elia Bruni
+    id: elia-bruni
+    last: Bruni
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  bibkey: haber-etal-2018-building
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4028'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: 'Building Common Ground in Visual Dialogue: The PhotoBook Task and Dataset'
+  title_html: 'Building Common Ground in Visual Dialogue: The PhotoBook Task and Dataset'
+  url: http://semdial.org/anthology/Z18-Haber_semdial_0028.pdf
+  year: '2018'
+Z18-4029:
+  address: Aix-en-Provence, France
+  author:
+  - first: Patrick
+    full: Patrick Healey
+    id: patrick-healey
+    last: Healey
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: healey-purver-2018-self
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4029'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Self-Repetition in Dialogue and Monologue
+  title_html: Self-Repetition in Dialogue and Monologue
+  url: http://semdial.org/anthology/Z18-Healey_semdial_0029.pdf
+  year: '2018'
+Z18-4030:
+  address: Aix-en-Provence, France
+  author:
+  - first: Yasuhiro
+    full: Yasuhiro Katagiri
+    id: yasuhiro-katagiri
+    last: Katagiri
+  - first: Katsuya
+    full: Katsuya Takanashi
+    id: katsuya-takanashi
+    last: Takanashi
+  - first: Masato
+    full: Masato Ishizaki
+    id: masato-ishizaki
+    last: Ishizaki
+  - first: Mika
+    full: Mika Enomoto
+    id: mika-enomoto
+    last: Enomoto
+  - first: Yasuharu
+    full: Yasuharu Den
+    id: yasuharu-den
+    last: Den
+  bibkey: katagiri-etal-2018-concern
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4030'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Concern-Alignment in Joint Inquiry for Consensus-Building
+  title_html: Concern-Alignment in Joint Inquiry for Consensus-Building
+  url: http://semdial.org/anthology/Z18-Katagiri_semdial_0030.pdf
+  year: '2018'
+Z18-4031:
+  address: Aix-en-Provence, France
+  author:
+  - first: Raja
+    full: Raja Lala
+    id: raja-lala
+    last: Lala
+  - first: Johan
+    full: Johan Jeuring
+    id: johan-jeuring
+    last: Jeuring
+  - first: Rick
+    full: Rick Heemskerk
+    id: rick-heemskerk
+    last: Heemskerk
+  - first: Marcell van
+    full: Marcell van Geest
+    id: marcell-van-geest
+    last: Geest
+  - first: Jordy van
+    full: Jordy van Dortmont
+    id: jordy-van-dortmont
+    last: Dortmont
+  - first: Gabriel
+    full: Gabriel Gutu-Robu
+    id: gabriel-gutu-robu
+    last: Gutu-Robu
+  - first: Stefan
+    full: Stefan Ruseti
+    id: stefan-ruseti
+    last: Ruseti
+  - first: Mihai
+    full: Mihai Dascalu
+    id: mihai-dascalu
+    last: Dascalu
+  - first: Beatrice
+    full: Beatrice Alex
+    id: beatrice-alex
+    last: Alex
+  - first: Richard
+    full: Richard Tobin
+    id: richard-tobin
+    last: Tobin
+  bibkey: lala-etal-2018-processing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4031'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Processing open text input in a scripted communication scenario
+  title_html: Processing open text input in a scripted communication scenario
+  url: http://semdial.org/anthology/Z18-Lala_semdial_0031.pdf
+  year: '2018'
+Z18-4032:
+  address: Aix-en-Provence, France
+  author:
+  - first: Jakob
+    full: Jakob Landesberger
+    id: jakob-landesberger
+    last: Landesberger
+  - first: Ute
+    full: Ute Ehrlich
+    id: ute-ehrlich
+    last: Ehrlich
+  bibkey: landesberger-ehrlich-2018-investigating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4032'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Investigating Strategies for Resolving Misunderstood Utterances with Multiple
+    Intents
+  title_html: Investigating Strategies for Resolving Misunderstood Utterances with
+    Multiple Intents
+  url: http://semdial.org/anthology/Z18-Landesberger_semdial_0032.pdf
+  year: '2018'
+Z18-4033:
+  address: Aix-en-Provence, France
+  author:
+  - first: Eimear
+    full: Eimear Maguire
+    id: eimear-maguire
+    last: Maguire
+  bibkey: maguire-2018-isolate
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4033'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Isolate if-clauses in dialogue
+  title_html: Isolate if-clauses in dialogue
+  url: http://semdial.org/anthology/Z18-Maguire_semdial_0033.pdf
+  year: '2018'
+Z18-4034:
+  address: Aix-en-Provence, France
+  author:
+  - first: Bill
+    full: Bill Noble
+    id: bill-noble
+    last: Noble
+  bibkey: noble-2018-semantic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4034'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Does Semantic Negotiation Predict Semantic Change?
+  title_html: Does Semantic Negotiation Predict Semantic Change?
+  url: http://semdial.org/anthology/Z18-Noble_semdial_0034.pdf
+  year: '2018'
+Z18-4035:
+  address: Aix-en-Provence, France
+  author:
+  - first: Magalie
+    full: Magalie Ochs
+    id: magalie-ochs
+    last: Ochs
+  - first: "Gr\xE9goire"
+    full: "Gr\xE9goire Montcheuil"
+    id: gregoire-montcheuil
+    last: Montcheuil
+  - first: Philippe
+    full: Philippe Blache
+    id: philippe-blache
+    last: Blache
+  bibkey: ochs-etal-2018-common
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4035'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: What common ground between a human and a virtual agent? The case of task-oriented
+    dialogues for breaking bad news.
+  title_html: What common ground between a human and a virtual agent? The case of
+    task-oriented dialogues for breaking bad news.
+  url: http://semdial.org/anthology/Z18-Ochs_semdial_0035.pdf
+  year: '2018'
+Z18-4036:
+  address: Aix-en-Provence, France
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Tim
+    full: Tim Diekmann
+    id: tim-diekmann
+    last: Diekmann
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Sina
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
+  bibkey: schlangen-etal-2018-slurk
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4036'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: slurk -- A Lightweight Interaction Server for Dialogue Experiments and Data
+    Collection
+  title_html: slurk -- A Lightweight Interaction Server for Dialogue Experiments and
+    Data Collection
+  url: http://semdial.org/anthology/Z18-Schlangen_semdial_0036.pdf
+  year: '2018'
+Z18-4037:
+  address: Aix-en-Provence, France
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  - first: Nikolai
+    full: Nikolai Ilinykh
+    id: nikolai-ilinykh
+    last: Ilinykh
+  - first: Sina
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
+  bibkey: schlangen-etal-2018-meetup
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4037'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: MeetUp! A Task for Modelling Visual Dialogue
+  title_html: MeetUp! A Task for Modelling Visual Dialogue
+  url: http://semdial.org/anthology/Z18-Schlangen_semdial_0037.pdf
+  year: '2018'
+Z18-4038:
+  address: Aix-en-Provence, France
+  author:
+  - first: Matthijs
+    full: Matthijs Westera
+    id: matthijs-westera
+    last: Westera
+  bibkey: westera-2018-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 22nd Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: November
+  paper_id: '4038'
+  parent_volume_id: Z18-4
+  publisher: SEMDIAL
+  title: Towards unsupervised language models for QUD prediction
+  title_html: Towards unsupervised language models for QUD prediction
+  url: http://semdial.org/anthology/Z18-Westera_semdial_0038.pdf
+  year: '2018'

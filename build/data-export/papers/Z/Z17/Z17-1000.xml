@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="semdial-2017-semantics">
+    <titleInfo>
+        <title>Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Volha</namePart>
+        <namePart type="family">Petukhova</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ye</namePart>
+        <namePart type="family">Tian</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2017-aug</dateIssued>
+        <publisher>SEMDIAL</publisher>
+        <place>
+            <placeTerm type="text">Saarbrücken, Germany</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">semdial-2017-semantics</identifier>
+    <location>
+        <url>http://semdial.org/anthology/semdial2017_saardial_front_matter.pdf</url>
+    </location>
+</mods>
+</modsCollection>

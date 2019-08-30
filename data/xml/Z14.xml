@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z14">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Philippe</first><last>Muller</last></editor>
+      <editor><first>Verena</first><last>Rieser</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Edinburgh, United Kingdom</address>
+      <month>August</month>
+      <year>2014</year>
+
+    </meta>
+    <frontmatter>
+      <url>semdial2014_dialwatt_front_matter.pdf</url>
+    </frontmatter>
+
+</volume>
+<volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Philippe</first><last>Muller</last></editor>
+      <editor><first>Verena</first><last>Rieser</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Edinburgh, United Kingdom</address>
+      <month>August</month>
+      <year>2014</year>
+    </meta>
+
+<paper id="1"><title>Say as I say: Alignment as a multi-componential phenomenon</title><author><first>Holly</first><last>Branigan</last></author><url>Z14-Branigan_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>Talking to animals and talking to things</title><author><first>Jon</first><last>Oberlander</last></author><url>Z14-Oberlander_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>Ask Not What Semantics Can Do For Dialogue - Ask What Dialogue Can Do For Semantics</title><author><first>Matthew</first><last>Purver</last></author><url>Z14-Purver_semdial_0003.pdf</url></paper>
+
+<paper id="4"><title>Dialogue, response quality and mode choice in iPhone surveys</title><author><first>Michael</first><last>Schober</last></author><url>Z14-Schober_semdial_0004.pdf</url></paper>
+
+
+</volume>
+<volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Philippe</first><last>Muller</last></editor>
+      <editor><first>Verena</first><last>Rieser</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Edinburgh, United Kingdom</address>
+      <month>August</month>
+      <year>2014</year>
+    </meta>
+
+
+<paper id="5"><title>Referring Expressions in Discourse about Haptic Line Graphs</title><author><first>Ozge</first><last>Alacam</last></author><author><first>Cengiz</first><last>Acarturk</last></author><author><first>Christopher</first><last>Habel</last></author><url>Z14-Alacam_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>A dynamic minimal model of the listener for feedback-based dialogue coordination</title><author><first>Hendrik</first><last>Buschmeier</last></author><author><first>Stefan</first><last>Kopp</last></author><url>Z14-Buschmeier_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>Phrase structure rules as dialogue update rules</title><author><first>Robin</first><last>Cooper</last></author><url>Z14-Cooper_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>Numerical expressions, implicatures and imagined prior context</title><author><first>Chris</first><last>Cummins</last></author><url>Z14-Cummins_semdial_0008.pdf</url></paper>
+
+<paper id="9"><title>Priming and Alignment of Frame of Reference in Situated Conversation</title><author><first>Simon</first><last>Dobnik</last></author><author><first>John</first><last>Kelleher</last></author><author><first>Christos</first><last>Koniaris</last></author><url>Z14-Dobnik_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>How domain-general can we be? Learning incremental Dialogue Systems without Dialogue Acts</title><author><first>Arash</first><last>Eshghi</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z14-Eshghi_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>Persuasion in Complex Games</title><author><first>Markus</first><last>Guhe</last></author><author><first>Alex</first><last>Lascarides</last></author><url>Z14-Guhe_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Signaling Non-speaker commitment in Transparent Free Relatives: A paired Speaker-Hearer judgment study.</title><author><first>Jesse</first><last>Harris</last></author><url>Z14-Harris_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>Helping, I mean assessing psychiatric communication: An application of incremental self-repair detection</title><author><first>Christine</first><last>Howes</last></author><author><first>Julian</first><last>Hough</last></author><author><first>Matthew</first><last>Purver</last></author><author><first>Rose</first><last>McCabe</last></author><url>Z14-Howes_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>Analysis of the Responses to System-Initiated Off-Activity Talk in Human-Robot Interaction with Diabetic Children</title><author><first>Ivana</first><last>Kruijff-Korbayova</last></author><author><first>Stefania</first><last>Racioppa</last></author><author><first>Bernd</first><last>Kiefer</last></author><author><first>Elettra</first><last>Oleari</last></author><author><first>Clara</first><last>Pozzi</last></author><url>Z14-Kruijff-Korbayova_semdial_0014.pdf</url></paper>
+
+<paper id="15"><title>Using subtitles to deal with Out-of-Domain interactions</title><author><first>Daniel</first><last>Magarreiro</last></author><author><first>Lu&#237;sa</first><last>Coheur</last></author><author><first>Francisco</first><last>Melo</last></author><url>Z14-Magarreiro_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>Generating and Resolving Vague Color References</title><author><first>Timothy</first><last>Meo</last></author><author><first>Brian</first><last>McMahan</last></author><author><first>Matthew</first><last>Stone</last></author><url>Z14-Meo_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>Learning to understand questions</title><author><first>Sara</first><last>Moradlou</last></author><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z14-Moradlou_semdial_0017.pdf</url></paper>
+
+<paper id="18"><title>Dynamic Intention Structures for Dialogue Processing</title><author><first>Charles</first><last>Ortiz</last></author><author><first>Jiaying</first><last>Shen</last></author><url>Z14-Ortiz_semdial_0018.pdf</url></paper>
+
+<paper id="19"><title>Revealing Resources in Strategic Contexts</title><author><first>J&#233;r&#233;my</first><last>Perret</last></author><author><first>Stergos</first><last>Afantenos</last></author><author><first>Nicholas</first><last>Asher</last></author><author><first>Alex</first><last>Lascarides</last></author><url>Z14-Perret_semdial_0019.pdf</url></paper>
+
+<paper id="20"><title>Indirect answers as potential solutions to decision problems</title><author><first>Jon</first><last>Stevens</last></author><author><first>Anton</first><last>Benz</last></author><author><first>Sebastian</first><last>Reu&#223;e</last></author><author><first>Ronja</first><last>Laarmann-Quante</last></author><author><first>Ralf</first><last>Klabunde</last></author><url>Z14-Stevens_semdial_0020.pdf</url></paper>
+
+<paper id="21"><title>Credibility and its Attacks.</title><author><first>Antoine</first><last>Venant</last></author><author><first>Nicholas</first><last>Asher</last></author><author><first>C&#233;dric</first><last>D&#233;gremont</last></author><url>Z14-Venant_semdial_0021.pdf</url></paper>
+
+</volume>
+<volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Philippe</first><last>Muller</last></editor>
+      <editor><first>Verena</first><last>Rieser</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Edinburgh, United Kingdom</address>
+      <month>August</month>
+      <year>2014</year>
+    </meta>
+
+
+<paper id="22"><title>MILLA &#8211; A Multimodal Interactive Language Learning Agent</title><author><first>Jo&#227;o Paulo</first><last>Cabral</last></author><author><first>Nick</first><last>Campbell</last></author><author><first>Sree</first><last>Ganesh</last></author><author><first>Mina</first><last>Kheirkhah</last></author><author><first>Emer</first><last>Gilmartin</last></author><author><first>Fasih</first><last>Haider</last></author><author><first>Eamonn</first><last>Kenny</last></author><author><first>Andrew</first><last>Murphy</last></author><author><first>Neasa N&#237;</first><last>Chiar&#225;in</last></author><author><first>Thomas</first><last>Pellegrini</last></author><author><first>Odei Rey</first><last>Orozko</last></author><url>Z14-Cabral_semdial_0022.pdf</url></paper>
+
+
+
+<paper id="23"><title>Dialogue Structure of Coaching Sessions</title><author><first>Iwan de</first><last>Kok</last></author><author><first>Julian</first><last>Hough</last></author><author><first>Cornelia</first><last>Frank</last></author><author><first>David</first><last>Schlangen</last></author><author><first>Stefan</first><last>Kopp</last></author><url>Z14-Kok_semdial_0023.pdf</url></paper>
+
+<paper id="24"><title>Getting to Know Users: Accounting for the Variability in User Ratings</title><author><first>Nina</first><last>Dethlefs</last></author><author><first>Heriberto</first><last>Cuayahuitl</last></author><author><first>Helen</first><last>Hastie</last></author><author><first>Verena</first><last>Rieser</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z14-Dethlefs_semdial_0024.pdf</url></paper>
+
+<paper id="25"><title>Learning to manage risks in non-cooperative dialogues</title><author><first>Ioannis</first><last>Efstathiou</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z14-Efstathiou_semdial_0025.pdf</url></paper>
+
+<paper id="26"><title>The Disfluency, Exclamation, and Laughter in Dialogue (DUEL) Project</title><author><first>Jonathan</first><last>Ginzburg</last></author><author><first>David</first><last>Schlangen</last></author><author><first>Ye</first><last>Tian</last></author><author><first>Julian</first><last>Hough</last></author><url>Z14-Ginzburg_semdial_0026.pdf</url></paper>
+
+<paper id="27"><title>Hearer Engagement as a Variable in the Perceived Weight of a Face-Threatening Act</title><author><first>Nadine</first><last>Glas</last></author><author><first>Catherine</first><last>Pelachaud</last></author><url>Z14-Glas_semdial_0027.pdf</url></paper>
+
+<paper id="28"><title>Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational Approach</title><author><first>Robert</first><last>Grimm</last></author><author><first>Raquel</first><last>Fern&#225;ndez</last></author><url>Z14-Grimm_semdial_0028.pdf</url></paper>
+
+<paper id="29"><title>First observations on a corpus of multi-modal trialogues</title><author><first>Florian</first><last>Hahn</last></author><author><first>Insa</first><last>Lawler</last></author><author><first>Hannes</first><last>Rieser</last></author><url>Z14-Hahn_semdial_0029.pdf</url></paper>
+
+<paper id="30"><title>Towards Automatic Understanding of &#8216;Virtual Pointing&#8217; in Interaction</title><author><first>Ting</first><last>Han</last></author><author><first>Spyros</first><last>Kousidis</last></author><author><first>David</first><last>Schlangen</last></author><url>Z14-Han_semdial_0030.pdf</url></paper>
+
+<paper id="31"><title>Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile Platforms for Evaluation &#8220;In the Wild&#8221;</title><author><first>Helen</first><last>Hastie</last></author><author><first>Marie-Aude</first><last>Aufaure</last></author><author><first>Panos</first><last>Alexopoulos</last></author><author><first>Hugues</first><last>Bouchard</last></author><author><first>Heriberto</first><last>Cuayahuitl</last></author><author><first>Nina</first><last>Dethlefs</last></author><author><first>Milica</first><last>Gasic</last></author><author><first>Almudena</first><last>Gonzalez-Guimerans</last></author><author><first>James</first><last>Henderson</last></author><author><first>Oliver</first><last>Lemon</last></author><author><first>Xingkun</first><last>Liu</last></author><author><first>Peter</first><last>Mika</last></author><author><first>Ti</first><last>Potter</last></author><author><first>Verena</first><last>Rieser</last></author><author><first>Pirros</first><last>Tsiakoulis</last></author><author><first>Yves</first><last>Vanrompay</last></author><author><first>Boris</first><last>Villazon-Terrazas</last></author><author><first>Majid</first><last>Yazdani</last></author><author><first>Steve</first><last>Young</last></author><author><first>Yanchao</first><last>Yu</last></author><url>Z14-Hastie_semdial_0031.pdf</url></paper>
+
+<paper id="32"><title>Disentangling utterances and recovering coherent multi party distinct conversations</title><author><first>Gibson</first><last>Ikoro</last></author><author><first>Raul</first><last>Mondragon</last></author><author><first>Graham</first><last>White</last></author><url>Z14-Ikoro_semdial_0032.pdf</url></paper>
+
+<paper id="33"><title>Large-scale Analysis of the Flight Booking Spoken Dialog System in a Commercial Travel Information Mobile App</title><author><first>Zengtao</first><last>Jiao</last></author><author><first>Zhuoran</first><last>Wang</last></author><author><first>Guanchun</first><last>Wang</last></author><author><first>Hao</first><last>Tian</last></author><author><first>Hua</first><last>Wu</last></author><author><first>Haifeng</first><last>Wang</last></author><url>Z14-Jiao_semdial_0033.pdf</url></paper>
+
+<paper id="34"><title>A Multi-issue Negotiation Model of Trust Formation through Concern Alignment in Conversations</title><author><first>Yasuhiro</first><last>Katagiri</last></author><author><first>Katsuya</first><last>Takanashi</last></author><author><first>Masato</first><last>Ishizaki</last></author><author><first>Mika</first><last>Enomoto</last></author><author><first>Yasuharu</first><last>Den</last></author><author><first>Shogo</first><last>Okada</last></author><url>Z14-Katagiri_semdial_0034.pdf</url></paper>
+
+<paper id="35"><title>Multimodal Dialogue Systems with InproTKs and Venice</title><author><first>Casey</first><last>Kennington</last></author><author><first>Spyros</first><last>Kousidis</last></author><author><first>David</first><last>Schlangen</last></author><url>Z14-Kennington_semdial_0035.pdf</url></paper>
+
+<paper id="36"><title>Producing Verbal Descriptions for Haptic Line-Graph Explorations</title><author><first>Matthias</first><last>Kerzel</last></author><author><first>Ozge</first><last>Alacam</last></author><author><first>Christopher</first><last>Habel</last></author><author><first>Cengiz</first><last>Acarturk</last></author><url>Z14-Kerzel_semdial_0036.pdf</url></paper>
+
+<paper id="37"><title>Effects of Speech Cursor on Visual Distraction in In-vehicle Interaction: Preliminary Results</title><author><first>Staffan</first><last>Larsson</last></author><author><first>Simon</first><last>Dobnik</last></author><author><first>Sebastian</first><last>Berlin</last></author><url>Z14-Larsson_semdial_0037.pdf</url></paper>
+
+<paper id="38"><title>Common Ground and Joint Utterance Production:  Evidence from the Word Chain Task</title><author><first>Jaroslaw</first><last>Lelonkiewicz</last></author><author><first>Chiara</first><last>Gambi</last></author><url>Z14-Lelonkiewicz_semdial_0038.pdf</url></paper>
+
+<paper id="39"><title>Language-bound Dialogic elements in Computer-Mediated and Face-to-Face Communication</title><author><first>Barbara</first><last>Lewandowska-Tomaszczyk</last></author><url>Z14-Lewandowska-Tomaszczyk_semdial_0039.pdf</url></paper>
+
+<paper id="40"><title>Studying the Effects of Affective Feedback in Embodied Tutors</title><author><first>Mei Yii</first><last>Lim</last></author><author><first>Mary Ellen</first><last>Foster</last></author><author><first>Srinivasan</first><last>Janarthanam</last></author><author><first>Amol</first><last>Deshmukh</last></author><author><first>Helen</first><last>Hastie</last></author><author><first>Ruth</first><last>Aylett</last></author><url>Z14-Lim_semdial_0040.pdf</url></paper>
+
+<paper id="41"><title>Towards Deep Learning for Dialogue State Tracking Using Restricted Bolzman Machines and Pretraining</title><author><first>Callum</first><last>Main</last></author><author><first>Zhuoran</first><last>Wang</last></author><author><first>Verena</first><last>Rieser</last></author><url>Z14-Main_semdial_0041.pdf</url></paper>
+
+<paper id="42"><title>Referential Grounding for Situated Human-Robot Communication</title><author><first>Vivien</first><last>Mast</last></author><author><first>Daniel Couto</first><last>Vale</last></author><author><first>Zoe</first><last>Falomir</last></author><author><first>Mohammad Fazleh</first><last>Elahi</last></author><url>Z14-Mast_semdial_0042.pdf</url></paper>
+
+<paper id="43"><title>Laughter in mother-child interaction: from 12 to 36 months</title><author><first>Chiara</first><last>Mazzocconi</last></author><author><first>Sam</first><last>Green</last></author><author><first>Ye</first><last>Tian</last></author><author><first>Caspar</first><last>Addyman</last></author><url>Z14-Mazzocconi_semdial_0043.pdf</url></paper>
+
+<paper id="44"><title>Initiative Patterns in Dialogue Genres</title><author><first>Angela</first><last>Nazarian</last></author><author><first>Elnaz</first><last>Nouri</last></author><author><first>David</first><last>Traum</last></author><url>Z14-Nazarian_semdial_0044.pdf</url></paper>
+
+<paper id="45"><title>Towards Generating Route Instructions Under Uncertainty: A Corpus Study</title><author><first>Verena</first><last>Rieser</last></author><author><first>Amanda Cercas</first><last>Curry</last></author><url>Z14-Rieser_semdial_0045.pdf</url></paper>
+
+<paper id="46"><title>SpeechCity: A Conversational City Guide based on Open Data</title><author><first>Verena</first><last>Rieser</last></author><author><first>Srinivasan</first><last>Janarthanam</last></author><author><first>Andy</first><last>Taylor</last></author><author><first>Yanchao</first><last>Yu</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z14-Rieser_semdial_0046.pdf</url></paper>
+
+<paper id="47"><title>Clarification Requests at the Level of Uptake</title><author><first>Julian</first><last>Schl&#246;der</last></author><author><first>Raquel</first><last>Fern&#225;ndez</last></author><url>Z14-Schl&#246;der_semdial_0047.pdf</url></paper>
+
+<paper id="48"><title>Tailoring Object Orientation Descriptions to the Dialogue Context</title><author><first>Gesa</first><last>Schole</last></author><author><first>Thora</first><last>Tenbrink</last></author><author><first>Kenny</first><last>Coventry</last></author><author><first>Elena</first><last>Andonova</last></author><url>Z14-Schole_semdial_0048.pdf</url></paper>
+
+<paper id="49"><title>Perception Based Misunderstandings in Human-Computer Dialogues</title><author><first>Niels</first><last>Schuette</last></author><author><first>John</first><last>Kelleher</last></author><author><first>Brian Mac</first><last>Namee</last></author><url>Z14-Schuette_semdial_0049.pdf</url></paper>
+
+<paper id="50"><title>Sample Efficient Learning of Strategic Dialogue Policies</title><author><first>Wenshuo</first><last>Tang</last></author><author><first>Zhuoran</first><last>Wang</last></author><author><first>Verena</first><last>Rieser</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z14-Tang_semdial_0050.pdf</url></paper>
+
+<paper id="51"><title>PDRT-SANDBOX: An implementation of Projective Discourse Representation Theory</title><author><first>Noortje</first><last>Venhuizen</last></author><author><first>Harm</first><last>Brouwer</last></author><url>Z14-Venhuizen_semdial_0051.pdf</url></paper>
+
+<paper id="52"><title>Detecting Deception in Non-Cooperative Dialogue: A Smarter Adversary Cannot be Fooled That Easily</title><author><first>Aimilios</first><last>Vourliotakis</last></author><author><first>Ioannis</first><last>Efstathiou</last></author><author><first>Verena</first><last>Rieser</last></author><url>Z14-Vourliotakis_semdial_0052.pdf</url></paper>
+
+<paper id="53"><title>User Satisfaction without Task Completion</title><author><first>Peter</first><last>Wallis</last></author><url>Z14-Wallis_semdial_0053.pdf</url></paper>
+
+
+
+
+  </volume>
+</collection>
