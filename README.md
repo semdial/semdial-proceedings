@@ -71,7 +71,11 @@ It will take a few minutes to compile the new website, but check `sigdial.org` t
 
 ### Additional files
 
-For years 2013-2019, the SEMDIAL organizers used a .tex template for generating a PDF with the complete proceedings. The `semdial_to_act.py` script can convert from that .tex file to the XML (in the std out) and renames the PDF files. 
+For years 2013-2019, the SEMDIAL organizers used a .tex template for generating a PDF with the complete proceedings. The template can be found in the `semdial_proceedings_code` folder. The Makefil can be used to compile the full proceedings. 
+
+**We recommend that you compile the full proceedings using the `semdial_proceedings_code`, then use the `semdial_to_act.py` script to convert from that .tex file to the XML (in the std out) and renames the PDF files, and derive the front matter PDF. 
+
+
 
 
 
