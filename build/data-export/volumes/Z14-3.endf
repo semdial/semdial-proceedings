@@ -1,9 +1,9 @@
-%0 Conference Proceedings
+Ôªø%0 Conference Proceedings
 %T Referring Expressions in Discourse about Haptic Line Graphs
 %A Alacam, Ozge
 %A Acarturk, Cengiz
 %A Habel, Christopher
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -15,7 +15,7 @@
 %T A dynamic minimal model of the listener for feedback-based dialogue coordination
 %A Buschmeier, Hendrik
 %A Kopp, Stefan
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -26,7 +26,7 @@
 %0 Conference Proceedings
 %T Phrase structure rules as dialogue update rules
 %A Cooper, Robin
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -37,7 +37,7 @@
 %0 Conference Proceedings
 %T Numerical expressions, implicatures and imagined prior context
 %A Cummins, Chris
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -50,7 +50,7 @@
 %A Dobnik, Simon
 %A Kelleher, John
 %A Koniaris, Christos
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -62,7 +62,7 @@
 %T How domain-general can we be? Learning incremental Dialogue Systems without Dialogue Acts
 %A Eshghi, Arash
 %A Lemon, Oliver
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -74,7 +74,7 @@
 %T Persuasion in Complex Games
 %A Guhe, Markus
 %A Lascarides, Alex
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -85,7 +85,7 @@
 %0 Conference Proceedings
 %T Signaling Non-speaker commitment in Transparent Free Relatives: A paired Speaker-Hearer judgment study.
 %A Harris, Jesse
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -99,7 +99,7 @@
 %A Hough, Julian
 %A Purver, Matthew
 %A McCabe, Rose
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -114,7 +114,7 @@
 %A Kiefer, Bernd
 %A Oleari, Elettra
 %A Pozzi, Clara
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -125,9 +125,9 @@
 %0 Conference Proceedings
 %T Using subtitles to deal with Out-of-Domain interactions
 %A Magarreiro, Daniel
-%A Coheur, LuÌsa
+%A Coheur, Lu√≠sa
 %A Melo, Francisco
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -140,7 +140,7 @@
 %A Meo, Timothy
 %A McMahan, Brian
 %A Stone, Matthew
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -152,7 +152,7 @@
 %T Learning to understand questions
 %A Moradlou, Sara
 %A Ginzburg, Jonathan
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -164,7 +164,7 @@
 %T Dynamic Intention Structures for Dialogue Processing
 %A Ortiz, Charles
 %A Shen, Jiaying
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -174,11 +174,11 @@
 
 %0 Conference Proceedings
 %T Revealing Resources in Strategic Contexts
-%A Perret, JÈrÈmy
+%A Perret, J√©r√©my
 %A Afantenos, Stergos
 %A Asher, Nicholas
 %A Lascarides, Alex
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -190,10 +190,10 @@
 %T Indirect answers as potential solutions to decision problems
 %A Stevens, Jon
 %A Benz, Anton
-%A Reuﬂe, Sebastian
+%A Reu√üe, Sebastian
 %A Laarmann-Quante, Ronja
 %A Klabunde, Ralf
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -205,8 +205,8 @@
 %T Credibility and its Attacks.
 %A Venant, Antoine
 %A Asher, Nicholas
-%A DÈgremont, CÈdric
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%A D√©gremont, C√©dric
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2014
 %8 aug
 %I SEMDIAL

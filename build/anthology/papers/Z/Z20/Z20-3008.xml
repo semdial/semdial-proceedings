@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="ginzburg-lucking-2020-laughter">
+    <titleInfo>
+        <title>On Laughter and Forgetting and Reconversing: A Neurologically-Inspired Model of Conversational Context</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andy</namePart>
+        <namePart type="family">Lücking</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ginzburg-lucking-2020-laughter</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Ginzburg_semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+</modsCollection>

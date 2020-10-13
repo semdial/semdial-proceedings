@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="clausen-scheffler-2020-commitments">
+    <titleInfo>
+        <title>Commitments in German Tag Questions: An Experimental Study</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yulia</namePart>
+        <namePart type="family">Clausen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tatjana</namePart>
+        <namePart type="family">Scheffler</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">clausen-scheffler-2020-commitments</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Clausen_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+</modsCollection>

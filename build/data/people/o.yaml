@@ -1,3 +1,38 @@
+o-lemon:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: O.
+  full: O. Lemon
+  last: Lemon
+  papers:
+  - Z12-4019
+  slug: o-lemon
+  venues:
+  - - SEMDIAL
+    - 1
 oana-postolache:
   coauthors: []
   first: Oana
@@ -114,12 +149,14 @@ olga-van-herwijnen:
   venues: []
 oliver-lemon:
   coauthors:
+  - - verena-rieser
+    - 6
   - - arash-eshghi
     - 5
   - - yanchao-yu
     - 5
-  - - verena-rieser
-    - 4
+  - - simon-keizer
+    - 3
   - - nina-dethlefs
     - 2
   - - heriberto-cuayahuitl
@@ -127,6 +164,10 @@ oliver-lemon:
   - - helen-hastie
     - 2
   - - ioannis-efstathiou
+    - 2
+  - - xingkun-liu
+    - 2
+  - - srinivasan-janarthanam
     - 2
   - - igor-shalyminov
     - 2
@@ -142,8 +183,6 @@ oliver-lemon:
     - 1
   - - james-henderson
     - 1
-  - - xingkun-liu
-    - 1
   - - peter-mika
     - 1
   - - ti-potter
@@ -158,19 +197,47 @@ oliver-lemon:
     - 1
   - - steve-young
     - 1
-  - - srinivasan-janarthanam
-    - 1
   - - andy-taylor
     - 1
   - - wenshuo-tang
     - 1
   - - zhuoran-wang
     - 1
+  - - heriberto-cuayahuitl1
+    - 1
   - - arash-eshghi1
     - 1
-  - - simon-keizer
+  - - phil-bartie
     - 1
-  - - heriberto-cuayahuitl1
+  - - william-mackaness
+    - 1
+  - - tiphaine-dalmas
+    - 1
+  - - jana-gotze
+    - 1
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - alex-lascarides
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
     - 1
   first: Oliver
   full: Oliver Lemon
@@ -190,10 +257,13 @@ oliver-lemon:
   - Z14-4031
   - Z14-4046
   - Z14-4050
+  - Z12-4025
+  - Z12-4029
+  - Z12-4033
   slug: oliver-lemon
   venues:
   - - SEMDIAL
-    - 14
+    - 17
 olivia-o-y-kwong:
   coauthors: []
   first: Olivia O.Y.

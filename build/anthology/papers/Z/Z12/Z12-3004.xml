@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="degen-franke-2012-optimal">
+    <titleInfo>
+        <title>Optimal Reasoning About Referential Expressions</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Judith</namePart>
+        <namePart type="family">Degen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Franke</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2012-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Paris, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">degen-franke-2012-optimal</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z12-Degen_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2012-sep</date>
+    </part>
+</mods>
+</modsCollection>

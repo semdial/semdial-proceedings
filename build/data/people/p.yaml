@@ -6,6 +6,41 @@ p-c-ching:
   papers: []
   slug: p-c-ching
   venues: []
+p-denis:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: P.
+  full: P. Denis
+  last: Denis
+  papers:
+  - Z12-4019
+  slug: p-denis
+  venues:
+  - - SEMDIAL
+    - 1
 p-h-j-van-der-kamp:
   coauthors: []
   first: P. H. J.
@@ -14,6 +49,41 @@ p-h-j-van-der-kamp:
   papers: []
   slug: p-h-j-van-der-kamp
   venues: []
+p-muller:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: P.
+  full: P. Muller
+  last: Muller
+  papers:
+  - Z12-4019
+  slug: p-muller
+  venues:
+  - - SEMDIAL
+    - 1
 p-senthil-nathan:
   coauthors: []
   first: P. Senthil
@@ -180,6 +250,45 @@ partha-talukdar:
   papers: []
   slug: partha-talukdar
   venues: []
+pascal-denis:
+  coauthors:
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
+    - 1
+  first: Pascal
+  full: Pascal Denis
+  last: Denis
+  papers:
+  - Z12-4029
+  slug: pascal-denis
+  venues:
+  - - SEMDIAL
+    - 1
 pascal-nocera:
   coauthors: []
   first: Pascal
@@ -289,40 +398,56 @@ patrick-healey:
   coauthors:
   - - matthew-purver
     - 3
+  - - tom-gurion
+    - 2
+  - - julian-hough
+    - 2
   - - shauna-concannon
     - 2
   - - sophie-skach
     - 1
   - - leshao-zhang
     - 1
-  - - tom-gurion
+  - - saul-albert
     - 1
-  - - julian-hough
+  - - nicola-plant
+    - 1
+  - - christine-howes
+    - 1
+  - - matt-purver
+    - 1
+  - - rose-mccabe
+    - 1
+  - - mary-lavelle
     - 1
   first: Patrick
   full: Patrick Healey
   last: Healey
   papers:
+  - Z20-3013
   - Z19-3008
   - Z19-3017
   - Z18-4027
   - Z18-4029
   - Z15-3004
   - Z15-3005
+  - Z12-3006
+  - Z12-3012
+  - Z12-4024
   slug: patrick-healey
   variant_entries:
-  - first: Patrick G. T.
-    full: Patrick G. T. Healey
-    last: Healey
   - first: Patrick G.T.
     full: Patrick G.T. Healey
+    last: Healey
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
     last: Healey
   - first: Pat
     full: Pat Healey
     last: Healey
   venues:
   - - SEMDIAL
-    - 6
+    - 10
 patrick-l-lange:
   coauthors:
   - - david-suendermann-oeft
@@ -1022,6 +1147,29 @@ petra-poukarova:
   papers: []
   slug: petra-poukarova
   venues: []
+phil-bartie:
+  coauthors:
+  - - srinivasan-janarthanam
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - william-mackaness
+    - 1
+  - - tiphaine-dalmas
+    - 1
+  - - jana-gotze
+    - 1
+  first: Phil
+  full: Phil Bartie
+  last: Bartie
+  papers:
+  - Z12-4025
+  slug: phil-bartie
+  venues:
+  - - SEMDIAL
+    - 1
 phil-blunsom:
   coauthors: []
   first: Phil
@@ -1123,19 +1271,33 @@ philipp-cimiano:
   venues: []
 philippe-blache:
   coauthors:
+  - - laurent-prevot
+    - 2
+  - - roxane-bertrand
+    - 2
   - - magalie-ochs
     - 1
   - - gregoire-montcheuil
+    - 1
+  - - helen-k-y-chen
+    - 1
+  - - beatrice-priego-valverde
+    - 1
+  - - klim-peshkov
+    - 1
+  - - stephane-rauzy
     - 1
   first: Philippe
   full: Philippe Blache
   last: Blache
   papers:
   - Z18-4035
+  - Z12-4020
+  - Z12-4036
   slug: philippe-blache
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 philippe-boula-de-mareuil:
   coauthors: []
   first: Philippe
@@ -1155,16 +1317,43 @@ philippe-langlais:
 philippe-muller:
   coauthors:
   - - verena-rieser
+    - 2
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
     - 1
   first: Philippe
   full: Philippe Muller
   last: Muller
   papers:
   - Z14-1000
+  - Z12-4029
   slug: philippe-muller
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 phuong-le-hong:
   coauthors: []
   first: Phuong
@@ -1265,10 +1454,11 @@ pierre-lison:
   - Z17-4023
   - Z15-4027
   - Z15-4039
+  - Z12-3014
   slug: pierre-lison
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 pierre-zweigenbaum:
   coauthors: []
   first: Pierre

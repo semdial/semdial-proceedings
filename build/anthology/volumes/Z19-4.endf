@@ -1,11 +1,11 @@
-%0 Conference Proceedings
+﻿%0 Conference Proceedings
 %T Analysis of Satisfaction and Topics in Repeated Conversation through Days
 %A Arimoto, Tsunehiro
 %A Sugiyama, Hiroaki
 %A Mizukami, Masahiro
 %A Narimatsu, Hiromi
 %A Higashinaka, Ryuichiro
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -16,8 +16,8 @@
 %0 Conference Proceedings
 %T On Visual Coreference Chains Resolution
 %A Dobnik, Simon
-%A Lo�iciga, Sharid
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%A Loáiciga, Sharid
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -28,7 +28,7 @@
 %0 Conference Proceedings
 %T Rezonator: Visualizing Resonance for Coherence in Dialogue
 %A Dubois, John
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -40,7 +40,7 @@
 %T Within and Between Speaker Transitions in Multiparty Casual Conversation
 %A Gilmartin, Emer
 %A Vogel, Carl
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -54,7 +54,7 @@
 %A Yanov, Volodymyr
 %A Traum, David
 %A Georgila, Kallirroi
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -72,7 +72,7 @@
 %A Sadrzadeh, Mehrnoosh
 %A Purver, Matthew
 %A Wijnholds, Gijs
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -85,7 +85,7 @@
 %A Alavi, Seyed Hossein
 %A Leuski, Anton
 %A Traum, David
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -98,7 +98,7 @@
 %A Kodama, Takashi
 %A Tanaka, Ribeka
 %A Kurohashi, Sadao
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -110,7 +110,7 @@
 %T Towards Finding Appropriate Responses to Multi-Intents - SPM: Sequential Prioritisation Model
 %A Landesberger, Jakob
 %A Ehrlich, Ute
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -123,8 +123,8 @@
 %A Tellings, Jos
 %A Klis, Martijn van der
 %A Bruyn, Bert Le
-%A Swart, Henri�tte de
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%A Swart, Henriëtte de
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -138,7 +138,7 @@
 %A Ijuin, Koki
 %A Kato, Tsuneo
 %A Yamamoto, Seiichi
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -153,7 +153,7 @@
 %A Carletti, Marta
 %A Dieudonat, Lea
 %A Tsai, Yi-Ting
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -165,7 +165,7 @@
 %T Pattern Recognition is Not Enough: Representing Language, Action and Perception with Modular Neural Networks
 %A Dobnik, Simon
 %A Kelleher, John
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -178,7 +178,7 @@
 %A Trinh, Anh Duong
 %A Ross, Robert
 %A Kelleher, John
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -187,13 +187,13 @@
 %U http://semdial.org/anthology/Z19-Trinh_semdial_0033.pdf
 
 %0 Conference Proceedings
-%T ?What are you laughing at?? Incremental Processing of Laughter in Interaction
+%T “What are you laughing at?” Incremental Processing of Laughter in Interaction
 %A Eshghi, Arash
 %A Maraev, Vladislav
 %A Howes, Christine
 %A Hough, Julian
 %A Mazzocconi, Chiara
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -205,7 +205,7 @@
 %T Exploring Lattice-based Models of Relevance in Dialogue for Questions and Implicatures
 %A Hough, Julian
 %A Lewis-Smith, Andrew
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -215,21 +215,21 @@
 
 %0 Conference Proceedings
 %T Interactive Visual Grounding with Neural Networks
-%A Sant�n, Jos� Miguel Cano
+%A Santín, José Miguel Cano
 %A Dobnik, Simon
 %A Ghanimifard, Mehdi
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
 %C London, United Kingdom
 %F santin-etal-2019-interactive
-%U http://semdial.org/anthology/Z19-Santín_semdial_0036.pdf
+%U http://semdial.org/anthology/Z19-Santn_semdial_0036.pdf
 
 %0 Conference Proceedings
 %T Bouletic and Deontic Modality and Social Choice
 %A Nishiguchi, Sumiyo
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -242,7 +242,7 @@
 %A Noble, Bill
 %A Sayeed, Asad
 %A Larsson, Staffan
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -256,7 +256,7 @@
 %A Kumar, Shachi H.
 %A Sahay, Saurav
 %A Nachman, Lama
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -267,7 +267,7 @@
 %0 Conference Proceedings
 %T Pronominal Ambiguity Resolution in Spanish Child Dialogue: A Corpus Based Developmental Language Acquisition Approach
 %A Robinson, Martha
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -280,7 +280,7 @@
 %A Somashekarappa, Vidya
 %A Howes, Christine
 %A Sayeed, Asad
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2019
 %8 sep
 %I SEMDIAL

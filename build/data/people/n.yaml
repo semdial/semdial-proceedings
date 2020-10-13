@@ -1,3 +1,38 @@
+n-asher:
+  coauthors:
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: N.
+  full: N. Asher
+  last: Asher
+  papers:
+  - Z12-4019
+  slug: n-asher
+  venues:
+  - - SEMDIAL
+    - 1
 nadia-mana:
   coauthors: []
   first: Nadia
@@ -543,25 +578,47 @@ nguyen-vo:
   venues: []
 nicholas-asher:
   coauthors:
+  - - stergos-afantenos
+    - 3
+  - - alex-lascarides
+    - 3
+  - - soumya-paul
+    - 3
   - - jeremy-perret
     - 2
-  - - stergos-afantenos
-    - 2
-  - - soumya-paul
-    - 2
-  - - alex-lascarides
-    - 1
   - - antoine-venant
     - 1
   - - cedric-degremont
+    - 1
+  - - julie-hunter
+    - 1
+  - - eric-kow
     - 1
   - - julian-j-schloder
     - 1
   - - antoine-venant1
     - 1
-  - - julie-hunter
+  - - farah-benamara
     - 1
-  - - eric-kow
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
     - 1
   first: Nicholas
   full: Nicholas Asher
@@ -573,10 +630,12 @@ nicholas-asher:
   - Z14-3019
   - Z14-3021
   - Z13-4022
+  - Z12-3007
+  - Z12-4029
   slug: nicholas-asher
   venues:
   - - SEMDIAL
-    - 6
+    - 8
 nicholas-hubert-kirk:
   coauthors: []
   first: Nicholas Hubert
@@ -664,6 +723,19 @@ nick-webb:
   papers: []
   slug: nick-webb
   venues: []
+nicola-plant:
+  coauthors:
+  - - patrick-healey
+    - 1
+  first: Nicola
+  full: Nicola Plant
+  last: Plant
+  papers:
+  - Z12-3012
+  slug: nicola-plant
+  venues:
+  - - SEMDIAL
+    - 1
 nicolas-lefebvre:
   coauthors: []
   first: Nicolas

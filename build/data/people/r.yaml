@@ -452,21 +452,21 @@ raquel-fernandez:
     - 1
   - - raffaella-bernardi
     - 1
-  - - janosch-haber
-    - 1
-  - - elia-bruni
-    - 1
-  - - ellen-breitholtz
-    - 1
   - - laura-aina
     - 1
   - - natalia-philippova
     - 1
   - - valentin-vogelmann
     - 1
-  - - amy-isard
+  - - janosch-haber
+    - 1
+  - - elia-bruni
     - 1
   - - sarah-hiller
+    - 1
+  - - amy-isard
+    - 1
+  - - ellen-breitholtz
     - 1
   first: Raquel
   full: "Raquel Fern\xE1ndez"
@@ -517,6 +517,25 @@ raul-mondragon:
   papers:
   - Z14-4032
   slug: raul-mondragon
+  venues:
+  - - SEMDIAL
+    - 1
+ravenna-thielstrom:
+  coauthors:
+  - - andrew-valenti
+    - 1
+  - - michael-gold
+    - 1
+  - - felix-gervits
+    - 1
+  - - matthias-scheutz
+    - 1
+  first: Ravenna
+  full: Ravenna Thielstrom
+  last: Thielstrom
+  papers:
+  - Z20-3023
+  slug: ravenna-thielstrom
   venues:
   - - SEMDIAL
     - 1
@@ -1198,13 +1217,13 @@ robert-j-ross:
   coauthors:
   - - anh-duong-trinh
     - 1
-  - - john-d-kelleher
+  - - john-kelleher
     - 1
-  first: Robert J
-  full: Robert J Ross
+  first: Robert J.
+  full: Robert J. Ross
   last: Ross
   papers:
-  - Z18-3017
+  - Z17-4030
   slug: robert-j-ross
   venues:
   - - SEMDIAL
@@ -1213,13 +1232,13 @@ robert-j-ross1:
   coauthors:
   - - anh-duong-trinh
     - 1
-  - - john-kelleher
+  - - john-d-kelleher
     - 1
-  first: Robert J.
-  full: Robert J. Ross
+  first: Robert J
+  full: Robert J Ross
   last: Ross
   papers:
-  - Z17-4030
+  - Z18-3017
   slug: robert-j-ross1
   venues:
   - - SEMDIAL
@@ -1297,6 +1316,23 @@ robert-porzel:
   papers:
   - Z13-3009
   slug: robert-porzel
+  venues:
+  - - SEMDIAL
+    - 1
+robert-rhys-thomas:
+  coauthors:
+  - - linnea-strand
+    - 1
+  - - simon-dobnik
+    - 1
+  - - mehdi-ghanimifard
+    - 1
+  first: Robert Rhys
+  full: Robert Rhys Thomas
+  last: Thomas
+  papers:
+  - Z20-4028
+  slug: robert-rhys-thomas
   venues:
   - - SEMDIAL
     - 1
@@ -1780,10 +1816,16 @@ rose-catherine-kanjirathinkal:
 rose-mccabe:
   coauthors:
   - - christine-howes
-    - 1
+    - 2
   - - julian-hough
     - 1
   - - matthew-purver
+    - 1
+  - - matt-purver
+    - 1
+  - - patrick-healey
+    - 1
+  - - mary-lavelle
     - 1
   first: Rose
   full: Rose McCabe
@@ -1791,10 +1833,11 @@ rose-mccabe:
   papers:
   - Z19-2001
   - Z14-3013
+  - Z12-4024
   slug: rose-mccabe
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 rosemary-stevenson:
   coauthors: []
   first: Rosemary
@@ -1819,6 +1862,30 @@ roxana-girju:
   papers: []
   slug: roxana-girju
   venues: []
+roxane-bertrand:
+  coauthors:
+  - - laurent-prevot
+    - 2
+  - - philippe-blache
+    - 2
+  - - helen-k-y-chen
+    - 1
+  - - beatrice-priego-valverde
+    - 1
+  - - klim-peshkov
+    - 1
+  - - stephane-rauzy
+    - 1
+  first: Roxane
+  full: Roxane Bertrand
+  last: Bertrand
+  papers:
+  - Z12-4020
+  - Z12-4036
+  slug: roxane-bertrand
+  venues:
+  - - SEMDIAL
+    - 2
 roxane-segers:
   coauthors: []
   first: Roxane
@@ -1948,34 +2015,39 @@ ruth-aylett:
 ruth-kempson:
   coauthors:
   - - julian-hough
-    - 2
+    - 3
   - - mehrnoosh-sadrzadeh
-    - 2
+    - 3
   - - matthew-purver
-    - 2
+    - 3
   - - eleni-gregoromichelaki
-    - 1
+    - 2
   - - christine-howes
-    - 1
+    - 2
   - - arash-eshghi
-    - 1
+    - 2
+  - - stergios-chatzikyriakidis
+    - 2
   - - gijs-wijnholds
     - 1
-  - - stergios-chatzikyriakidis
-    - 1
   - - ronnie-cann
+    - 1
+  - - jieun-kiaer
+    - 1
+  - - graham-white
     - 1
   first: Ruth
   full: Ruth Kempson
   last: Kempson
   papers:
+  - Z20-3022
   - Z19-4025
   - Z18-3016
   - Z15-4035
   slug: ruth-kempson
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 rutu-mulkar-mehta:
   coauthors: []
   first: Rutu
@@ -2047,6 +2119,23 @@ ryochi-sugimura:
   papers: []
   slug: ryochi-sugimura
   venues: []
+ryu-iida:
+  coauthors:
+  - - kotaro-funakoshi
+    - 1
+  - - mikio-nakano
+    - 1
+  - - takenobu-tokunaga
+    - 1
+  first: Ryu
+  full: Ryu Iida
+  last: Iida
+  papers:
+  - Z12-4023
+  slug: ryu-iida
+  venues:
+  - - SEMDIAL
+    - 1
 ryuichiro-higashinaka:
   coauthors:
   - - tsunehiro-arimoto
@@ -2058,12 +2147,6 @@ ryuichiro-higashinaka:
   - - yoshihiro-matsuo
     - 2
   - - masahiro-mizukami
-    - 1
-  - - yuiko-tsunomori
-    - 1
-  - - tetsuro-takahashi
-    - 1
-  - - michimasa-inaba
     - 1
   - - kazuki-sakai
     - 1
@@ -2078,6 +2161,12 @@ ryuichiro-higashinaka:
   - - yuichiro-yoshikawa
     - 1
   - - hiroshi-ishiguro
+    - 1
+  - - yuiko-tsunomori
+    - 1
+  - - tetsuro-takahashi
+    - 1
+  - - michimasa-inaba
     - 1
   - - toru-hirano
     - 1

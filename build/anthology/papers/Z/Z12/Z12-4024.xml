@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="howes-etal-2012-helping">
+    <titleInfo>
+        <title>Helping the medicine go down: Repair and adherence in patient-clinician dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matt</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Rose</namePart>
+        <namePart type="family">McCabe</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Patrick</namePart>
+        <namePart type="given">G</namePart>
+        <namePart type="given">T</namePart>
+        <namePart type="family">Healey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mary</namePart>
+        <namePart type="family">Lavelle</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2012-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Paris, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">howes-etal-2012-helping</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z12-Howes_semdial_0024.pdf</url>
+    </location>
+    <part>
+        <date>2012-sep</date>
+    </part>
+</mods>
+</modsCollection>

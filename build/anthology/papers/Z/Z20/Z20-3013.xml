@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="gurion-etal-2020-comparing">
+    <titleInfo>
+        <title>Comparing Models of Speakers’ and Listeners’ Head Nods</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tom</namePart>
+        <namePart type="family">Gurion</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Patrick</namePart>
+        <namePart type="family">Healey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gurion-etal-2020-comparing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Gurion_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+</modsCollection>

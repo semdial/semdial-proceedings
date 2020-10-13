@@ -92,13 +92,22 @@ hal-daume-iii:
   slug: hal-daume-iii
   venues: []
 haldur-oim:
-  coauthors: []
+  coauthors:
+  - - mare-koit
+    - 1
   first: Haldur
   full: "Haldur \xD5im"
   last: "\xD5im"
-  papers: []
+  papers:
+  - Z12-4026
   slug: haldur-oim
-  venues: []
+  variant_entries:
+  - first: Haldur
+    full: Haldur Oim
+    last: Oim
+  venues:
+  - - SEMDIAL
+    - 1
 hale-ogel-balaban:
   coauthors: []
   first: Hale
@@ -185,6 +194,14 @@ hannah-rohde:
     - 1
   - - hodgdon-stevens
     - 1
+  - - scott-seyfarth
+    - 1
+  - - brady-clark
+    - 1
+  - - gerhard-jaeger
+    - 1
+  - - stefan-kaufmann
+    - 1
   first: Hannah
   full: Hannah Rohde
   last: Rohde
@@ -192,10 +209,11 @@ hannah-rohde:
   - Z19-3009
   - Z17-3010
   - Z15-4047
+  - Z12-3015
   slug: hannah-rohde
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 hanne-erdman-thomsen:
   coauthors: []
   first: Hanne Erdman
@@ -220,6 +238,12 @@ hannes-rieser:
     - 2
   - - udo-klein
     - 1
+  - - julia-peltason
+    - 1
+  - - sven-wachsmuth
+    - 1
+  - - britta-wrede
+    - 1
   first: Hannes
   full: Hannes Rieser
   last: Rieser
@@ -227,10 +251,11 @@ hannes-rieser:
   - Z15-3017
   - Z14-4029
   - Z13-4034
+  - Z12-4035
   slug: hannes-rieser
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 hans-dybkjaer:
   coauthors: []
   first: Hans
@@ -287,6 +312,19 @@ hany-hassan:
   papers: []
   slug: hany-hassan
   venues: []
+hanz-uszkoreit:
+  coauthors:
+  - - tina-kluwer1
+    - 1
+  first: Hanz
+  full: Hanz Uszkoreit
+  last: Uszkoreit
+  papers:
+  - Z12-4030
+  slug: hanz-uszkoreit
+  venues:
+  - - SEMDIAL
+    - 1
 hao-tian:
   coauthors:
   - - zengtao-jiao
@@ -434,10 +472,11 @@ harry-bunt:
   papers:
   - Z17-3015
   - Z15-4041
+  - Z12-3016
   slug: harry-bunt
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 harry-j-tily:
   coauthors: []
   first: Harry J.
@@ -485,6 +524,23 @@ hassan-s-shavarani:
   papers: []
   slug: hassan-s-shavarani
   venues: []
+hatem-ghorbel:
+  coauthors:
+  - - samira-ben-dbabis
+    - 1
+  - - fatma-mallek
+    - 1
+  - - lamia-hadrich-belguith
+    - 1
+  first: Hatem
+  full: Hatem Ghorbel
+  last: Ghorbel
+  papers:
+  - Z12-3013
+  slug: hatem-ghorbel
+  venues:
+  - - SEMDIAL
+    - 1
 hatte-blejer:
   coauthors: []
   first: Hatte
@@ -660,6 +716,25 @@ helen-hastie:
   venues:
   - - SEMDIAL
     - 4
+helen-k-y-chen:
+  coauthors:
+  - - laurent-prevot
+    - 1
+  - - roxane-bertrand
+    - 1
+  - - beatrice-priego-valverde
+    - 1
+  - - philippe-blache
+    - 1
+  first: Helen K. Y.
+  full: Helen K. Y. Chen
+  last: Chen
+  papers:
+  - Z12-4020
+  slug: helen-k-y-chen
+  venues:
+  - - SEMDIAL
+    - 1
 helen-kaiyun-chen:
   coauthors: []
   first: Helen Kaiyun
@@ -783,16 +858,17 @@ hema-a-murthy:
 hendrik-buschmeier:
   coauthors:
   - - stefan-kopp
-    - 1
+    - 2
   first: Hendrik
   full: Hendrik Buschmeier
   last: Buschmeier
   papers:
   - Z14-3006
+  - Z12-3005
   slug: hendrik-buschmeier
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 hendrik-harkema:
   coauthors:
   - - jiaying-shen

@@ -5,7 +5,7 @@
         <title>Self awareness for better common ground</title>
     </titleInfo>
     <name type="personal">
-        <namePart type="given">OndŖej</namePart>
+        <namePart type="given">Ondřej</namePart>
         <namePart type="family">Plátek</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
@@ -13,7 +13,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Filip</namePart>
-        <namePart type="family">JuŖíček</namePart>
+        <namePart type="family">Juříček</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -36,7 +36,7 @@
     </relatedItem>
     <identifier type="citekey">platek-juricek-2015-self</identifier>
     <location>
-        <url>http://semdial.org/anthology/Z15-PlÃ¡tek_semdial_0042.pdf</url>
+        <url>http://semdial.org/anthology/Z15-Plátek_semdial_0042.pdf</url>
     </location>
     <part>
         <date>2015-aug</date>

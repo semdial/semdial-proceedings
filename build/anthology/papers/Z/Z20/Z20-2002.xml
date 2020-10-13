@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="bonial-etal-2020-next">
+    <titleInfo>
+        <title>Where to next? Situated Dialogue with Robots for Search and Navigation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Claire</namePart>
+        <namePart type="family">Bonial</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stephanie</namePart>
+        <namePart type="family">Lukin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Clare</namePart>
+        <namePart type="given">R</namePart>
+        <namePart type="family">Voss</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bonial-etal-2020-next</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Bonial_semdial_0002.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+</modsCollection>

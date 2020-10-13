@@ -175,13 +175,22 @@ takehito-utsuro:
   slug: takehito-utsuro
   venues: []
 takenobu-tokunaga:
-  coauthors: []
+  coauthors:
+  - - kotaro-funakoshi
+    - 1
+  - - mikio-nakano
+    - 1
+  - - ryu-iida
+    - 1
   first: Takenobu
   full: Takenobu Tokunaga
   last: Tokunaga
-  papers: []
+  papers:
+  - Z12-4023
   slug: takenobu-tokunaga
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 takeo-honda:
   coauthors: []
   first: Takeo
@@ -322,6 +331,19 @@ tat-seng-chua:
   papers: []
   slug: tat-seng-chua
   venues: []
+tatjana-scheffler:
+  coauthors:
+  - - yulia-clausen
+    - 1
+  first: Tatjana
+  full: Tatjana Scheffler
+  last: Scheffler
+  papers:
+  - Z20-3014
+  slug: tatjana-scheffler
+  venues:
+  - - SEMDIAL
+    - 1
 tatsunori-mori:
   coauthors: []
   first: Tatsunori
@@ -370,6 +392,23 @@ terry-copeck:
   papers: []
   slug: terry-copeck
   venues: []
+terry-dubois:
+  coauthors:
+  - - john-w-du-bois
+    - 1
+  - - georgio-klironomos
+    - 1
+  - - brady-moore
+    - 1
+  first: Terry
+  full: Terry DuBois
+  last: DuBois
+  papers:
+  - Z20-4031
+  slug: terry-dubois
+  venues:
+  - - SEMDIAL
+    - 1
 terry-patten:
   coauthors: []
   first: Terry
@@ -908,6 +947,19 @@ tina-kluwer:
   papers: []
   slug: tina-kluwer
   venues: []
+tina-kluwer1:
+  coauthors:
+  - - hanz-uszkoreit
+    - 1
+  first: Tina
+  full: Tina Kluwer
+  last: Kluwer
+  papers:
+  - Z12-4030
+  slug: tina-kluwer1
+  venues:
+  - - SEMDIAL
+    - 1
 ting-han:
   coauthors:
   - - david-schlangen
@@ -955,6 +1007,29 @@ ting-hui-kao:
   papers: []
   slug: ting-hui-kao
   venues: []
+tiphaine-dalmas:
+  coauthors:
+  - - srinivasan-janarthanam
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - phil-bartie
+    - 1
+  - - william-mackaness
+    - 1
+  - - jana-gotze
+    - 1
+  first: Tiphaine
+  full: Tiphaine Dalmas
+  last: Dalmas
+  papers:
+  - Z12-4025
+  slug: tiphaine-dalmas
+  venues:
+  - - SEMDIAL
+    - 1
 toan-q-nguyen:
   coauthors: []
   first: Toan Q.
@@ -998,18 +1073,19 @@ tom-de-smedt:
 tom-gurion:
   coauthors:
   - - patrick-healey
-    - 1
+    - 2
   - - julian-hough
-    - 1
+    - 2
   first: Tom
   full: Tom Gurion
   last: Gurion
   papers:
+  - Z20-3013
   - Z18-4027
   slug: tom-gurion
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 tom-mitchell:
   coauthors: []
   first: Tom

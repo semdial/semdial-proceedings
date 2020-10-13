@@ -1,3 +1,154 @@
+Z12-1:
+  address: Paris, France
+  editor:
+  - first: Sarah
+    full: Sarah Brown-Schmidt
+    id: sarah-brown-schmidt
+    last: Brown-Schmidt
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2012/9
+  month: September
+  papers:
+  - Z12-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - FrontMatter
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - FrontMatter
+  venues:
+  - SEMDIAL
+  year: '2012'
+Z12-2:
+  address: Paris, France
+  editor:
+  - first: Sarah
+    full: Sarah Brown-Schmidt
+    id: sarah-brown-schmidt
+    last: Brown-Schmidt
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2012/9
+  month: September
+  papers:
+  - Z12-2001
+  - Z12-2002
+  - Z12-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2012'
+Z12-3:
+  address: Paris, France
+  editor:
+  - first: Sarah
+    full: Sarah Brown-Schmidt
+    id: sarah-brown-schmidt
+    last: Brown-Schmidt
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2012/9
+  month: September
+  papers:
+  - Z12-3004
+  - Z12-3005
+  - Z12-3006
+  - Z12-3007
+  - Z12-3008
+  - Z12-3009
+  - Z12-3010
+  - Z12-3011
+  - Z12-3012
+  - Z12-3013
+  - Z12-3014
+  - Z12-3015
+  - Z12-3016
+  - Z12-3017
+  - Z12-3018
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2012'
+Z12-4:
+  address: Paris, France
+  editor:
+  - first: Sarah
+    full: Sarah Brown-Schmidt
+    id: sarah-brown-schmidt
+    last: Brown-Schmidt
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  has_abstracts: false
+  meta_date: 2012/9
+  month: September
+  papers:
+  - Z12-4019
+  - Z12-4020
+  - Z12-4021
+  - Z12-4022
+  - Z12-4023
+  - Z12-4024
+  - Z12-4025
+  - Z12-4026
+  - Z12-4027
+  - Z12-4028
+  - Z12-4029
+  - Z12-4030
+  - Z12-4031
+  - Z12-4032
+  - Z12-4033
+  - Z12-4034
+  - Z12-4035
+  - Z12-4036
+  - Z12-4037
+  - Z12-4038
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - Poster Abstracts
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - Poster Abstracts
+  venues:
+  - SEMDIAL
+  year: '2012'
 Z13-1:
   address: Amsterdam, The Netherlands
   editor:
@@ -1006,3 +1157,147 @@ Z19-4:
   venues:
   - SEMDIAL
   year: '2019'
+Z20-1:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  editor:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  has_abstracts: false
+  meta_date: 2020/7
+  month: July
+  papers:
+  - Z20-1000
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  venues:
+  - SEMDIAL
+  year: '2020'
+Z20-2:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  editor:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  has_abstracts: false
+  meta_date: 2020/7
+  month: July
+  papers:
+  - Z20-2001
+  - Z20-2002
+  - Z20-2003
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Invited Talks
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Invited Talks
+  venues:
+  - SEMDIAL
+  year: '2020'
+Z20-3:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  editor:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  has_abstracts: false
+  meta_date: 2020/7
+  month: July
+  papers:
+  - Z20-3004
+  - Z20-3005
+  - Z20-3006
+  - Z20-3007
+  - Z20-3008
+  - Z20-3009
+  - Z20-3010
+  - Z20-3011
+  - Z20-3012
+  - Z20-3013
+  - Z20-3014
+  - Z20-3015
+  - Z20-3016
+  - Z20-3017
+  - Z20-3018
+  - Z20-3019
+  - Z20-3020
+  - Z20-3021
+  - Z20-3022
+  - Z20-3023
+  - Z20-3024
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Full Papers
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Full Papers
+  venues:
+  - SEMDIAL
+  year: '2020'
+Z20-4:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  editor:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  has_abstracts: false
+  meta_date: 2020/7
+  month: July
+  papers:
+  - Z20-4025
+  - Z20-4026
+  - Z20-4027
+  - Z20-4028
+  - Z20-4029
+  - Z20-4030
+  - Z20-4031
+  publisher: SEMDIAL
+  sigs: []
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Short Papers
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Short Papers
+  venues:
+  - SEMDIAL
+  year: '2020'

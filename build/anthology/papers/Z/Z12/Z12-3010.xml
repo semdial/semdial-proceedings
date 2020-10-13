@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="casillas-frank-2012-cues">
+    <titleInfo>
+        <title>Cues to turn boundary prediction in adults and preschoolers</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Marisa</namePart>
+        <namePart type="family">Casillas</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="given">C</namePart>
+        <namePart type="family">Frank</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2012-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Paris, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">casillas-frank-2012-cues</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z12-Casillas_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2012-sep</date>
+    </part>
+</mods>
+</modsCollection>

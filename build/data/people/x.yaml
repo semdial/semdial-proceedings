@@ -128,6 +128,8 @@ xin-ying-qiu:
   venues: []
 xingkun-liu:
   coauthors:
+  - - oliver-lemon
+    - 2
   - - helen-hastie
     - 1
   - - marie-aude-aufaure
@@ -145,8 +147,6 @@ xingkun-liu:
   - - almudena-gonzalez-guimerans
     - 1
   - - james-henderson
-    - 1
-  - - oliver-lemon
     - 1
   - - peter-mika
     - 1
@@ -166,15 +166,26 @@ xingkun-liu:
     - 1
   - - yanchao-yu
     - 1
+  - - srinivasan-janarthanam
+    - 1
+  - - phil-bartie
+    - 1
+  - - william-mackaness
+    - 1
+  - - tiphaine-dalmas
+    - 1
+  - - jana-gotze
+    - 1
   first: Xingkun
   full: Xingkun Liu
   last: Liu
   papers:
   - Z14-4031
+  - Z12-4025
   slug: xingkun-liu
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 xinnian-mao:
   coauthors: []
   first: Xinnian

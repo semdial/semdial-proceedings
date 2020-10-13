@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="richardson-kuhn-2012-towards">
+    <titleInfo>
+        <title>Towards Semantic Parsing in Dynamic Domains</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Kyle</namePart>
+        <namePart type="family">Richardson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonas</namePart>
+        <namePart type="family">Kuhn</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2012-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Paris, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">richardson-kuhn-2012-towards</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z12-Richardson_semdial_0037.pdf</url>
+    </location>
+    <part>
+        <date>2012-sep</date>
+    </part>
+</mods>
+</modsCollection>

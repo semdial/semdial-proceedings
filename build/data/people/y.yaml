@@ -301,15 +301,17 @@ yaser-al-onaizan:
 yasuharu-den:
   coauthors:
   - - yasuhiro-katagiri
-    - 4
+    - 5
   - - katsuya-takanashi
-    - 4
+    - 5
   - - masato-ishizaki
-    - 4
+    - 5
   - - mika-enomoto
-    - 4
+    - 5
   - - shogo-okada
     - 2
+  - - yosuke-matsusaka
+    - 1
   first: Yasuharu
   full: Yasuharu Den
   last: Den
@@ -318,22 +320,25 @@ yasuharu-den:
   - Z17-4020
   - Z14-4034
   - Z13-4032
+  - Z12-4031
   slug: yasuharu-den
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 yasuhiro-katagiri:
   coauthors:
   - - katsuya-takanashi
-    - 5
+    - 6
   - - masato-ishizaki
-    - 4
+    - 5
   - - mika-enomoto
-    - 4
+    - 5
   - - yasuharu-den
-    - 4
+    - 5
   - - shogo-okada
     - 2
+  - - yosuke-matsusaka
+    - 1
   first: Yasuhiro
   full: Yasuhiro Katagiri
   last: Katagiri
@@ -343,10 +348,11 @@ yasuhiro-katagiri:
   - Z15-4034
   - Z14-4034
   - Z13-4032
+  - Z12-4031
   slug: yasuhiro-katagiri
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 yasunari-harada:
   coauthors:
   - - miwa-morishita
@@ -397,13 +403,13 @@ ye-tian:
     - 1
   - - caspar-addyman
     - 1
+  - - volha-petukhova
+    - 1
   - - vladislav-maraev
     - 1
   - - staffan-larsson
     - 1
   - - jean-philippe-bernardy
-    - 1
-  - - volha-petukhova
     - 1
   - - claire-beyssade
     - 1
@@ -720,6 +726,27 @@ yoshiyuki-kotani:
   papers: []
   slug: yoshiyuki-kotani
   venues: []
+yosuke-matsusaka:
+  coauthors:
+  - - yasuhiro-katagiri
+    - 1
+  - - masato-ishizaki
+    - 1
+  - - yasuharu-den
+    - 1
+  - - katsuya-takanashi
+    - 1
+  - - mika-enomoto
+    - 1
+  first: Yosuke
+  full: Yosuke Matsusaka
+  last: Matsusaka
+  papers:
+  - Z12-4031
+  slug: yosuke-matsusaka
+  venues:
+  - - SEMDIAL
+    - 1
 yosuke-takashima:
   coauthors: []
   first: Yosuke
@@ -930,6 +957,19 @@ yukiko-i-nakano:
   papers: []
   slug: yukiko-i-nakano
   venues: []
+yulia-clausen:
+  coauthors:
+  - - tatjana-scheffler
+    - 1
+  first: Yulia
+  full: Yulia Clausen
+  last: Clausen
+  papers:
+  - Z20-3014
+  slug: yulia-clausen
+  venues:
+  - - SEMDIAL
+    - 1
 yumiko-yoshimura:
   coauthors: []
   first: Yumiko

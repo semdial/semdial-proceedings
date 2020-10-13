@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="semdial-2012-semantics">
+    <titleInfo>
+        <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sarah</namePart>
+        <namePart type="family">Brown-Schmidt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2012-sep</dateIssued>
+        <publisher>SEMDIAL</publisher>
+        <place>
+            <placeTerm type="text">Paris, France</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">semdial-2012-semantics</identifier>
+    <location>
+        <url>http://semdial.org/anthology/semdial2012_seinedial_front_matter.pdf</url>
+    </location>
+</mods>
+</modsCollection>

@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="stier-etal-2020-towards">
+    <titleInfo>
+        <title>Towards Situation- and User-Adaptive Voice Output: Classifying Driver Personality in Context</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daniela</namePart>
+        <namePart type="family">Stier</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Wolfgang</namePart>
+        <namePart type="family">Minker</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ulrich</namePart>
+        <namePart type="family">Heid</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Short Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">stier-etal-2020-towards</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Stier_semdial_0025.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="sandahl-etal-2020-corpus">
+    <titleInfo>
+        <title>A Corpus of Swedish Conversations with a Librarian</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Magdalena</namePart>
+        <namePart type="family">Sandahl</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mehdi</namePart>
+        <namePart type="family">Ghanimifard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Short Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">sandahl-etal-2020-corpus</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Sandahl_semdial_0026.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="landesberger-ehrlich-2020-detecting">
+    <titleInfo>
+        <title>Detecting Urgency in Speech with Personalised Acoustic Features</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jakob</namePart>
+        <namePart type="family">Landesberger</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ute</namePart>
+        <namePart type="family">Ehrlich</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Short Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">landesberger-ehrlich-2020-detecting</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Landesberger_semdial_0027.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="strand-etal-2020-topic">
+    <titleInfo>
+        <title>Topic Modelling for a Virtual Librarian Assistant Tool</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Linnea</namePart>
+        <namePart type="family">Strand</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Robert</namePart>
+        <namePart type="given">Rhys</namePart>
+        <namePart type="family">Thomas</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Simon</namePart>
+        <namePart type="family">Dobnik</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mehdi</namePart>
+        <namePart type="family">Ghanimifard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Short Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">strand-etal-2020-topic</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Strand_semdial_0028.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="hopes-hough-2020-statistical">
+    <titleInfo>
+        <title>A Statistical and Machine Learning Investigation into the Effect of Demographic Context on Dialogue Phenomena</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Hopes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Short Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">hopes-hough-2020-statistical</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Hopes_semdial_0029.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="maraev-etal-2020-ldm">
+    <titleInfo>
+        <title>LDM: A Linear Dialogue Manager</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Vladislav</namePart>
+        <namePart type="family">Maraev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jean-Philippe</namePart>
+        <namePart type="family">Bernardy</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Short Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">maraev-etal-2020-ldm</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Maraev_semdial_0030.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="bois-etal-2020-answer">
+    <titleInfo>
+        <title>From Answer to Question: Coherence Analysis with Rezonator</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">John</namePart>
+        <namePart type="given">W</namePart>
+        <namePart type="given">Du</namePart>
+        <namePart type="family">Bois</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Terry</namePart>
+        <namePart type="family">DuBois</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Georgio</namePart>
+        <namePart type="family">Klironomos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Brady</namePart>
+        <namePart type="family">Moore</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Short Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">bois-etal-2020-answer</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Bois_semdial_0031.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+</modsCollection>

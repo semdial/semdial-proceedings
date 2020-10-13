@@ -429,28 +429,35 @@ elena-v-paducheva:
 eleni-gregoromichelaki:
   coauthors:
   - - christine-howes
-    - 1
+    - 2
   - - arash-eshghi
-    - 1
+    - 2
   - - ruth-kempson
-    - 1
+    - 2
   - - julian-hough
-    - 1
+    - 2
   - - mehrnoosh-sadrzadeh
-    - 1
+    - 2
   - - matthew-purver
-    - 1
+    - 2
   - - gijs-wijnholds
+    - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - jieun-kiaer
+    - 1
+  - - graham-white
     - 1
   first: Eleni
   full: Eleni Gregoromichelaki
   last: Gregoromichelaki
   papers:
+  - Z20-3022
   - Z19-4025
   slug: eleni-gregoromichelaki
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 eleni-koutsogeorgos:
   coauthors: []
   first: Eleni
@@ -717,6 +724,8 @@ ellen-bard:
     - 1
 ellen-breitholtz:
   coauthors:
+  - - christine-howes
+    - 2
   - - vladislav-maraev
     - 1
   - - robin-cooper
@@ -727,12 +736,11 @@ ellen-breitholtz:
     - 1
   - - kristina-lundholm-fors
     - 1
-  - - christine-howes
-    - 1
   first: Ellen
   full: Ellen Breitholtz
   last: Breitholtz
   papers:
+  - Z20-3018
   - Z19-3016
   - Z18-4022
   - Z16-3005
@@ -741,7 +749,7 @@ ellen-breitholtz:
   slug: ellen-breitholtz
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 ellen-campana:
   coauthors: []
   first: Ellen
@@ -1586,6 +1594,17 @@ eve-v-clark:
   papers:
   - Z13-4023
   slug: eve-v-clark
+  venues:
+  - - SEMDIAL
+    - 1
+eve-v-clark1:
+  coauthors: []
+  first: Eve V.
+  full: Eve V. Clark
+  last: Clark
+  papers:
+  - Z12-2002
+  slug: eve-v-clark1
   venues:
   - - SEMDIAL
     - 1

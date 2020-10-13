@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="recanati-2012-referential">
+    <titleInfo>
+        <title>Referential Coordination through Mental Files</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Francois</namePart>
+        <namePart type="family">Recanati</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2012-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Paris, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">recanati-2012-referential</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z12-Recanati_semdial_0001.pdf</url>
+    </location>
+    <part>
+        <date>2012-sep</date>
+    </part>
+</mods>
+<mods ID="clark-2012-children">
+    <titleInfo>
+        <title>Children learn Language in Conversation</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Eve</namePart>
+        <namePart type="given">V</namePart>
+        <namePart type="family">Clark</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2012-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Paris, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">clark-2012-children</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z12-Clark_semdial_0002.pdf</url>
+    </location>
+    <part>
+        <date>2012-sep</date>
+    </part>
+</mods>
+<mods ID="kruijff-2012-common">
+    <titleInfo>
+        <title>There is no common ground in human-robot interaction</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Geert-Jan</namePart>
+        <namePart type="family">Kruijff</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2012-sep</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Paris, France</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">kruijff-2012-common</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z12-Kruijff_semdial_0003.pdf</url>
+    </location>
+    <part>
+        <date>2012-sep</date>
+    </part>
+</mods>
+</modsCollection>

@@ -1,0 +1,1096 @@
+Z12-1000:
+  address: Paris, France
+  author:
+  - first: Sarah
+    full: Sarah Brown-Schmidt
+    id: sarah-brown-schmidt
+    last: Brown-Schmidt
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: semdial-2012-semantics
+  bibtype: proceedings
+  month: September
+  paper_id: '1000'
+  parent_volume_id: Z12-1
+  publisher: SEMDIAL
+  title: Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue
+    - FrontMatter
+  title_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics of
+    Dialogue - FrontMatter
+  url: http://semdial.org/anthology/semdial2012_seinedial_front_matter.pdf
+  year: '2012'
+Z12-2001:
+  address: Paris, France
+  author:
+  - first: Francois
+    full: Francois Recanati
+    id: francois-recanati
+    last: Recanati
+  bibkey: recanati-2012-referential
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2001'
+  parent_volume_id: Z12-2
+  publisher: SEMDIAL
+  title: Referential Coordination through Mental Files
+  title_html: Referential Coordination through Mental Files
+  url: http://semdial.org/anthology/Z12-Recanati_semdial_0001.pdf
+  year: '2012'
+Z12-2002:
+  address: Paris, France
+  author:
+  - first: Eve V.
+    full: Eve V. Clark
+    id: eve-v-clark1
+    last: Clark
+  bibkey: clark-2012-children
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2002'
+  parent_volume_id: Z12-2
+  publisher: SEMDIAL
+  title: Children learn Language in Conversation
+  title_html: Children learn Language in Conversation
+  url: http://semdial.org/anthology/Z12-Clark_semdial_0002.pdf
+  year: '2012'
+Z12-2003:
+  address: Paris, France
+  author:
+  - first: Geert-Jan
+    full: Geert-Jan Kruijff
+    id: geert-jan-m-kruijff
+    last: Kruijff
+  bibkey: kruijff-2012-common
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: September
+  paper_id: '2003'
+  parent_volume_id: Z12-2
+  publisher: SEMDIAL
+  title: There is no common ground in human-robot interaction
+  title_html: There is no common ground in human-robot interaction
+  url: http://semdial.org/anthology/Z12-Kruijff_semdial_0003.pdf
+  year: '2012'
+Z12-3004:
+  address: Paris, France
+  author:
+  - first: Judith
+    full: Judith Degen
+    id: judith-degen
+    last: Degen
+  - first: Michael
+    full: Michael Franke
+    id: michael-franke
+    last: Franke
+  bibkey: degen-franke-2012-optimal
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3004'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: Optimal Reasoning About Referential Expressions
+  title_html: Optimal Reasoning About Referential Expressions
+  url: http://semdial.org/anthology/Z12-Degen_semdial_0004.pdf
+  year: '2012'
+Z12-3005:
+  address: Paris, France
+  author:
+  - first: Hendrik
+    full: Hendrik Buschmeier
+    id: hendrik-buschmeier
+    last: Buschmeier
+  - first: Stefan
+    full: Stefan Kopp
+    id: stefan-kopp
+    last: Kopp
+  bibkey: buschmeier-kopp-2012-using
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3005'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: Using a Bayesian Model of the Listener to Unveil the Dialogue Information
+    State
+  title_html: Using a Bayesian Model of the Listener to Unveil the Dialogue Information
+    State
+  url: http://semdial.org/anthology/Z12-Buschmeier_semdial_0005.pdf
+  year: '2012'
+Z12-3006:
+  address: Paris, France
+  author:
+  - first: Saul
+    full: Saul Albert
+    id: saul-albert
+    last: Albert
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    id: patrick-healey
+    last: Healey
+  bibkey: albert-healey-2012-pragmatics
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3006'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: The Pragmatics of Aesthetic Assessment in Conversation
+  title_html: The Pragmatics of Aesthetic Assessment in Conversation
+  url: http://semdial.org/anthology/Z12-Albert_semdial_0006.pdf
+  year: '2012'
+Z12-3007:
+  address: Paris, France
+  author:
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  bibkey: asher-lascarides-2012-cognitive
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3007'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: A Cognitive Model for Conversation
+  title_html: A Cognitive Model for Conversation
+  url: http://semdial.org/anthology/Z12-Asher_semdial_0007.pdf
+  year: '2012'
+Z12-3008:
+  address: Paris, France
+  author:
+  - first: Matthijs
+    full: Matthijs Westera
+    id: matthijs-westera
+    last: Westera
+  bibkey: westera-2012-meanings
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3008'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: 'Meanings as proposals: a new semantic foundation for Gricean pragmatics'
+  title_html: 'Meanings as proposals: a new semantic foundation for Gricean pragmatics'
+  url: http://semdial.org/anthology/Z12-Westera_semdial_0008.pdf
+  year: '2012'
+Z12-3009:
+  address: Paris, France
+  author:
+  - first: Lori A.
+    full: Lori A. Moon
+    id: lori-a-moon
+    last: Moon
+  bibkey: moon-2012-experimental
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3009'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: 'We Did What We Could: An Experimental Study of Actuality Inferences in Dialogues
+    with Modal Verbs'
+  title_html: 'We Did What We Could: An Experimental Study of Actuality Inferences
+    in Dialogues with Modal Verbs'
+  url: http://semdial.org/anthology/Z12-Moon_semdial_0009.pdf
+  year: '2012'
+Z12-3010:
+  address: Paris, France
+  author:
+  - first: Marisa
+    full: Marisa Casillas
+    id: marisa-casillas
+    last: Casillas
+  - first: Michael C.
+    full: Michael C. Frank
+    id: michael-c-frank
+    last: Frank
+  bibkey: casillas-frank-2012-cues
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3010'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: Cues to turn boundary prediction in adults and preschoolers
+  title_html: Cues to turn boundary prediction in adults and preschoolers
+  url: http://semdial.org/anthology/Z12-Casillas_semdial_0010.pdf
+  year: '2012'
+Z12-3011:
+  address: Paris, France
+  author:
+  - first: Anne
+    full: Anne Abeille
+    id: anne-abeille
+    last: Abeille
+  - first: Benoit
+    full: Benoit Crabbe
+    id: benoit-crabbe1
+    last: Crabbe
+  - first: Daniele Godard Jean-Marie
+    full: Daniele Godard Jean-Marie Marandin
+    id: daniele-godard-jean-marie-marandin
+    last: Marandin
+  bibkey: abeille-etal-2012-french
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3011'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: 'French questioning declaratives: a corpus study'
+  title_html: 'French questioning declaratives: a corpus study'
+  url: http://semdial.org/anthology/Z12-Abeille_semdial_0011.pdf
+  year: '2012'
+Z12-3012:
+  address: Paris, France
+  author:
+  - first: Nicola
+    full: Nicola Plant
+    id: nicola-plant
+    last: Plant
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    id: patrick-healey
+    last: Healey
+  bibkey: plant-healey-2012-use
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3012'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: The Use of Gesture to Communicate about Felt Experiences
+  title_html: The Use of Gesture to Communicate about Felt Experiences
+  url: http://semdial.org/anthology/Z12-Plant_semdial_0012.pdf
+  year: '2012'
+Z12-3013:
+  address: Paris, France
+  author:
+  - first: Samira Ben
+    full: Samira Ben Dbabis
+    id: samira-ben-dbabis
+    last: Dbabis
+  - first: Fatma
+    full: Fatma Mallek
+    id: fatma-mallek
+    last: Mallek
+  - first: Hatem
+    full: Hatem Ghorbel
+    id: hatem-ghorbel
+    last: Ghorbel
+  - first: Lamia
+    full: Lamia Belguith
+    id: lamia-hadrich-belguith
+    last: Belguith
+  bibkey: dbabis-etal-2012-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3013'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: Dialogue Acts Annotation Scheme within Arabic discussions
+  title_html: Dialogue Acts Annotation Scheme within Arabic discussions
+  url: http://semdial.org/anthology/Z12-Dbabis_semdial_0013.pdf
+  year: '2012'
+Z12-3014:
+  address: Paris, France
+  author:
+  - first: Pierre
+    full: Pierre Lison
+    id: pierre-lison
+    last: Lison
+  bibkey: lison-2012-declarative
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3014'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: Declarative Design of Spoken Dialogue Systems with Probabilistic Rules
+  title_html: Declarative Design of Spoken Dialogue Systems with Probabilistic Rules
+  url: http://semdial.org/anthology/Z12-Lison_semdial_0014.pdf
+  year: '2012'
+Z12-3015:
+  address: Paris, France
+  author:
+  - first: Hannah
+    full: Hannah Rohde
+    id: hannah-rohde
+    last: Rohde
+  - first: Scott
+    full: Scott Seyfarth
+    id: scott-seyfarth
+    last: Seyfarth
+  - first: Brady
+    full: Brady Clark
+    id: brady-clark
+    last: Clark
+  - first: Gerhard
+    full: Gerhard Jaeger
+    id: gerhard-jaeger
+    last: Jaeger
+  - first: Stefan
+    full: Stefan Kaufmann
+    id: stefan-kaufmann
+    last: Kaufmann
+  bibkey: rohde-etal-2012-communicating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3015'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: 'Communicating with Cost-based Implicature: a Game-Theoretic Approach to
+    Ambiguity'
+  title_html: 'Communicating with Cost-based Implicature: a Game-Theoretic Approach
+    to Ambiguity'
+  url: http://semdial.org/anthology/Z12-Rohde_semdial_0015.pdf
+  year: '2012'
+Z12-3016:
+  address: Paris, France
+  author:
+  - first: Harry
+    full: Harry Bunt
+    id: harry-bunt
+    last: Bunt
+  bibkey: bunt-2012-semantics
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3016'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: The semantics of feedback
+  title_html: The semantics of feedback
+  url: http://semdial.org/anthology/Z12-Bunt_semdial_0016.pdf
+  year: '2012'
+Z12-3017:
+  address: Paris, France
+  author:
+  - first: Matthew
+    full: Matthew Henderson
+    id: matthew-henderson
+    last: Henderson
+  - first: Colin
+    full: Colin Matheson
+    id: colin-matheson
+    last: Matheson
+  - first: Jon
+    full: Jon Oberlander
+    id: jon-oberlander
+    last: Oberlander
+  bibkey: henderson-etal-2012-recovering
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3017'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: Recovering from Non-Understanding Errors in a Conversational Dialogue System
+  title_html: Recovering from Non-Understanding Errors in a Conversational Dialogue
+    System
+  url: http://semdial.org/anthology/Z12-Henderson_semdial_0017.pdf
+  year: '2012'
+Z12-3018:
+  address: Paris, France
+  author:
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: hough-purver-2012-processing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: September
+  paper_id: '3018'
+  parent_volume_id: Z12-3
+  publisher: SEMDIAL
+  title: Processing Self-Repairs in an Incremental Type-Theoretic Dialogue System
+  title_html: Processing Self-Repairs in an Incremental Type-Theoretic Dialogue System
+  url: http://semdial.org/anthology/Z12-Hough_semdial_0018.pdf
+  year: '2012'
+Z12-4019:
+  address: Paris, France
+  author:
+  - first: N.
+    full: N. Asher
+    id: n-asher
+    last: Asher
+  - first: A.
+    full: A. Lascarides
+    id: a-lascarides
+    last: Lascarides
+  - first: O.
+    full: O. Lemon
+    id: o-lemon
+    last: Lemon
+  - first: M.
+    full: M. Guhe
+    id: m-guhe
+    last: Guhe
+  - first: V.
+    full: V. Rieser
+    id: v-rieser
+    last: Rieser
+  - first: P.
+    full: P. Muller
+    id: p-muller
+    last: Muller
+  - first: S.
+    full: S. Afantenos
+    id: s-afantenos
+    last: Afantenos
+  - first: F.
+    full: F. Benamara
+    id: f-benamara
+    last: Benamara
+  - first: L.
+    full: L. Vieu
+    id: l-vieu
+    last: Vieu
+  - first: P.
+    full: P. Denis
+    id: p-denis
+    last: Denis
+  - first: S.
+    full: S. Paul
+    id: s-paul
+    last: Paul
+  - first: S.
+    full: S. Keizer
+    id: s-keizer
+    last: Keizer
+  - first: C.
+    full: C. Degremont
+    id: c-degremont
+    last: Degremont
+  bibkey: asher-etal-2012-modelling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4019'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: 'Modelling Strategic Conversation: the STAC project'
+  title_html: 'Modelling Strategic Conversation: the STAC project'
+  url: http://semdial.org/anthology/Z12-Asher_semdial_0019.pdf
+  year: '2012'
+Z12-4020:
+  address: Paris, France
+  author:
+  - first: Helen K. Y.
+    full: Helen K. Y. Chen
+    id: helen-k-y-chen
+    last: Chen
+  - first: Laurent
+    full: Laurent Prevot
+    id: laurent-prevot
+    last: Prevot
+  - first: Roxane
+    full: Roxane Bertrand
+    id: roxane-bertrand
+    last: Bertrand
+  - first: Beatrice
+    full: Beatrice Priego-Valverde
+    id: beatrice-priego-valverde
+    last: Priego-Valverde
+  - first: Philippe
+    full: Philippe Blache
+    id: philippe-blache
+    last: Blache
+  bibkey: chen-etal-2012-toward
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4020'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Toward a Mandarin-French Corpus of Interactional Data
+  title_html: Toward a Mandarin-French Corpus of Interactional Data
+  url: http://semdial.org/anthology/Z12-Chen_semdial_0020.pdf
+  year: '2012'
+Z12-4021:
+  address: Paris, France
+  author:
+  - first: J. P.
+    full: J. P. de Ruiter
+    id: j-p-de-ruiter
+    last: de Ruiter
+  - first: Chris
+    full: Chris Cummins
+    id: chris-cummins
+    last: Cummins
+  bibkey: de-ruiter-cummins-2012-model
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4021'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: 'A model of intentional communication: AIRBUS (Asymmetric Intention Recognition
+    with Bayesian Updating of Signals)'
+  title_html: 'A model of intentional communication: AIRBUS (Asymmetric Intention
+    Recognition with Bayesian Updating of Signals)'
+  url: http://semdial.org/anthology/Z12-de Ruiter_semdial_0021.pdf
+  year: '2012'
+Z12-4022:
+  address: Paris, France
+  author:
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  bibkey: dobnik-2012-spatial
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4022'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: 'Spatial descriptions in discourse: choosing a perspective'
+  title_html: 'Spatial descriptions in discourse: choosing a perspective'
+  url: http://semdial.org/anthology/Z12-Dobnik_semdial_0022.pdf
+  year: '2012'
+Z12-4023:
+  address: Paris, France
+  author:
+  - first: Kotaro
+    full: Kotaro Funakoshi
+    id: kotaro-funakoshi
+    last: Funakoshi
+  - first: Mikio
+    full: Mikio Nakano
+    id: mikio-nakano
+    last: Nakano
+  - first: Takenobu
+    full: Takenobu Tokunaga
+    id: takenobu-tokunaga
+    last: Tokunaga
+  - first: Ryu
+    full: Ryu Iida
+    id: ryu-iida
+    last: Iida
+  bibkey: funakoshi-etal-2012-modeling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4023'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Modeling Referring Expressions with Bayesian Networks
+  title_html: Modeling Referring Expressions with Bayesian Networks
+  url: http://semdial.org/anthology/Z12-Funakoshi_semdial_0023.pdf
+  year: '2012'
+Z12-4024:
+  address: Paris, France
+  author:
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Matt
+    full: Matt Purver
+    id: matt-purver
+    last: Purver
+  - first: Rose
+    full: Rose McCabe
+    id: rose-mccabe
+    last: McCabe
+  - first: Patrick G. T.
+    full: Patrick G. T. Healey
+    id: patrick-healey
+    last: Healey
+  - first: Mary
+    full: Mary Lavelle
+    id: mary-lavelle
+    last: Lavelle
+  bibkey: howes-etal-2012-helping
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4024'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: 'Helping the medicine go down: Repair and adherence in patient-clinician
+    dialogues'
+  title_html: 'Helping the medicine go down: Repair and adherence in patient-clinician
+    dialogues'
+  url: http://semdial.org/anthology/Z12-Howes_semdial_0024.pdf
+  year: '2012'
+Z12-4025:
+  address: Paris, France
+  author:
+  - first: Srinivasan
+    full: Srinivasan Janarthanam
+    id: srinivasan-janarthanam
+    last: Janarthanam
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Xingkun
+    full: Xingkun Liu
+    id: xingkun-liu
+    last: Liu
+  - first: Phil
+    full: Phil Bartie
+    id: phil-bartie
+    last: Bartie
+  - first: William
+    full: William Mackaness
+    id: william-mackaness
+    last: Mackaness
+  - first: Tiphaine
+    full: Tiphaine Dalmas
+    id: tiphaine-dalmas
+    last: Dalmas
+  - first: Jana
+    full: Jana Goetze
+    id: jana-gotze
+    last: Goetze
+  bibkey: janarthanam-etal-2012-spoken
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4025'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: 'A spoken dialogue interface for pedestrian city exploration: integrating
+    navigation, visibility, and Question-Answering'
+  title_html: 'A spoken dialogue interface for pedestrian city exploration: integrating
+    navigation, visibility, and Question-Answering'
+  url: http://semdial.org/anthology/Z12-Janarthanam_semdial_0025.pdf
+  year: '2012'
+Z12-4026:
+  address: Paris, France
+  author:
+  - first: Haldur
+    full: Haldur Oim
+    id: haldur-oim
+    last: Oim
+  - first: Mare
+    full: Mare Koit
+    id: mare-koit
+    last: Koit
+  bibkey: oim-koit-2012-influencing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4026'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: 'Influencing Reasoning in Interaction: a Model'
+  title_html: 'Influencing Reasoning in Interaction: a Model'
+  url: http://semdial.org/anthology/Z12-Oim_semdial_0026.pdf
+  year: '2012'
+Z12-4027:
+  address: Paris, France
+  author:
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  - first: Colin
+    full: Colin Matheson
+    id: colin-matheson
+    last: Matheson
+  bibkey: isard-matheson-2012-rhetorical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4027'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Rhetorical Structure for Natural Language Generation in Dialogue
+  title_html: Rhetorical Structure for Natural Language Generation in Dialogue
+  url: http://semdial.org/anthology/Z12-Isard_semdial_0027.pdf
+  year: '2012'
+Z12-4028:
+  address: Paris, France
+  author:
+  - first: Maria
+    full: Maria Spychalska
+    id: maria-spychalska
+    last: Spychalska
+  bibkey: spychalska-2012-two
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4028'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Two semantical conditions for superlative quantifiers
+  title_html: Two semantical conditions for superlative quantifiers
+  url: http://semdial.org/anthology/Z12-Spychalska_semdial_0028.pdf
+  year: '2012'
+Z12-4029:
+  address: Paris, France
+  author:
+  - first: Stergos
+    full: Stergos Afantenos
+    id: stergos-afantenos
+    last: Afantenos
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Farah
+    full: Farah Benamara
+    id: farah-benamara
+    last: Benamara
+  - first: Anais
+    full: Anais Cadilhac
+    id: anais-cadilhac
+    last: Cadilhac
+  - first: Cedric
+    full: Cedric Degremont
+    id: cedric-degremont1
+    last: Degremont
+  - first: Pascal
+    full: Pascal Denis
+    id: pascal-denis
+    last: Denis
+  - first: Markus
+    full: Markus Guhe
+    id: markus-guhe
+    last: Guhe
+  - first: Simon
+    full: Simon Keizer
+    id: simon-keizer
+    last: Keizer
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Philippe
+    full: Philippe Muller
+    id: philippe-muller
+    last: Muller
+  - first: Soumya
+    full: Soumya Paul
+    id: soumya-paul
+    last: Paul
+  - first: Vladimir
+    full: Vladimir Popescu
+    id: vladimir-popescu
+    last: Popescu
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Laure
+    full: Laure Vieu
+    id: laure-vieu
+    last: Vieu
+  bibkey: afantenos-etal-2012-modelling
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4029'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: 'Modelling Strategic Conversation: model, annotation design and corpus'
+  title_html: 'Modelling Strategic Conversation: model, annotation design and corpus'
+  url: http://semdial.org/anthology/Z12-Afantenos_semdial_0029.pdf
+  year: '2012'
+Z12-4030:
+  address: Paris, France
+  author:
+  - first: Tina
+    full: Tina Kluwer
+    id: tina-kluwer1
+    last: Kluwer
+  - first: Hanz
+    full: Hanz Uszkoreit
+    id: hanz-uszkoreit
+    last: Uszkoreit
+  bibkey: kluwer-uszkoreit-2012-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4030'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: A Multi-threading Extension to State-based Dialogue Management
+  title_html: A Multi-threading Extension to State-based Dialogue Management
+  url: http://semdial.org/anthology/Z12-Kluwer_semdial_0030.pdf
+  year: '2012'
+Z12-4031:
+  address: Paris, France
+  author:
+  - first: Yasuhiro
+    full: Yasuhiro Katagiri
+    id: yasuhiro-katagiri
+    last: Katagiri
+  - first: Masato
+    full: Masato Ishizaki
+    id: masato-ishizaki
+    last: Ishizaki
+  - first: Yasuharu
+    full: Yasuharu Den
+    id: yasuharu-den
+    last: Den
+  - first: Katsuya
+    full: Katsuya Takanashi
+    id: katsuya-takanashi
+    last: Takanashi
+  - first: Mika
+    full: Mika Enomoto
+    id: mika-enomoto
+    last: Enomoto
+  - first: Yosuke
+    full: Yosuke Matsusaka
+    id: yosuke-matsusaka
+    last: Matsusaka
+  bibkey: katagiri-etal-2012-negotiation
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4031'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Negotiation for Concern Alignment in Health Counseling Dialogues
+  title_html: Negotiation for Concern Alignment in Health Counseling Dialogues
+  url: http://semdial.org/anthology/Z12-Katagiri_semdial_0031.pdf
+  year: '2012'
+Z12-4032:
+  address: Paris, France
+  author:
+  - first: Gregory
+    full: Gregory Mills
+    id: gregory-mills
+    last: Mills
+  bibkey: mills-2012-exhuming
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4032'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: 'Exhuming the procedural common ground: partner-specific effects'
+  title_html: 'Exhuming the procedural common ground: partner-specific effects'
+  url: http://semdial.org/anthology/Z12-Mills_semdial_0032.pdf
+  year: '2012'
+Z12-4033:
+  address: Paris, France
+  author:
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Simon
+    full: Simon Keizer
+    id: simon-keizer
+    last: Keizer
+  bibkey: rieser-etal-2012-opponent
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4033'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Opponent Modelling for Optimising Strategic Dialogue
+  title_html: Opponent Modelling for Optimising Strategic Dialogue
+  url: http://semdial.org/anthology/Z12-Rieser_semdial_0033.pdf
+  year: '2012'
+Z12-4034:
+  address: Paris, France
+  author:
+  - first: Lina M.
+    full: Lina M. Rojas-Barahona
+    id: lina-m-rojas-barahona
+    last: Rojas-Barahona
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  bibkey: rojas-barahona-gardent-2012-now
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4034'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: What Should I Do Now? Supporting Progress in a Serious Game.
+  title_html: What Should I Do Now? Supporting Progress in a Serious Game.
+  url: http://semdial.org/anthology/Z12-Rojas-Barahona_semdial_0034.pdf
+  year: '2012'
+Z12-4035:
+  address: Paris, France
+  author:
+  - first: Julia
+    full: Julia Peltason
+    id: julia-peltason
+    last: Peltason
+  - first: Hannes
+    full: Hannes Rieser
+    id: hannes-rieser
+    last: Rieser
+  - first: Sven
+    full: Sven Wachsmuth
+    id: sven-wachsmuth
+    last: Wachsmuth
+  - first: Britta
+    full: Britta Wrede
+    id: britta-wrede
+    last: Wrede
+  bibkey: peltason-etal-2012-hand
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4035'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: '"The hand is not a banana" On Developing a Robot''s Grounding Facilities'
+  title_html: '"The hand is not a banana" On Developing a Robot''s Grounding Facilities'
+  url: http://semdial.org/anthology/Z12-Peltason_semdial_0035.pdf
+  year: '2012'
+Z12-4036:
+  address: Paris, France
+  author:
+  - first: Klim
+    full: Klim Peshkov
+    id: klim-peshkov
+    last: Peshkov
+  - first: Laurent
+    full: Laurent Prevot
+    id: laurent-prevot
+    last: Prevot
+  - first: Roxane
+    full: Roxane Bertrand
+    id: roxane-bertrand
+    last: Bertrand
+  - first: Stephane
+    full: Stephane Rauzy
+    id: stephane-rauzy
+    last: Rauzy
+  - first: Philippe
+    full: Philippe Blache
+    id: philippe-blache
+    last: Blache
+  bibkey: peshkov-etal-2012-quantitative
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4036'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Quantitative experiments on prosodic and discourse units in the Corpus of
+    Interactional Data
+  title_html: Quantitative experiments on prosodic and discourse units in the Corpus
+    of Interactional Data
+  url: http://semdial.org/anthology/Z12-Peshkov_semdial_0036.pdf
+  year: '2012'
+Z12-4037:
+  address: Paris, France
+  author:
+  - first: Kyle
+    full: Kyle Richardson
+    id: kyle-richardson
+    last: Richardson
+  - first: Jonas
+    full: Jonas Kuhn
+    id: jonas-kuhn
+    last: Kuhn
+  bibkey: richardson-kuhn-2012-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4037'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Towards Semantic Parsing in Dynamic Domains
+  title_html: Towards Semantic Parsing in Dynamic Domains
+  url: http://semdial.org/anthology/Z12-Richardson_semdial_0037.pdf
+  year: '2012'
+Z12-4038:
+  address: Paris, France
+  author:
+  - first: Alexandra
+    full: Alexandra Vorobyova
+    id: alexandra-vorobyova
+    last: Vorobyova
+  - first: Luciana
+    full: Luciana Benotti
+    id: luciana-benotti
+    last: Benotti
+  - first: Frederic
+    full: Frederic Landragin
+    id: frederic-landragin
+    last: Landragin
+  bibkey: vorobyova-etal-2012-overspecify
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 16th Workshop on the Semantics and Pragmatics
+    of Dialogue - Poster Abstracts
+  month: September
+  paper_id: '4038'
+  parent_volume_id: Z12-4
+  publisher: SEMDIAL
+  title: Why do we overspecify in dialogue? An experiment on L2 lexical acquisition
+  title_html: Why do we overspecify in dialogue? An experiment on L2 lexical acquisition
+  url: http://semdial.org/anthology/Z12-Vorobyova_semdial_0038.pdf
+  year: '2012'

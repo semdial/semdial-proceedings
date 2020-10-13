@@ -1,3 +1,38 @@
+f-benamara:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: F.
+  full: F. Benamara
+  last: Benamara
+  papers:
+  - Z12-4019
+  slug: f-benamara
+  venues:
+  - - SEMDIAL
+    - 1
 f-y-august-chao:
   coauthors: []
   first: F. Y. August
@@ -132,13 +167,44 @@ fangfang-feng:
   slug: fangfang-feng
   venues: []
 farah-benamara:
-  coauthors: []
+  coauthors:
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
+    - 1
   first: Farah
   full: Farah Benamara
   last: Benamara
-  papers: []
+  papers:
+  - Z12-4029
   slug: farah-benamara
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 farid-cerbah:
   coauthors: []
   first: Farid
@@ -194,6 +260,23 @@ fathi-debili:
   papers: []
   slug: fathi-debili
   venues: []
+fatma-mallek:
+  coauthors:
+  - - samira-ben-dbabis
+    - 1
+  - - hatem-ghorbel
+    - 1
+  - - lamia-hadrich-belguith
+    - 1
+  first: Fatma
+  full: Fatma Mallek
+  last: Mallek
+  papers:
+  - Z12-3013
+  slug: fatma-mallek
+  venues:
+  - - SEMDIAL
+    - 1
 fauren-faust:
   coauthors:
   - - ron-artstein
@@ -223,6 +306,32 @@ felix-dreizin:
   papers: []
   slug: felix-dreizin
   venues: []
+felix-gervits:
+  coauthors:
+  - - matthias-scheutz
+    - 2
+  - - matthew-marge
+    - 1
+  - - gordon-briggs
+    - 1
+  - - antonio-roque
+    - 1
+  - - andrew-valenti
+    - 1
+  - - ravenna-thielstrom
+    - 1
+  - - michael-gold
+    - 1
+  first: Felix
+  full: Felix Gervits
+  last: Gervits
+  papers:
+  - Z20-3006
+  - Z20-3023
+  slug: felix-gervits
+  venues:
+  - - SEMDIAL
+    - 2
 felix-hulsmann:
   coauthors:
   - - iwan-de-kok
@@ -695,6 +804,17 @@ francois-michel-lang:
   papers: []
   slug: francois-michel-lang
   venues: []
+francois-recanati:
+  coauthors: []
+  first: Francois
+  full: Francois Recanati
+  last: Recanati
+  papers:
+  - Z12-2001
+  slug: francois-recanati
+  venues:
+  - - SEMDIAL
+    - 1
 francois-rousselot:
   coauthors: []
   first: "Fran\xE7ois"
@@ -819,6 +939,21 @@ frederic-elisei:
   papers: []
   slug: frederic-elisei
   venues: []
+frederic-landragin:
+  coauthors:
+  - - alexandra-vorobyova
+    - 1
+  - - luciana-benotti
+    - 1
+  first: Frederic
+  full: Frederic Landragin
+  last: Landragin
+  papers:
+  - Z12-4038
+  slug: frederic-landragin
+  venues:
+  - - SEMDIAL
+    - 1
 frederic-meunier:
   coauthors: []
   first: "Fr\xE9d\xE9ric"

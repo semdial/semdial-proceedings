@@ -506,15 +506,17 @@ katsumasa-shimizu:
 katsuya-takanashi:
   coauthors:
   - - yasuhiro-katagiri
-    - 5
+    - 6
   - - masato-ishizaki
-    - 4
+    - 5
   - - mika-enomoto
-    - 4
+    - 5
   - - yasuharu-den
-    - 4
+    - 5
   - - shogo-okada
     - 2
+  - - yosuke-matsusaka
+    - 1
   first: Katsuya
   full: Katsuya Takanashi
   last: Takanashi
@@ -524,10 +526,11 @@ katsuya-takanashi:
   - Z15-4034
   - Z14-4034
   - Z13-4032
+  - Z12-4031
   slug: katsuya-takanashi
   venues:
   - - SEMDIAL
-    - 5
+    - 6
 kavi-mahesh:
   coauthors: []
   first: Kavi
@@ -1165,6 +1168,25 @@ klaus-wothke:
   papers: []
   slug: klaus-wothke
   venues: []
+klim-peshkov:
+  coauthors:
+  - - laurent-prevot
+    - 1
+  - - roxane-bertrand
+    - 1
+  - - stephane-rauzy
+    - 1
+  - - philippe-blache
+    - 1
+  first: Klim
+  full: Klim Peshkov
+  last: Peshkov
+  papers:
+  - Z12-4036
+  slug: klim-peshkov
+  venues:
+  - - SEMDIAL
+    - 1
 kobin-kendrick:
   coauthors:
   - - sara-bogels
@@ -1281,6 +1303,23 @@ kostas-karpouzis:
   papers: []
   slug: kostas-karpouzis
   venues: []
+kotaro-funakoshi:
+  coauthors:
+  - - mikio-nakano
+    - 1
+  - - takenobu-tokunaga
+    - 1
+  - - ryu-iida
+    - 1
+  first: Kotaro
+  full: Kotaro Funakoshi
+  last: Funakoshi
+  papers:
+  - Z12-4023
+  slug: kotaro-funakoshi
+  venues:
+  - - SEMDIAL
+    - 1
 krasimira-ivanova:
   coauthors: []
   first: Krasimira
@@ -1453,6 +1492,19 @@ kwong-cheong-wong:
   venues:
   - - SEMDIAL
     - 2
+kyle-richardson:
+  coauthors:
+  - - jonas-kuhn
+    - 1
+  first: Kyle
+  full: Kyle Richardson
+  last: Richardson
+  papers:
+  - Z12-4037
+  slug: kyle-richardson
+  venues:
+  - - SEMDIAL
+    - 1
 kyo-kageura:
   coauthors: []
   first: Kyo

@@ -1,9 +1,9 @@
-%0 Conference Proceedings
-%T The significance of silence: Long gaps attenuate the preference for ?yes? responses in conversation
-%A B�gels, Sara
+﻿%0 Conference Proceedings
+%T The significance of silence: Long gaps attenuate the preference for ‘yes’ responses in conversation
+%A Bögels, Sara
 %A Kendrick, Kobin
 %A Levinson, Stephen
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -15,7 +15,7 @@
 %T Within reason: Categorising enthymematic reasoning in the balloon task
 %A Breitholtz, Ellen
 %A Howes, Christine
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -28,7 +28,7 @@
 %A Castillo, Lucia
 %A Branigan, Holly
 %A Smith, Kenny
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -37,12 +37,12 @@
 %U http://semdial.org/anthology/Z15-Castillo_semdial_0023.pdf
 
 %0 Conference Proceedings
-%T Are response particles not well understood? Yes/No, they aren?t! An experimental study on German ja and nein
+%T Are response particles not well understood? Yes/No, they aren’t! An experimental study on German ja and nein
 %A Claus, Berry
 %A Meijer, Marlijn
 %A Repp, Sophie
 %A Krifka, Manfred
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -54,7 +54,7 @@
 %T KILLE: Learning objects and spatial relations with kinect
 %A Graaf, Erik de
 %A Dobnik, Simon
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -66,12 +66,12 @@
 %T Demonstrating the dialogue system of the intelligent coaching space
 %A Kok, Iwan de
 %A Hough, Julian
-%A H�lsmann, Felix
+%A Hülsmann, Felix
 %A Waltema, Thomas
 %A Botsch, Mario
 %A Schlangen, David
 %A Kopp, Stefan
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -83,7 +83,7 @@
 %T Non-sentential utterances in dialogue: Experiments in classification and interpretation
 %A Dragone, Paolo
 %A Lison, Pierre
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -94,7 +94,7 @@
 %0 Conference Proceedings
 %T DS-TTR: An incremental, semantic, contextual parser for dialogue
 %A Eshghi, Arash
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -104,9 +104,9 @@
 
 %0 Conference Proceedings
 %T What could interaction mean in natural language and how could it be useful?
-%A Fouquer�, Christophe
+%A Fouqueré, Christophe
 %A Quatrini, Myriam
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -118,7 +118,7 @@
 %T Towards the automatic extraction of corrective feedback in child-adult dialogue
 %A Hiller, Sarah
 %A Fernandez, Raquel
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -130,7 +130,7 @@
 %T Spot the difference - A dialog system to explore turn-taking in an interactive setting
 %A Hjalmarsson, Anna
 %A Zellers, Margaret
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -140,10 +140,10 @@
 
 %0 Conference Proceedings
 %T Eye blinking as addressee feedback in face-to-face conversation
-%A H�mke, Paul
+%A Hömke, Paul
 %A Holler, Judith
 %A Levinson, Stephen C.
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -158,7 +158,7 @@
 %A Deshmukh, Amol
 %A Aylett, Ruth
 %A Foster, Mary Ellen
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -170,7 +170,7 @@
 %T Concern-alignment analysis of consultation dialogues
 %A Katagiri, Yasuhiro
 %A Takanashi, Katsuya
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -183,7 +183,7 @@
 %A Kempson, Ruth
 %A Chatzikyriakidis, Stergios
 %A Cann, Ronnie
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -196,7 +196,7 @@
 %A Kennington, Casey
 %A Gambino, Soledad Lopez
 %A Schlangen, David
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -207,7 +207,7 @@
 %0 Conference Proceedings
 %T The state of the art in dealing with user answers
 %A Larsson, Staffan
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -216,9 +216,9 @@
 %U http://semdial.org/anthology/Z15-Larsson_semdial_0037.pdf
 
 %0 Conference Proceedings
-%T Polish event-linking devices of przed ?before? cluster in conversational data ? Implications for contrastive analysis
+%T Polish event-linking devices of przed ‘before’ cluster in conversational data – Implications for contrastive analysis
 %A Lewandowska-Tomaszczyk, Barbara
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -230,7 +230,7 @@
 %T Developing spoken dialogue systems with the OpenDial toolkit
 %A Lison, Pierre
 %A Kennington, Casey
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -241,7 +241,7 @@
 %0 Conference Proceedings
 %T CCG for discourse
 %A Nishiguchi, Sumiyo
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -255,7 +255,7 @@
 %A Bunt, Harry
 %A Malchanau, Andrei
 %A Aruchamy, Ramkumar
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -265,9 +265,9 @@
 
 %0 Conference Proceedings
 %T Self awareness for better common ground
-%A Pl�tek, Ond?ej
-%A Ju?�?ek, Filip
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%A Plátek, Ondřej
+%A Juříček, Filip
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -281,7 +281,7 @@
 %A Ultes, Stefan
 %A Kraus, Matthias
 %A Minker, Wolfgang
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -291,12 +291,12 @@
 
 %0 Conference Proceedings
 %T Toward a scary comparative corpus: The Werewolf spoken corpus
-%A Pr�vot, Laurent
+%A Prévot, Laurent
 %A Yao, Yao
 %A Gingold, Arnaud
 %A Bel, Bernard
 %A Chan, Kam Yiu Joe
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -309,7 +309,7 @@
 %A Priesters, Matthias A.
 %A Schilling, Malte
 %A Kopp, Stefan
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -320,7 +320,7 @@
 %0 Conference Proceedings
 %T How questions and answers cohere
 %A Simons, Mandy
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -332,7 +332,7 @@
 %T Modeling referential coordination as a particle swarm optimization task
 %A Stevens, Hodgdon
 %A Rohde, Hannah
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -344,7 +344,7 @@
 %T Distribution of non-sentential utterances across BNC genres: A preliminary report
 %A Wong, Kwong-Cheong
 %A Ginzburg, Jonathan
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -357,7 +357,7 @@
 %A Yu, Yanchao
 %A Lemon, Oliver
 %A Eshghi, Arash
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2015
 %8 aug
 %I SEMDIAL

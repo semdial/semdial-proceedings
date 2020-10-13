@@ -1,0 +1,849 @@
+Z20-1000:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Sophia
+    full: Sophia Malamud
+    id: sophia-malamud
+    last: Malamud
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: semdial-2020-semantics
+  bibtype: proceedings
+  month: July
+  paper_id: '1000'
+  parent_volume_id: Z20-1
+  publisher: SEMDIAL
+  title: Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue
+    - Front Matter
+  title_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics of
+    Dialogue - Front Matter
+  url: http://semdial.org/anthology/semdial2020_watchdial_front_matter.pdf
+  year: '2020'
+Z20-2001:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Bonnie
+    full: Bonnie Webber
+    id: bonnie-webber
+    last: Webber
+  bibkey: webber-2020-mean
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July
+  paper_id: '2001'
+  parent_volume_id: Z20-2
+  publisher: SEMDIAL
+  title: What does it mean to say a discourse relation is `implicit'?
+  title_html: What does it mean to say a discourse relation is `implicit'?
+  url: http://semdial.org/anthology/Z20-Webber_semdial_0001.pdf
+  year: '2020'
+Z20-2002:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Claire
+    full: Claire Bonial
+    id: claire-bonial
+    last: Bonial
+  - first: Stephanie
+    full: Stephanie Lukin
+    id: stephanie-lukin
+    last: Lukin
+  - first: Clare R.
+    full: Clare R. Voss
+    id: clare-voss
+    last: Voss
+  bibkey: bonial-etal-2020-next
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July
+  paper_id: '2002'
+  parent_volume_id: Z20-2
+  publisher: SEMDIAL
+  title: Where to next? Situated Dialogue with Robots for Search and Navigation
+  title_html: Where to next? Situated Dialogue with Robots for Search and Navigation
+  url: http://semdial.org/anthology/Z20-Bonial_semdial_0002.pdf
+  year: '2020'
+Z20-2003:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Craige
+    full: Craige Roberts
+    id: craige-roberts
+    last: Roberts
+  bibkey: roberts-2020-perspective
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Invited Talks
+  month: July
+  paper_id: '2003'
+  parent_volume_id: Z20-2
+  publisher: SEMDIAL
+  title: 'Perspective and Indexicality: A NeoLocalist approach'
+  title_html: 'Perspective and Indexicality: A NeoLocalist approach'
+  url: http://semdial.org/anthology/Z20-Roberts_semdial_0003.pdf
+  year: '2020'
+Z20-3004:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Baber
+    full: Baber Khalid
+    id: baber-khalid
+    last: Khalid
+  - first: Malihe
+    full: Malihe Alikhani
+    id: malihe-alikhani
+    last: Alikhani
+  - first: Michael
+    full: Michael Fellner
+    id: michael-fellner
+    last: Fellner
+  - first: Brian
+    full: Brian McMahan
+    id: brian-mcmahan
+    last: McMahan
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  bibkey: khalid-etal-2020-discourse
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3004'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: Discourse Coherence, Reference Grounding and Goal Oriented Dialogue
+  title_html: Discourse Coherence, Reference Grounding and Goal Oriented Dialogue
+  url: http://semdial.org/anthology/Z20-Khalid_semdial_0004.pdf
+  year: '2020'
+Z20-3005:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Jorge
+    full: Jorge Del-Bosque-Trevino
+    id: jorge-del-bosque-trevino
+    last: Del-Bosque-Trevino
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  bibkey: del-bosque-trevino-etal-2020-investigating
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3005'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Investigating the Semantic Wave in Tutorial Dialogues: An Annotation Scheme
+    and Corpus Study on Analogy Components'
+  title_html: 'Investigating the Semantic Wave in Tutorial Dialogues: An Annotation
+    Scheme and Corpus Study on Analogy Components'
+  url: http://semdial.org/anthology/Z20-Del-Bosque-Trevino_semdial_0005.pdf
+  year: '2020'
+Z20-3006:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Matthew
+    full: Matthew Marge
+    id: matthew-marge
+    last: Marge
+  - first: Felix
+    full: Felix Gervits
+    id: felix-gervits
+    last: Gervits
+  - first: Gordon
+    full: Gordon Briggs
+    id: gordon-briggs
+    last: Briggs
+  - first: Matthias
+    full: Matthias Scheutz
+    id: matthias-scheutz
+    last: Scheutz
+  - first: Antonio
+    full: Antonio Roque
+    id: antonio-roque
+    last: Roque
+  bibkey: marge-etal-2020-first
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3006'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: Let's do that first! A Comparative Analysis of Instruction-Giving in Human-Human
+    and Human-Robot Situated Dialogue
+  title_html: Let's do that first! A Comparative Analysis of Instruction-Giving in
+    Human-Human and Human-Robot Situated Dialogue
+  url: http://semdial.org/anthology/Z20-Marge_semdial_0006.pdf
+  year: '2020'
+Z20-3007:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Vevake
+    full: Vevake Balaraman
+    id: vevake-balaraman
+    last: Balaraman
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  bibkey: balaraman-magnini-2020-pro
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3007'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Pro-Active Systems and Influenceable Users: Simulating Pro-Activity in Task-oriented
+    Dialogues'
+  title_html: 'Pro-Active Systems and Influenceable Users: Simulating Pro-Activity
+    in Task-oriented Dialogues'
+  url: http://semdial.org/anthology/Z20-Balaraman_semdial_0007.pdf
+  year: '2020'
+Z20-3008:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  bibkey: ginzburg-lucking-2020-laughter
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3008'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'On Laughter and Forgetting and Reconversing: A Neurologically-Inspired Model
+    of Conversational Context'
+  title_html: 'On Laughter and Forgetting and Reconversing: A Neurologically-Inspired
+    Model of Conversational Context'
+  url: http://semdial.org/anthology/Z20-Ginzburg_semdial_0008.pdf
+  year: '2020'
+Z20-3009:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Alafate
+    full: Alafate Abulimiti
+    id: alafate-abulimiti
+    last: Abulimiti
+  bibkey: abulimiti-2020-different
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3009'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Different Games in Dialogue: Combining Character and Conversational Types
+    in Strategic Choice'
+  title_html: 'Different Games in Dialogue: Combining Character and Conversational
+    Types in Strategic Choice'
+  url: http://semdial.org/anthology/Z20-Abulimiti_semdial_0009.pdf
+  year: '2020'
+Z20-3010:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  bibkey: schlangen-2020-outline
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3010'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: An Outline of a Model of Situated Discourse Representation and Processing
+  title_html: An Outline of a Model of Situated Discourse Representation and Processing
+  url: http://semdial.org/anthology/Z20-Schlangen_semdial_0010.pdf
+  year: '2020'
+Z20-3011:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Daniele
+    full: Daniele Moro
+    id: daniele-moro
+    last: Moro
+  - first: Gerardo
+    full: Gerardo Caracas
+    id: gerardo-caracas
+    last: Caracas
+  - first: David
+    full: David McNeill
+    id: david-mcneill
+    last: McNeill
+  - first: Casey
+    full: Casey Kennington
+    id: casey-kennington
+    last: Kennington
+  bibkey: moro-etal-2020-semantics
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3011'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Semantics with Feeling: Emotions for Abstract Embedding, Affect for Concrete
+    Grounding'
+  title_html: 'Semantics with Feeling: Emotions for Abstract Embedding, Affect for
+    Concrete Grounding'
+  url: http://semdial.org/anthology/Z20-Moro_semdial_0011.pdf
+  year: '2020'
+Z20-3012:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Jakob
+    full: "Jakob Mach\xE9"
+    id: jakob-mache
+    last: "Mach\xE9"
+  bibkey: mache-2020-overcoming
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3012'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: Overcoming Distances -- The Usage of Calling Contours to Initiate Dialogues
+  title_html: Overcoming Distances -- The Usage of Calling Contours to Initiate Dialogues
+  url: http://semdial.org/anthology/Z20-Mache_semdial_0012.pdf
+  year: '2020'
+Z20-3013:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Tom
+    full: Tom Gurion
+    id: tom-gurion
+    last: Gurion
+  - first: Patrick
+    full: Patrick Healey
+    id: patrick-healey
+    last: Healey
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  bibkey: gurion-etal-2020-comparing
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3013'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: Comparing Models of Speakers' and Listeners' Head Nods
+  title_html: Comparing Models of Speakers' and Listeners' Head Nods
+  url: http://semdial.org/anthology/Z20-Gurion_semdial_0013.pdf
+  year: '2020'
+Z20-3014:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Yulia
+    full: Yulia Clausen
+    id: yulia-clausen
+    last: Clausen
+  - first: Tatjana
+    full: Tatjana Scheffler
+    id: tatjana-scheffler
+    last: Scheffler
+  bibkey: clausen-scheffler-2020-commitments
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3014'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Commitments in German Tag Questions: An Experimental Study'
+  title_html: 'Commitments in German Tag Questions: An Experimental Study'
+  url: http://semdial.org/anthology/Z20-Clausen_semdial_0014.pdf
+  year: '2020'
+Z20-3015:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Simone
+    full: Simone Fuscone
+    id: simone-fuscone
+    last: Fuscone
+  - first: Benoit
+    full: Benoit Favre
+    id: benoit-favre
+    last: Favre
+  - first: Laurent
+    full: Laurent Prvot
+    id: laurent-prvot
+    last: Prvot
+  bibkey: fuscone-etal-2020-contribution
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3015'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: The Contribution of Dialogue Act Labels for Convergence Studies in Natural
+    Conversations
+  title_html: The Contribution of Dialogue Act Labels for Convergence Studies in Natural
+    Conversations
+  url: http://semdial.org/anthology/Z20-Fuscone_semdial_0015.pdf
+  year: '2020'
+Z20-3016:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Andy
+    full: "Andy L\xFCcking"
+    id: andy-lucking
+    last: "L\xFCcking"
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: lucking-ginzburg-2020-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3016'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: Towards the Score of Communication
+  title_html: Towards the Score of Communication
+  url: http://semdial.org/anthology/Z20-Luecking_semdial_0016.pdf
+  year: '2020'
+Z20-3017:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Janosch
+    full: Janosch Haber
+    id: janosch-haber
+    last: Haber
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  bibkey: haber-poesio-2020-classification
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3017'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Classification of Low-Agreement Pronouns Through Collaborative Dialogue:
+    A Proof of Concept'
+  title_html: 'Classification of Low-Agreement Pronouns Through Collaborative Dialogue:
+    A Proof of Concept'
+  url: http://semdial.org/anthology/Z20-Haber_semdial_0017.pdf
+  year: '2020'
+Z20-3018:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Ellen
+    full: Ellen Breitholtz
+    id: ellen-breitholtz
+    last: Breitholtz
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  bibkey: breitholtz-howes-2020-communicable
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3018'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Communicable Reasons: How Children Learn Topoi Through Dialogue'
+  title_html: 'Communicable Reasons: How Children Learn Topoi Through Dialogue'
+  url: http://semdial.org/anthology/Z20-Breitholtz_semdial_0018.pdf
+  year: '2020'
+Z20-3019:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Staffan
+    full: Staffan Larsson
+    id: staffan-larsson
+    last: Larsson
+  bibkey: larsson-2020-extensions
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3019'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: Extensions Are Indeterminate if Intensions Are Classifiers
+  title_html: Extensions Are Indeterminate if Intensions Are Classifiers
+  url: http://semdial.org/anthology/Z20-Larsson_semdial_0019.pdf
+  year: '2020'
+Z20-3020:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Maria
+    full: Maria Boritchev
+    id: maria-boritchev
+    last: Boritchev
+  - first: Maxime
+    full: Maxime Amblard
+    id: maxime-amblard
+    last: Amblard
+  bibkey: boritchev-amblard-2020-yet
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3020'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: There Is As Yet Insufficient Data for a Meaningful Answer
+  title_html: There Is As Yet Insufficient Data for a Meaningful Answer
+  url: http://semdial.org/anthology/Z20-Boritchev_semdial_0020.pdf
+  year: '2020'
+Z20-3021:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Stergios
+    full: Stergios Chatzikyriakidis
+    id: stergios-chatzikyriakidis
+    last: Chatzikyriakidis
+  bibkey: chatzikyriakidis-2020-dialogue
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3021'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Dialogue Informing Syntax/Semantics: The Case of Afterthoughts'
+  title_html: 'Dialogue Informing Syntax/Semantics: The Case of Afterthoughts'
+  url: http://semdial.org/anthology/Z20-Chatzikyriakidis_semdial_0021.pdf
+  year: '2020'
+Z20-3022:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Eleni
+    full: Eleni Gregoromichelaki
+    id: eleni-gregoromichelaki
+    last: Gregoromichelaki
+  - first: Stergios
+    full: Stergios Chatzikyriakidis
+    id: stergios-chatzikyriakidis
+    last: Chatzikyriakidis
+  - first: Arash
+    full: Arash Eshghi
+    id: arash-eshghi
+    last: Eshghi
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  - first: Christine
+    full: Christine Howes
+    id: christine-howes
+    last: Howes
+  - first: Ruth
+    full: Ruth Kempson
+    id: ruth-kempson
+    last: Kempson
+  - first: Jieun
+    full: Jieun Kiaer
+    id: jieun-kiaer
+    last: Kiaer
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Mehrnoosh
+    full: Mehrnoosh Sadrzadeh
+    id: mehrnoosh-sadrzadeh
+    last: Sadrzadeh
+  - first: Graham
+    full: Graham White
+    id: graham-white
+    last: White
+  bibkey: gregoromichelaki-etal-2020-affordance
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3022'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: 'Affordance Competition in Dialogue: The Case of Syntactic Universals'
+  title_html: 'Affordance Competition in Dialogue: The Case of Syntactic Universals'
+  url: http://semdial.org/anthology/Z20-Gregoromichelaki_semdial_0022.pdf
+  year: '2020'
+Z20-3023:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Andrew
+    full: Andrew Valenti
+    id: andrew-valenti
+    last: Valenti
+  - first: Ravenna
+    full: Ravenna Thielstrom
+    id: ravenna-thielstrom
+    last: Thielstrom
+  - first: Michael
+    full: Michael Gold
+    id: michael-gold
+    last: Gold
+  - first: Felix
+    full: Felix Gervits
+    id: felix-gervits
+    last: Gervits
+  - first: Matthias
+    full: Matthias Scheutz
+    id: matthias-scheutz
+    last: Scheutz
+  bibkey: valenti-etal-2020-multi
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3023'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: A Multi-level Framework for Understanding Spoken Dialogue Using Topic Detection
+  title_html: A Multi-level Framework for Understanding Spoken Dialogue Using Topic
+    Detection
+  url: http://semdial.org/anthology/Z20-Valenti_semdial_0023.pdf
+  year: '2020'
+Z20-3024:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Sandy
+    full: Sandy Ciroux
+    id: sandy-ciroux
+    last: Ciroux
+  bibkey: ciroux-2020-say
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Full Papers
+  month: July
+  paper_id: '3024'
+  parent_volume_id: Z20-3
+  publisher: SEMDIAL
+  title: How to Say Things with Hand Gestures
+  title_html: How to Say Things with Hand Gestures
+  url: http://semdial.org/anthology/Z20-Ciroux_semdial_0024.pdf
+  year: '2020'
+Z20-4025:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Daniela
+    full: Daniela Stier
+    id: daniela-stier
+    last: Stier
+  - first: Wolfgang
+    full: Wolfgang Minker
+    id: wolfgang-minker
+    last: Minker
+  - first: Ulrich
+    full: Ulrich Heid
+    id: ulrich-heid
+    last: Heid
+  bibkey: stier-etal-2020-towards
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Short Papers
+  month: July
+  paper_id: '4025'
+  parent_volume_id: Z20-4
+  publisher: SEMDIAL
+  title: 'Towards Situation- and User-Adaptive Voice Output: Classifying Driver Personality
+    in Context'
+  title_html: 'Towards Situation- and User-Adaptive Voice Output: Classifying Driver
+    Personality in Context'
+  url: http://semdial.org/anthology/Z20-Stier_semdial_0025.pdf
+  year: '2020'
+Z20-4026:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Magdalena
+    full: Magdalena Sandahl
+    id: magdalena-sandahl
+    last: Sandahl
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Mehdi
+    full: Mehdi Ghanimifard
+    id: mehdi-ghanimifard
+    last: Ghanimifard
+  bibkey: sandahl-etal-2020-corpus
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Short Papers
+  month: July
+  paper_id: '4026'
+  parent_volume_id: Z20-4
+  publisher: SEMDIAL
+  title: A Corpus of Swedish Conversations with a Librarian
+  title_html: A Corpus of Swedish Conversations with a Librarian
+  url: http://semdial.org/anthology/Z20-Sandahl_semdial_0026.pdf
+  year: '2020'
+Z20-4027:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Jakob
+    full: Jakob Landesberger
+    id: jakob-landesberger
+    last: Landesberger
+  - first: Ute
+    full: Ute Ehrlich
+    id: ute-ehrlich
+    last: Ehrlich
+  bibkey: landesberger-ehrlich-2020-detecting
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Short Papers
+  month: July
+  paper_id: '4027'
+  parent_volume_id: Z20-4
+  publisher: SEMDIAL
+  title: Detecting Urgency in Speech with Personalised Acoustic Features
+  title_html: Detecting Urgency in Speech with Personalised Acoustic Features
+  url: http://semdial.org/anthology/Z20-Landesberger_semdial_0027.pdf
+  year: '2020'
+Z20-4028:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Linnea
+    full: Linnea Strand
+    id: linnea-strand
+    last: Strand
+  - first: Robert Rhys
+    full: Robert Rhys Thomas
+    id: robert-rhys-thomas
+    last: Thomas
+  - first: Simon
+    full: Simon Dobnik
+    id: simon-dobnik
+    last: Dobnik
+  - first: Mehdi
+    full: Mehdi Ghanimifard
+    id: mehdi-ghanimifard
+    last: Ghanimifard
+  bibkey: strand-etal-2020-topic
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Short Papers
+  month: July
+  paper_id: '4028'
+  parent_volume_id: Z20-4
+  publisher: SEMDIAL
+  title: Topic Modelling for a Virtual Librarian Assistant Tool
+  title_html: Topic Modelling for a Virtual Librarian Assistant Tool
+  url: http://semdial.org/anthology/Z20-Strand_semdial_0028.pdf
+  year: '2020'
+Z20-4029:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: David
+    full: David Hopes
+    id: david-hopes
+    last: Hopes
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  bibkey: hopes-hough-2020-statistical
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Short Papers
+  month: July
+  paper_id: '4029'
+  parent_volume_id: Z20-4
+  publisher: SEMDIAL
+  title: A Statistical and Machine Learning Investigation into the Effect of Demographic
+    Context on Dialogue Phenomena
+  title_html: A Statistical and Machine Learning Investigation into the Effect of
+    Demographic Context on Dialogue Phenomena
+  url: http://semdial.org/anthology/Z20-Hopes_semdial_0029.pdf
+  year: '2020'
+Z20-4030:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: Vladislav
+    full: Vladislav Maraev
+    id: vladislav-maraev
+    last: Maraev
+  - first: Jean-Philippe
+    full: Jean-Philippe Bernardy
+    id: jean-philippe-bernardy
+    last: Bernardy
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  bibkey: maraev-etal-2020-ldm
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Short Papers
+  month: July
+  paper_id: '4030'
+  parent_volume_id: Z20-4
+  publisher: SEMDIAL
+  title: 'LDM: A Linear Dialogue Manager'
+  title_html: 'LDM: A Linear Dialogue Manager'
+  url: http://semdial.org/anthology/Z20-Maraev_semdial_0030.pdf
+  year: '2020'
+Z20-4031:
+  address: Virtually at Brandeis, Waltham, New Jersey
+  author:
+  - first: John W. Du
+    full: John W. Du Bois
+    id: john-w-du-bois
+    last: Bois
+  - first: Terry
+    full: Terry DuBois
+    id: terry-dubois
+    last: DuBois
+  - first: Georgio
+    full: Georgio Klironomos
+    id: georgio-klironomos
+    last: Klironomos
+  - first: Brady
+    full: Brady Moore
+    id: brady-moore
+    last: Moore
+  bibkey: bois-etal-2020-answer
+  bibtype: inproceedings
+  booktitle_html: Proceedings of the 24th Workshop on the Semantics and Pragmatics
+    of Dialogue - Short Papers
+  month: July
+  paper_id: '4031'
+  parent_volume_id: Z20-4
+  publisher: SEMDIAL
+  title: 'From Answer to Question: Coherence Analysis with Rezonator'
+  title_html: 'From Answer to Question: Coherence Analysis with Rezonator'
+  url: http://semdial.org/anthology/Z20-Bois_semdial_0031.pdf
+  year: '2020'

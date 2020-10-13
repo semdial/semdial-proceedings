@@ -30,6 +30,41 @@ a-kumaran:
   papers: []
   slug: a-kumaran
   venues: []
+a-lascarides:
+  coauthors:
+  - - n-asher
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: A.
+  full: A. Lascarides
+  last: Lascarides
+  papers:
+  - Z12-4019
+  slug: a-lascarides
+  venues:
+  - - SEMDIAL
+    - 1
 aarno-lehtola:
   coauthors: []
   first: Aarno
@@ -530,6 +565,17 @@ akshar-bharati:
   papers: []
   slug: akshar-bharati
   venues: []
+alafate-abulimiti:
+  coauthors: []
+  first: Alafate
+  full: Alafate Abulimiti
+  last: Abulimiti
+  papers:
+  - Z20-3009
+  slug: alafate-abulimiti
+  venues:
+  - - SEMDIAL
+    - 1
 alain-lecomte:
   coauthors: []
   first: Alain
@@ -785,20 +831,40 @@ alex-klassmann:
 alex-lascarides:
   coauthors:
   - - markus-guhe
+    - 3
+  - - nicholas-asher
+    - 3
+  - - stergos-afantenos
+    - 2
+  - - verena-rieser
     - 2
   - - jeremy-perret
     - 1
-  - - stergos-afantenos
-    - 1
-  - - nicholas-asher
-    - 1
   - - mattias-appelgren
+    - 1
+  - - julian-j-schloder
     - 1
   - - kevin-o-connor
     - 1
-  - - verena-rieser
+  - - farah-benamara
     - 1
-  - - julian-j-schloder
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - simon-keizer
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
     - 1
   first: Alex
   full: Alex Lascarides
@@ -809,10 +875,12 @@ alex-lascarides:
   - Z14-3011
   - Z14-3019
   - Z13-3012
+  - Z12-3007
+  - Z12-4029
   slug: alex-lascarides
   venues:
   - - SEMDIAL
-    - 5
+    - 7
 alex-liu:
   coauthors: []
   first: Alex
@@ -992,6 +1060,21 @@ alexandra-lorson:
   papers:
   - Z19-3009
   slug: alexandra-lorson
+  venues:
+  - - SEMDIAL
+    - 1
+alexandra-vorobyova:
+  coauthors:
+  - - luciana-benotti
+    - 1
+  - - frederic-landragin
+    - 1
+  first: Alexandra
+  full: Alexandra Vorobyova
+  last: Vorobyova
+  papers:
+  - Z12-4038
+  slug: alexandra-vorobyova
   venues:
   - - SEMDIAL
     - 1
@@ -1479,15 +1562,18 @@ amy-isard:
   coauthors:
   - - raquel-fernandez
     - 1
+  - - colin-matheson
+    - 1
   first: Amy
   full: Amy Isard
   last: Isard
   papers:
   - Z13-1000
+  - Z12-4027
   slug: amy-isard
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 amy-weinberg:
   coauthors: []
   first: Amy
@@ -1545,13 +1631,44 @@ ana-gonzalez-ledesma:
   slug: ana-gonzalez-ledesma
   venues: []
 anais-cadilhac:
-  coauthors: []
+  coauthors:
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
+    - 1
   first: Anais
   full: Anais Cadilhac
   last: Cadilhac
-  papers: []
+  papers:
+  - Z12-4029
   slug: anais-cadilhac
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 anais-lefeuvre:
   coauthors: []
   first: "Ana\xEFs"
@@ -2062,6 +2179,25 @@ andrew-smith:
   papers: []
   slug: andrew-smith
   venues: []
+andrew-valenti:
+  coauthors:
+  - - ravenna-thielstrom
+    - 1
+  - - michael-gold
+    - 1
+  - - felix-gervits
+    - 1
+  - - matthias-scheutz
+    - 1
+  first: Andrew
+  full: Andrew Valenti
+  last: Valenti
+  papers:
+  - Z20-3023
+  slug: andrew-valenti
+  venues:
+  - - SEMDIAL
+    - 1
 andrew-w-cole:
   coauthors: []
   first: Andrew W.
@@ -2087,16 +2223,20 @@ andrew-y-ng:
   slug: andrew-y-ng
   venues: []
 andy-lucking:
-  coauthors: []
+  coauthors:
+  - - jonathan-ginzburg
+    - 2
   first: Andy
   full: "Andy L\xFCcking"
   last: "L\xFCcking"
   papers:
+  - Z20-3008
+  - Z20-3016
   - Z13-4039
   slug: andy-lucking
   venues:
   - - SEMDIAL
-    - 1
+    - 3
 andy-taylor:
   coauthors:
   - - verena-rieser
@@ -2217,9 +2357,9 @@ anh-duong-trinh:
     - 1
   - - robert-j-ross
     - 1
-  - - john-d-kelleher
-    - 1
   - - robert-j-ross1
+    - 1
+  - - john-d-kelleher
     - 1
   first: Anh Duong
   full: Anh Duong Trinh
@@ -2392,13 +2532,24 @@ annalu-waller:
   slug: annalu-waller
   venues: []
 anne-abeille:
-  coauthors: []
+  coauthors:
+  - - benoit-crabbe1
+    - 1
+  - - daniele-godard-jean-marie-marandin
+    - 1
   first: Anne
   full: "Anne Abeill\xE9"
   last: "Abeill\xE9"
-  papers: []
+  papers:
+  - Z12-3011
   slug: anne-abeille
-  venues: []
+  variant_entries:
+  - first: Anne
+    full: Anne Abeille
+    last: Abeille
+  venues:
+  - - SEMDIAL
+    - 1
 anne-de-roeck:
   coauthors: []
   first: Anne
@@ -2816,6 +2967,25 @@ antonio-rincon:
   papers: []
   slug: antonio-rincon
   venues: []
+antonio-roque:
+  coauthors:
+  - - matthew-marge
+    - 1
+  - - felix-gervits
+    - 1
+  - - gordon-briggs
+    - 1
+  - - matthias-scheutz
+    - 1
+  first: Antonio
+  full: Antonio Roque
+  last: Roque
+  papers:
+  - Z20-3006
+  slug: antonio-roque
+  venues:
+  - - SEMDIAL
+    - 1
 antonio-s-valderrabanos:
   coauthors: []
   first: Antonio S.
@@ -2916,31 +3086,38 @@ arash-eshghi:
   - - oliver-lemon
     - 5
   - - christine-howes
-    - 2
+    - 3
   - - julian-hough
+    - 3
+  - - eleni-gregoromichelaki
+    - 2
+  - - ruth-kempson
+    - 2
+  - - mehrnoosh-sadrzadeh
+    - 2
+  - - matthew-purver
     - 2
   - - igor-shalyminov
     - 2
   - - yanchao-yu
     - 2
-  - - eleni-gregoromichelaki
-    - 1
-  - - ruth-kempson
-    - 1
-  - - mehrnoosh-sadrzadeh
-    - 1
-  - - matthew-purver
-    - 1
   - - gijs-wijnholds
     - 1
   - - vladislav-maraev
     - 1
   - - chiara-mazzocconi
     - 1
+  - - stergios-chatzikyriakidis
+    - 1
+  - - jieun-kiaer
+    - 1
+  - - graham-white
+    - 1
   first: Arash
   full: Arash Eshghi
   last: Eshghi
   papers:
+  - Z20-3022
   - Z19-4025
   - Z19-4034
   - Z18-3008
@@ -2952,7 +3129,7 @@ arash-eshghi:
   slug: arash-eshghi
   venues:
   - - SEMDIAL
-    - 8
+    - 9
 arash-eshghi1:
   coauthors:
   - - yanchao-yu

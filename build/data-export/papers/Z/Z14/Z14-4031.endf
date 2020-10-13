@@ -1,5 +1,5 @@
-%0 Conference Proceedings
-%T Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile Platforms for Evaluation ?In the Wild?
+﻿%0 Conference Proceedings
+%T Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile Platforms for Evaluation “In the Wild”
 %A Hastie, Helen
 %A Aufaure, Marie-Aude
 %A Alexopoulos, Panos
@@ -20,7 +20,7 @@
 %A Yazdani, Majid
 %A Young, Steve
 %A Yu, Yanchao
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL

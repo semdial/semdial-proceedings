@@ -1,0 +1,997 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="khalid-etal-2020-discourse">
+    <titleInfo>
+        <title>Discourse Coherence, Reference Grounding and Goal Oriented Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Baber</namePart>
+        <namePart type="family">Khalid</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Malihe</namePart>
+        <namePart type="family">Alikhani</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Fellner</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Brian</namePart>
+        <namePart type="family">McMahan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Stone</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">khalid-etal-2020-discourse</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Khalid_semdial_0004.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="del-bosque-trevino-etal-2020-investigating">
+    <titleInfo>
+        <title>Investigating the Semantic Wave in Tutorial Dialogues: An Annotation Scheme and Corpus Study on Analogy Components</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jorge</namePart>
+        <namePart type="family">Del-Bosque-Trevino</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">del-bosque-trevino-etal-2020-investigating</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Del-Bosque-Trevino_semdial_0005.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="marge-etal-2020-first">
+    <titleInfo>
+        <title>Let’s do that first! A Comparative Analysis of Instruction-Giving in Human-Human and Human-Robot Situated Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Marge</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Felix</namePart>
+        <namePart type="family">Gervits</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gordon</namePart>
+        <namePart type="family">Briggs</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthias</namePart>
+        <namePart type="family">Scheutz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Antonio</namePart>
+        <namePart type="family">Roque</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">marge-etal-2020-first</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Marge_semdial_0006.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="balaraman-magnini-2020-pro">
+    <titleInfo>
+        <title>Pro-Active Systems and Influenceable Users: Simulating Pro-Activity in Task-oriented Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Vevake</namePart>
+        <namePart type="family">Balaraman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Bernardo</namePart>
+        <namePart type="family">Magnini</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">balaraman-magnini-2020-pro</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Balaraman_semdial_0007.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="ginzburg-lucking-2020-laughter">
+    <titleInfo>
+        <title>On Laughter and Forgetting and Reconversing: A Neurologically-Inspired Model of Conversational Context</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Andy</namePart>
+        <namePart type="family">Lücking</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ginzburg-lucking-2020-laughter</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Ginzburg_semdial_0008.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="abulimiti-2020-different">
+    <titleInfo>
+        <title>Different Games in Dialogue: Combining Character and Conversational Types in Strategic Choice</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Alafate</namePart>
+        <namePart type="family">Abulimiti</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">abulimiti-2020-different</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Abulimiti_semdial_0009.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="schlangen-2020-outline">
+    <titleInfo>
+        <title>An Outline of a Model of Situated Discourse Representation and Processing</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">Schlangen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">schlangen-2020-outline</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Schlangen_semdial_0010.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="moro-etal-2020-semantics">
+    <titleInfo>
+        <title>Semantics with Feeling: Emotions for Abstract Embedding, Affect for Concrete Grounding</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Daniele</namePart>
+        <namePart type="family">Moro</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Gerardo</namePart>
+        <namePart type="family">Caracas</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="family">McNeill</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Casey</namePart>
+        <namePart type="family">Kennington</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">moro-etal-2020-semantics</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Moro_semdial_0011.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="mache-2020-overcoming">
+    <titleInfo>
+        <title>Overcoming Distances – The Usage of Calling Contours to Initiate Dialogues</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Jakob</namePart>
+        <namePart type="family">Maché</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">mache-2020-overcoming</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Mache_semdial_0012.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="gurion-etal-2020-comparing">
+    <titleInfo>
+        <title>Comparing Models of Speakers’ and Listeners’ Head Nods</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Tom</namePart>
+        <namePart type="family">Gurion</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Patrick</namePart>
+        <namePart type="family">Healey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gurion-etal-2020-comparing</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Gurion_semdial_0013.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="clausen-scheffler-2020-commitments">
+    <titleInfo>
+        <title>Commitments in German Tag Questions: An Experimental Study</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Yulia</namePart>
+        <namePart type="family">Clausen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Tatjana</namePart>
+        <namePart type="family">Scheffler</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">clausen-scheffler-2020-commitments</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Clausen_semdial_0014.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="fuscone-etal-2020-contribution">
+    <titleInfo>
+        <title>The Contribution of Dialogue Act Labels for Convergence Studies in Natural Conversations</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Simone</namePart>
+        <namePart type="family">Fuscone</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Benoit</namePart>
+        <namePart type="family">Favre</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Laurent</namePart>
+        <namePart type="family">Prvot</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">fuscone-etal-2020-contribution</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Fuscone_semdial_0015.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="lucking-ginzburg-2020-towards">
+    <titleInfo>
+        <title>Towards the Score of Communication</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Andy</namePart>
+        <namePart type="family">Lücking</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">lucking-ginzburg-2020-towards</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Luecking_semdial_0016.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="haber-poesio-2020-classification">
+    <titleInfo>
+        <title>Classification of Low-Agreement Pronouns Through Collaborative Dialogue: A Proof of Concept</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Janosch</namePart>
+        <namePart type="family">Haber</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Massimo</namePart>
+        <namePart type="family">Poesio</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">haber-poesio-2020-classification</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Haber_semdial_0017.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="breitholtz-howes-2020-communicable">
+    <titleInfo>
+        <title>Communicable Reasons: How Children Learn Topoi Through Dialogue</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Ellen</namePart>
+        <namePart type="family">Breitholtz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">breitholtz-howes-2020-communicable</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Breitholtz_semdial_0018.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="larsson-2020-extensions">
+    <titleInfo>
+        <title>Extensions Are Indeterminate if Intensions Are Classifiers</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Staffan</namePart>
+        <namePart type="family">Larsson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">larsson-2020-extensions</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Larsson_semdial_0019.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="boritchev-amblard-2020-yet">
+    <titleInfo>
+        <title>There Is As Yet Insufficient Data for a Meaningful Answer</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Maria</namePart>
+        <namePart type="family">Boritchev</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Maxime</namePart>
+        <namePart type="family">Amblard</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">boritchev-amblard-2020-yet</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Boritchev_semdial_0020.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="chatzikyriakidis-2020-dialogue">
+    <titleInfo>
+        <title>Dialogue Informing Syntax/Semantics: The Case of Afterthoughts</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Stergios</namePart>
+        <namePart type="family">Chatzikyriakidis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">chatzikyriakidis-2020-dialogue</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Chatzikyriakidis_semdial_0021.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="gregoromichelaki-etal-2020-affordance">
+    <titleInfo>
+        <title>Affordance Competition in Dialogue: The Case of Syntactic Universals</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Eleni</namePart>
+        <namePart type="family">Gregoromichelaki</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Stergios</namePart>
+        <namePart type="family">Chatzikyriakidis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Arash</namePart>
+        <namePart type="family">Eshghi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Julian</namePart>
+        <namePart type="family">Hough</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Christine</namePart>
+        <namePart type="family">Howes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ruth</namePart>
+        <namePart type="family">Kempson</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jieun</namePart>
+        <namePart type="family">Kiaer</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthew</namePart>
+        <namePart type="family">Purver</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Mehrnoosh</namePart>
+        <namePart type="family">Sadrzadeh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Graham</namePart>
+        <namePart type="family">White</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">gregoromichelaki-etal-2020-affordance</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Gregoromichelaki_semdial_0022.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="valenti-etal-2020-multi">
+    <titleInfo>
+        <title>A Multi-level Framework for Understanding Spoken Dialogue Using Topic Detection</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Andrew</namePart>
+        <namePart type="family">Valenti</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Ravenna</namePart>
+        <namePart type="family">Thielstrom</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Michael</namePart>
+        <namePart type="family">Gold</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Felix</namePart>
+        <namePart type="family">Gervits</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Matthias</namePart>
+        <namePart type="family">Scheutz</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">valenti-etal-2020-multi</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Valenti_semdial_0023.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+<mods ID="ciroux-2020-say">
+    <titleInfo>
+        <title>How to Say Things with Hand Gestures</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sandy</namePart>
+        <namePart type="family">Ciroux</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</title>
+        </titleInfo>
+        <originInfo>
+            <publisher>SEMDIAL</publisher>
+            <place>
+                <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">conference publication</genre>
+    </relatedItem>
+    <identifier type="citekey">ciroux-2020-say</identifier>
+    <location>
+        <url>http://semdial.org/anthology/Z20-Ciroux_semdial_0024.pdf</url>
+    </location>
+    <part>
+        <date>2020-jul</date>
+    </part>
+</mods>
+</modsCollection>

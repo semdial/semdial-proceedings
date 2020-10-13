@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="semdial-2020-semantics">
+    <titleInfo>
+        <title>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Sophia</namePart>
+        <namePart type="family">Malamud</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">James</namePart>
+        <namePart type="family">Pustejovsky</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Jonathan</namePart>
+        <namePart type="family">Ginzburg</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2020-jul</dateIssued>
+        <publisher>SEMDIAL</publisher>
+        <place>
+            <placeTerm type="text">Virtually at Brandeis, Waltham, New Jersey</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">conference publication</genre>
+    <identifier type="citekey">semdial-2020-semantics</identifier>
+    <location>
+        <url>http://semdial.org/anthology/semdial2020_watchdial_front_matter.pdf</url>
+    </location>
+</mods>
+</modsCollection>

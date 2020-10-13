@@ -332,10 +332,10 @@ Z19-3013:
   paper_id: '3013'
   parent_volume_id: Z19-3
   publisher: SEMDIAL
-  title: "A Corpus Study on Questions, Responses and Misunderstanding Signals in Conversations\
-    \ with Alzheimer\u2019s Patients"
-  title_html: "A Corpus Study on Questions, Responses and Misunderstanding Signals\
-    \ in Conversations with Alzheimer\u2019s Patients"
+  title: "A Corpus Study on Questions, Responses and Misunderstanding Signals in Conversations
+    with Alzheimer\u2019s Patients"
+  title_html: "A Corpus Study on Questions, Responses and Misunderstanding Signals
+    in Conversations with Alzheimer\u2019s Patients"
   url: http://semdial.org/anthology/Z19-Nasreen_semdial_0013.pdf
   year: '2019'
 Z19-3014:
@@ -359,7 +359,7 @@ Z19-3014:
   publisher: SEMDIAL
   title: How to Reject What in Dialogue
   title_html: How to Reject What in Dialogue
-  url: "http://semdial.org/anthology/Z19-Schl\xF6der_semdial_0014.pdf"
+  url: http://semdial.org/anthology/Z19-Schlder_semdial_0014.pdf
   year: '2019'
 Z19-3015:
   address: London, United Kingdom
@@ -995,7 +995,7 @@ Z19-4036:
   publisher: SEMDIAL
   title: Interactive Visual Grounding with Neural Networks
   title_html: Interactive Visual Grounding with Neural Networks
-  url: "http://semdial.org/anthology/Z19-Sant\xEDn_semdial_0036.pdf"
+  url: http://semdial.org/anthology/Z19-Santn_semdial_0036.pdf
   year: '2019'
 Z19-4037:
   address: London, United Kingdom

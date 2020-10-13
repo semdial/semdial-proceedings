@@ -1,6 +1,6 @@
-%0 Conference Proceedings
-%T MILLA ? A Multimodal Interactive Language Learning Agent
-%A Cabral, Jo�o Paulo
+﻿%0 Conference Proceedings
+%T MILLA – A Multimodal Interactive Language Learning Agent
+%A Cabral, João Paulo
 %A Campbell, Nick
 %A Ganesh, Sree
 %A Kheirkhah, Mina
@@ -8,10 +8,10 @@
 %A Haider, Fasih
 %A Kenny, Eamonn
 %A Murphy, Andrew
-%A Chiar�in, Neasa N�
+%A Chiaráin, Neasa Ní
 %A Pellegrini, Thomas
 %A Orozko, Odei Rey
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -26,7 +26,7 @@
 %A Frank, Cornelia
 %A Schlangen, David
 %A Kopp, Stefan
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -41,7 +41,7 @@
 %A Hastie, Helen
 %A Rieser, Verena
 %A Lemon, Oliver
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -53,7 +53,7 @@
 %T Learning to manage risks in non-cooperative dialogues
 %A Efstathiou, Ioannis
 %A Lemon, Oliver
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -67,7 +67,7 @@
 %A Schlangen, David
 %A Tian, Ye
 %A Hough, Julian
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -79,7 +79,7 @@
 %T Hearer Engagement as a Variable in the Perceived Weight of a Face-Threatening Act
 %A Glas, Nadine
 %A Pelachaud, Catherine
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -90,8 +90,8 @@
 %0 Conference Proceedings
 %T Assessing the Impact of Local Adaptation in Child-Adult Dialogue: A Recurrence-Quantificational Approach
 %A Grimm, Robert
-%A Fern�ndez, Raquel
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%A Fernández, Raquel
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -104,7 +104,7 @@
 %A Hahn, Florian
 %A Lawler, Insa
 %A Rieser, Hannes
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -113,11 +113,11 @@
 %U http://semdial.org/anthology/Z14-Hahn_semdial_0029.pdf
 
 %0 Conference Proceedings
-%T Towards Automatic Understanding of ?Virtual Pointing? in Interaction
+%T Towards Automatic Understanding of ‘Virtual Pointing’ in Interaction
 %A Han, Ting
 %A Kousidis, Spyros
 %A Schlangen, David
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -126,7 +126,7 @@
 %U http://semdial.org/anthology/Z14-Han_semdial_0030.pdf
 
 %0 Conference Proceedings
-%T Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile Platforms for Evaluation ?In the Wild?
+%T Two Alternative Frameworks for Deploying Spoken Dialogue Systems to Mobile Platforms for Evaluation “In the Wild”
 %A Hastie, Helen
 %A Aufaure, Marie-Aude
 %A Alexopoulos, Panos
@@ -147,7 +147,7 @@
 %A Yazdani, Majid
 %A Young, Steve
 %A Yu, Yanchao
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -160,7 +160,7 @@
 %A Ikoro, Gibson
 %A Mondragon, Raul
 %A White, Graham
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -176,7 +176,7 @@
 %A Tian, Hao
 %A Wu, Hua
 %A Wang, Haifeng
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -192,7 +192,7 @@
 %A Enomoto, Mika
 %A Den, Yasuharu
 %A Okada, Shogo
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -205,7 +205,7 @@
 %A Kennington, Casey
 %A Kousidis, Spyros
 %A Schlangen, David
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -219,7 +219,7 @@
 %A Alacam, Ozge
 %A Habel, Christopher
 %A Acarturk, Cengiz
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -232,7 +232,7 @@
 %A Larsson, Staffan
 %A Dobnik, Simon
 %A Berlin, Sebastian
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -244,7 +244,7 @@
 %T Common Ground and Joint Utterance Production: Evidence from the Word Chain Task
 %A Lelonkiewicz, Jaroslaw
 %A Gambi, Chiara
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -255,7 +255,7 @@
 %0 Conference Proceedings
 %T Language-bound Dialogic elements in Computer-Mediated and Face-to-Face Communication
 %A Lewandowska-Tomaszczyk, Barbara
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -271,7 +271,7 @@
 %A Deshmukh, Amol
 %A Hastie, Helen
 %A Aylett, Ruth
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -284,7 +284,7 @@
 %A Main, Callum
 %A Wang, Zhuoran
 %A Rieser, Verena
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -298,7 +298,7 @@
 %A Vale, Daniel Couto
 %A Falomir, Zoe
 %A Elahi, Mohammad Fazleh
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -312,7 +312,7 @@
 %A Green, Sam
 %A Tian, Ye
 %A Addyman, Caspar
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -325,7 +325,7 @@
 %A Nazarian, Angela
 %A Nouri, Elnaz
 %A Traum, David
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -337,7 +337,7 @@
 %T Towards Generating Route Instructions Under Uncertainty: A Corpus Study
 %A Rieser, Verena
 %A Curry, Amanda Cercas
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -352,7 +352,7 @@
 %A Taylor, Andy
 %A Yu, Yanchao
 %A Lemon, Oliver
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -362,9 +362,9 @@
 
 %0 Conference Proceedings
 %T Clarification Requests at the Level of Uptake
-%A Schl�der, Julian
-%A Fern�ndez, Raquel
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%A Schlöder, Julian
+%A Fernández, Raquel
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -378,7 +378,7 @@
 %A Tenbrink, Thora
 %A Coventry, Kenny
 %A Andonova, Elena
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -391,7 +391,7 @@
 %A Schuette, Niels
 %A Kelleher, John
 %A Namee, Brian Mac
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -405,7 +405,7 @@
 %A Wang, Zhuoran
 %A Rieser, Verena
 %A Lemon, Oliver
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -417,7 +417,7 @@
 %T PDRT-SANDBOX: An implementation of Projective Discourse Representation Theory
 %A Venhuizen, Noortje
 %A Brouwer, Harm
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -430,7 +430,7 @@
 %A Vourliotakis, Aimilios
 %A Efstathiou, Ioannis
 %A Rieser, Verena
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL
@@ -441,7 +441,7 @@
 %0 Conference Proceedings
 %T User Satisfaction without Task Completion
 %A Wallis, Peter
-%B Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 18th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2014
 %8 aug
 %I SEMDIAL

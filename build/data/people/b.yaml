@@ -1,3 +1,22 @@
+baber-khalid:
+  coauthors:
+  - - malihe-alikhani
+    - 1
+  - - michael-fellner
+    - 1
+  - - brian-mcmahan
+    - 1
+  - - matthew-stone
+    - 1
+  first: Baber
+  full: Baber Khalid
+  last: Khalid
+  papers:
+  - Z20-3004
+  slug: baber-khalid
+  venues:
+  - - SEMDIAL
+    - 1
 baiba-saulite:
   coauthors: []
   first: Baiba
@@ -295,6 +314,25 @@ beatrice-oshika:
   papers: []
   slug: beatrice-oshika
   venues: []
+beatrice-priego-valverde:
+  coauthors:
+  - - helen-k-y-chen
+    - 1
+  - - laurent-prevot
+    - 1
+  - - roxane-bertrand
+    - 1
+  - - philippe-blache
+    - 1
+  first: Beatrice
+  full: Beatrice Priego-Valverde
+  last: Priego-Valverde
+  papers:
+  - Z12-4020
+  slug: beatrice-priego-valverde
+  venues:
+  - - SEMDIAL
+    - 1
 beatrice-santorini:
   coauthors: []
   first: Beatrice
@@ -415,20 +453,38 @@ benoit-crabbe:
   papers: []
   slug: benoit-crabbe
   venues: []
+benoit-crabbe1:
+  coauthors:
+  - - anne-abeille
+    - 1
+  - - daniele-godard-jean-marie-marandin
+    - 1
+  first: Benoit
+  full: Benoit Crabbe
+  last: Crabbe
+  papers:
+  - Z12-3011
+  slug: benoit-crabbe1
+  venues:
+  - - SEMDIAL
+    - 1
 benoit-favre:
   coauthors:
+  - - simone-fuscone
+    - 2
   - - laurent-prevot
     - 1
   - - magalie-ochs
     - 1
-  - - simone-fuscone
-    - 1
   - - laurent-pr-evot
+    - 1
+  - - laurent-prvot
     - 1
   first: Benoit
   full: Benoit Favre
   last: Favre
   papers:
+  - Z20-3015
   - Z18-1000
   - Z18-4026
   slug: benoit-favre
@@ -438,7 +494,7 @@ benoit-favre:
     last: Favre
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 benoit-gaillard:
   coauthors: []
   first: Benoit
@@ -571,13 +627,18 @@ bernardino-casas:
   slug: bernardino-casas
   venues: []
 bernardo-magnini:
-  coauthors: []
+  coauthors:
+  - - vevake-balaraman
+    - 1
   first: Bernardo
   full: Bernardo Magnini
   last: Magnini
-  papers: []
+  papers:
+  - Z20-3007
   slug: bernardo-magnini
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 bernd-kiefer:
   coauthors:
   - - ivana-kruijff-korbayova
@@ -903,9 +964,12 @@ bonnie-webber:
   first: Bonnie
   full: Bonnie Webber
   last: Webber
-  papers: []
+  papers:
+  - Z20-2001
   slug: bonnie-webber
-  venues: []
+  venues:
+  - - SEMDIAL
+    - 1
 bor-shen-lin:
   coauthors: []
   first: Bor-Shen
@@ -995,6 +1059,42 @@ boyan-onyshkevych:
   papers: []
   slug: boyan-onyshkevych
   venues: []
+brady-clark:
+  coauthors:
+  - - hannah-rohde
+    - 1
+  - - scott-seyfarth
+    - 1
+  - - gerhard-jaeger
+    - 1
+  - - stefan-kaufmann
+    - 1
+  first: Brady
+  full: Brady Clark
+  last: Clark
+  papers:
+  - Z12-3015
+  slug: brady-clark
+  venues:
+  - - SEMDIAL
+    - 1
+brady-moore:
+  coauthors:
+  - - john-w-du-bois
+    - 1
+  - - terry-dubois
+    - 1
+  - - georgio-klironomos
+    - 1
+  first: Brady
+  full: Brady Moore
+  last: Moore
+  papers:
+  - Z20-4031
+  slug: brady-moore
+  venues:
+  - - SEMDIAL
+    - 1
 brage-ekroll-jahren:
   coauthors: []
   first: Brage Ekroll
@@ -1084,19 +1184,26 @@ brian-mac-namee:
     - 1
 brian-mcmahan:
   coauthors:
+  - - matthew-stone
+    - 2
   - - timothy-meo
     - 1
-  - - matthew-stone
+  - - baber-khalid
+    - 1
+  - - malihe-alikhani
+    - 1
+  - - michael-fellner
     - 1
   first: Brian
   full: Brian McMahan
   last: McMahan
   papers:
+  - Z20-3004
   - Z14-3016
   slug: brian-mcmahan
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 brian-mitchell:
   coauthors: []
   first: Brian
@@ -1155,15 +1262,22 @@ britta-wrede:
     - 1
   - - angelo-cangelosi
     - 1
+  - - julia-peltason
+    - 1
+  - - hannes-rieser
+    - 1
+  - - sven-wachsmuth
+    - 1
   first: Britta
   full: Britta Wrede
   last: Wrede
   papers:
   - Z13-4046
+  - Z12-4035
   slug: britta-wrede
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 britta-zeller:
   coauthors: []
   first: Britta

@@ -1,7 +1,7 @@
-%0 Conference Proceedings
+﻿%0 Conference Proceedings
 %T Demand Characteristics as a Tool for Evaluating the Design of Collaborative Tasks
 %A Baggs, Ed
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -12,7 +12,7 @@
 %0 Conference Proceedings
 %T Update conditions and intensionality in a type-theoretic approach to dialogue semantics
 %A Copper, Robin
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -25,7 +25,7 @@
 %A Duan, Manjuan
 %A Elsner, Micha
 %A Marneffe, Marie-Catherine de
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -37,7 +37,7 @@
 %T People hesitate more, talk less to virtual interviewers than to human interviewers
 %A Faust, Fauren
 %A Artstein, Ron
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -48,8 +48,8 @@
 %0 Conference Proceedings
 %T On the use of social signal for reward shaping in reinforcement learning for dialogue management
 %A Ferreira, Emmanuel
-%A Lef�vre, Fabrice
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%A Lefèvre, Fabrice
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -60,10 +60,10 @@
 %0 Conference Proceedings
 %T When Apples Mean Oranges: Lexical De-Entrainment and Alignment Theories
 %A Freihorst, Christina
-%A Algorta, Sim�n
+%A Algorta, Simón
 %A Mast, Vivien
 %A Porzel, Robert
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -75,7 +75,7 @@
 %T The earliest utterances in dialogue: towards a formal theory of parent/child talk in interaction
 %A Ginzburg, Jonathan
 %A Moradlou, Sara
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -88,7 +88,7 @@
 %A Goodhue, Daniel
 %A Pickett, James
 %A Wagner, Michael
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -100,9 +100,9 @@
 %T Effects of Belief and Memory on Strategic Negotiation
 %A Guhe, Markus
 %A Lascarides, Alex
-%A O?Connor, Kevin
+%A O’Connor, Kevin
 %A Rieser, Verena
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -114,7 +114,7 @@
 %T Modelling Expectation in the Self-Repair Processing of Annotat-, um, Listeners
 %A Hough, Julian
 %A Purver, Matthew
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -124,23 +124,23 @@
 
 %0 Conference Proceedings
 %T Be Open To Computer Based Coaching
-%A M�urer, Daniel
+%A Mäurer, Daniel
 %A Bruns, Anna
 %A Weihe, Karsten
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
 %C Amsterdam, The Netherlands
 %F maurer-etal-2013-open
-%U http://semdial.org/anthology/Z13-M�?urer_semdial_0014.pdf
+%U http://semdial.org/anthology/Z13-Mäurer_semdial_0014.pdf
 
 %0 Conference Proceedings
-%T If you repeat your interlocutor?s syntactic structure, you are likely to repeat her pronunciation, too
+%T If you repeat your interlocutor’s syntactic structure, you are likely to repeat her pronunciation, too
 %A Postma-Nilsenova, Marie
 %A Mol, Lisette
 %A Kamoen, Naomi
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -153,7 +153,7 @@
 %A Rohlfing, Katharina
 %A Poblete, Juana Salas
 %A Joublin, Frank
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -164,7 +164,7 @@
 %0 Conference Proceedings
 %T The Roadsigns of Communication
 %A Rojas-Esponda, Tania
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -177,7 +177,7 @@
 %A Wagner, Michael
 %A McClay, Elise
 %A Mak, Lauren
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -186,9 +186,9 @@
 %U http://semdial.org/anthology/Z13-Wagner_semdial_0018.pdf
 
 %0 Conference Proceedings
-%T ?Attention, I?m violating a maxim!? A unifying account of the final rise
+%T ‘Attention, I’m violating a maxim!’ A unifying account of the final rise
 %A Westera, Matthijs
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL
@@ -205,7 +205,7 @@
 %A Stratou, Giota
 %A Morency, Louis-Philippe
 %A Cassell, Justine
-%B Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 17th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2013
 %8 dec
 %I SEMDIAL

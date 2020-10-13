@@ -31,6 +31,21 @@ udo-kruschwitz:
   papers: []
   slug: udo-kruschwitz
   venues: []
+ulrich-heid:
+  coauthors:
+  - - daniela-stier
+    - 1
+  - - wolfgang-minker
+    - 1
+  first: Ulrich
+  full: Ulrich Heid
+  last: Heid
+  papers:
+  - Z20-4025
+  slug: ulrich-heid
+  venues:
+  - - SEMDIAL
+    - 1
 ulrich-schafer:
   coauthors: []
   first: Ulrich
@@ -115,17 +130,18 @@ usman-sohail:
 ute-ehrlich:
   coauthors:
   - - jakob-landesberger
-    - 2
+    - 3
   first: Ute
   full: Ute Ehrlich
   last: Ehrlich
   papers:
+  - Z20-4027
   - Z19-4028
   - Z18-4032
   slug: ute-ehrlich
   venues:
   - - SEMDIAL
-    - 2
+    - 3
 ute-ziegenhain:
   coauthors: []
   first: Ute

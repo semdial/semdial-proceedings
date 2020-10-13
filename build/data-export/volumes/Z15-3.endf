@@ -1,9 +1,9 @@
-%0 Conference Proceedings
+﻿%0 Conference Proceedings
 %T Taking a stance: A corpus study of reported speech
 %A Concannon, Shauna
 %A Healey, Pat
 %A Purver, Matthew
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -16,7 +16,7 @@
 %A Concannon, Shauna
 %A Healey, Pat
 %A Purver, Matthew
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -29,7 +29,7 @@
 %A Dobnik, Simon
 %A Howes, Christine
 %A Kelleher, John
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -38,10 +38,10 @@
 %U http://semdial.org/anthology/Z15-Dobnik_semdial_0006.pdf
 
 %0 Conference Proceedings
-%T Learning non-cooperative dialogue policies to beat opponent models: ?The good, the bad and the ugly?
+%T Learning non-cooperative dialogue policies to beat opponent models: “The good, the bad and the ugly”
 %A Efstathiou, Ioannis
 %A Lemon, Oliver
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -52,7 +52,7 @@
 %0 Conference Proceedings
 %T Exploring age-related conversational interaction
 %A Geertzen, Jeroen
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -65,7 +65,7 @@
 %A Glas, Nadine
 %A Prepin, Ken
 %A Pelachaud, Catherine
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -78,7 +78,7 @@
 %A Han, Ting
 %A Kennington, Casey
 %A Schlangen, David
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -93,7 +93,7 @@
 %A Higashinaka, Ryuichiro
 %A Makino, Toshiro
 %A Matsuo, Yoshihiro
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -104,7 +104,7 @@
 %0 Conference Proceedings
 %T How far can we deviate from the performative formula?
 %A Hofmann, Lisa
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -118,7 +118,7 @@
 %A Kok, Iwan de
 %A Schlangen, David
 %A Kopp, Stefan
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -131,9 +131,9 @@
 %A Hunter, Julie
 %A Asher, Nicholas
 %A Kow, Eric
-%A Perret, J�r�my
+%A Perret, Jérémy
 %A Afantenos, Stergos
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -144,9 +144,9 @@
 %0 Conference Proceedings
 %T Learning trade negotiation policies in strategic conversation
 %A Keizer, Simon
-%A Cuay�huitl, Heriberto
+%A Cuayáhuitl, Heriberto
 %A Lemon, Oliver
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -159,7 +159,7 @@
 %A Manuvinakurike, Ramesh
 %A Paetzel, Maike
 %A Devault, David
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -170,7 +170,7 @@
 %0 Conference Proceedings
 %T When hands talk to mouth: Gesture and speech as autonomous communicating processes
 %A Rieser, Hannes
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -180,9 +180,9 @@
 
 %0 Conference Proceedings
 %T Interpreting English pitch contours in context
-%A Schl�der, Julian
+%A Schlöder, Julian
 %A Lascarides, Alex
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -191,11 +191,11 @@
 %U http://semdial.org/anthology/Z15-Schlöder_semdial_0018.pdf
 
 %0 Conference Proceedings
-%T ?Hand me the yellow stapler? or ?hand me the yellow dress?: Colour overspecification depends on object category
+%T “Hand me the yellow stapler” or “hand me the yellow dress”: Colour overspecification depends on object category
 %A Tarenskeen, Sammie
 %A Broersma, Mirjam
 %A Geurts, Bart
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL
@@ -209,7 +209,7 @@
 %A Beyssade, Claire
 %A Mathieu, Yannick
 %A Ginzburg, Jonathan
-%B Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 19th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2015
 %8 aug
 %I SEMDIAL

@@ -20,14 +20,14 @@
     </name>
     <name type="personal">
         <namePart type="given">Susan</namePart>
-        <namePart type="family">C.~Bobb</namePart>
+        <namePart type="family">C. Bobb</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
     </name>
     <name type="personal">
         <namePart type="given">Eve</namePart>
-        <namePart type="family">V.~Clark</namePart>
+        <namePart type="family">V. Clark</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>
@@ -41,7 +41,7 @@
     </name>
     <name type="personal">
         <namePart type="given">Stephen</namePart>
-        <namePart type="family">C.~Levinson</namePart>
+        <namePart type="family">C. Levinson</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>

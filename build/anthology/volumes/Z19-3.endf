@@ -1,8 +1,8 @@
-%0 Conference Proceedings
+Ôªø%0 Conference Proceedings
 %T Coherence, Symbol Grounding and Interactive Task Learning
 %A Appelgren, Mattias
 %A Lascarides, Alex
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -14,9 +14,9 @@
 %T The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game
 %A Testoni, Alberto
 %A Shekhar, Ravi
-%A Fern·ndez, Raquel
+%A Fern√°ndez, Raquel
 %A Bernardi, Raffaella
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -27,9 +27,9 @@
 %0 Conference Proceedings
 %T Meet Up! A Corpus of Joint Activity Dialogues in a Visual Environment
 %A Ilinykh, Nikolai
-%A Zarrieﬂ, Sina
+%A Zarrie√ü, Sina
 %A Schlangen, David
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -41,7 +41,7 @@
 %T A Sigh of Positivity: An Annotation Scheme for Sighs in Dialogue
 %A Cash, Christopher
 %A Ginzburg, Jonathan
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -53,7 +53,7 @@
 %T Posture Shifts in Conversation: An Exploratory Study with Textile Sensors
 %A Skach, Sophie
 %A Healey, Patrick G. T.
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -66,7 +66,7 @@
 %A Lorson, Alexandra
 %A Cummins, Chris
 %A Rohde, Hannah
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -77,7 +77,7 @@
 %0 Conference Proceedings
 %T Implicatures in Continuation-based Dynamic Semantics
 %A Verity, Florrie
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -89,7 +89,7 @@
 %T A Framework for Annotating Co-working Dialogues in Complex Task Settings
 %A Barker, Emma
 %A Gaizauskas, Robert
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -102,7 +102,7 @@
 %A Howes, Christine
 %A Bondarenko, Anastasia
 %A Larsson, Staffan
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -111,11 +111,11 @@
 %U http://semdial.org/anthology/Z19-Howes_semdial_0012.pdf
 
 %0 Conference Proceedings
-%T A Corpus Study on Questions, Responses and Misunderstanding Signals in Conversations with Alzheimer?s Patients
+%T A Corpus Study on Questions, Responses and Misunderstanding Signals in Conversations with Alzheimer‚Äôs Patients
 %A Nasreen, Shamila
 %A Purver, Matthew
 %A Hough, Julian
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -125,20 +125,20 @@
 
 %0 Conference Proceedings
 %T How to Reject What in Dialogue
-%A Schlˆder, Julian
-%A Fern·ndez, Raquel
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%A Schl√∂der, Julian
+%A Fern√°ndez, Raquel
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
 %C London, United Kingdom
 %F schloder-fernandez-2019-reject
-%U http://semdial.org/anthology/Z19-Schl√∂der_semdial_0014.pdf
+%U http://semdial.org/anthology/Z19-Schlder_semdial_0014.pdf
 
 %0 Conference Proceedings
 %T The Status of Main Point Complement Clauses
 %A Simons, Mandy
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -150,7 +150,7 @@
 %T How to Put an Elephant in the Title: Modeling Humorous Incongruity with Topoi
 %A Breitholtz, Ellen
 %A Maraev, Vladislav
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -162,7 +162,7 @@
 %T Co-ordination of Head Nods: Asymmetries between Speakers and Listeners
 %A Zhang, Leshao
 %A Healey, Patrick G. T.
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -176,7 +176,7 @@
 %A Gordon, Carla
 %A Artstein, Ron
 %A Traum, David
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL
@@ -191,7 +191,7 @@
 %A Okur, Eda
 %A Syed, Haroon
 %A Nachman, Lama
-%B Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
+%S Proceedings of the 23rd Workshop on the Semantics and Pragmatics of Dialogue - Full Papers
 %D 2019
 %8 sep
 %I SEMDIAL

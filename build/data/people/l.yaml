@@ -14,6 +14,41 @@ l-venkata-subramaniam:
   papers: []
   slug: l-venkata-subramaniam
   venues: []
+l-vieu:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - v-rieser
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: L.
+  full: L. Vieu
+  last: Vieu
+  papers:
+  - Z12-4019
+  slug: l-vieu
+  venues:
+  - - SEMDIAL
+    - 1
 laia-mayol:
   coauthors:
   - - elena-castroviejo
@@ -82,13 +117,26 @@ lambros-cranias:
   slug: lambros-cranias
   venues: []
 lamia-hadrich-belguith:
-  coauthors: []
+  coauthors:
+  - - samira-ben-dbabis
+    - 1
+  - - fatma-mallek
+    - 1
+  - - hatem-ghorbel
+    - 1
   first: Lamia
   full: Lamia Hadrich Belguith
   last: Hadrich Belguith
-  papers: []
+  papers:
+  - Z12-3013
   slug: lamia-hadrich-belguith
-  venues: []
+  variant_entries:
+  - first: Lamia
+    full: Lamia Belguith
+    last: Belguith
+  venues:
+  - - SEMDIAL
+    - 1
 lance-a-miller:
   coauthors: []
   first: Lance A.
@@ -242,6 +290,45 @@ laura-pecchia:
   papers: []
   slug: laura-pecchia
   venues: []
+laure-vieu:
+  coauthors:
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - verena-rieser
+    - 1
+  first: Laure
+  full: Laure Vieu
+  last: Vieu
+  papers:
+  - Z12-4029
+  slug: laure-vieu
+  venues:
+  - - SEMDIAL
+    - 1
 lauren-mak:
   coauthors:
   - - michael-wagner
@@ -322,6 +409,10 @@ laurent-pr-evot:
     - 1
 laurent-prevot:
   coauthors:
+  - - roxane-bertrand
+    - 2
+  - - philippe-blache
+    - 2
   - - magalie-ochs
     - 1
   - - benoit-favre
@@ -334,6 +425,14 @@ laurent-prevot:
     - 1
   - - kam-yiu-joe-chan
     - 1
+  - - helen-k-y-chen
+    - 1
+  - - beatrice-priego-valverde
+    - 1
+  - - klim-peshkov
+    - 1
+  - - stephane-rauzy
+    - 1
   first: Laurent
   full: "Laurent Pr\xE9vot"
   last: "Pr\xE9vot"
@@ -341,10 +440,31 @@ laurent-prevot:
   - Z18-1000
   - Z15-4044
   - Z13-4042
+  - Z12-4020
+  - Z12-4036
   slug: laurent-prevot
+  variant_entries:
+  - first: Laurent
+    full: Laurent Prevot
+    last: Prevot
   venues:
   - - SEMDIAL
-    - 3
+    - 5
+laurent-prvot:
+  coauthors:
+  - - simone-fuscone
+    - 1
+  - - benoit-favre
+    - 1
+  first: Laurent
+  full: Laurent Prvot
+  last: Prvot
+  papers:
+  - Z20-3015
+  slug: laurent-prvot
+  venues:
+  - - SEMDIAL
+    - 1
 laurent-romary:
   coauthors: []
   first: Laurent
@@ -682,13 +802,22 @@ lin-shan-lee:
   slug: lin-shan-lee
   venues: []
 lina-m-rojas-barahona:
-  coauthors: []
+  coauthors:
+  - - claire-gardent
+    - 1
   first: Lina M.
   full: Lina M. Rojas Barahona
   last: Rojas Barahona
-  papers: []
+  papers:
+  - Z12-4034
   slug: lina-m-rojas-barahona
-  venues: []
+  variant_entries:
+  - first: Lina M.
+    full: Lina M. Rojas-Barahona
+    last: Rojas-Barahona
+  venues:
+  - - SEMDIAL
+    - 1
 linda-fineman:
   coauthors: []
   first: Linda
@@ -729,6 +858,23 @@ lingshuang-jack-mao:
   papers: []
   slug: lingshuang-jack-mao
   venues: []
+linnea-strand:
+  coauthors:
+  - - robert-rhys-thomas
+    - 1
+  - - simon-dobnik
+    - 1
+  - - mehdi-ghanimifard
+    - 1
+  first: Linnea
+  full: Linnea Strand
+  last: Strand
+  papers:
+  - Z20-4028
+  slug: linnea-strand
+  venues:
+  - - SEMDIAL
+    - 1
 lisa-braden-harder:
   coauthors: []
   first: Lisa
@@ -947,6 +1093,17 @@ lorenzo-moretti:
   papers: []
   slug: lorenzo-moretti
   venues: []
+lori-a-moon:
+  coauthors: []
+  first: Lori A.
+  full: Lori A. Moon
+  last: Moon
+  papers:
+  - Z12-3009
+  slug: lori-a-moon
+  venues:
+  - - SEMDIAL
+    - 1
 lori-lamel:
   coauthors: []
   first: Lori
@@ -1151,6 +1308,21 @@ luciana-beatriz-avila:
   papers: []
   slug: luciana-beatriz-avila
   venues: []
+luciana-benotti:
+  coauthors:
+  - - alexandra-vorobyova
+    - 1
+  - - frederic-landragin
+    - 1
+  first: Luciana
+  full: Luciana Benotti
+  last: Benotti
+  papers:
+  - Z12-4038
+  slug: luciana-benotti
+  venues:
+  - - SEMDIAL
+    - 1
 luciano-serafini:
   coauthors: []
   first: Luciano

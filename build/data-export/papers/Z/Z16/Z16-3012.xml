@@ -19,9 +19,8 @@
         </role>
     </name>
     <name type="personal">
-        <namePart type="given">,</namePart>
         <namePart type="given">Annie</namePart>
-        <namePart type="family">Tremblay</namePart>
+        <namePart type="family">Tremblay,</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">author</roleTerm>
         </role>

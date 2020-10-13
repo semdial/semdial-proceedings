@@ -6,6 +6,41 @@ v-k-mittal:
   papers: []
   slug: v-k-mittal
   venues: []
+v-rieser:
+  coauthors:
+  - - n-asher
+    - 1
+  - - a-lascarides
+    - 1
+  - - o-lemon
+    - 1
+  - - m-guhe
+    - 1
+  - - p-muller
+    - 1
+  - - s-afantenos
+    - 1
+  - - f-benamara
+    - 1
+  - - l-vieu
+    - 1
+  - - p-denis
+    - 1
+  - - s-paul
+    - 1
+  - - s-keizer
+    - 1
+  - - c-degremont
+    - 1
+  first: V.
+  full: V. Rieser
+  last: Rieser
+  papers:
+  - Z12-4019
+  slug: v-rieser
+  venues:
+  - - SEMDIAL
+    - 1
 vaijayanthi-m-sarma:
   coauthors: []
   first: Vaijayanthi M.
@@ -138,7 +173,11 @@ vera-lucia-strube-de-lima:
 verena-rieser:
   coauthors:
   - - oliver-lemon
-    - 4
+    - 6
+  - - simon-keizer
+    - 3
+  - - philippe-muller
+    - 2
   - - nina-dethlefs
     - 2
   - - heriberto-cuayahuitl
@@ -149,8 +188,10 @@ verena-rieser:
     - 2
   - - zhuoran-wang
     - 2
-  - - philippe-muller
-    - 1
+  - - markus-guhe
+    - 2
+  - - alex-lascarides
+    - 2
   - - marie-aude-aufaure
     - 1
   - - panos-alexopoulos
@@ -193,13 +234,25 @@ verena-rieser:
     - 1
   - - ioannis-efstathiou
     - 1
-  - - simon-keizer
-    - 1
-  - - markus-guhe
-    - 1
-  - - alex-lascarides
-    - 1
   - - kevin-o-connor
+    - 1
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - soumya-paul
+    - 1
+  - - vladimir-popescu
+    - 1
+  - - laure-vieu
     - 1
   first: Verena
   full: Verena Rieser
@@ -215,10 +268,12 @@ verena-rieser:
   - Z14-4050
   - Z14-4052
   - Z13-3012
+  - Z12-4029
+  - Z12-4033
   slug: verena-rieser
   venues:
   - - SEMDIAL
-    - 10
+    - 12
 verginica-barbu-mititelu:
   coauthors: []
   first: Verginica
@@ -280,6 +335,19 @@ veronique-moriceau:
   papers: []
   slug: veronique-moriceau
   venues: []
+vevake-balaraman:
+  coauthors:
+  - - bernardo-magnini
+    - 1
+  first: Vevake
+  full: Vevake Balaraman
+  last: Balaraman
+  papers:
+  - Z20-3007
+  slug: vevake-balaraman
+  venues:
+  - - SEMDIAL
+    - 1
 vibhu-o-mittal:
   coauthors: []
   first: Vibhu O.
@@ -636,6 +704,45 @@ vladimir-petkevic:
   papers: []
   slug: vladimir-petkevic
   venues: []
+vladimir-popescu:
+  coauthors:
+  - - stergos-afantenos
+    - 1
+  - - nicholas-asher
+    - 1
+  - - farah-benamara
+    - 1
+  - - anais-cadilhac
+    - 1
+  - - cedric-degremont1
+    - 1
+  - - pascal-denis
+    - 1
+  - - markus-guhe
+    - 1
+  - - simon-keizer
+    - 1
+  - - alex-lascarides
+    - 1
+  - - oliver-lemon
+    - 1
+  - - philippe-muller
+    - 1
+  - - soumya-paul
+    - 1
+  - - verena-rieser
+    - 1
+  - - laure-vieu
+    - 1
+  first: Vladimir
+  full: Vladimir Popescu
+  last: Popescu
+  papers:
+  - Z12-4029
+  slug: vladimir-popescu
+  venues:
+  - - SEMDIAL
+    - 1
 vladislav-kubon:
   coauthors: []
   first: Vladislav
@@ -646,9 +753,11 @@ vladislav-kubon:
   venues: []
 vladislav-maraev:
   coauthors:
+  - - jonathan-ginzburg
+    - 3
   - - chiara-mazzocconi
     - 2
-  - - jonathan-ginzburg
+  - - jean-philippe-bernardy
     - 2
   - - ellen-breitholtz
     - 1
@@ -662,12 +771,11 @@ vladislav-maraev:
     - 1
   - - ye-tian
     - 1
-  - - jean-philippe-bernardy
-    - 1
   first: Vladislav
   full: Vladislav Maraev
   last: Maraev
   papers:
+  - Z20-4030
   - Z19-3016
   - Z19-4034
   - Z18-3005
@@ -675,7 +783,7 @@ vladislav-maraev:
   slug: vladislav-maraev
   venues:
   - - SEMDIAL
-    - 4
+    - 5
 vlado-keselj:
   coauthors: []
   first: Vlado

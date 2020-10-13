@@ -548,6 +548,21 @@ daniela-oliveira-f-do-amaral:
   papers: []
   slug: daniela-oliveira-f-do-amaral
   venues: []
+daniela-stier:
+  coauthors:
+  - - wolfgang-minker
+    - 1
+  - - ulrich-heid
+    - 1
+  first: Daniela
+  full: Daniela Stier
+  last: Stier
+  papers:
+  - Z20-4025
+  slug: daniela-stier
+  venues:
+  - - SEMDIAL
+    - 1
 daniele-godard:
   coauthors: []
   first: Daniele
@@ -556,19 +571,39 @@ daniele-godard:
   papers: []
   slug: daniele-godard
   venues: []
+daniele-godard-jean-marie-marandin:
+  coauthors:
+  - - anne-abeille
+    - 1
+  - - benoit-crabbe1
+    - 1
+  first: Daniele Godard Jean-Marie
+  full: Daniele Godard Jean-Marie Marandin
+  last: Marandin
+  papers:
+  - Z12-3011
+  slug: daniele-godard-jean-marie-marandin
+  venues:
+  - - SEMDIAL
+    - 1
 daniele-moro:
   coauthors:
   - - casey-kennington
+    - 2
+  - - gerardo-caracas
+    - 1
+  - - david-mcneill
     - 1
   first: Daniele
   full: Daniele Moro
   last: Moro
   papers:
+  - Z20-3011
   - Z18-3012
   slug: daniele-moro
   venues:
   - - SEMDIAL
-    - 1
+    - 2
 danielle-l-mowery:
   coauthors: []
   first: Danielle L.
@@ -784,6 +819,10 @@ david-day:
   venues: []
 david-devault:
   coauthors:
+  - - ramesh-manuvinakurike
+    - 1
+  - - maike-paetzel
+    - 1
   - - zhou-yu
     - 1
   - - stefan-scherer
@@ -795,10 +834,6 @@ david-devault:
   - - louis-philippe-morency
     - 1
   - - justine-cassell
-    - 1
-  - - ramesh-manuvinakurike
-    - 1
-  - - maike-paetzel
     - 1
   first: David
   full: David Devault
@@ -890,6 +925,19 @@ david-h-d-warren:
   papers: []
   slug: david-h-d-warren
   venues: []
+david-hopes:
+  coauthors:
+  - - julian-hough
+    - 1
+  first: David
+  full: David Hopes
+  last: Hopes
+  papers:
+  - Z20-4029
+  slug: david-hopes
+  venues:
+  - - SEMDIAL
+    - 1
 david-israel:
   coauthors: []
   first: David
@@ -1002,6 +1050,23 @@ david-mcgee:
   papers: []
   slug: david-mcgee
   venues: []
+david-mcneill:
+  coauthors:
+  - - daniele-moro
+    - 1
+  - - gerardo-caracas
+    - 1
+  - - casey-kennington
+    - 1
+  first: David
+  full: David McNeill
+  last: McNeill
+  papers:
+  - Z20-3011
+  slug: david-mcneill
+  venues:
+  - - SEMDIAL
+    - 1
 david-milward:
   coauthors: []
   first: David
@@ -1122,6 +1187,7 @@ david-schlangen:
   full: David Schlangen
   last: Schlangen
   papers:
+  - Z20-3010
   - Z19-3006
   - Z18-3004
   - Z18-3018
@@ -1140,7 +1206,7 @@ david-schlangen:
   slug: david-schlangen
   venues:
   - - SEMDIAL
-    - 15
+    - 16
 david-stallard:
   coauthors: []
   first: David

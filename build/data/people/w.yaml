@@ -447,6 +447,29 @@ william-m-fisher:
   papers: []
   slug: william-m-fisher
   venues: []
+william-mackaness:
+  coauthors:
+  - - srinivasan-janarthanam
+    - 1
+  - - oliver-lemon
+    - 1
+  - - xingkun-liu
+    - 1
+  - - phil-bartie
+    - 1
+  - - tiphaine-dalmas
+    - 1
+  - - jana-gotze
+    - 1
+  first: William
+  full: William Mackaness
+  last: Mackaness
+  papers:
+  - Z12-4025
+  slug: william-mackaness
+  venues:
+  - - SEMDIAL
+    - 1
 william-morgan:
   coauthors: []
   first: William
@@ -548,12 +571,6 @@ wolfgang-minker:
   coauthors:
   - - stefan-ultes
     - 2
-  - - patricia-kittel
-    - 1
-  - - wolfgang-maier
-    - 1
-  - - maria-schmidt
-    - 1
   - - juliana-miehle
     - 1
   - - nadine-gerstenlauer
@@ -562,21 +579,32 @@ wolfgang-minker:
     - 1
   - - hubertus-feussner
     - 1
+  - - patricia-kittel
+    - 1
+  - - wolfgang-maier
+    - 1
+  - - maria-schmidt
+    - 1
   - - louisa-pragst
     - 1
   - - matthias-kraus
+    - 1
+  - - daniela-stier
+    - 1
+  - - ulrich-heid
     - 1
   first: Wolfgang
   full: Wolfgang Minker
   last: Minker
   papers:
+  - Z20-4025
   - Z18-3020
   - Z17-4024
   - Z15-4043
   slug: wolfgang-minker
   venues:
   - - SEMDIAL
-    - 3
+    - 4
 wolfgang-wahlster:
   coauthors: []
   first: Wolfgang

@@ -1,22 +1,22 @@
-%0 Conference Proceedings
+ï»¿%0 Conference Proceedings
 %T Argumentative dialogue system based on argumentation structures
 %A Higashinaka, Ryuichiro
 %A Sakai, Kazuki
 %A Sugiyama, Hiroaki
 %A Narimatsu, Hiromi
 %A Arimoto, Tsunehiro
-%A Matsui, Takaaki Fukutomi Kiyoaki
+%A Matsui, Takaaki Fukutomi,Kiyoaki
 %A Ijima, Yusuke
 %A Ito, Hiroaki
 %A Araki, Shoko
 %A Yoshikawa, Yuichiro
 %A Ishiguro, Hiroshi
 %A Matsuo, Yoshihiro
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F higashinaka-etal-2017-argumentative
 %U http://semdial.org/anthology/Z17-Higashinaka_semdial_0019.pdf
 
@@ -27,11 +27,11 @@
 %A Ishizaki, Masato
 %A Enomoto, Mika
 %A Den, Yasuharu
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F katagiri-etal-2017-concern
 %U http://semdial.org/anthology/Z17-Katagiri_semdial_0020.pdf
 
@@ -39,11 +39,11 @@
 %T Towards Learning Transferable Conversational Skills using Multi-dimensional Dialogue Modelling
 %A Keizer, Simon
 %A Rieser, Verena
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F keizer-rieser-2017-towards
 %U http://semdial.org/anthology/Z17-Keizer_semdial_0021.pdf
 
@@ -51,11 +51,11 @@
 %T Towards a Dialogue System with Long-term, Episodic Memory
 %A Kondratyuk, Daniel
 %A Kennington, Casey
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F kondratyuk-kennington-2017-towards
 %U http://semdial.org/anthology/Z17-Kondratyuk_semdial_0022.pdf
 
@@ -63,11 +63,11 @@
 %T Incremental Processing for Neural Conversation Models
 %A Lison, Pierre
 %A Kennington, Casey
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F lison-kennington-2017-incremental
 %U http://semdial.org/anthology/Z17-Lison_semdial_0023.pdf
 
@@ -79,11 +79,11 @@
 %A Feussner, Hubertus
 %A Minker, Wolfgang
 %A Ultes, Stefan
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F miehle-etal-2017-intelligent
 %U http://semdial.org/anthology/Z17-Miehle_semdial_0024.pdf
 
@@ -91,11 +91,11 @@
 %T Syntactic Priming by Japanese EFL Learners in Dialogue Contexts based on Different Task Types
 %A Morishita, Miwa
 %A Harada, Yasunari
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F morishita-harada-2017-syntactic
 %U http://semdial.org/anthology/Z17-Morishita_semdial_0025.pdf
 
@@ -108,11 +108,11 @@
 %A Evanini, Keelan
 %A Lange, Patrick
 %A Tsuprun, Eugene
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F qian-etal-2017-towards
 %U http://semdial.org/anthology/Z17-Qian_semdial_0026.pdf
 
@@ -120,11 +120,11 @@
 %T A Phonetic Adaptation Module for Spoken Dialogue Systems
 %A Raveh, Eran
 %A Steiner, Ingmar
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F raveh-steiner-2017-phonetic
 %U http://semdial.org/anthology/Z17-Raveh_semdial_0027.pdf
 
@@ -135,11 +135,11 @@
 %A Radomski, Stefan
 %A Lange, Patrick
 %A Suendermann-Oeft, David
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F schnelle-walka-etal-2017-open
 %U http://semdial.org/anthology/Z17-Schnelle-Walka_semdial_0028.pdf
 
@@ -147,11 +147,11 @@
 %T Training Argumentation Skills with Argumentative Writing Support
 %A Stab, Christian
 %A Gurevych, Iryna
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F stab-gurevych-2017-training
 %U http://semdial.org/anthology/Z17-Stab_semdial_0029.pdf
 
@@ -160,11 +160,11 @@
 %A Trinh, Anh Duong
 %A Ross, Robert J.
 %A Kelleher, John D.
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F trinh-etal-2017-incremental
 %U http://semdial.org/anthology/Z17-Trinh_semdial_0030.pdf
 
@@ -173,11 +173,11 @@
 %A Umata, Ichiro
 %A Ijuin, Koki
 %A Yamamoto, Seiichi
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F umata-etal-2017-factor
 %U http://semdial.org/anthology/Z17-Umata_semdial_0031.pdf
 
@@ -186,22 +186,22 @@
 %A Valentino, Marco
 %A Maro, Maria Di
 %A Cutugno, Franco
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F valentino-etal-2017-towards
 %U http://semdial.org/anthology/Z17-Valentino_semdial_0032.pdf
 
 %0 Conference Proceedings
 %T A Transferentive Connective Marker -etaka in Korean: perspectives of grammaticalilzation and pragmatics
 %A Yae, Sunhee
-%B Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
+%S Proceedings of the 21st Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts
 %D 2017
 %8 aug
 %I SEMDIAL
-%C Saarbrücken, Germany
+%C SaarbrÃ¼cken, Germany
 %F yae-2017-transferentive
 %U http://semdial.org/anthology/Z17-Yae_semdial_0033.pdf
 

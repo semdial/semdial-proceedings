@@ -1008,6 +1008,11 @@ SEMDIAL:
   slug: semdial
   type: Non ACL
   volumes_by_year:
+    '2012':
+    - Z12-1
+    - Z12-2
+    - Z12-3
+    - Z12-4
     '2013':
     - Z13-1
     - Z13-2
@@ -1043,7 +1048,13 @@ SEMDIAL:
     - Z19-2
     - Z19-3
     - Z19-4
+    '2020':
+    - Z20-1
+    - Z20-2
+    - Z20-3
+    - Z20-4
   years:
+  - '2012'
   - '2013'
   - '2014'
   - '2015'
@@ -1051,6 +1062,7 @@ SEMDIAL:
   - '2017'
   - '2018'
   - '2019'
+  - '2020'
 SEMITIC:
   is_acl: true
   is_toplevel: false
