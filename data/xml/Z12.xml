@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z12">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Sarah</first><last>Brown-Schmidt</last></editor>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+       <editor><first>Staffan</first><last>Larsson</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Paris, France</address>
+      <month>September</month>
+      <year>2012</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2012_seinedial_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+     <booktitle>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Sarah</first><last>Brown-Schmidt</last></editor>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+       <editor><first>Staffan</first><last>Larsson</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Paris, France</address>
+      <month>September</month>
+      <year>2012</year>
+    </meta>
+
+<paper id="1"><title>Referential Coordination through Mental Files</title><author><first>Francois</first><last>Recanati</last></author><url>Z12-Recanati_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>Children learn Language in Conversation</title><author><first>Eve V.</first><last>Clark</last></author><url>Z12-Clark_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>There is no common ground in human-robot interaction</title><author><first>Geert-Jan</first><last>Kruijff</last></author><url>Z12-Kruijff_semdial_0003.pdf</url></paper>
+
+
+</volume>
+  <volume id="3">
+    <meta>
+<booktitle>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Sarah</first><last>Brown-Schmidt</last></editor>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+       <editor><first>Staffan</first><last>Larsson</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Paris, France</address>
+      <month>September</month>
+      <year>2012</year>
+    </meta>
+
+<paper id="4"><title>Optimal Reasoning About Referential Expressions</title><author><first>Judith</first><last>Degen</last></author><author><first>Michael</first><last>Franke</last></author><url>Z12-Degen_semdial_0004.pdf</url></paper>
+
+<paper id="5"><title>Using a Bayesian Model of the Listener to Unveil the Dialogue Information State</title><author><first>Hendrik</first><last>Buschmeier</last></author><author><first>Stefan</first><last>Kopp</last></author><url>Z12-Buschmeier_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>The Pragmatics of Aesthetic Assessment in Conversation</title><author><first>Saul</first><last>Albert</last></author><author><first>Patrick G. T.</first><last>Healey</last></author><url>Z12-Albert_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>A Cognitive Model for Conversation</title><author><first>Nicholas</first><last>Asher</last></author><author><first>Alex</first><last>Lascarides</last></author><url>Z12-Asher_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>Meanings as proposals: a new semantic foundation for Gricean pragmatics</title><author><first>Matthijs</first><last>Westera</last></author><url>Z12-Westera_semdial_0008.pdf</url></paper>
+
+<paper id="9"><title>We Did What We Could: An Experimental Study of Actuality Inferences in Dialogues with Modal Verbs</title><author><first>Lori A.</first><last>Moon</last></author><url>Z12-Moon_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>Cues to turn boundary prediction in adults and preschoolers</title><author><first>Marisa</first><last>Casillas</last></author><author><first>Michael C.</first><last>Frank</last></author><url>Z12-Casillas_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>French questioning declaratives: a corpus study</title><author><first>Anne</first><last>Abeille</last></author><author><first>Benoit</first><last>Crabbe</last></author><author><first>Daniele Godard Jean-Marie</first><last>Marandin</last></author><url>Z12-Abeille_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>The Use of Gesture to Communicate about Felt Experiences</title><author><first>Nicola</first><last>Plant</last></author><author><first>Patrick G. T.</first><last>Healey</last></author><url>Z12-Plant_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>Dialogue Acts Annotation Scheme within Arabic discussions</title><author><first>Samira Ben</first><last>Dbabis</last></author><author><first>Fatma</first><last>Mallek</last></author><author><first>Hatem</first><last>Ghorbel</last></author><author><first>Lamia</first><last>Belguith</last></author><url>Z12-Dbabis_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>Declarative Design of Spoken Dialogue Systems with Probabilistic Rules</title><author><first>Pierre</first><last>Lison</last></author><url>Z12-Lison_semdial_0014.pdf</url></paper>
+
+<paper id="15"><title>Communicating with Cost-based Implicature: a Game-Theoretic Approach to Ambiguity</title><author><first>Hannah</first><last>Rohde</last></author><author><first>Scott</first><last>Seyfarth</last></author><author><first>Brady</first><last>Clark</last></author><author><first>Gerhard</first><last>Jaeger</last></author><author><first>Stefan</first><last>Kaufmann</last></author><url>Z12-Rohde_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>The semantics of feedback</title><author><first>Harry</first><last>Bunt</last></author><url>Z12-Bunt_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>Recovering from Non-Understanding Errors in a Conversational Dialogue System</title><author><first>Matthew</first><last>Henderson</last></author><author><first>Colin</first><last>Matheson</last></author><author><first>Jon</first><last>Oberlander</last></author><url>Z12-Henderson_semdial_0017.pdf</url></paper>
+
+<paper id="18"><title>Processing Self-Repairs in an Incremental Type-Theoretic Dialogue System</title><author><first>Julian</first><last>Hough</last></author><author><first>Matthew</first><last>Purver</last></author><url>Z12-Hough_semdial_0018.pdf</url></paper>
+
+
+</volume>
+  <volume id="4">
+    <meta>
+<booktitle>Proceedings of the 16th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Sarah</first><last>Brown-Schmidt</last></editor>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+       <editor><first>Staffan</first><last>Larsson</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Paris, France</address>
+      <month>September</month>
+      <year>2012</year>
+    </meta>
+
+<paper id="19"><title>Modelling Strategic Conversation: the STAC project</title><author><first>N.</first><last>Asher</last></author><author><first>A.</first><last>Lascarides</last></author><author><first>O.</first><last>Lemon</last></author><author><first>M.</first><last>Guhe</last></author><author><first>V.</first><last>Rieser</last></author><author><first>P.</first><last>Muller</last></author><author><first>S.</first><last>Afantenos</last></author><author><first>F.</first><last>Benamara</last></author><author><first>L.</first><last>Vieu</last></author><author><first>P.</first><last>Denis</last></author><author><first>S.</first><last>Paul</last></author><author><first>S.</first><last>Keizer</last></author><author><first>C.</first><last>Degremont</last></author><url>Z12-Asher_semdial_0019.pdf</url></paper>
+
+<paper id="20"><title>Toward a Mandarin-French Corpus of Interactional Data</title><author><first>Helen K. Y.</first><last>Chen</last></author><author><first>Laurent</first><last>Prevot</last></author><author><first>Roxane</first><last>Bertrand</last></author><author><first>Beatrice</first><last>Priego-Valverde</last></author><author><first>Philippe</first><last>Blache</last></author><url>Z12-Chen_semdial_0020.pdf</url></paper>
+
+<paper id="21"><title>A model of intentional communication: AIRBUS (Asymmetric Intention Recognition with Bayesian Updating of Signals)</title><author><first>J. P.</first><last>de Ruiter</last></author><author><first>Chris</first><last>Cummins</last></author><url>Z12-de Ruiter_semdial_0021.pdf</url></paper>
+
+<paper id="22"><title>Spatial descriptions in discourse: choosing a perspective</title><author><first>Simon</first><last>Dobnik</last></author><url>Z12-Dobnik_semdial_0022.pdf</url></paper>
+
+<paper id="23"><title>Modeling Referring Expressions with Bayesian Networks</title><author><first>Kotaro</first><last>Funakoshi</last></author><author><first>Mikio</first><last>Nakano</last></author><author><first>Takenobu</first><last>Tokunaga</last></author><author><first>Ryu</first><last>Iida</last></author><url>Z12-Funakoshi_semdial_0023.pdf</url></paper>
+
+<paper id="24"><title>Helping the medicine go down: Repair and adherence in patient-clinician dialogues</title><author><first>Christine</first><last>Howes</last></author><author><first>Matt</first><last>Purver</last></author><author><first>Rose</first><last>McCabe</last></author><author><first>Patrick G. T.</first><last>Healey</last></author><author><first>Mary</first><last>Lavelle</last></author><url>Z12-Howes_semdial_0024.pdf</url></paper>
+
+<paper id="25"><title>A spoken dialogue interface for pedestrian city exploration: integrating navigation, visibility, and Question-Answering</title><author><first>Srinivasan</first><last>Janarthanam</last></author><author><first>Oliver</first><last>Lemon</last></author><author><first>Xingkun</first><last>Liu</last></author><author><first>Phil</first><last>Bartie</last></author><author><first>William</first><last>Mackaness</last></author><author><first>Tiphaine</first><last>Dalmas</last></author><author><first>Jana</first><last>Goetze</last></author><url>Z12-Janarthanam_semdial_0025.pdf</url></paper>
+
+<paper id="26"><title>Influencing Reasoning in Interaction: a Model</title><author><first>Haldur</first><last>Oim</last></author><author><first>Mare</first><last>Koit</last></author><url>Z12-Oim_semdial_0026.pdf</url></paper>
+
+<paper id="27"><title>Rhetorical Structure for Natural Language Generation in Dialogue</title><author><first>Amy</first><last>Isard</last></author><author><first>Colin</first><last>Matheson</last></author><url>Z12-Isard_semdial_0027.pdf</url></paper>
+
+<paper id="28"><title>Two semantical conditions for superlative quantifiers</title><author><first>Maria</first><last>Spychalska</last></author><url>Z12-Spychalska_semdial_0028.pdf</url></paper>
+
+<paper id="29"><title>Modelling Strategic Conversation: model, annotation design and corpus</title><author><first>Stergos</first><last>Afantenos</last></author><author><first>Nicholas</first><last>Asher</last></author><author><first>Farah</first><last>Benamara</last></author><author><first>Anais</first><last>Cadilhac</last></author><author><first>Cedric</first><last>Degremont</last></author><author><first>Pascal</first><last>Denis</last></author><author><first>Markus</first><last>Guhe</last></author><author><first>Simon</first><last>Keizer</last></author><author><first>Alex</first><last>Lascarides</last></author><author><first>Oliver</first><last>Lemon</last></author><author><first>Philippe</first><last>Muller</last></author><author><first>Soumya</first><last>Paul</last></author><author><first>Vladimir</first><last>Popescu</last></author><author><first>Verena</first><last>Rieser</last></author><author><first>Laure</first><last>Vieu</last></author><url>Z12-Afantenos_semdial_0029.pdf</url></paper>
+
+<paper id="30"><title>A Multi-threading Extension to State-based Dialogue Management</title><author><first>Tina</first><last>Kluwer</last></author><author><first>Hanz</first><last>Uszkoreit</last></author><url>Z12-Kluwer_semdial_0030.pdf</url></paper>
+
+<paper id="31"><title>Negotiation for Concern Alignment in Health Counseling Dialogues</title><author><first>Yasuhiro</first><last>Katagiri</last></author><author><first>Masato</first><last>Ishizaki</last></author><author><first>Yasuharu</first><last>Den</last></author><author><first>Katsuya</first><last>Takanashi</last></author><author><first>Mika</first><last>Enomoto</last></author><author><first>Yosuke</first><last>Matsusaka</last></author><url>Z12-Katagiri_semdial_0031.pdf</url></paper>
+
+<paper id="32"><title>Exhuming the procedural common ground: partner-specific effects</title><author><first>Gregory</first><last>Mills</last></author><url>Z12-Mills_semdial_0032.pdf</url></paper>
+
+<paper id="33"><title>Opponent Modelling for Optimising Strategic Dialogue</title><author><first>Verena</first><last>Rieser</last></author><author><first>Oliver</first><last>Lemon</last></author><author><first>Simon</first><last>Keizer</last></author><url>Z12-Rieser_semdial_0033.pdf</url></paper>
+
+<paper id="34"><title>What Should I Do Now? Supporting Progress in a Serious Game.</title><author><first>Lina M.</first><last>Rojas-Barahona</last></author><author><first>Claire</first><last>Gardent</last></author><url>Z12-Rojas-Barahona_semdial_0034.pdf</url></paper>
+
+<paper id="35"><title>"The hand is not a banana" On Developing a Robot's Grounding Facilities</title><author><first>Julia</first><last>Peltason</last></author><author><first>Hannes</first><last>Rieser</last></author><author><first>Sven</first><last>Wachsmuth</last></author><author><first>Britta</first><last>Wrede</last></author><url>Z12-Peltason_semdial_0035.pdf</url></paper>
+
+<paper id="36"><title>Quantitative experiments on prosodic and discourse units in the Corpus of Interactional Data</title><author><first>Klim</first><last>Peshkov</last></author><author><first>Laurent</first><last>Prevot</last></author><author><first>Roxane</first><last>Bertrand</last></author><author><first>Stephane</first><last>Rauzy</last></author><author><first>Philippe</first><last>Blache</last></author><url>Z12-Peshkov_semdial_0036.pdf</url></paper>
+
+<paper id="37"><title>Towards Semantic Parsing in Dynamic Domains</title><author><first>Kyle</first><last>Richardson</last></author><author><first>Jonas</first><last>Kuhn</last></author><url>Z12-Richardson_semdial_0037.pdf</url></paper>
+
+<paper id="38"><title>Why do we overspecify in dialogue? An experiment on L2 lexical acquisition</title><author><first>Alexandra</first><last>Vorobyova</last></author><author><first>Luciana</first><last>Benotti</last></author><author><first>Frederic</first><last>Landragin</last></author><url>Z12-Vorobyova_semdial_0038.pdf</url></paper>
+
+
+  </volume>
+</collection>

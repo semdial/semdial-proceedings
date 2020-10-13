@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z20">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Sophia</first><last>Malamud</last></editor>
+      <editor><first>James</first><last>Pustejovsky</last></editor>
+       <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Virtually at Brandeis, Waltham, New Jersey</address>
+      <month>July</month>
+      <year>2020</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2020_watchdial_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Sophia</first><last>Malamud</last></editor>
+      <editor><first>James</first><last>Pustejovsky</last></editor>
+       <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Virtually at Brandeis, Waltham, New Jersey</address>
+      <month>July</month>
+      <year>2020</year>
+    </meta>
+
+<paper id="1"><title>What does it mean to say a discourse relation is `implicit'?</title><author><first>Bonnie</first><last>Webber</last></author><url>Z20-Webber_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>Where to next? Situated Dialogue with Robots for Search and Navigation</title><author><first>Claire</first><last>Bonial</last></author><author><first>Stephanie</first><last>Lukin</last></author><author><first>Clare R.</first><last>Voss</last></author><url>Z20-Bonial_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>Perspective and Indexicality: A NeoLocalist approach</title><author><first>Craige</first><last>Roberts</last></author><url>Z20-Roberts_semdial_0003.pdf</url></paper>
+
+
+
+</volume>
+  <volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Sophia</first><last>Malamud</last></editor>
+      <editor><first>James</first><last>Pustejovsky</last></editor>
+       <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Virtually at Brandeis, Waltham, New Jersey</address>
+      <month>July</month>
+      <year>2020</year>
+    </meta>
+
+<paper id="4"><title>Discourse Coherence, Reference Grounding and Goal Oriented Dialogue</title><author><first>Baber</first><last>Khalid</last></author><author><first>Malihe</first><last>Alikhani</last></author><author><first>Michael</first><last>Fellner</last></author><author><first>Brian</first><last>McMahan</last></author><author><first>Matthew</first><last>Stone</last></author><url>Z20-Khalid_semdial_0004.pdf</url></paper>
+
+<paper id="5"><title>Investigating the Semantic Wave in Tutorial Dialogues: An Annotation Scheme and Corpus Study on Analogy Components</title><author><first>Jorge</first><last>Del-Bosque-Trevino</last></author><author><first>Julian</first><last>Hough</last></author><author><first>Matthew</first><last>Purver</last></author><url>Z20-Del-Bosque-Trevino_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>Let's do that first! A Comparative Analysis of Instruction-Giving in Human-Human and Human-Robot Situated Dialogue</title><author><first>Matthew</first><last>Marge</last></author><author><first>Felix</first><last>Gervits</last></author><author><first>Gordon</first><last>Briggs</last></author><author><first>Matthias</first><last>Scheutz</last></author><author><first>Antonio</first><last>Roque</last></author><url>Z20-Marge_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>Pro-Active Systems and Influenceable Users: Simulating Pro-Activity in Task-oriented Dialogues</title><author><first>Vevake</first><last>Balaraman</last></author><author><first>Bernardo</first><last>Magnini</last></author><url>Z20-Balaraman_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>On Laughter and Forgetting and Reconversing: A Neurologically-Inspired Model of Conversational Context</title><author><first>Jonathan</first><last>Ginzburg</last></author><author><first>Andy</first><last>Lücking</last></author><url>Z20-Ginzburg_semdial_0008.pdf</url></paper>
+
+<paper id="9"><title>Different Games in Dialogue: Combining Character and Conversational Types in Strategic Choice</title><author><first>Alafate</first><last>Abulimiti</last></author><url>Z20-Abulimiti_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>An Outline of a Model of Situated Discourse Representation and Processing</title><author><first>David</first><last>Schlangen</last></author><url>Z20-Schlangen_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>Semantics with Feeling: Emotions for Abstract Embedding, Affect for Concrete Grounding</title><author><first>Daniele</first><last>Moro</last></author><author><first>Gerardo</first><last>Caracas</last></author><author><first>David</first><last>McNeill</last></author><author><first>Casey</first><last>Kennington</last></author><url>Z20-Moro_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Overcoming Distances -- The Usage of Calling Contours to Initiate Dialogues</title><author><first>Jakob</first><last>Maché</last></author><url>Z20-Mache_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>Comparing Models of Speakers' and Listeners' Head Nods</title><author><first>Tom</first><last>Gurion</last></author><author><first>Patrick</first><last>Healey</last></author><author><first>Julian</first><last>Hough</last></author><url>Z20-Gurion_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>Commitments in German Tag Questions: An Experimental Study</title><author><first>Yulia</first><last>Clausen</last></author><author><first>Tatjana</first><last>Scheffler</last></author><url>Z20-Clausen_semdial_0014.pdf</url></paper>
+
+<paper id="15"><title>The Contribution of Dialogue Act Labels for Convergence Studies in Natural Conversations</title><author><first>Simone</first><last>Fuscone</last></author><author><first>Benoit</first><last>Favre</last></author><author><first>Laurent</first><last>Prvot</last></author><url>Z20-Fuscone_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>Towards the Score of Communication</title><author><first>Andy</first><last>Lücking</last></author><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z20-Lucking_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>Classification of Low-Agreement Pronouns Through Collaborative Dialogue: A Proof of Concept</title><author><first>Janosch</first><last>Haber</last></author><author><first>Massimo</first><last>Poesio</last></author><url>Z20-Haber_semdial_0017.pdf</url></paper>
+
+<paper id="18"><title>Communicable Reasons: How Children Learn Topoi Through Dialogue</title><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Christine</first><last>Howes</last></author><url>Z20-Breitholtz_semdial_0018.pdf</url></paper>
+
+<paper id="19"><title>Extensions Are Indeterminate if Intensions Are Classifiers</title><author><first>Staffan</first><last>Larsson</last></author><url>Z20-Larsson_semdial_0019.pdf</url></paper>
+
+<paper id="20"><title>There Is As Yet Insufficient Data for a Meaningful Answer</title><author><first>Maria</first><last>Boritchev</last></author><author><first>Maxime</first><last>Amblard</last></author><url>Z20-Boritchev_semdial_0020.pdf</url></paper>
+
+<paper id="21"><title>Dialogue Informing Syntax/Semantics: The Case of Afterthoughts</title><author><first>Stergios</first><last>Chatzikyriakidis</last></author><url>Z20-Chatzikyriakidis_semdial_0021.pdf</url></paper>
+
+<paper id="22"><title>Affordance Competition in Dialogue: The Case of Syntactic Universals</title><author><first>Eleni</first><last>Gregoromichelaki</last></author><author><first>Stergios</first><last>Chatzikyriakidis</last></author><author><first>Arash</first><last>Eshghi</last></author><author><first>Julian</first><last>Hough</last></author><author><first>Christine</first><last>Howes</last></author><author><first>Ruth</first><last>Kempson</last></author><author><first>Jieun</first><last>Kiaer</last></author><author><first>Matthew</first><last>Purver</last></author><author><first>Mehrnoosh</first><last>Sadrzadeh</last></author><author><first>Graham</first><last>White</last></author><url>Z20-Gregoromichelaki_semdial_0022.pdf</url></paper>
+
+<paper id="23"><title>A Multi-level Framework for Understanding Spoken Dialogue Using Topic Detection</title><author><first>Andrew</first><last>Valenti</last></author><author><first>Ravenna</first><last>Thielstrom</last></author><author><first>Michael</first><last>Gold</last></author><author><first>Felix</first><last>Gervits</last></author><author><first>Matthias</first><last>Scheutz</last></author><url>Z20-Valenti_semdial_0023.pdf</url></paper>
+
+<paper id="24"><title>How to Say Things with Hand Gestures</title><author><first>Sandy</first><last>Ciroux</last></author><url>Z20-Ciroux_semdial_0024.pdf</url></paper>
+
+
+
+
+</volume>
+  <volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 24th Workshop on the Semantics and Pragmatics of Dialogue - Short Papers</booktitle>
+      <editor><first>Sophia</first><last>Malamud</last></editor>
+      <editor><first>James</first><last>Pustejovsky</last></editor>
+       <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Virtually at Brandeis, Waltham, New Jersey</address>
+      <month>July</month>
+      <year>2020</year>
+    </meta>
+
+<paper id="25"><title>Towards Situation- and User-Adaptive Voice Output: Classifying Driver Personality in Context</title><author><first>Daniela</first><last>Stier</last></author><author><first>Wolfgang</first><last>Minker</last></author><author><first>Ulrich</first><last>Heid</last></author><url>Z20-Stier_semdial_0025.pdf</url></paper>
+
+<paper id="26"><title>A Corpus of Swedish Conversations with a Librarian</title><author><first>Magdalena</first><last>Sandahl</last></author><author><first>Simon</first><last>Dobnik</last></author><author><first>Mehdi</first><last>Ghanimifard</last></author><url>Z20-Sandahl_semdial_0026.pdf</url></paper>
+
+<paper id="27"><title>Detecting Urgency in Speech with Personalised Acoustic Features</title><author><first>Jakob</first><last>Landesberger</last></author><author><first>Ute</first><last>Ehrlich</last></author><url>Z20-Landesberger_semdial_0027.pdf</url></paper>
+
+<paper id="28"><title>Topic Modelling for a Virtual Librarian Assistant Tool</title><author><first>Linnea</first><last>Strand</last></author><author><first>Robert Rhys</first><last>Thomas</last></author><author><first>Simon</first><last>Dobnik</last></author><author><first>Mehdi</first><last>Ghanimifard</last></author><url>Z20-Strand_semdial_0028.pdf</url></paper>
+
+<paper id="29"><title>A Statistical and Machine Learning Investigation into the Effect of Demographic Context on Dialogue Phenomena</title><author><first>David</first><last>Hopes</last></author><author><first>Julian</first><last>Hough</last></author><url>Z20-Hopes_semdial_0029.pdf</url></paper>
+
+<paper id="30"><title>LDM: A Linear Dialogue Manager</title><author><first>Vladislav</first><last>Maraev</last></author><author><first>Jean-Philippe</first><last>Bernardy</last></author><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z20-Maraev_semdial_0030.pdf</url></paper>
+
+<paper id="31"><title>From Answer to Question: Coherence Analysis with Rezonator</title><author><first>John W. Du</first><last>Bois</last></author><author><first>Terry</first><last>DuBois</last></author><author><first>Georgio</first><last>Klironomos</last></author><author><first>Brady</first><last>Moore</last></author><url>Z20-Bois_semdial_0031.pdf</url></paper>
+
+
+  </volume>
+</collection>
