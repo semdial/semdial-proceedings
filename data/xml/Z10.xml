@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z10">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Paweał</first><last>Łupkowski</last></editor>
+      <editor><first>Matthew</first><last>Purver</last></editor>     
+      <publisher>SEMDIAL</publisher>
+      <address>POZNAŃ, Poland</address>
+      <month>September</month>
+      <year>2010</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2010_pozdial_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+     <booktitle>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Paweał</first><last>Łupkowski</last></editor>
+      <editor><first>Matthew</first><last>Purver</last></editor>     
+      <publisher>SEMDIAL</publisher>
+      <address>POZNAŃ, Poland</address>
+      <month>September</month>
+      <year>2010</year>
+    </meta>
+
+<paper id="1"><title>On the distributed nature of mutual understanding</title><author><first>Dale</first><last>Barr</last></author><url>Z10-Barr_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>Relevance for Dialogue</title><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z10-Ginzburg_semdial_0020.pdf</url></paper>
+
+<paper id="4"><title>Radical Inquisitive Semantics</title><author><first>Jeroen</first><last>Groenendijk</last></author><url>Z10-Groenendijk_semdial_0021.pdf</url></paper>
+
+<paper id="5"><title>Argumentation in Artificial Intelligence</title><author><first>Henry</first><last>Prakken</last></author><url>Z10-Prakken_semdial_0004.pdf</url></paper>
+
+
+</volume>
+  <volume id="3">
+    <meta>
+<booktitle>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Paweał</first><last>Łupkowski</last></editor>
+      <editor><first>Matthew</first><last>Purver</last></editor>     
+      <publisher>SEMDIAL</publisher>
+      <address>POZNAŃ, Poland</address>
+      <month>September</month>
+      <year>2010</year>
+    </meta>
+
+<!--['Volha', 'Petukhova', 'Harry', 'Bunt', 'Andrei', 'Malchanau']-->
+<paper id="5"><title>Empirical and theoretical constraints on dialogue act combinations</title><author><first>Volha</first><last>Petukhova</last></author><author><first>Harry</first><last>Bunt</last></author><author><first>Andrei</first><last>Malchanau</last></author><url>Z10-Petukhova_semdial_0005.pdf</url></paper>
+
+<!--['Alexander', 'Koller', 'Andrew', 'Gargett', 'Konstantina', 'Garouﬁ']-->
+<paper id="6"><title>A scalable model of planning perlocutionary acts</title><author><first>Alexander</first><last>Koller</last></author><author><first>Andrew</first><last>Gargett</last></author><author><first>Konstantina</first><last>Garoufi</last></author><url>Z10-Koller_semdial_0006.pdf</url></paper>
+
+<!--[]-->
+<paper id="7"><title>Establishing coherence in dialogue: sequentiality, intentions and negotiation</title><author><first>Gregory</first><last>Mills</last></author><author><first>Eleni</first><last>Gregoromichelaki</last></author><url>Z10-Mills_semdial_0007.pdf</url></paper>
+
+<!--['David', 'Schlangen']-->
+<paper id="8"><title>Practices in Dialogue</title><author><first>David</first><last>Schlangen</last></author><url>Z10-Schlangen_semdial_0008.pdf</url></paper>
+
+
+<paper id="9"><title>Modelling Sub-Utterance Phenomena in Spoken Dialogue Systems</title><author><first>Okko</first><last>Buß</last></author><author><first>David</first><last>Schlangen</last></author><url>Z10-Buss_semdial_0009.pdf</url></paper>
+
+<!--['Speech', 'Acts', 'Grammar', 'Mary', 'University']-->
+<paper id="10"><title>Splitting the “I”s and Crossing the “You”s: Context, Speech Acts and Grammar</title><author><first>Matthew</first><last>Purver</last></author><author><first>Eleni</first><last>Gregoromichelaki</last></author><author><first>Wilfried</first><last>Meyer-Viol</last></author><author><first>Ronnie</first><last>Cann</last></author><url>Z10-Purver_semdial_0010.pdf</url></paper>
+
+<!--['Matthew', 'Stone', ' ']-->
+<paper id="11"><title>Coherence and Rationality in Grounding</title><author><first>Matthew</first><last>Stone</last></author><author><first>Alex</first><last>Lascarides</last></author><url>Z10-Stone_semdial_0011.pdf</url></paper>
+
+<!--['Kamila']-->
+<paper id="12"><title>Dialogues with conflict resolution: goals and effects</title><author><first>Katarzyna</first><last>Budzynska</last></author><author><first>Kamila</first><last>Dȩbowska</last></author><url>Z10-Budzynska_semdial_0012.pdf</url></paper>
+
+<!--['Mariusz']-->
+<paper id="13"><title>Erotetic Search Scenarios: Revealing Interrogator’s Hidden Agenda</title><author><first>Mariusz</first><last>Urbański</last></author><author><first>Paweł</first><last>Łupkowski</last></author><url>Z10-Urbanski_semdial_0013.pdf</url></paper>
+
+<!--['Paweł', 'Łupkowski', -->
+<paper id="14"><title>Cooperative answering and Inferential Erotetic Logic</title><author><first>Paweł</first><last>Łupkowski</last></author><url>Z10-Lupkowski_semdial_0014.pdf</url></paper>
+
+<!--['Larsson']-->
+<paper id="15"><title>Accommodating innovative meaning in dialogue</title><author><first>Staffan</first><last>Larsson</last></author><url>Z10-Larsson_semdial_0015.pdf</url></paper>
+
+<!--['Robin', 'Cooper']-->
+<paper id="16"><title>Generalized quantifiers and clarification content</title><author><first>Robin</first><last>Cooper</last></author><url>Z10-Cooper_semdial_0016.pdf</url></paper>
+
+<!--['Florian', 'Hahn', 'Hannes', 'Rieser∗']-->
+<paper id="17"><title>Explaining Speech Gesture Alignment in MM Dialogue Using Gesture Typology</title><author><first>Florian</first><last>Hahn</last></author><author><first>Hannes</first><last>Rieser</last></author><url>Z10-Hahn_semdial_0017.pdf</url></paper>
+
+
+<!--[]-->
+<paper id="18"><title>Early Interpretation by Implicature in Definite Referential Descriptions</title><author><first>Raquel</first><last>Fernández</last></author><url>Z10-Fernandez_semdial_0018.pdf</url></paper>
+
+
+</volume>
+  <volume id="4">
+    <meta>
+<booktitle>Proceedings of the 14th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Paweał</first><last>Łupkowski</last></editor>
+      <editor><first>Matthew</first><last>Purver</last></editor>     
+      <publisher>SEMDIAL</publisher>
+      <address>POZNAŃ, Poland</address>
+      <month>September</month>
+      <year>2010</year>
+    </meta>
+
+
+<!--['Ellen', 'Breitholtz']-->
+<paper id="23"><title>Clarification Requests as Enthymeme Elicitors</title><author><first>Ellen</first><last>Breitholtz</last></author><url>Z10-Breitholtz_semdial_0023.pdf</url></paper>
+
+<paper id="31"><title>A Computational Model for Gossip Initiation</title><author><first>Jenny</first><last>Brusk</last></author><url>Z10-Brusk_semdial_0031.pdf</url></paper>
+
+<!--['Nina', 'Dethlefs', 'Heriberto', 'Cuay´ahuitl', 'Kai', '-', 'Florian', 'Richter', 'Elena', 'Andonova']-->
+<paper id="24"><title>Evaluating Task Success in a Dialogue System for Indoor Navigation</title><author><first>Nina</first><last>Dethlefs</last></author><author><first>Heriberto</first><last>Cuayáhuitl</last></author><author><first>Kai</first><last>-</last></author><author><first>Florian</first><last>Richter</last></author><author><first>Elena</first><last>Andonova</last></author><author><first>John</first><last>Bateman</last></author><url>Z10-Dethlefs_semdial_0024.pdf</url></paper>
+
+<paper id="32"><title>Guiding the User when Searching Information on the Web</title><author><first>Marta</first><last>Gatius</last></author><author><first>Meritxell</first><last>González</last></author><url>Z10-Gatius_semdial_0032.pdf</url></paper>
+
+<paper id="33"><title>A Computational Model for Gossip Initiation</title><author><first>Maria H.</first><last>Golka</last></author><url>Z10-Golka_semdial_0033.pdf</url></paper>
+
+<!--['Volha', 'Petukhova', 'Harry', 'Bunt', 'Tilburg', 'Center']-->
+<paper id="25"><title>Context-driven dialogue act generation</title><author><first>Volha</first><last>Petukhova</last></author><author><first>Harry</first><last>Bunt</last></author><url>Z10-Petukhova_semdial_0025.pdf</url></paper>
+
+<!--['Joanna', 'Szwabe']-->
+<paper id="26"><title>The Communicative Style of the Physically Disabled – a Corpus Study</title><author><first>Joanna</first><last>Szwabe</last></author><url>Z10-Szwabe_semdial_0026.pdf</url></paper>
+
+<!--['Thora', 'Tenbrink']-->
+<paper id="27"><title>Communicating routes to older and younger addressees</title><author><first>Thora</first><last>Tenbrink</last></author><author><first>Elena</first><last>Andonova</last></author><url>Z10-Tenbrink_semdial_0027.pdf</url></paper>
+
+
+<paper id="28"><title>Entailed feedback: evidence from a ranking experiment</title><author><first>Marcin</first><last>Włodarczak</last></author><author><first>Harry</first><last>Bunt</last></author><author><first>Volha</first><last>Petukhova</last></author><url>Z10-Wlodarczak_semdial_0028.pdf</url></paper>
+
+<!--['Michael', 'Wunder']-->
+<paper id="29"><title>Statistical Evaluation of Intention in Group Decision-making Dialogue</title><author><first>Michael</first><last>Wunder</last></author><author><first>Matthew</first><last>Stone</last></author><url>Z10-Wunder_semdial_0029.pdf</url></paper>
+
+
+  </volume>
+</collection>

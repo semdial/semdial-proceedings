@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z11">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Ron</first><last>Artstein</last></editor>
+      <editor><first>Mark</first><last>Core</last></editor>
+       <editor><first>David</first><last>DeVault</last></editor>
+       <editor><first>Elsi</first><last>Kaiser</last></editor>
+       <editor><first>Amanda</first><last>Stent</last></editor>       
+      <publisher>SEMDIAL</publisher>
+      <address>Los Angeles, California</address>
+      <month>September</month>
+      <year>2011</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2011_londonlogue_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+     <booktitle>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Ron</first><last>Artstein</last></editor>
+      <editor><first>Mark</first><last>Core</last></editor>
+       <editor><first>David</first><last>DeVault</last></editor>
+       <editor><first>Elsi</first><last>Kaiser</last></editor>
+       <editor><first>Amanda</first><last>Stent</last></editor>       
+      <publisher>SEMDIAL</publisher>
+      <address>Los Angeles, California</address>
+      <month>September</month>
+      <year>2011</year>
+    </meta>
+
+<paper id="1"><title>What Would a Human-Like Dialogue Agent Need to Know?</title><author><first>Lenhart K.</first><last>Schubert</last></author><url>Z11-K._semdial_0005.pdf</url></paper>
+
+<paper id="2"><title>Structures in Three-Person Decision-Making Dialogues</title><author><first>Jerry R.</first><last>Hobbes</last></author><url>Z11-R._semdial_0013.pdf</url></paper>
+
+<paper id="4"><title>Structural Divergence in Dialogue</title><author><first>Patrick G. T.</first><last>Healey</last></author><url>Z11-G._semdial_0017.pdf</url></paper>
+
+<paper id="5"><title>Incremental Dialogue Processing</title><author><first>David</first><last>Schlangen</last></author><url>Z11-Schlangen_semdial_0021.pdf</url></paper>
+
+
+</volume>
+  <volume id="3">
+    <meta>
+<booktitle>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Ron</first><last>Artstein</last></editor>
+      <editor><first>Mark</first><last>Core</last></editor>
+       <editor><first>David</first><last>DeVault</last></editor>
+       <editor><first>Elsi</first><last>Kaiser</last></editor>
+       <editor><first>Amanda</first><last>Stent</last></editor>       
+      <publisher>SEMDIAL</publisher>
+      <address>Los Angeles, California</address>
+      <month>September</month>
+      <year>2011</year>
+    </meta>
+
+
+
+<!--['Hannes', 'Rieser']-->
+<paper id="6"><title>Gestures Indicating Dialogue Structure</title><author><first>Hannes</first><last>Rieser</last></author><url>Z11-Rieser_semdial_0006.pdf</url></paper>
+
+<!--['Martin', 'Johansson', 'Gabriel', 'Skantze', 'Gustafson', '       ', 'KTH', 'Speech', 'Music']-->
+<paper id="7"><title>Understanding Route Directions in Human-Robot Dialogue</title><author><first>Martin</first><last>Johansson</last></author><author><first>Gabriel</first><last>Skantze</last></author><author><first>Gustafson</first><last></last></author><url>Z11-Johansson_semdial_0007.pdf</url></paper>
+
+<!--['Nigel', 'G.', 'Ward', ' ']-->
+<paper id="8"><title>Temporal Distributional Analysis</title><author><first>Nigel G.</first><last>Ward</last></author><url>Z11-G._semdial_0008.pdf</url></paper>
+
+<!--['Anton', 'Benz', 'Alexandra', 'Strekalova', 'Linguistics']-->
+<paper id="9"><title>A decision-theoretic approach to finding optimal responses to over-constrained queries in a conceptual search space</title><author><first>Anton</first><last>Benz</last></author><author><first>Núria</first><last>Bertomeu</last></author><author><first>Alexandra</first><last>Strekalova</last></author><url>Z11-Benz_semdial_0009.pdf</url></paper>
+
+<!--[]-->
+<paper id="10"><title>DIUM -- An Incremental Dialogue Manager</title><author><first>Okko</first><last>Buß</last></author><author><first>David</first><last>Schlangen</last></author><url>Z11-Buss_semdial_0010.pdf</url></paper>
+
+<!--['Kristina', 'Lundholm', 'Jessica', 'Villing']-->
+<paper id="11"><title>Reducing cognitive load in in-vehicle dialogue system interaction</title><author><first>Kristina Lundholm</first><last>Fors</last></author><author><first>Jessica</first><last>Villing</last></author><url>Z11-Lundholm_semdial_0011.pdf</url></paper>
+
+<!--['Brian', 'Pl¨uss']-->
+<paper id="12"><title>Toward Rapid Development of Multi-Party</title><author><first>Brian</first><last>Plüss</last></author><author><first>David</first><last>DeVault</last></author><author><first>David</first><last>Traum</last></author><url>Z11-Pluss_semdial_0012.pdf</url></paper>
+
+<!--[]-->
+<paper id="14"><title>Three Ways to Avoid Commitments: Declarative Force Modifiers in the Conversational Scoreboard</title><author><first>Sophia</first><last>Malamud</last></author><author><first>Tamina</first><last>Stephenson</last></author><url>Z11-Malamud_semdial_0014.pdf</url></paper>
+
+
+<paper id="15"><title>Expressing Taste in Dialogue</title><author><first>Inés</first><last>Crespo</last></author><author><first>Raquel</first><last>Fernández</last></author><url>Z11-Crespo_semdial_0015.pdf</url></paper>
+
+<!--['Mary', 'Byram', 'Washburn', 'Elsi', 'Kaiser', 'Maria', 'Luisa', 'Zubizarreta']-->
+<paper id="16"><title>Focus Facilitation and Non-Associative Sets</title><author><first>Mary</first><last>Byram</last></author><author><first>Washburn</first><last>Elsi</last></author><author><first>Kaiser</first><last>Maria</last></author><author><first>Luisa</first><last>Zubizarreta</last></author><url>Z11-Byram_semdial_0016.pdf</url></paper>
+
+<!--['Patrick', 'G.', 'T.', 'Healey', ' ']-->
+<paper id="17"><title>Structural Divergence in Dialogue</title><author><first>Patrick G.</first><last>T.</last></author><author><first>T.</first><last>Healey</last></author><url>Z11-G._semdial_0017.pdf</url></paper>
+
+
+<!--[]-->
+<paper id="18"><title>Local Discourse Structure of Chat Dialogues: Evidence from Keystroke Logging</title><author><first>Evgeny</first><last>Chukharev-Hudilainen</last></author><url>Z11-Chukharev-Hudilainen_semdial_0018.pdf</url></paper>
+
+<!--['Richard', 'Kunert']-->
+<paper id="19"><title>Adaptation in Child Directed Speech: Evidence from Corpora</title><author><first>Richard</first><last>Kunert</last></author><author><first>Raquel</first><last>Fernández</last></author><author><first>Willem</first><last>Zuidema</last></author><url>Z11-Kunert_semdial_0019.pdf</url></paper>
+
+<!--['Bahtina']-->
+<paper id="20"><title>Lingua Receptiva: Explicit Alignment in Estonian-Russian Communication</title><author><first>Daria</first><last>Bahtina</last></author><url>Z11-Bahtina_semdial_0020.pdf</url></paper>
+
+
+<!--['Robin', 'Cooper', 'Jonathan', 'Ginzburg']-->
+<paper id="22"><title>Negation in dialogue</title><author><first>Robin</first><last>Cooper</last></author><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z11-Cooper_semdial_0022.pdf</url></paper>
+
+<!--['Staﬀan', 'Larsson']-->
+<paper id="23"><title>The TTR perceptron: Dynamic perceptual meanings and semantic coordination</title><author><first>Staffan</first><last>Larsson</last></author><url>Z11-Larsson_semdial_0023.pdf</url></paper>
+
+<!--['Ellen', 'Breitholtz', 'Robin', 'Cooper', ' ', 'Department', 'of', 'Philosophy']-->
+<paper id="24"><title>Enthymemes as Rhetorical Resources</title><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Robin</first><last>Cooper</last></author><url>Z11-Breitholtz_semdial_0024.pdf</url></paper>
+
+
+<paper id="25"><title>A GLOBAL EXPERIENCE METRIC FOR DIALOG MANAGEMENT IN SPOKEN DIALOG SYSTEMS</title><author><first>Silke</first><last>Witt</last></author><url>Z11-Witt_semdial_0025.pdf</url></paper>
+
+
+<paper id="26"><title>Dialogue Analysis to Inform the Development of a Natural-language Tutoring System for Physics</title><author><first>Sandra</first><last>Katz</last></author><author><first>Patricia</first><last>Albacete</last></author><author><first>Pamela</first><last>Jordan</last></author><author><first>Diane</first><last>Litman</last></author><url>Z11-Katz_semdial_0026.pdf</url></paper>
+
+
+</volume>
+  <volume id="4">
+    <meta>
+<booktitle>Proceedings of the 15th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Ron</first><last>Artstein</last></editor>
+      <editor><first>Mark</first><last>Core</last></editor>
+       <editor><first>David</first><last>DeVault</last></editor>
+       <editor><first>Elsi</first><last>Kaiser</last></editor>
+       <editor><first>Amanda</first><last>Stent</last></editor>       
+      <publisher>SEMDIAL</publisher>
+      <address>Los Angeles, California</address>
+      <month>September</month>
+      <year>2011</year>
+    </meta>
+
+<!--['Markus', 'Berg']-->
+<paper id="27"><title>Dialog Acts from the Processing Perspective in Task Oriented Dialog Systems</title><author><first>Markus</first><last>Berg</last></author><author><first>Bernhard</first><last>Thalheim</last></author><author><first>Antje</first><last>Düsterhöft</last></author><url>Z11-Berg_semdial_0027.pdf</url></paper>
+
+<!--['Hendrik', 'Buschmeier', 'Stefan', 'Kopp']-->
+<paper id="28"><title>Unveiling the Information State with a Bayesian Model of the Listener</title><author><first>Hendrik</first><last>Buschmeier</last></author><author><first>Stefan</first><last>Kopp</last></author><url>Z11-Buschmeier_semdial_0028.pdf</url></paper>
+
+<!--['Hannes', 'Rieser']-->
+<paper id="29"><title>Gestures Supporting Dialogue Structure and Interaction in the Bielefeld Speech and Gesture Alignment Corpus (SaGA)</title><author><first>Florian</first><last>Hahn</last></author><author><first>Hannes</first><last>Rieser</last></author><url>Z11-Hahn_semdial_0029.pdf</url></paper>
+
+
+<!--[]-->
+<paper id="30"><title>Cognitive Models of Failure and Recovery in Natural Language Interactions - A Joint Actions Approach</title><author><first>Arthi</first><last>Murugesan</last></author><author><first>Derek</first><last>Brock</last></author><author><first>Wende K.</first><last>Frost</last></author><author><first>Dennis</first><last>Perzanowski</last></author><url>Z11-Murugesan_semdial_0030.pdf</url></paper>
+
+<!--['Antonio', 'Roque']-->
+<paper id="31"><title>Tracking Communication and Belief in Virtual Worlds</title><author><first>Antonio</first><last>Roque</last></author><url>Z11-Roque_semdial_0031.pdf</url></paper>
+
+
+<paper id="32"><title>Towards Speaker Adaptation for Dialogue Act Recognition</title><author><first>Congkai</first><last>Sun</last></author><author><first>Louis-Philippe</first><last>Morency</last></author><url>Z11-Sun_semdial_0032.pdf</url></paper>
+
+<!--['Glenn', 'Taylor', 'Richard', 'Frederiksen', 'Jacob', 'Crossman', 'Jonathan', 'Voigt', 'Kyle', 'Aron']-->
+<paper id="33"><title>A Smart Interaction Device for Multi-Modal Human-Robot Dialogue</title><author><first>Glenn</first><last>Taylor</last></author><author><first>Richard</first><last>Frederiksen</last></author><author><first>Jacob</first><last>Crossman</last></author><author><first>Jonathan</first><last>Voigt</last></author><author><first>Kyle</first><last>Aron</last></author><url>Z11-Taylor_semdial_0033.pdf</url></paper>
+
+<!--['Gabriel', 'Skantze']-->
+<paper id="34"><title>Effects of 2D and 3D Displays on Turn-taking Behavior in Multiparty Human-Computer Dialog</title><author><first>Gabriel</first><last>Skantze</last></author><url>Z11-Skantze_semdial_0034.pdf</url></paper>
+
+<!--['Richard', 'Andersson']-->
+<paper id="35"><title>Optional visual information affects conversation content</title><author><first>Richard</first><last>Andersson</last></author><author><first>Jana</first><last>Holsanova</last></author><author><first>Kenneth</first><last>Holmqvist</last></author><url>Z11-Andersson_semdial_0035.pdf</url></paper>
+
+<!--['Jens', 'Edlund']-->
+<paper id="36"><title>How deeply rooted is turn-taking?</title><author><first>Jens</first><last>Edlund</last></author><url>Z11-Edlund_semdial_0036.pdf</url></paper>
+
+<!--['Kristina', 'Lundholm']-->
+<paper id="37"><title>Pause length variations within and between speakers over time</title><author><first>Kristina</first><last>Lundholm</last></author><url>Z11-Lundholm_semdial_0037.pdf</url></paper>
+
+<!--['Rachel', 'A.', 'Ryskin']-->
+<paper id="38"><title>The impact of gender and bilingualism on cognition: the case of spatial perspective-taking</title><author><first>Rachel A.</first><last>Ryskin</last></author><author><first>Sarah</first><last>Brown-Schmidt</last></author><url>Z11-A._semdial_0038.pdf</url></paper>
+
+<paper id="39"><title>Timing in turn-taking: Children's responses to their parents' questions</title><author><first>Marisa</first><last>Tice</last></author><author><first>Susan C.</first><last>Bobb</last></author><author><first>Eve V.</first><last>Clark</last></author><url>Z11-Tice_semdial_0039.pdf</url></paper>
+
+
+<paper id="40"><title>The eye gaze of 3rd party observers reflects turn-end boundary projection</title><author><first>Marisa</first><last>Tice</last></author><author><first>Tania</first><last>Henetz</last></author><url>Z11-Tice_semdial_0040.pdf</url></paper>
+
+<!--['Karen', 'Duchaj']-->
+<paper id="41"><title>The Structure of Greetings and Farewells/Thankings</title><author><first>Karen</first><last>Duchaj</last></author><author><first>Jeanine</first><last>Ntihirageza</last></author><url>Z11-Duchaj_semdial_0041.pdf</url></paper>
+
+<!--['Yasuhiro', 'Katagiri']-->
+<paper id="42"><title>Concern Alignment in Consensus Building Conversations</title><author><first>Yasuhiro</first><last>Katagiri</last></author><author><first>Katsuya</first><last>Takanashi</last></author><author><first>Masato</first><last>Ishizaki</last></author><author><first>Mika</first><last>Enomoto</last></author><author><first>Yasuharu</first><last>Den</last></author><author><first>Yosuke</first><last>Matsusaka</last></author><url>Z11-Katagiri_semdial_0042.pdf</url></paper>
+
+
+<paper id="43"><title>The emergence of procedural conventions in dialogue</title><author><first>Gregory</first><last>Mills</last></author><url>Z11-Mills_semdial_0043.pdf</url></paper>
+
+<!--['Brian', 'Pl¨uss', 'Paul', 'Piwek', 'Richard', 'Power']-->
+<paper id="44"><title>Modelling Non-Cooperative Dialogue: the Role of Conversational Games and Discourse Obligations</title><author><first>Brian</first><last>Plüss</last></author><author><first>Paul</first><last>Piwek</last></author><author><first>Richard</first><last>Power</last></author><url>Z11-Pluss_semdial_0044.pdf</url></paper>
+
+
+  </volume>
+</collection>

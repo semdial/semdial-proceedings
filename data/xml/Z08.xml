@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z08">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <editor><first>Pat</first><last>Healey</last></editor>     
+      <editor><first>Yo</first><last>Sato</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>London, United Kingdom</address>
+      <month>June</month>
+      <year>2008</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2008_londial_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <editor><first>Pat</first><last>Healey</last></editor>     
+      <editor><first>Yo</first><last>Sato</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>London, United Kingdom</address>
+      <month>June</month>
+      <year>2008</year>
+    </meta>
+
+<paper id="5"><title>Computational Models of Non-cooperative dialogue</title><author><first>David</first><last>Traum</last></author><url>Z08-NONAME_semdial_0005.pdf</url></paper>
+
+<paper id="8"><title>Questions, Inferences, and Dialogues</title><author><first>Andrzej</first><last>Wiśniewski</last></author><url>Z08-Wisniewski_semdial_0008.pdf</url></paper>
+
+<paper id="17"><title>Cultural Differences in Computer-Mediated Communication</title><author><first>Susan</first><last>Fussell</last></author><url>Z08-Fussell_semdial_0017.pdf</url></paper>
+
+</volume>
+  <volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <editor><first>Pat</first><last>Healey</last></editor>     
+      <editor><first>Yo</first><last>Sato</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>London, United Kingdom</address>
+      <month>June</month>
+      <year>2008</year>
+    </meta>
+    
+    <paper id="6"><title>A Grounding Approach to Modelling Tutorial Dialogue Structures</title><author><first>Mark</first><last>Buckley</last></author><author><first>Magdalena</first><last>Wolska</last></author><url>Z08-Buckley_semdial_0006.pdf</url></paper>
+    
+    <paper id="7"><title>Flexible dialogue management and cost-models</title><author><first>Ian</first><last>Lewin</last></author><url>Z08-Lewin_semdial_0007.pdf</url></paper>
+    
+    <paper id="9"><title>Commitments, Beliefs and Intentions in Dialogue</title><author><first>Nicholas</first><last>Asher</last></author><author><first>Alex</first><last>Lascarides</last></author><url>Z08-Asher_semdial_0009.pdf</url></paper>
+    
+ 
+    <!--['Andrew Gargett†, Eleni Gregoromichelaki†, Chris Howes‡, Yo Sato‡']-->
+<paper id="10"><title>Dialogue-Grammar Correspondence in Dynamic Syntax</title><author><first>Andrew</first><last>Gargett</last></author><author><first>Eleni</first><last>Gregoromichelaki</last></author><author><first>Christine</first><last>Howes</last></author><author><first>Yo</first><last>Sato</last></author><url>Z08-Gargett_semdial_0010.pdf</url></paper>
+
+
+<!--['Oliver', 'Lemon']-->
+<paper id="11"><title>User Simulations for Online Adaptation and Knowledge-alignment in Troubleshooting Dialogue Systems</title><author><first>Srinivasan</first><last>Janarthanam</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z08-Janarthanam_semdial_0011.pdf</url></paper>
+
+<!--[]-->
+<paper id="12"><title>Representing and Using Assembly Plans in Cooperative, Task-Based Human-Robot Dialogue</title><author><first>Mary Ellen</first><last>Foster</last></author><author><first>Colin</first><last>Matheson</last></author><url>Z08-Foster_semdial_0012.pdf</url></paper>
+
+<!--['Michael Brenner']-->
+<paper id="13"><title>A Continual Multiagent Planning Approach to Situated Dialogue</title><author><first>Michael</first><last>Brenner</last></author><author><first>Ivana</first><last>Kruijff-Korbayova</last></author><url>Z08-Brenner_semdial_0013.pdf</url></paper>
+
+<!--['Luciana Benotti']-->
+<paper id="14"><title>Accommodation through Tacit Sensing</title><author><first>Luciana</first><last>Benotti</last></author><url>Z08-Benotti_semdial_0014.pdf</url></paper>
+
+<!--['Tomlinson', 'John', 'M.']-->
+<paper id="15"><title>What eye believe that you can see: Conversation, gaze coordination and visual common ground</title><author><first>Daniel</first><last>Richardson</last></author><author><first>Rick</first><last>Dale,</last></author><author><first>John</first><last>Tomlinson</last></author><author><first>Herbert</first><last>Clark</last></author><url>Z08-Richardson_semdial_0015.pdf</url></paper>
+
+<!--['Square', 'Bard', 'George', ' ', 'Ellen', 'Gurman']-->
+<paper id="16"><title>Adapting the Use of Attributes to the Task Environment in Joint Action: results and a model</title><author><first>Markus</first><last>Guhe</last></author><author><first>Ellen Gurman</first><last>Bard</last></author><url>Z08-Guhe_semdial_0016.pdf</url></paper>
+
+
+<paper id="18"><title>Can Aristotelian Enthymemes Decrease the Cognitive Load of a Dialogue</title><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Jessica</first><last>Villing</last></author><url>Z08-Breitholtz_semdial_0018.pdf</url></paper>
+
+
+<paper id="19"><title>Leveraging Minimal User Input to Improve Targeted Extraction of Action Items</title><author><first>Matthew</first><last>Frampton</last></author><author><first>Raquel</first><last>Fernández</last></author><author><first>Patrick</first><last>Ehlen</last></author><author><first>Anish</first><last>Adukuzhiyil</last></author><author><first>Stanley</first><last>Peters</last></author><url>Z08-Frampton_semdial_0019.pdf</url></paper>
+
+
+<paper id="20"><title>What’s in a Manner of Speaking? Children’s sensitivity to partner-specific referential precedents</title><author><first>Danielle</first><last>Matthews</last></author><author><first>Elena</first><last>Lieven</last></author><author><first>Michael</first><last>Tomasello</last></author><url>Z08-Matthews_semdial_0020.pdf</url></paper>
+
+
+<paper id="21"><title>Who Tunes Accessibility of Referring Expressions in Dialogue</title><author><first>Ellen Gurman</first><last>Bard</last></author><author><first>Robin</first><last>Hill</last></author><author><first>Mary Ellen</first><last>Foster</last></author><url>Z08-Bard_semdial_0021.pdf</url></paper>
+
+
+<paper id="23"><title>Dimensions of Variation in Disfluency Production in Discourse</title><author><first>Scott</first><last>Fraundorf</last></author><author><first>Duane</first><last>Watson</last></author><url>Z08-Fraundorf_semdial_0023.pdf</url></paper>
+
+<!--['Ruiter', 'Peter', 'de']-->
+<paper id="24"><title>Timing in conversation: The anticipation of turn endings</title><author><first>Lilla</first><last>Magyari</last></author><author><first>Jan-Peter</first><last>de Ruiter</last></author><url>Z08-Magyari_semdial_0024.pdf</url></paper>
+
+
+
+
+</volume>
+  <volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <editor><first>Pat</first><last>Healey</last></editor>     
+      <editor><first>Yo</first><last>Sato</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>London, United Kingdom</address>
+      <month>June</month>
+      <year>2008</year>
+    </meta>
+    
+    
+    
+    <paper id="25"><title>Adaptive Natural Language Generation in Dialogue using Reinforcement Learning</title><author><first>Oliver</first><last>Lemon</last></author><url>Z08-Lemon_semdial_0025.pdf</url></paper>
+
+
+<paper id="26"><title>Taking Fingerprints of Speech-and-Gesture Ensembles: Approaching Empirical Evidence of Intrapersonal Alignment in Multimodal Communication</title><author><first>Andy</first><last>Lücking</last></author><author><first>Alexander</first><last>Mehler</last></author><author><first>Peter</first><last>Menke</last></author><url>Z08-Lucking_semdial_0026.pdf</url></paper>
+
+
+<paper id="27"><title>Multimodal Reference in Dialogue: Towards a Balanced Corpus</title><author><first>Paul</first><last>Piwek</last></author><author><first>Ielka</first><last>van der Sluis</last></author><author><first>Albert</first><last>Gatt</last></author><author><first>Adrian</first><last>Bangerter</last></author><url>Z08-Piwek_semdial_0027.pdf</url></paper>
+
+
+<paper id="28"><title>Aligned Iconic Gesture in Different Strata of MM Route-description</title><author><first>Hannes</first><last>Rieser</last></author><url>Z08-Rieser_semdial_0028.pdf</url></paper>
+
+
+<paper id="29"><title>Resolving Ambiguous, Implicit and Non-Literal References by Jointly Reasoning over Linguistic and Non-Linguistic Knowledge</title><author><first>Nick</first><last>Cassimatis</last></author><url>Z08-Cassimatis_semdial_0029.pdf</url></paper>
+
+
+<paper id="30"><title>A Word-Probabilistic Interface to Dialogue Modules</title><author><first>Alex</first><last>Fang</last></author><author><first>Weigang</first><last>Li</last></author><author><first>Jonathan</first><last>Webster</last></author><url>Z08-Fang_semdial_0030.pdf</url></paper>
+
+
+<paper id="31"><title>A Grammar Formalism for Specifying ISU-based Dialogue Systems</title><author><first>Peter</first><last>Ljunglöf</last></author><url>Z08-Ljunglof_semdial_0031.pdf</url></paper>
+
+<paper id="32"><title>Spoken Language Understanding in Dialogue Systems, Using a 2-layer Markov Logic Network: improving semantic accuracy</title><author><first>Ivan V.</first><last>Meza-Ruiz</last></author><author><first>Sebastian</first><last>Riedel</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z08-Meza-Ruiz_semdial_0032.pdf</url></paper>
+
+
+<paper id="33"><title>Discourse Motivated Constraint Prioritisation For Task-Oriented Multi-Party Dialogue Systems</title><author><first>Petra-Maria</first><last>Strauss</last></author><author><first>Simon</first><last>Friedmann</last></author><author><first>Tobias</first><last>Heinroth</last></author><url>Z08-Strauss_semdial_0033.pdf</url></paper>
+
+
+<paper id="34"><title>Negotiating Spatial Relationships in Dialogue: The role of the addressee</title><author><first>Thora</first><last>Tenbrink</last></author><author><first>Elena</first><last>Andonova</last></author><author><first>Kenny</first><last>Coventry</last></author><url>Z08-Tenbrink_semdial_0034.pdf</url></paper>
+    
+    
+    
+   
+
+
+
+  </volume>
+</collection>

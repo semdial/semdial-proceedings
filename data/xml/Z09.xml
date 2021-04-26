@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z09">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Jens</first><last>Edlund</last></editor>
+      <editor><first>Joakim</first><last>Gustafson</last></editor>     
+      <editor><first>Anna</first><last>Hjalmarsson</last></editor>     
+      <editor><first>Gabriel</first><last>Skantze</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Stockholm, Sweden</address>
+      <month>June</month>
+      <year>2009</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2009_diaholmia_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Jens</first><last>Edlund</last></editor>
+      <editor><first>Joakim</first><last>Gustafson</last></editor>     
+      <editor><first>Anna</first><last>Hjalmarsson</last></editor>     
+      <editor><first>Gabriel</first><last>Skantze</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Stockholm, Sweden</address>
+      <month>June</month>
+      <year>2009</year>
+    </meta>
+
+<paper id="1"><title>Turn-taking vs. backchanneling in spoken dialogue systems</title><author><first>Julia</first><last>Hirschberg</last></author><url>Z09-Hirschberg_semdial_0005.pdf</url></paper>
+
+<paper id="2"><title>Multifunctionality and multidimensional dialogue semantics</title><author><first>Harry</first><last>Bunt</last></author><url>Z09-Bunt_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>Animal communication - bluffing, lying, impressing, and sometimes even information</title><author><first>Sverre</first><last>Sjölander</last></author><url>Z09-Sverre_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>The expanding role of prosody in speech communication technology</title><author><first>Nick</first><last>Campbell</last></author><url>Z09-Nick_semdial_0008.pdf</url></paper>
+
+</volume>
+  <volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Jens</first><last>Edlund</last></editor>
+      <editor><first>Joakim</first><last>Gustafson</last></editor>     
+      <editor><first>Anna</first><last>Hjalmarsson</last></editor>     
+      <editor><first>Gabriel</first><last>Skantze</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Stockholm, Sweden</address>
+      <month>June</month>
+      <year>2009</year>
+    </meta>
+
+
+<paper id="9"><title>Who's next? Speaker-selection mechanisms in multiparty dialogue</title><author><first>Volha</first><last>Petukhova</last></author><author><first>Harry</first><last>Bunt</last></author><url>Z09-Petukhova_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>On cue - additive effects of turn-regulating phenomena in dialogue</title><author><first>Anna</first><last>Hjalmarsson</last></author><url>Z09-Hjalmarsson_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>Anaphora and Direct Reference: Empirical Evidence from Pointing</title><author><first>Massimo</first><last>Poesio</last></author><author><first>Hannes</first><last>Rieser</last></author><url>Z09-Poesio_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Matching User Questions to Domain Speech Acts for a Tactical Questioning Dialogue System</title><author><first>Ron</first><last>Artstein</last></author><author><first>Sudeep</first><last>Gandhe</last></author><author><first>Michael</first><last>Rushforth</last></author><author><first>David</first><last>Traum</last></author><url>Z09-Artstein_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>What we can learn from Dialogue Systems that don't work</title><author><first>David</first><last>Schlangen</last></author><url>Z09-Schlangen_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>Compositional and ontological semantics in learning from corrective feedback and explicit definition</title><author><first>Robin</first><last>Cooper</last></author><author><first>Staffan</first><last>Larsson</last></author><url>Z09-Cooper_semdial_0014.pdf</url></paper>
+
+<paper id="15"><title>How mechanistic can accounts of interaction be?</title><author><first>Ruth</first><last>Kempson</last></author><author><first>Eleni</first><last>Gregoromichelaki</last></author><author><first>Matt</first><last>Purver</last></author><author><first>Greg</first><last>Mills</last></author><author><first>Andrew</first><last>Gargett</last></author><author><first>Christine</first><last>Howes</last></author><url>Z09-Kempson_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>A monotonic model of denials in dialogue</title><author><first>Elena</first><last>Karagjosova</last></author><url>Z09-Karagjosova_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>Dialogue Management as Interactive Tree Building</title><author><first>Peter</first><last>Ljunglöf</last></author><url>Z09-Ljunglof_semdial_0017.pdf</url></paper>
+
+<paper id="20"><title>A domain ontology based metric to evaluate spoken dialog systems</title><author><first>Jan</first><last>Kleindienst</last></author><author><first>Jan</first><last>Curin</last></author><author><first>Martin</first><last>Labsky</last></author><url>Z09-Kleindienst_semdial_0020.pdf</url></paper>
+
+
+<paper id="21"><title>Agency &amp; Information State in Situated Dialogues: Analysis &amp; Computational Modelling</title><author><first>Robert</first><last>Ross</last></author><author><first>John</first><last>Bateman</last></author><url>Z09-Ross_semdial_0021.pdf</url></paper>
+
+</volume>
+  <volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 13th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <editor><first>Jens</first><last>Edlund</last></editor>
+      <editor><first>Joakim</first><last>Gustafson</last></editor>     
+      <editor><first>Anna</first><last>Hjalmarsson</last></editor>     
+      <editor><first>Gabriel</first><last>Skantze</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Stockholm, Sweden</address>
+      <month>June</month>
+      <year>2009</year>
+    </meta>
+    
+   
+
+<paper id="22"><title>TRIK: A Talking and Drawing Robot for Children with Communication Disabilities</title><author><first>Peter</first><last>Ljunglöf</last></author><url>Z09-Ljunglof_semdial_0022.pdf</url></paper>
+
+<paper id="23"><title>Multimodal Menu-based Dialogue in Dico II</title><author><first>Staffan</first><last>Larsson</last></author><author><first>Jessica</first><last>Villing</last></author><url>Z09-Larsson_semdial_0023.pdf</url></paper>
+
+<paper id="24"><title>Demonstration of the Amani Tactical Questioning Dialogue System</title><author><first>Ron</first><last>Artstein</last></author><author><first>Sudeep</first><last>Gandhe</last></author><author><first>Michael</first><last>Rushforth</last></author><author><first>David</first><last>Traum</last></author><url>Z09-Artstein_semdial_0024.pdf</url></paper>
+
+<paper id="25"><title>Multimodal interaction control in the MonAMI Reminder</title><author><first>Gabriel</first><last>Skantze</last></author><author><first>Joakim</first><last>Gustafson</last></author><url>Z09-Skantze_semdial_0025.pdf</url></paper>
+
+<paper id="26"><title>Spontal - a first glimpse of a Swedish database of spontaneous speech</title><author><first>Jens</first><last>Edlund</last></author><url>Z09-Edlund_semdial_0026.pdf</url></paper>
+
+<paper id="27"><title>Prosodic Disambiguation in Spoken Systems Output</title><author><first>Samer</first><last>Al Moubayed</last></author><url>Z09-AlMoubayed_semdial_0027.pdf</url></paper>
+
+<paper id="28"><title>Learning Adaptive Referring Expression Generation Policies for Spoken Dialogue Systems using Reinforcement Learning</title><author><first>Srinivasan</first><last>Janarthanam</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z09-Janarthanam_semdial_0028.pdf</url></paper>
+
+<paper id="29"><title>Ontology-Based Information States for an Artificial Sales Agent</title><author><first>Nuria</first><last>Bertomeu</last><author><first>Anton</first><last>Benz</last></author></author><url>Z09-Bertomeu_semdial_0029.pdf</url></paper>
+
+<paper id="30"><title>Alignment and Priming of Spatial Perspective</title><author><first>Elena</first><last>Andonova</last></author><author><first>Kenny R.</first><last>Coventry</last></author><url>Z09-Andonova_semdial_0030.pdf</url></paper>
+
+<paper id="31"><title>Using Screenplays as Corpus for Modeling Gossip in Game Dialogues</title><author><first>Jenny</first><last>Brusk</last></author><url>Z09-Brusk_semdial_0031.pdf</url></paper>
+
+<paper id="34"><title>Integrating prosodic modelling with incremental speech recognition</title><author><first>Timo</first><last>Baumann</last></author><url>Z09-Baumann_semdial_0034.pdf</url></paper>
+
+<paper id="18"><title>The Non-Individuation Constraint Revisited: When to Produce Free Choice Items in Multi-Party Dialogue</title><author><first>Vladimir</first><last>Popescu</last></author><author><first>Jean</first><last>Caelen</last></author><url>Z09-Popescu_semdial_0018.pdf</url></paper>
+
+<paper id="19"><title>A comparison of addressee detection methods for multiparty conversations</title><author><first>Rieks</first><last>op den Akker</last></author><author><first>David</first><last>Traum</last></author><url>Z09-opdenAkker_semdial_0018.pdf</url></paper>
+
+
+
+  </volume>
+</collection>
