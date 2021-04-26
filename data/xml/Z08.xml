@@ -2,7 +2,7 @@
 <collection id="Z08">
   <volume id="1">
     <meta>
-      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
       <editor><first>Jonathan</first><last>Ginzburg</last></editor>
       <editor><first>Pat</first><last>Healey</last></editor>     
       <editor><first>Yo</first><last>Sato</last></editor>                 
@@ -17,7 +17,7 @@
 </volume>
   <volume id="2">
     <meta>
-      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
       <editor><first>Jonathan</first><last>Ginzburg</last></editor>
       <editor><first>Pat</first><last>Healey</last></editor>     
       <editor><first>Yo</first><last>Sato</last></editor>                 
@@ -36,7 +36,7 @@
 </volume>
   <volume id="3">
     <meta>
-      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
       <editor><first>Jonathan</first><last>Ginzburg</last></editor>
       <editor><first>Pat</first><last>Healey</last></editor>     
       <editor><first>Yo</first><last>Sato</last></editor>                 
@@ -99,7 +99,7 @@
 </volume>
   <volume id="4">
     <meta>
-      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - FrontMatter</booktitle>
+      <booktitle>Proceedings of the 12th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
       <editor><first>Jonathan</first><last>Ginzburg</last></editor>
       <editor><first>Pat</first><last>Healey</last></editor>     
       <editor><first>Yo</first><last>Sato</last></editor>                 

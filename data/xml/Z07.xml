@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z07">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Ron</first><last>Artstein</last></editor>
+      <editor><first>Laure</first><last>Vieu</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Roverto, Italy</address>
+      <month>May-June</month>
+      <year>2007</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2007_decalog_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Ron</first><last>Artstein</last></editor>
+      <editor><first>Laure</first><last>Vieu</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Roverto, Italy</address>
+      <month>May-June</month>
+      <year>2007</year>
+    </meta>
+
+
+<paper id="5"><title>Neuropragmatics: mind/brain evidence for communicative intentions</title><author><first>Bruno</first><last>Bara</last></author><url>Z07-Bara_semdial_0005.pdf</url></paper>
+
+<paper id="14"><title>Embodied Communication with a Virtual HumanIpke Wachsmuth</title><author><first>Ipke</first><last>Wachsmuth</last></author><url>Z07-Wachsmuth_semdial_0014.pdf</url></paper>
+
+<paper id="19"><title>Recent advances in spoken language understanding</title><author><first>Renato</first><last>de Mori</last></author><url>Z07-deMori_semdial_0019.pdf</url></paper>
+
+<paper id="21"><title>Dialogue Games for Crosslingual Communication</title><author><first>Paul</first><last>Piwek</last></author><author><first>David</first><last>Hardcastle</last></author><author><first>Richard</first><last>Power</last></author><url>Z07-Piwek_semdial_0021.pdf</url></paper>
+
+</volume>
+  <volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Ron</first><last>Artstein</last></editor>
+      <editor><first>Laure</first><last>Vieu</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Roverto, Italy</address>
+      <month>May-June</month>
+      <year>2007</year>
+    </meta>
+    
+<!--['Roser', 'Morante', 'Simon', 'Keizer', 'Harry']-->
+<paper id="6"><title>A dialogue act based model for context updating</title><author><first>Roser</first><last>Morante</last></author><author><first>Simon</first><last>Keizer</last></author><author><first>Harry</first><last>Bunt</last></author><url>Z07-Morante_semdial_0006.pdf</url></paper>
+
+
+<paper id="7"><title>Incomplete Knowledge and Tacit Action:Enlightened Update in a Dialogue Game</title><author><first>Luciana</first><last>Benotti</last></author><url>Z07-Benotti_semdial_0007.pdf</url></paper>
+
+<!--['Schlangen', 'David']-->
+<paper id="8"><title>Push-to-talk ain't always bad! Comparing Different Interactivity Settings in Task-oriented Dialogue</title><author><author><first>Raquel</first><last>Fernández</last></author><author><first>David</first><last>Schlangen</last></author><first>Tatjana</first><last>Lucht</last></author><url>Z07-Fernandez_semdial_0008.pdf</url></paper>
+
+
+<!--['Pitel', 'Denis', 'Guillaume', 'Alexandre', 'Blackburn', 'Lorraine', 'Patrick', 'Campus']-->
+<paper id="9"><title>Incorporating Asymmetric and Asynchronous Evidence of Understandingin a Grounding Model</title><author><first>Alexandre</first><last>Denis</last></author><author><first>Guillaume</first><last>Pitel</last></author><author><first>Matthieu</first><last>Quignard</last></author><author><first>Patrick</first><last>Blackburn</last></author><url>Z07-Denis_semdial_0009.pdf</url></paper>
+
+<!--['Buckley', 'Mark']-->
+<paper id="10"><title>Towards Modelling and Using Common Ground in Tutorial Dialogue</title><author><first>Mark</first><last>Buckley</last></author><author><first>Magdalena</first><last>Wolska</last></author><url>Z07-Mark_semdial_0010.pdf</url></paper>
+
+<!--['David', 'DeVault']-->
+<paper id="11"><title>Managing ambiguities across utterances in dialogue</title><author><first>David</first><last>DeVault</last></author><author><first>Matthew</first><last>Stone</last></author><url>Z07-DeVault_semdial_0011.pdf</url></paper>
+
+<!--['Ginzburg', 'Jonathan', 'Department']-->
+<paper id="12"><title>Unifying Self- and Other-Repair</title><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z07-Jonathan_semdial_0012.pdf</url></paper>
+
+
+
+<!--['Gregoromichelaki', 'Ruth', '’s', 'Gargett', 'Andrew', 'King', 'Eleni', 'Kempson']-->
+<paper id="13"><title>Incremental Fragment Construal</title><author><first>Ruth</first><last>Kempson</last></author><author><first>Andrew</first><last>Gargett</last></author><author><first>Eleni</first><last>Gregoromichelaki</last></author><url>Z07-Ruth_semdial_0013.pdf</url></paper>
+
+
+
+<paper id="15"><title>Annotating Continuous Understanding in a Multimodal Dialogue Corpus</title><author><first>Carlos Gomez</first><last>Gallo</last></author><author><first>Gregory</first><last>Aist</last></author><author><first>James</first><last>Allen</last></author><author><first>William</first><last>de Beaumont</last></author><author><first>Sergio</first><last>Coria</last></author><author><first>Whitney</first><last>Gegg-Harrison</last></author><author><first>Joana</first><last>Pardal</last></author><author><first>Mary</first><last>Swift</last></author><url>Z07-Gallo_semdial_0015.pdf</url></paper>
+
+<!--['Silvia', 'Quarteroni']-->
+<paper id="16"><title>A Chatbot-based Interactive Question Answering System</title><author><first>Silvia</first><last>Quarteroni</last></author><url>Z07-Quarteroni_semdial_0016.pdf</url></paper>
+
+
+<paper id="17"><title>Towards Flexible, Domain-Independent Dialogue Management using Collaborative Problem Solving</title><author><first>Nate</first><last>Blaylock</last></author><url>Z07-Blaylock_semdial_0017.pdf</url></paper>
+
+
+<paper id="18"><title>Implementing the Information-State Update Approach to Dialogue Management in a Slightly Extended SCXML</title><author><first>Fredrik</first><last>Kronlid</last></author><author><first>Torbjörn</first><last>Lager</last></author><url>Z07-Kronlid_semdial_0018.pdf</url></paper>
+
+<paper id="20"><title>Coordinating on ad-hoc semantic systems in dialogue</title><author><first>Staffan</first><last>Larson</last></author><url>Z07-Larsson_semdial_0020.pdf</url></paper>
+
+<!--['Foppolo', 'Bicocca', ' ', '-', 'Francesca', 'Milano', 'University', 'of']-->
+<paper id="22"><title>Between “cost” and “default”: a new approach to Scalar Implicature</title><author><first>Foppolo</first><last>Bicocca</last></author><url>Z07-Bicocca_semdial_0022.pdf</url></paper>
+
+<!--['Cohen', 'Gurion', '-', 'University', 'Ariel', 'Ben']-->
+<paper id="23"><title>Incredulity Questions</title><author><first>Ariel</first><last>Cohen</last></author><url>Z07-Cohen_semdial_0023.pdf</url></paper>
+
+<!--['G.', 'Interaction', 'T.', 'Vogel', 'Healey', 'Patrick', 'Carl']-->
+<paper id="24"><title>Group Dialects in an Online Community</title><author><first>Pat</first><last>Healey</last></author><author><first>Carl</first><last>Vogel</last></author><author><first>Arash</first><last>Eshghi</last></author><url>Z07-Healey_semdial_0024.pdf</url></paper>
+
+<!--['Carlos', 'Gomez', 'James', 'Scott', 'K.', 'Swift2', 'Tanenhaus3', 'Campana2,3,4,5', 'Ellen', 'Michael', 'Stoness2', 'Mary', 'Gallo2', 'Allen2']-->
+<paper id="25"><title>Incremental understanding in human-computer dialogue and experimental evidence for advantages over nonincremental methods</title><author><first>Gregory</first><last>Aist</last></author><author><first>James</first><last>Allen</last></author><author><first>Ellen</first><last>Campana</last></author><author><first>Carlos Gomez</first><last>Gallo</last></author><author><first>Scott</first><last>Stoness</last></author><author><first>Mary</first><last>Swift</last></author><author><first>Michael</first><last>Tanenhaus</last></author><url>Z07-Aist_semdial_0025.pdf</url></paper>
+
+
+</volume>
+  <volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Ron</first><last>Artstein</last></editor>
+      <editor><first>Laure</first><last>Vieu</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Roverto, Italy</address>
+      <month>May-June</month>
+      <year>2007</year>
+    </meta>
+    
+<paper id="44"><title>A Game-Based Strategy for Optimizing Agents’ Argumentation in Deliberation Dialogues</title><author><first>Gemma</first><last>Bel-Enguix</last></author><author><first>M. Dolores</first><last>Jiménez-López</last></author><url>Z07-Bel_semdial_0044.pdf</url></paper>
+
+
+<paper id="26"><title>The Fyntour Multilingual Weather and Sea Dialogue System</title><author><first>Eckhard</first><last>Bick</last></author><author><first>Jens</first><last>Ahlmann Hansen</last></author><url>Z07-Bick_semdial_0026.pdf</url></paper>
+
+
+<paper id="45"><title>Dialog OS: an extensible platform for teaching spoken dialogue systems</title><author><first>Daniel</first><last>Bobbert</last></author><author><first>Magdalena</first><last>Wolska</last></author><url>Z07-Bobbert_semdial_0045.pdf</url></paper>
+
+
+<paper id="46"><title>Complex Taxonomy Dialogue Act Recognition with a Bayesian Classifier</title><author><first>Mark</first><last>Fishel</last></author><url>Z07-Fishel_semdial_0045.pdf</url></paper>
+
+<paper id="47"><title>Default preferences in donkey anaphora resolution</title><author><first>Francesca</first><last>Foppolo</last></author><url>Z07-Foppolo_semdial_0045.pdf</url></paper>
+
+
+<paper id="27"><title>Discourse Management in Voice Systems for Accessing Web Services</title><author><first>Marta</first><last>Gatius</last></author><author><first>Meritxell</first><last>González</last></author><url>Z07-Gatius_semdial_0027.pdf</url></paper>
+
+<!--['Square', 'Jordan', 'Bard', 'George', 'Guhe', 'Linguistics', 'Ellen', 'Gurman', 'Markus']-->
+<paper id="28"><title>Adaptation of the use of colour terms in referring expressions</title><author><first>Markus</first><last>Guhe</last></author><author><first>Ellen</first><last>Bard</last></author><url>Z07-Guhe_semdial_0028.pdf</url></paper>
+
+<!--['Panaget1', 'Meriam', 'Franck', 'Horchani1,2']-->
+<paper id="29"><title>A Platform for Designing  Multimodal Dialogic and Presentation Strategies</title><author><first>Meriam</first><last>Horchani</last></author><author><first>Dominique</first><last>Fréard</last></author><author><first>Eric</first><last>Jamet</last></author><author><first>Laurence</first><last>Nigay</last></author><author><first>Franck</first><last>Panaget</last></author><url>Z07-Meriam_semdial_0029.pdf</url></paper>
+
+
+<!--['Griol', 'Emilio', 'Segarra', 'Sistemes', 'David', 'Departament', 'Val`encia', 'de', 'Llu´ıs', 'F.', 'Hurtado', 'Encarna', 'E-46022', 'Sanchis']-->
+<paper id="30"><title>Adapting a Statistical Dialog Model for a New Domain</title><author><first>Lluís F.</first><last>Hurtado</last></author><author><first>David</first><last>Griol</last></author><author><first>Encarna</first><last>Segarra</last></author><author><first>Emilio</first><last>Sanchis</last></author><url>Z07-Hurtado_semdial_0030.pdf</url></paper>
+
+
+<paper id="31"><title>An empirical study on detection and prediction of topic shifts ininformation seeking chats</title><author><first>Hiroshi</first><last>Ichikawa</last></author><author><first>Takenobu</first><last>Tokunaga</last></author><url>Z07-Ichikawa_semdial_0031.pdf</url></paper>
+
+
+<!--['Barbara', 'Jordan', 'Katz', 'Kersey', 'Sandra', 'Eugenio', 'Computer', 'Di', 'Research', 'Cynthia', 'and', 'Learning', 'Development', 'Center', 'Pamela', 'Science']-->
+<paper id="32"><title>Collaboration in Peer Learning Dialogues</title><author><first>Cynthia</first><last>Kersey</last></author><author><first>Barbara</first><last>Di Eugenio</last></author><author><first>Pamela</first><last>Jordan</last></author><author><first>Sandra</first><last>Katz</last></author><url>Z07-Kersey_semdial_0032.pdf</url></paper>
+
+<!--['Center', 'Kirschner', 'KRDB', 'Manuel']-->
+<paper id="33"><title>The BoB IQA System: a Domain Expert's Perspective</title><author><first>Manuel</first><last>Kirschner</last></author><url>Z07-Kirschner_semdial_0033.pdf</url></paper>
+
+<!--['Gabriel', 'Pérez', 'Guillermo', 'Antonio', 'Pilar', 'David', 'Amores', 'Manchón', 'Ávila']-->
+<paper id="34"><title>AMBROSIO: The MIMUS talking head</title><author><first>Pilar</first><last>Manchón</last></author><author><first>Antonio</first><last>Ávila</last></author><author><first>David</first><last>Ávila</last></author><author><first>Guillermo</first><last>Pérez</last></author><author><first>Gabriel</first><last>Amores</last></author><url>Z07-Manchon_semdial_0034.pdf</url></paper>
+
+
+<!--['Gabriel', 'Pérez', 'Guillermo', 'Jesús', 'Pilar', 'González', 'Amores', 'Manchón']-->
+<paper id="35"><title>Semi-automated testing of real world applications in non-menu-based dialogue systems</title><author><first>Pilar</first><last>Manchón</last></author><author><first>Guillermo</first><last>Pérez</last></author><author><first>Gabriel</first><last>Amores</last></author><author><first>Jesús</first><last>González</last></author><url>Z07-Manchon_semdial_0035.pdf</url></paper>
+
+
+<!--['Pianesi', 'Massimo', 'Koray', 'Zancanaro', 'Fabio', 'Balci']-->
+<paper id="36"><title>Enhancing System Communication through Synthetic Characters</title><author><first>Elena</first><last>Not</last></author><author><first>Koray</first><last>Balci</last></author><author><first>Fabio</first><last>Pianesi</last></author><author><first>Massimo</first><last>Zancanaro</last></author><url>Z07-Not_semdial_0036.pdf</url></paper>
+
+<paper id="37"><title>The LUNA Corpus: an Annotation Scheme for a Multi-domain Multi-lingual Dialogue Corpus</title><author><first>Christian</first><last>Raymond</last></author><author><first>Giuseppe</first><last>Riccardi</last></author><author><first>Kepa</first><last>Joseba Rodriguez</last></author><author><first>Joanna</first><last>Wisniewska</last></author><url>Z07-Raymond_semdial_0037.pdf</url></paper>
+
+<!--['Barahona', '-', 'Rojas', 'Lina', 'M.']-->
+<paper id="38"><title>Adapting Combinatory Categorial Grammars in a Framework for HealthCare Dialogue Systems</title><author><first>Lina Maria</first><last>Rojas-Barahona</last></author><url>Z07-Rojas_semdial_0038.pdf</url></paper>
+
+<!--['Barbara', '60607', 'Eugenio', 'Di', 'Illinois']-->
+<paper id="39"><title>Automatic Discourse Segmentation using Neural Networks</title><author><first>Rajen</first><last>Subba</last></author><author><first>Barbara</first><last>Di Eugenio</last></author><url>Z07-Subba_semdial_0039.pdf</url></paper>
+
+
+
+  </volume>
+</collection>
