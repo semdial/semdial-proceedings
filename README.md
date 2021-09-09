@@ -3,6 +3,8 @@
 
 ### Adding new a new year's proceedings
 
+To prepare your environment for compiling the proceedings, follow the [ACL Anthology README](https://github.com/acl-org/acl-anthology) to install python requirements, and Hugo. If you are using be sure to use the extended version. On Linux, the .deb install doesn't work, so you'll need to download the [Hugh extended tar](https://github.com/gohugoio/hugo/releases/download/v0.88.1/hugo_extended_0.88.1_Linux-64bit.tar.gz) then point your PATH variable to the folder. 
+
 Clone this repository `git clone https://github.com/semdial/semdial.github.io`
 Clone the proceedings compiler repository `git clone https://github.com/semdial/semdial-proceedings`
 
