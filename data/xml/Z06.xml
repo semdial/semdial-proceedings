@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z06">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>David</first><last>Schlangen</last></editor>
+      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Potsdam, Germany</address>
+      <month>September 11-13</month>
+      <year>2006</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2006_brandial_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>David</first><last>Schlangen</last></editor>
+      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Potsdam, Germany</address>
+      <month>September 11-13</month>
+      <year>2006</year>
+    </meta>
+
+<paper id="001"><title>A Robust Dialogue Agent for Collaborative Problem Solving</title>
+                <author><first>James F.</first><last>Allen</last></author>
+                <url>001_Allen_semdial2006_brandial_proceedings.pdf</url></paper>    
+
+
+<paper id="009"><title>Question-Answer Congruence and the Proper Representation of Focus</title>
+                <author><first>Manfred</first><last>Krifka</last></author>
+                <url>009_Krifke_semdial2006_brandial_proceedings.pdf</url></paper>
+
+<paper id="013"><title>Engaging in a Multimodal Dialogue with Embodied Conversational Agents along the Virtuality Continuum</title>
+                <author><first>Elisabeth</first><last>André</last></author>
+                <url>013_Andre_semdial2006_brandial_proceedings.pdf</url></paper>
+
+<paper id="014"><title>Handling Spatial Reference in Visually-Situated Dialogs</title>
+                <author><first>Geert-Jan M.</first><last>Kruijff</last></author>
+                <author><first>John D.</first><last>Kelleher</last></author>
+                <url>014_Kruijff_semdial2006_brandial_proceedings.pdf</url></paper>       
+
+<paper id="021"><title>On “Uh” and “Uhm” and some of the Things They are Used to Do</title>
+                <author><first>Emanuel</first><last>Schegloff</last></author>
+                <url>021_Schegloff_semdial2006_brandial_proceedings.pdf</url></paper>                         
+
+</volume>
+  <volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>David</first><last>Schlangen</last></editor>
+      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Potsdam, Germany</address>
+      <month>September 11-13</month>
+      <year>2006</year>
+    </meta>
+    
+<!--['Roser', 'Morante', 'Simon', 'Keizer', 'Harry']-->
+<paper id="002"><title>Towards Resolving Referring Expressions by Implicitly Activated Referents in Practical Dialogue Systems</title><author><first>Norbert</first><last>Pfleger</last><author></author><first>Jan</first><last>Alexandersson</last></author><url>002_Pfleger_semdial2006_brandial_proceedings.pdf</url></paper>
+
+<paper id="003"><title>Understanding student input for tutorial dialogue in procedural domains</title>
+                <author><first>Myroslava O.</first><last>Dzikovska</last></author>
+                <author><first>Charles B.</first><last>Callaway</last></author>
+                <author><first>Matthew</first><last>Stone</last></author>
+                <author><first>Harry</first><last>Bunt</last></author>
+                <url>003_Dzikovska_semdial2006_brandial_proceedings.pdf</url></paper>
+
+<paper id="004"><title>A multi-speaker dialogue system for computer-aided language learning</title>
+                <author><first>Peter</first><last>Vlugter</last></author>
+                <author><first>Alistair</first><last>Knott</last></author>
+                <url>004_Vlugter_semdial2006_brandial_proceedings.pdf</url></paper>    
+
+<paper id="005"><title>Correction and acceptance by contrastive focus</title>
+                <author><first>Elena</first><last>Karagjosova</last></author>
+                <url>005_Karagjosova_semdial2006_brandial_proceedings.pdf</url></paper>           
+
+
+<paper id="006"><title>Modelling Correction Signalled by “But” in Dialogue</title>
+                <author><first>Kavita E.</first><last>Thomas</last></author>
+                <url>006_Thomas_semdial2006_brandial_proceedings.pdf</url></paper>  
+
+<paper id="007"><title>From Complex to Simple Speech Acts: a Bidimensional Analysis of Illocutionary Forces</title>
+                <author><first>Claire</first><last>Beyssade</last></author>
+                <author><first>Jean-Marie</first><last>Maradndin</last></author>
+                <url>007_Beyssade_semdial2006_brandial_proceedings.pdf</url></paper>    
+
+<paper id="008"><title>Question Intonation and Lexicalized Bias Expression</title>
+                <author><first>Yurie</first><last>Hara</last></author>
+                <url>008_Hara_semdial2006_brandial_proceedings.pdf</url></paper>   
+
+<paper id="010"><title>Identifying reference to abstract objects in dialogue</title>
+                <author><first>Ron</first><last>Artstein</last></author>
+                <author><first>Massimo</first><last>Poesio</last></author>
+                <url>010_Artstein_semdial2006_brandial_proceedings.pdf</url></paper>          
+
+<paper id="011"><title>Formal Semantics for Iconic Gesture</title>
+                <author><first>Alex</first><last>Lascarides</last></author>
+                <author><first>Matthew</first><last>Stone</last></author>
+                <url>011_Lascarides_semdial2006_brandial_proceedings.pdf</url></paper>  
+
+<paper id="012"><title>Understanding student input for tutorial dialogue in procedural domains</title>
+                <author><first>Andy</first><last>Lücking</last></author>
+                <author><first>Hannes</first><last>Rieser</last></author>
+                <author><first>Marc</first><last>Staudacher</last></author>
+                <url>012_Luecking_semdial2006_brandial_proceedings.pdf</url></paper>        
+
+<paper id="015"><title>Measuring and Reconstructing Pointing in Visual Contexts</title>
+                <author><first>Alfred</first><last>Kranstedt</last></author>
+                <author><first>Andy</first><last>Lücking</last></author>
+                <author><first>Thies</first><last>Thies</last></author>
+                <author><first>Hannes</first><last>Rieser</last></author>
+                <author><first>Marc</first><last>Staudacher</last></author>
+                <url>015_Kranstedt_semdial2006_brandial_proceedings.pdf</url></paper> 
+
+<paper id="016"><title>Verbal or visual? How information is distributed across speech and gesture in spatial dialog</title>
+                <author><first>Kirsten</first><last>Bergmann</last></author>
+                <author><first>Stefan</first><last>Kopp</last></author>
+                <url>016_Bergmann_semdial2006_brandial_proceedings.pdf</url></paper>   
+
+<paper id="017"><title>Cross Recurrence Quantification Analysis of indefinite anaphora in Swedish dialog. An eye-tracking pilot experiment</title>
+                <author><first>Philip</first><last>Diderichsen</last></author>
+                <url>017_Diderichsen_semdial2006_brandial_proceedings.pdf</url></paper>      
+
+<paper id="018"><title>Multi-modal Integration for Gesture and Speech</title>
+                <author><first>Andy</first><last>Lücking</last></author>
+                <author><first>Hannes</first><last>Rieser</last></author>
+                <author><first>Marc</first><last>Staudacher</last></author>
+                <url>018_Luecking_semdial2006_brandial_proceedings.pdf</url></paper>  
+
+<paper id="019"><title>Acquiring words across generations: introspectively or interactively?</title>
+                <author><first>Zoran</first><last>Macura</last></author>
+                <author><first>Jonathan</first><last>Ginzburg</last></author>
+                <url>019_Macura_semdial2006_brandial_proceedings.pdf</url></paper>                                                                                                                                         
+
+<paper id="020"><title>Clarifying spatial descriptions: Local and global effects on semantic co-ordination</title>
+                <author><first>Gregory J.</first><last>Mills</last></author>
+                <author><first>Patrick G. T.</first><last>Healey</last></author>
+                <url>020_Mills_semdial2006_brandial_proceedings.pdf</url></paper>  
+
+<paper id="022"><title>Goal-oriented Dialog as a Collaborative Subordinated Activity involving Collective Acceptance</title>
+                <author><first>Sylvie</first><last>Saget</last></author>
+                <author><first>Marc</first><last>Guyomard</last></author>
+                <url>022_Saget_semdial2006_brandial_proceedings.pdf</url></paper>     
+
+<paper id="023"><title>Scorekeeping in an Uncertain Language Game</title>
+                <author><first>David</first><last>DeVault</last></author>
+                <author><first>Matthew</first><last>Stone</last></author>
+                <url>023_DeVault_semdial2006_brandial_proceedings.pdf</url></paper>                              
+
+<paper id="024"><title>Modeling anaphora in informal mathematical dialogue</title>
+                <author><first>Magdalena</first><last>Wolska</last></author>
+                <author><first>Ivana</first><last>Kruijff-Korbayová</last></author>
+                <url>024_Wolska_semdial2006_brandial_proceedings.pdf</url></paper>   
+
+<paper id="025"><title>Dialogue pressures and Syntactic Change</title>
+                <author><first>Ruth</first><last>Kempson</last></author>
+                <author><first>Ronnie</first><last>Cann</last></author>
+                <url>025_Kempson_semdial2006_brandial_proceedings.pdf</url></paper>                  
+
+                            
+
+</volume>
+  <volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>David</first><last>Schlangen</last></editor>
+      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Potsdam, Germany</address>
+      <month>September 11-13</month>
+      <year>2006</year>
+    </meta>
+
+
+<paper id="026"><title>Route instruction dialogues with a robotic wheelchair</title>
+                <author><first>Thora</first><last>Tenbrink</last></author>
+                <author><first>Shi</first><last>Hui</last></author>
+                <author><first>Kerstin</first><last>Fischer</last></author>
+                <url>026_Tenbrink_semdial2006_brandial_proceedings.pdf</url></paper>  
+
+<paper id="036"><title>Non-verbal Information in Communication: A Study of Interaction in a Tourist-information Setting</title>
+                <author><first>Ichiro</first><last>Umata</last></author>
+                <author><first>Sadanori</first><last>Ito</last></author>
+                <author><first>Shoichiro</first><last>Iwasawa</last></author>
+                <author><first>Noriko</first><last>Suzuki</last></author>
+                <author><first>Tomoji</first><last>Toriyama</last></author>
+                <author><first>Naomi</first><last>Inoue</last></author>
+                <author><first>Kiyoshi</first><last>Kogure</last></author>
+                <author><first>Kenji</first><last>Mase</last></author>
+                <url>036_Umata_semdial2006_brandial_proceedings.pdf</url></paper>       
+
+<paper id="037"><title>Compliments in virtual dialogs</title>
+                <author><first>Lilia</first><last>Mironovschi,</last></author>
+                <url>037_Mironovschi_semdial2006_brandial_proceedings.pdf</url></paper>    
+
+<paper id="038"><title>DISCUS: a dialogue simulation and context update system</title>
+                <author><first>Roser</first><last>Morante</last></author>
+                <author><first>Simon</first><last>Keizer</last></author>
+                <url>038_Morante_semdial2006_brandial_proceedings.pdf</url></paper>                                      
+
+<paper id="027"><title>VISA - Corpus Annotation with OWL</title>
+                <author><first>Stephanie</first><last>Becker</last></author>
+                <author><first>Thomas</first><last>Kleinbauer</last></author>
+                <author><first>Stephan</first><last>Lesch</last></author>
+                <url>027_Becker_semdial2006_brandial_proceedings.pdf</url></paper> 
+
+<paper id="039"><title>Browsing Meetings: Automatic Understanding, Presentation and Feedback for Multi-Party Conversations</title>
+                <author><first>Patrick</first><last>Ehlen</last></author>
+                <author><first>Stephane</first><last>Laidebeure</last></author>
+                <author><first>John</first><last>Niekrasz</last></author>
+                <author><first>Matthew</first><last>Purver</last></author>
+                <author><first>John</first><last>Dowding</last></author>
+                <author><first>Stanley</first><last>Peters</last></author>
+                <url>039_Ehlen_semdial2006_brandial_proceedings.pdf</url></paper>                   
+
+<paper id="028"><title>Prosodic marking of contrasts in information structure</title>
+                <author><first>Markus</first><last>Guhe</last></author>
+                <author><first>Mark</first><last>Steedman</last></author>
+                <author><first>Ellen Gurman</first><last>Bard</last></author>
+                <author><first>Max M.</first><last>Louwerse</last></author>
+                <url>028_Guhe_semdial2006_brandial_proceedings.pdf</url></paper>    
+
+<paper id="027"><title>VISA - Corpus Annotation with OWL</title>
+                <author><first>Stephanie</first><last>Becker</last></author>
+                <author><first>Thomas</first><last>Kleinbauer</last></author>
+                <author><first>Stephan</first><last>Lesch</last></author>
+                <url>027_Becker_semdial2006_brandial_proceedings.pdf</url></paper>                 
+
+<paper id="041"><title>Perspective guides interpretation of questions, declarative questions and statements in unscripted conversation</title>
+                <author><first>Sarah</first><last>Brown-Schmidt</last></author>
+                <author><first>Christine</first><last>Gunlogson</last></author>
+                <author><first>Duane G.</first><last>Watson</last></author>
+                <author><first>Michael K.</first><last>Tanenhaus</last></author>
+                <url>041_Brown-Schmidt_semdial2006_brandial_proceedings.pdf</url></paper>   
+
+<paper id="040"><title>Scene-Sentence Integration: Incremental Effects of Mismatch and Scene Complexity</title>
+                <author><first>Pia</first><last>Knoeferle</last></author>
+                <author><first>Monica</first><last>Rodriguez</last></author>
+                <url>040_Knoeferle_semdial2006_brandial_proceedings.pdf</url></paper>  
+
+<paper id="042"><title>Evaluation of an Information State-Based Dialogue Manager</title>
+                <author><first>Antonio</first><last>Roque,</last></author>
+                <author><first>Hua</first><last>Ai</last></author>
+                <author><first>David</first><last>Traum</last></author>
+                <url>042_Roque_semdial2006_brandial_proceedings.pdf</url></paper>                               
+    
+<paper id="029"><title>Dico: A Multimodal Menu-based In-vehicle Dialogue System</title>
+                <author><first>Jessica</first><last>Villing</last></author>
+                <author><first>Staffan</first><last>Larsson</last></author>
+                <url>029_Villing_semdial2006_brandial_proceedings.pdf</url></paper>
+
+<paper id="030"><title>Accommodating Social Relationships</title>
+                <author><first>Joris</first><last>Hulstijn</last></author>
+                <url>030_Hulstijn_semdial2006_brandial_proceedings.pdf</url></paper>
+
+<paper id="044"><title>Hierarchical Reinforcement Learning of Dialogue Policies in a development environment for dialogue systems: REALL-DUDE</title>
+                <author><first>Oliver</first><last>Lemon</last></author>
+                <author><first>Xingkun</first><last>Liu</last></author>
+                <author><first>Daniel</first><last>Shapiro</last></author>
+                <author><first>Carl</first><last>Tollander</last></author>
+                <url>044_Lemon_semdial2006_brandial_proceedings.pdf</url></paper>      
+
+<paper id="042"><title>Evaluation of an Information State-Based Dialogue Manager</title>
+                <author><first>Antonio</first><last>Roque,</last></author>
+                <author><first>Hua</first><last>Ai</last></author>
+                <author><first>David</first><last>Traum</last></author>
+                <url>042_Roque_semdial2006_brandial_proceedings.pdf</url></paper>                            
+
+<paper id="031"><title>The Effect of Multiple Modalities in Dialogue Act Annotation</title>
+                <author><first>Crystal</first><last>Nakatsu</last></author>
+                <author><first>Chris</first><last>Brew</last></author>
+                <url>031_Nakatsu_semdial2006_brandial_proceedings.pdf</url></paper>
+
+<paper id="032"><title>Building a Multi-Lingual Interactive Question-Answering System for the Library Domain</title>
+                <author><first>Manuel</first><last>Kirschner</last></author>
+                <url>033_Yoshida_semdial2006_brandial_proceedings.pdf</url></paper>                
+
+<paper id="033"><title>Referring Expressions and the Local Coherence of Discourse in a Parallel Corpus of English and Japanese Map Task Dialogues</title>
+                <author><first>Etsuko</first><last>Yoshida</last></author>
+                <url>033_Yoshida_semdial2006_brandial_proceedings.pdf</url></paper>  
+
+<paper id="034"><title>How speakers represent size information in referential communication for knowing and unknowing recipients</title>
+                <author><first>Judith</first><last>Holler</last></author>
+                <author><first>Rachel</first><last>Stevens</last></author>
+                <url>034_Holler_semdial2006_brandial_proceedings.pdf</url></paper>
+
+<paper id="035"><title>Programming by Voice: enhancing adaptivity and robustness of spoken dialogue systems</title>
+                <author><first>Kallirroi</first><last>Georgila</last></author>
+                <author><first>Oliver</first><last>Lemon</last></author>
+                <url>035_Georgila_semdial2006_brandial_proceedings.pdf</url></paper>
+
+  </volume>
+</collection>
