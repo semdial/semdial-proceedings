@@ -48,7 +48,7 @@ Now, navigate back to the root `semdial-proceedings` folder.
 First, add the new .xml file to the repository:
 
 `git add .`
-`git commit -m "added[year]"`
+`git commit -m "added [year]"`
 `git push origin master`
 
 Then,
