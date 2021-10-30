@@ -45,6 +45,12 @@ To add a year's proceedings, simply copy the most recent year's proceedings, ren
 
 Now, navigate back to the root `semdial-proceedings` folder. 
 
+First, add the new .xml file to the repository:
+
+`git add .`
+`git commit -m "added[year]"`
+`git push origin master`
+
 run `make clean && make`
 
 (You may get an error like `ERROR 2019/08/30 08:57:47 [en] REF_NOT_FOUND: Ref "/volumes/W18-50.md" from page "sigs/sigdial.md": page not found`. That's because this package was copied from the ACL Anthology and some artifacts are required for this to compile, but it stops short of compiling other venue information because it doesn't exist.)
