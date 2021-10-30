@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z21">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Ellen</first><last>Breitholtz</last></editor>
+      <editor><first>Kallirroi</first><last>Georgila</last></editor>
+      <editor><first>David</first><last>Schlangen</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Potsdam, Germany</address>
+      <month>September</month>
+      <year>2021</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2021_potsdial_front_matter.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+     <booktitle>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Ellen</first><last>Breitholtz</last></editor>
+      <editor><first>Kallirroi</first><last>Georgila</last></editor>
+      <editor><first>David</first><last>Schlangen</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Potsdam, Germany</address>
+      <month>September</month>
+      <year>2021</year>
+    </meta>
+
+<paper id="1"><title>Human-aware conversational agents</title><author><first>Stefan</first><last>Kopp</last></author><url>Z21-Kopp_semdial_0001.pdf</url></paper>
+
+<paper id="2"><title>How to escape the encodingism stranglehold: Dynamic syntax, process and interaction</title><author><first>Ruth</first><last>Kempson</last></author><url>Z21-Kempson_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>Leveraging the wisdom of the crowd to realize a character-like chatbot</title><author><first>Ryuichiro</first><last>Higashinaka</last></author><url>Z21-Higashinaka_semdial_0003.pdf</url></paper>
+
+
+
+</volume>
+  <volume id="3">
+    <meta>
+<booktitle>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Ellen</first><last>Breitholtz</last></editor>
+      <editor><first>Kallirroi</first><last>Georgila</last></editor>
+      <editor><first>David</first><last>Schlangen</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Potsdam, Germany</address>
+      <month>September</month>
+      <year>2021</year>
+    </meta>
+
+
+<paper id="4"><title>&#8220;By the way, do you like Spider Man?&#8221; --- Towards a social planning model for rapport</title><author><first>Alafate</first><last>Abulimiti</last></author><author><first>Justine</first><last>Cassell</last></author><author><first>Jonathan</first><last>Ginzburg</last></author><url>Z21-Abulimiti_semdial_0004.pdf</url></paper>
+
+<paper id="5"><title>Speech planning interferes with language comprehension: Evidence from semantic illusions in question-response sequences</title><author><first>Mathias</first><last>Barthel</last></author><url>Z21-Barthel_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>Context is key: Annotating situated dialogue relations in multi-floor dialogue</title><author><first>Claire</first><last>Bonial</last></author><author><first>Mitchell</first><last>Abrams</last></author><author><first>Anthony L.</first><last>Baker</last></author><author><first>Taylor</first><last>Hudson</last></author><author><first>Stephanie M.</first><last>Lukin</last></author><author><first>David</first><last>Traum</last></author><author><first>Clare R.</first><last>Voss</last></author><url>Z21-Bonial_semdial_0006.pdf</url></paper>
+
+<paper id="7"><title>Speaker intimacy in chat-talks: Analysis and recognition based on verbal and non-verbal information</title><author><first>Yuya</first><last>Chiba</last></author><author><first>Yoshihiro</first><last>Yamazaki</last></author><author><first>Akinori</first><last>Ito</last></author><url>Z21-Chiba_semdial_0007.pdf</url></paper>
+
+<paper id="8"><title>The red cup on the left: Reference, coreference and attention in visual dialogue</title><author><first>Simon</first><last>Dobnik</last></author><author><first>Vera</first><last>Silfversparre</last></author><url>Z21-Dobnik_semdial_0008.pdf</url></paper>
+
+<paper id="9"><title>Justifiable reasons for everyone: Dialogical reasoning in patients with schizophrenia</title><author><first>Christine</first><last>Howes</last></author><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Mary</first><last>Lavelle</last></author><author><first>Robin</first><last>Cooper</last></author><url>Z21-Howes_semdial_0009.pdf</url></paper>
+
+<paper id="10"><title>Don&#8217;t you think that a rhetorical question can convey an argument?</title><author><first>Denis</first><last>Ioussef</last></author><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Christine</first><last>Howes</last></author><url>Z21-Ioussef_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>The role of definitions in coordinating on perceptual meanings</title><author><first>Staffan</first><last>Larsson</last></author><url>Z21-Larsson_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Generating personalized dialogue via multi-task meta-learning</title><author><first>Jing Yang</first><last>Lee</last></author><author><first>Kong Aik</first><last>Lee</last></author><author><first>Woon Seng</first><last>Gan</last></author><url>Z21-Lee_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>Detecting interlocutor confusion in situated human-avatar dialogue: A pilot study</title><author><first>Na</first><last>Li</last></author><author><first>John D.</first><last>Kelleher</last></author><author><first>Robert</first><last>Ross</last></author><url>Z21-Li_semdial_0013.pdf</url></paper>
+
+<paper id="14"><title>The language of persuasion, negotiation and trust</title><author><first>Jos&#233; David</first><last>Lopes</last></author><author><first>Helen</first><last>Hastie</last></author><url>Z21-Lopes_semdial_0014.pdf</url></paper>
+
+<paper id="15"><title>Dialogue act classification is a laughing matter</title><author><first>Vladislav</first><last>Maraev</last></author><author><first>Bill</first><last>Noble</last></author><author><first>Chiara</first><last>Mazzocconi</last></author><author><first>Christine</first><last>Howes</last></author><url>Z21-Maraev_semdial_0015.pdf</url></paper>
+
+<paper id="16"><title>What do you mean by negotiation? Annotating social media discussions about word meaning</title><author><first>Bill</first><last>Noble</last></author><author><first>Kate</first><last>Viloria</last></author><author><first>Staffan</first><last>Larsson</last></author><author><first>Asad</first><last>Sayeed</last></author><url>Z21-Noble_semdial_0016.pdf</url></paper>
+
+<paper id="17"><title>Challenging evidential non-challengeability</title><author><first>Vesela</first><last>Simeonova</last></author><url>Z21-Simeonova_semdial_0017.pdf</url></paper>
+
+<paper id="18"><title>Construction coordination in first and second language acquisition</title><author><first>Arabella</first><last>Sinclair</last></author><author><first>Raquel</first><last>Fern&#225;ndez</last></author><url>Z21-Sinclair_semdial_0018.pdf</url></paper>
+
+
+</volume>
+  <volume id="4">
+    <meta>
+<booktitle>Proceedings of the 25th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Ellen</first><last>Breitholtz</last></editor>
+      <editor><first>Kallirroi</first><last>Georgila</last></editor>
+      <editor><first>David</first><last>Schlangen</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Potsdam, Germany</address>
+      <month>September</month>
+      <year>2021</year>
+    </meta>
+
+
+<paper id="19"><title>Annotating events and entities in dialogue</title><author><first>Tatiana</first><last>Anikina</last></author><author><first>Ivana</first><last>Kruijff-Korbayov&#225;</last></author><url>Z21-Anikina_semdial_0019.pdf</url></paper>
+
+<paper id="20"><title>What do you mean? Eliciting enthymemes in text-based dialogue</title><author><first>Ebba</first><last>Axelsson Nord</last></author><author><first>Vladislav</first><last>Maraev</last></author><author><first>Ellen</first><last>Breitholtz</last></author><author><first>Christine</first><last>Howes</last></author><url>Z21-Nord_semdial_0020.pdf</url></paper>
+
+<paper id="21"><title>The deictic nature of speech act reference</title><author><first>Friederike</first><last>Buch</last></author><url>Z21-Buch_semdial_0021.pdf</url></paper>
+
+<paper id="22"><title>Identity models for role-play dialogue characters</title><author><first>Patricia</first><last>Chaffey</last></author><author><first>David</first><last>Traum</last></author><url>Z21-Chaffey_semdial_0022.pdf</url></paper>
+
+<paper id="23"><title>Can rule-based chatbots outperform neural models without pre-training in small data situations?: A preliminary comparison of AIML and Seq2Seq</title><author><first>Md Mabrur Husan</first><last>Dihyat</last></author><author><first>Julian</first><last>Hough</last></author><url>Z21-Dihyat_semdial_0023.pdf</url></paper>
+
+<paper id="24"><title>From local hesitations to global impressions of a speaker&#8217;s feeling of knowing</title><author><first>Tanvi</first><last>Dinkar</last></author><author><first>Beatrice</first><last>Biancardi</last></author><author><first>Chlo&#233;</first><last>Clavel</last></author><url>Z21-Dinkar_semdial_0024.pdf</url></paper>
+
+<paper id="25"><title>Exploring the personality of virtual tutors in conversational foreign language practice</title><author><first>Johanna</first><last>Dobbriner</last></author><author><first>Cathy</first><last>Ennis</last></author><author><first>Robert</first><last>Ross</last></author><url>Z21-Dobbriner_semdial_0025.pdf</url></paper>
+
+<paper id="26"><title>Getting from A to B: Exploring floor state transitions in conversation</title><author><first>Emer</first><last>Gilmartin</last></author><author><first>Marcin</first><last>W&#322;odarczak</last></author><url>Z21-Gilmartin_semdial_0026.pdf</url></paper>
+
+<paper id="27"><title>Annotating low-confidence questions improves classifier performance</title><author><first>Stephanie</first><last>Hernandez</last></author><author><first>Ron</first><last>Artstein</last></author><url>Z21-Hernandez_semdial_0027.pdf</url></paper>
+
+<paper id="28"><title>Situated UMR for multimodal interactions</title><author><first>Kenneth</first><last>Lai</last></author><author><first>Richard</first><last>Brutti</last></author><author><first>Lucia</first><last>Donatelli</last></author><author><first>James</first><last>Pustejovsky</last></author><url>Z21-Lai_semdial_0028.pdf</url></paper>
+
+<paper id="29"><title>Challenges for the conversational entity dialog model</title><author><first>Wolfgang</first><last>Maier</last></author><author><first>Stefan</first><last>Ultes</last></author><url>Z21-Maier_semdial_0029.pdf</url></paper>
+
+<paper id="30"><title>Conflict search graph for common ground consistency checks in dialogue systems</title><author><first>Maria</first><last>Di Maro</last></author><author><first>Antonio</first><last>Origlia</last></author><author><first>Francesco</first><last>Cutugno</last></author><url>Z21-Maro_semdial_0030.pdf</url></paper>
+
+
+  </volume>
+</collection>
