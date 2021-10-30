@@ -9,8 +9,11 @@ installed.
 
 ### Adding footers to the PDFs of a new year
 
-Make sure that `semdial-proceedings/footers/pdfs` and `semdial-proceedings/footers/pdfs_footers`
-are empty.
+From `semdial-proceedings/footers/`, create two folders:
+
+`mkdir pdfs`
+
+`mkdir pdfs_footers`
 
 Put all new PDFS (front matter, invited talks, papers, posters) in `semdial-proceedings/footers/pdfs`.
 
