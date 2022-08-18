@@ -81,7 +81,7 @@ From `semdial.github.io`:
 `git commit -m "adding [year]'s proceedings"`
 `git push origin master`
 
-It will take a few minutes to compile the new website, but check `sigdial.org` to make sure your new proceedings show up and that the links to the PDFs are all in order.
+It will take a few minutes to compile the new website, but check `semdial.org` to make sure your new proceedings show up and that the links to the PDFs are all in order.
 
 ### Additional files
 
