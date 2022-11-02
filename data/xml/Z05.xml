@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z05">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Claire</first><last>Gardent</last></editor>
+      <editor><first>Bertrand</first><last>Gaiffe</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Nancy, France</address>
+      <month>June 9-11</month>
+      <year>2005</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2005_dialor_proceedings.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Claire</first><last>Gardent</last></editor>
+      <editor><first>Bertrand</first><last>Gaiffe</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Nancy, France</address>
+      <month>June 9-11</month>
+      <year>2005</year>
+    </meta>
+
+<paper id="001"><title>Making (Virtual) Friends and Influencing (Virtual) People</title>
+                <author><first>Justine</first><last>Cassell</last></author>
+                <url>001_Cassell_semdial2005_dialor_proceedings.pdf</url></paper>    
+
+<paper id="002"><title>Making (Virtual) Friends and Influencing (Virtual) People</title>
+                <author><first>Justine</first><last>Cassell</last></author>
+                <url>002_Jaeger_semdial2005_dialor_proceedings.pdf</url></paper>                    
+
+                      
+
+</volume>
+  <volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Claire</first><last>Gardent</last></editor>
+      <editor><first>Bertrand</first><last>Gaiffe</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Nancy, France</address>
+      <month>June 9-11</month>
+      <year>2005</year>
+    </meta>
+    
+<!--['Roser', 'Morante', 'Simon', 'Keizer', 'Harry']-->
+
+<paper id="004"><title>Utility and Implicatures of Imperatives</title>
+                <author><first>Maria</first><last>Aloni</last></author>
+                <url>004_Aloni_semdial2005_dialor_proceedings.pdf</url></paper>
+
+<paper id="005"><title>A System for Generating Teaching Initiatives in a Computer Aided Language Learning Dialogue</title>
+                <author><first>Nanda</first><last>Slabbers</last></author>
+                <author><first>Alistair</first><last>Knott</last></author>       
+                <url>005_Slabbers_semdial2005_dialor_proceedings.pdf</url></paper>
+
+
+<paper id="006"><title>What Makes Human-Robot Dialogues Struggle?</title>
+                <author><first>Petra</first><last>Gieselmann</last></author>
+                <author><first>Alex</first><last>Waibel</last></author> 
+                <url>006_Gieselmann_semdial2005_dialor_proceedings.pdf</url></paper>
+
+
+<paper id="007"><title>Integrating a Discourse Model with a Learning Case-Based Reasoning System</title>
+                <author><first>Karolina</first><last>Eliasson</last></author>
+                <url>007_Eliasson_semdial2005_dialor_proceedings.pdf</url></paper>
+
+
+<paper id="008"><title>Designing an Open Multidimensional Dialogue Act Taxonomy</title>
+                <author><first>Harry</first><last>Bunt</last></author>
+                <author><first>Yann</first><last>Girard</last></author>
+                <url>008_Bunt_semdial2005_dialor_proceedings.pdf</url></paper>
+
+
+<paper id="009"><title>Dialogue Systems: Simulations or Interfaces?</title>
+                <author><first>Staffan</first><last>Larsson</last></author>
+                <url>009_Larsson_semdial2005_dialor_proceedings.pdf</url></paper>
+                            
+
+</volume>
+  <volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 9th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Claire</first><last>Gardent</last></editor>
+      <editor><first>Bertrand</first><last>Gaiffe</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Nancy, France</address>
+      <month>June 9-11</month>
+      <year>2005</year>
+    </meta>
+
+
+<paper id="010"><title>Multimodal Dialogue System Grammars</title>
+                <author><first>Björn</first><last>Bringert</last></author>
+                <author><first>Peter</first><last>Ljunglöf</last></author>               
+                <author><first>Aarne</first><last>Ranta</last></author>
+                <url>010_Bringert_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="011"><title>Automatic Annotation of COMMUNICATOR Dialogue Data for Learning Dialogue Strategies and User Simulations</title>
+                <author><first>Kallirroi</first><last>Georgila</last></author>
+                <author><first>Oliver</first><last>Lemon</last></author>               
+                <author><first>James</first><last>Henderson</last></author>
+                <url>011_Georgila_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="012"><title>Integration of Live Video in a System for Natural Language Dialog with a Robot</title>
+                <author><first>Erik</first><last>Sandewall</last></author>
+                <author><first>Hannes</first><last>Lindblom</last></author>               
+                <author><first>Björn</first><last>Husberg</last></author>
+                <url>012_Sandewall_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="013"><title>The Discourse Function of Final Rises in French Dialogues</title>
+                <author><first>Marie</first><last>Šafárová</last></author>
+                <author><first>Philippe</first><last>Muller</last></author>               
+                <author><first>Laurent</first><last>Prévot</last></author>
+                <url>013_Safarova_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="014"><title>Action at a Distance: The Difference Between Dialogue and Multilogue</title>
+                <author><first>Jonathan</first><last>Ginzburg</last></author>
+                <author><first>Raquel</first><last>Fernández</last></author>               
+                <url>014_Ginzburg_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="015"><title>Empirical Determination of Thresholds for Optimal Dialogue Act Classification</title>
+                <author><first>Nick</first><last>Webb</last></author>
+                <author><first>Mark</first><last>Hepple</last></author>               
+                <author><first>Yorick</first><last>Wilks</last></author>
+                <url>015_Webb_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="016"><title>On Plurals and Overlay</title>
+                <author><first>Massimo</first><last>Romanelli</last></author>
+                <author><first>Tilman</first><last>Becker</last></author>               
+                <author><first>Jan</first><last>Alexandersson</last></author>
+                <url>016_Romanelli_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="017"><title>Conditional Anaphora</title>
+                <author><first>Henk</first><last>Zeevat</last></author>
+                <url>017_Zeevat_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="018"><title>Let's You Do That: Enquiries into the Cognitive Burdens of Dialogue</title>
+                <author><first>E. G.</first><last>Bard</last></author>
+                <author><first>A. H.</first><last>Anderson</last></author>               
+                <author><first>Y.</first><last>Chen</last></author>
+                <author><first>H.</first><last>Nicholsen</last></author>
+                <author><first>C.</first><last>Havard</last></author>
+                <url>018_Bard_semdial2005_dialor_proceedings.pdf</url></paper>  
+
+
+<paper id="019"><title>Robust Semantic Interpretation and Dialog Management in the Contect of a CALL Application</title>
+                <author><first>Johan</first><last>Michel</last></author>
+                <author><first>Jérôme</first><last>Lehuen</last></author>               
+                <url>019_Michel_semdial2005_dialor_proceedings.pdf</url></paper> 
+
+
+<!-- <paper id="020"><title>Extensions to Speaker/ Hearer Representation in DRT</title>
+                <author><first>Yafa</first><last>Al-Raheb</last></author>
+                <url>020_semdial2005_dialor_proceedings.pdf</url></paper>  -->
+
+
+<paper id="020"><title>WOZ Experiments in Multimodal Dialogue Systems</title>
+                <author><first>Pilar Manchón</first><last>Portillo</last></author>
+                <author><first>Guillermo Pérez</first><last>Garcia</last></author>               
+                <author><first>Gabriel de Amores</first><last>Carredano</last></author>
+                <url>020_Portillo_semdial2005_dialor_proceedings.pdf</url></paper> 
+
+
+<paper id="021"><title>Micro-analysis of the Belief Transfer in Information Dialogues</title>
+                <author><first>Roser</first><last>Morante</last></author>
+                <author><first>Harry</first><last>Bunt</last></author>               
+                <url>022_Morante_semdial2005_dialor_proceedings.pdf</url></paper> 
+
+
+<!-- <paper id="023"><title>Multi-Party Interaction With Self-contained Virtual Characters</title>
+                <author><first>Markus</first><last>Löckelt</last></author>
+                <author><first>Norbert</first><last>Pfleger</last></author>               
+                <url>024_semdial2005_dialor_proceedings.pdf</url></paper>  -->
+
+
+<paper id="022"><title>A New Metric for the Evaluation of Dialog Act Classification</title>
+                <author><first>Stephan</first><last>Lesch</last></author>
+                <author><first>Thomas</first><last>Kleinbauer</last></author>               
+                <author><first>Jan</first><last>Alexanderson</last></author>
+                <url>022_Lesch_semdial2005_dialor_proceedings.pdf</url></paper> 
+
+
+<paper id="023"><title>Automatic Analysis of Elliptic Sentences in the Thetos System</title>
+                <author><first>Nina</first><last>Suszczańska</last></author>
+                <author><first>Julia</first><last>Romaniuk</last></author>               
+                <author><first>Przemyslaw</first><last>Szmal</last></author>
+                <url>023_Suszczanska_semdial2005_dialor_proceedings.pdf</url></paper> 
+
+
+<paper id="024"><title>Simplified MMAXQL: An Intuitive Query Language for Corpora with Annotations on Multiple Levels</title>
+                <author><first>Christoph</first><last>Müller</last></author>
+                <url>024_Mueller_semdial2005_dialor_proceedings.pdf</url></paper> 
+
+
+<paper id="025"><title>Presentation Strategies for Flexible Multimodal Interaction</title>
+                <author><first>Ivana</first><last>Kruijff-Korbayová</last></author>
+                <author><first>Nate</first><last>Blaylock</last></author>               
+                <author><first>Ciprian</first><last>Gerstenberger</last></author>
+                <author><first>Verena</first><last>Reiser</last></author>
+                <author><first>Tilman</first><last>Becker</last></author>
+                <author><first>Michael</first><last>Kaißer</last></author>
+                <author><first>Peter</first><last>Poller</last></author>
+                <author><first>Jan</first><last>Schehl</last></author>
+                <url>025_KruijffKorbayova_semdial2005_dialor_proceedings.pdf</url></paper>
+
+
+<paper id="026"><title>Dj GoDiS: Multimodal Menu-based Dialogue in an Asychronous Information State Update System</title>
+                <author><first>David</first><last>Hjelm</last></author>
+                <author><first>Ann-Charlotte</first><last>Forslund</last></author>
+                <author><first>Staffan</first><last>Larsson</last></author>
+                <author><first>Andreas</first><last>Wallentin</last></author>
+                <url>026_Hjelm_semdial2005_dialor_proceedings.pdf</url></paper> 
+
+
+<paper id="027"><title>Towards Ontology-based Pragmatic Analysis</title>
+                <author><first>Berenike</first><last>Loos</last></author>
+                <author><first>Robert</first><last>Porzel</last></author>
+                <url>027_Loos_semdial2005_dialor_proceedings.pdf</url></paper> 
+  </volume>
+</collection>

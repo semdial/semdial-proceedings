@@ -4,7 +4,7 @@
     <meta>
       <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
       <editor><first>David</first><last>Schlangen</last></editor>
-      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>                 
+      <editor><first>Raquel</first><last>Fernández</last></editor>                 
       <publisher>SEMDIAL</publisher>
       <address>Potsdam, Germany</address>
       <month>September 11-13</month>
@@ -18,7 +18,7 @@
     <meta>
       <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
       <editor><first>David</first><last>Schlangen</last></editor>
-      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>                 
+      <editor><first>Raquel</first><last>Fernández</last></editor>                 
       <publisher>SEMDIAL</publisher>
       <address>Potsdam, Germany</address>
       <month>September 11-13</month>
@@ -43,7 +43,7 @@
                 <author><first>John D.</first><last>Kelleher</last></author>
                 <url>014_Kruijff_semdial2006_brandial_proceedings.pdf</url></paper>       
 
-<paper id="021"><title>On “Uh” and “Uhm” and some of the Things They are Used to Do</title>
+<paper id="021"><title>On "Uh" and "Uhm" and some of the Things They are Used to Do</title>
                 <author><first>Emanuel</first><last>Schegloff</last></author>
                 <url>021_Schegloff_semdial2006_brandial_proceedings.pdf</url></paper>                         
 
@@ -52,7 +52,7 @@
     <meta>
       <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
       <editor><first>David</first><last>Schlangen</last></editor>
-      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>                 
+      <editor><first>Raquel</first><last>Fernández</last></editor>                 
       <publisher>SEMDIAL</publisher>
       <address>Potsdam, Germany</address>
       <month>September 11-13</month>
@@ -79,7 +79,7 @@
                 <url>005_Karagjosova_semdial2006_brandial_proceedings.pdf</url></paper>           
 
 
-<paper id="006"><title>Modelling Correction Signalled by “But” in Dialogue</title>
+<paper id="006"><title>Modelling Correction Signalled by "But" in Dialogue</title>
                 <author><first>Kavita E.</first><last>Thomas</last></author>
                 <url>006_Thomas_semdial2006_brandial_proceedings.pdf</url></paper>  
 
@@ -168,7 +168,7 @@
     <meta>
       <booktitle>Proceedings of the 11th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
       <editor><first>David</first><last>Schlangen</last></editor>
-      <editor><first>Raquel</first><last>Fern&#225;ndez</last></editor>                 
+      <editor><first>Raquel</first><last>Fernández</last></editor>                 
       <publisher>SEMDIAL</publisher>
       <address>Potsdam, Germany</address>
       <month>September 11-13</month>
@@ -182,93 +182,27 @@
                 <author><first>Kerstin</first><last>Fischer</last></author>
                 <url>026_Tenbrink_semdial2006_brandial_proceedings.pdf</url></paper>  
 
-<paper id="036"><title>Non-verbal Information in Communication: A Study of Interaction in a Tourist-information Setting</title>
-                <author><first>Ichiro</first><last>Umata</last></author>
-                <author><first>Sadanori</first><last>Ito</last></author>
-                <author><first>Shoichiro</first><last>Iwasawa</last></author>
-                <author><first>Noriko</first><last>Suzuki</last></author>
-                <author><first>Tomoji</first><last>Toriyama</last></author>
-                <author><first>Naomi</first><last>Inoue</last></author>
-                <author><first>Kiyoshi</first><last>Kogure</last></author>
-                <author><first>Kenji</first><last>Mase</last></author>
-                <url>036_Umata_semdial2006_brandial_proceedings.pdf</url></paper>       
-
-<paper id="037"><title>Compliments in virtual dialogs</title>
-                <author><first>Lilia</first><last>Mironovschi,</last></author>
-                <url>037_Mironovschi_semdial2006_brandial_proceedings.pdf</url></paper>    
-
-<paper id="038"><title>DISCUS: a dialogue simulation and context update system</title>
-                <author><first>Roser</first><last>Morante</last></author>
-                <author><first>Simon</first><last>Keizer</last></author>
-                <url>038_Morante_semdial2006_brandial_proceedings.pdf</url></paper>                                      
-
 <paper id="027"><title>VISA - Corpus Annotation with OWL</title>
                 <author><first>Stephanie</first><last>Becker</last></author>
                 <author><first>Thomas</first><last>Kleinbauer</last></author>
                 <author><first>Stephan</first><last>Lesch</last></author>
                 <url>027_Becker_semdial2006_brandial_proceedings.pdf</url></paper> 
-
-<paper id="039"><title>Browsing Meetings: Automatic Understanding, Presentation and Feedback for Multi-Party Conversations</title>
-                <author><first>Patrick</first><last>Ehlen</last></author>
-                <author><first>Stephane</first><last>Laidebeure</last></author>
-                <author><first>John</first><last>Niekrasz</last></author>
-                <author><first>Matthew</first><last>Purver</last></author>
-                <author><first>John</first><last>Dowding</last></author>
-                <author><first>Stanley</first><last>Peters</last></author>
-                <url>039_Ehlen_semdial2006_brandial_proceedings.pdf</url></paper>                   
-
+                
 <paper id="028"><title>Prosodic marking of contrasts in information structure</title>
                 <author><first>Markus</first><last>Guhe</last></author>
                 <author><first>Mark</first><last>Steedman</last></author>
                 <author><first>Ellen Gurman</first><last>Bard</last></author>
                 <author><first>Max M.</first><last>Louwerse</last></author>
-                <url>028_Guhe_semdial2006_brandial_proceedings.pdf</url></paper>    
+                <url>028_Guhe_semdial2006_brandial_proceedings.pdf</url></paper>  
 
-<paper id="027"><title>VISA - Corpus Annotation with OWL</title>
-                <author><first>Stephanie</first><last>Becker</last></author>
-                <author><first>Thomas</first><last>Kleinbauer</last></author>
-                <author><first>Stephan</first><last>Lesch</last></author>
-                <url>027_Becker_semdial2006_brandial_proceedings.pdf</url></paper>                 
-
-<paper id="041"><title>Perspective guides interpretation of questions, declarative questions and statements in unscripted conversation</title>
-                <author><first>Sarah</first><last>Brown-Schmidt</last></author>
-                <author><first>Christine</first><last>Gunlogson</last></author>
-                <author><first>Duane G.</first><last>Watson</last></author>
-                <author><first>Michael K.</first><last>Tanenhaus</last></author>
-                <url>041_Brown-Schmidt_semdial2006_brandial_proceedings.pdf</url></paper>   
-
-<paper id="040"><title>Scene-Sentence Integration: Incremental Effects of Mismatch and Scene Complexity</title>
-                <author><first>Pia</first><last>Knoeferle</last></author>
-                <author><first>Monica</first><last>Rodriguez</last></author>
-                <url>040_Knoeferle_semdial2006_brandial_proceedings.pdf</url></paper>  
-
-<paper id="042"><title>Evaluation of an Information State-Based Dialogue Manager</title>
-                <author><first>Antonio</first><last>Roque,</last></author>
-                <author><first>Hua</first><last>Ai</last></author>
-                <author><first>David</first><last>Traum</last></author>
-                <url>042_Roque_semdial2006_brandial_proceedings.pdf</url></paper>                               
-    
 <paper id="029"><title>Dico: A Multimodal Menu-based In-vehicle Dialogue System</title>
                 <author><first>Jessica</first><last>Villing</last></author>
                 <author><first>Staffan</first><last>Larsson</last></author>
-                <url>029_Villing_semdial2006_brandial_proceedings.pdf</url></paper>
+                <url>029_Villing_semdial2006_brandial_proceedings.pdf</url></paper>     
 
 <paper id="030"><title>Accommodating Social Relationships</title>
                 <author><first>Joris</first><last>Hulstijn</last></author>
-                <url>030_Hulstijn_semdial2006_brandial_proceedings.pdf</url></paper>
-
-<paper id="044"><title>Hierarchical Reinforcement Learning of Dialogue Policies in a development environment for dialogue systems: REALL-DUDE</title>
-                <author><first>Oliver</first><last>Lemon</last></author>
-                <author><first>Xingkun</first><last>Liu</last></author>
-                <author><first>Daniel</first><last>Shapiro</last></author>
-                <author><first>Carl</first><last>Tollander</last></author>
-                <url>044_Lemon_semdial2006_brandial_proceedings.pdf</url></paper>      
-
-<paper id="042"><title>Evaluation of an Information State-Based Dialogue Manager</title>
-                <author><first>Antonio</first><last>Roque,</last></author>
-                <author><first>Hua</first><last>Ai</last></author>
-                <author><first>David</first><last>Traum</last></author>
-                <url>042_Roque_semdial2006_brandial_proceedings.pdf</url></paper>                            
+                <url>030_Hulstijn_semdial2006_brandial_proceedings.pdf</url></paper>                                      
 
 <paper id="031"><title>The Effect of Multiple Modalities in Dialogue Act Annotation</title>
                 <author><first>Crystal</first><last>Nakatsu</last></author>
@@ -291,7 +225,83 @@
 <paper id="035"><title>Programming by Voice: enhancing adaptivity and robustness of spoken dialogue systems</title>
                 <author><first>Kallirroi</first><last>Georgila</last></author>
                 <author><first>Oliver</first><last>Lemon</last></author>
-                <url>035_Georgila_semdial2006_brandial_proceedings.pdf</url></paper>
+                <url>035_Georgila_semdial2006_brandial_proceedings.pdf</url></paper>                         
+
+<paper id="036"><title>Non-verbal Information in Communication: A Study of Interaction in a Tourist-information Setting</title>
+                <author><first>Ichiro</first><last>Umata</last></author>
+                <author><first>Sadanori</first><last>Ito</last></author>
+                <author><first>Shoichiro</first><last>Iwasawa</last></author>
+                <author><first>Noriko</first><last>Suzuki</last></author>
+                <author><first>Tomoji</first><last>Toriyama</last></author>
+                <author><first>Naomi</first><last>Inoue</last></author>
+                <author><first>Kiyoshi</first><last>Kogure</last></author>
+                <author><first>Kenji</first><last>Mase</last></author>
+                <url>036_Umata_semdial2006_brandial_proceedings.pdf</url></paper>       
+
+<paper id="037"><title>Compliments in virtual dialogs</title>
+                <author><first>Lilia</first><last>Mironovschi,</last></author>
+                <url>037_Mironovschi_semdial2006_brandial_proceedings.pdf</url></paper>    
+
+<paper id="038"><title>DISCUS: a dialogue simulation and context update system</title>
+                <author><first>Roser</first><last>Morante</last></author>
+                <author><first>Simon</first><last>Keizer</last></author>
+                <url>038_Morante_semdial2006_brandial_proceedings.pdf</url></paper>   
+
+<paper id="039"><title>Browsing Meetings: Automatic Understanding, Presentation and Feedback for Multi-Party Conversations</title>
+                <author><first>Patrick</first><last>Ehlen</last></author>
+                <author><first>Stephane</first><last>Laidebeure</last></author>
+                <author><first>John</first><last>Niekrasz</last></author>
+                <author><first>Matthew</first><last>Purver</last></author>
+                <author><first>John</first><last>Dowding</last></author>
+                <author><first>Stanley</first><last>Peters</last></author>
+                <url>039_Ehlen_semdial2006_brandial_proceedings.pdf</url></paper>                                                      
+
+
+<paper id="040"><title>Scene-Sentence Integration: Incremental Effects of Mismatch and Scene Complexity</title>
+                <author><first>Pia</first><last>Knoeferle</last></author>
+                <author><first>Monica</first><last>Rodriguez</last></author>
+                <url>040_Knoeferle_semdial2006_brandial_proceedings.pdf</url></paper>  
+
+
+
+                
+
+<paper id="041"><title>Perspective guides interpretation of questions, declarative questions and statements in unscripted conversation</title>
+                <author><first>Sarah</first><last>Brown-Schmidt</last></author>
+                <author><first>Christine</first><last>Gunlogson</last></author>
+                <author><first>Duane G.</first><last>Watson</last></author>
+                <author><first>Michael K.</first><last>Tanenhaus</last></author>
+                <url>041_Brown-Schmidt_semdial2006_brandial_proceedings.pdf</url></paper>   
+
+
+
+<paper id="042"><title>Evaluation of an Information State-Based Dialogue Manager</title>
+                <author><first>Antonio</first><last>Roque,</last></author>
+                <author><first>Hua</first><last>Ai</last></author>
+                <author><first>David</first><last>Traum</last></author>
+                <url>042_Roque_semdial2006_brandial_proceedings.pdf</url></paper>                               
+    
+
+<paper id="044"><title>Hierarchical Reinforcement Learning of Dialogue Policies in a development environment for dialogue systems: REALL-DUDE</title>
+                <author><first>Oliver</first><last>Lemon</last></author>
+                <author><first>Xingkun</first><last>Liu</last></author>
+                <author><first>Daniel</first><last>Shapiro</last></author>
+                <author><first>Carl</first><last>Tollander</last></author>
+                <url>044_Lemon_semdial2006_brandial_proceedings.pdf</url></paper>   
+
+<paper id="045"><title>VISA - Corpus Annotation with OWL</title>
+                <author><first>Stephanie</first><last>Becker</last></author>
+                <author><first>Thomas</first><last>Kleinbauer</last></author>
+                <author><first>Stephan</first><last>Lesch</last></author>
+                <url>045_Becker_semdial2006_brandial_proceedings.pdf</url></paper>                    
+
+<paper id="046"><title>Evaluation of an Information State-Based Dialogue Manager</title>
+                <author><first>Antonio</first><last>Roque,</last></author>
+                <author><first>Hua</first><last>Ai</last></author>
+                <author><first>David</first><last>Traum</last></author>
+                <url>046_Roque_semdial2006_brandial_proceedings.pdf</url></paper>      
+
+
 
   </volume>
 </collection>

@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z04">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <editor><first>Enric</first><last>Vallduví</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Barcelona, Spain</address>
+      <month>July 19-21</month>
+      <year>2004</year>
+    </meta>
+    <frontmatter>
+      <url>000_FrontMatter_semdial2004_catalog_proceedings.pdf</url>
+    </frontmatter>
+</volume>
+  <volume id="2">
+    <meta>
+      <booktitle>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <editor><first>Enric</first><last>Vallduví</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Barcelona, Spain</address>
+      <month>July 19-21</month>
+      <year>2004</year>
+    </meta>
+
+<paper id="001"><title>Type theoretic approach to information state update in issue based dialogue management</title>
+                <author><first>Robin</first><last>Cooper</last></author>
+                <url>001_Cooper_semdial2004_catalog_proceedings.pdf</url></paper>    
+
+<paper id="002"><title>Completions and continuations in dialogue: Preliminary observations</title>
+                <author><first>Massimo</first><last>Poesio</last></author>
+                <url>002_Poesio_semdial2004_catalog_proceedings.pdf</url></paper>
+
+<paper id="003"><title>Learning to talk by listening</title>
+                <author><first>Alex</first><last>Rudnicky</last></author>
+                <url>003_Rudnicky_semdial2004_catalog_proceedings.pdf</url></paper>
+
+<paper id="0033"><title>Real-time studies of comprehension and production in dialogue:Insights from eye movements</title>
+                <author><first>Michael</first><last>Tanenhaus</last></author>
+                <author><first>Sarah</first><last>Brown-Schmidt</last></author>
+                <url>0033_Rudnicky_semdial2004_catalog_proceedings.pdf</url></paper>
+
+
+                  
+
+
+
+                      
+
+</volume>
+  <volume id="3">
+    <meta>
+      <booktitle>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <editor><first>Enric</first><last>Vallduví</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Barcelona, Spain</address>
+      <month>July 19-21</month>
+      <year>2004</year>
+    </meta>
+    
+<!--['Roser', 'Morante', 'Simon', 'Keizer', 'Harry']-->
+
+<paper id="005"><title>Contextual reasoning in multimodal dialogue systems: Two case studies</title>
+                <author><first>Johan</first><last>Boye</last></author>
+                <author><first>Mats</first><last>Wirén</last></author>
+                <author><first>Joakim</first><last>Gustafson</last></author>
+                <url>004_Boye_semdial2004_catalog_proceedings.pdf</url></paper>
+
+<paper id="006"><title>Dynamic optimisation of information enrichment in dialogue</title>
+                <author><first>Stina</first><last>Ericsson</last></author>       
+                <url>005_Ericsson_semdial2004_catalog_proceedings.pdf</url></paper>
+
+
+<paper id="0067"><title>Information state update: Semantics or pragmatics?</title>
+                <author><first>Raquel</first><last>Fernández</last></author>
+                <author><first>Matthew</first><last>Purver</last></author> 
+                <url>006_Fernandez_semdial2004_catalog_proceedings.pdf</url></paper>
+
+
+<paper id="007"><title>Reference resolution mechanisms in dialogue management</title>
+                <author><first>Petra</first><last>Gieselmann</last></author>
+                <url>007_Gieselmann_semdial2004_catalog_proceedings.pdf</url></paper>
+
+
+<paper id="008"><title>Alignment in dialogue: Effects of visual versus verbal-feedback</title>
+                <author><first>Kirsten</first><last>Hadelich</last></author>
+                <author><first>Holly</first><last>Branigan</last></author>
+                <author><first>Martin</first><last>Pickering</last></author>
+                <author><first>Matthew</first><last>Crocker</last></author>
+                <url>008_Hadelich_semdial2004_catalog_proceedings.pdf</url></paper>
+
+
+<paper id="009"><title>Dialogue history modelling for multimodal human-computer interaction</title>
+                <author><first>Frédéric</first><last>Landragin</last></author>
+                <author><first>Laurent</first><last>Romary</last></author>
+                <url>009_Landragin_semdial2004_catalog_proceedings.pdf</url></paper>
+
+<paper id="010"><title>Context-sensitive speech recognition in Information-State Update dialogue systems: results for the "grammar switching" approach</title>
+                <author><first>Oliver</first><last>Lemon</last></author>
+                <url>010_Lemon_semdial2004_catalog_proceedings.pdf</url></paper>
+
+<paper id="011"><title>Statistical support for the study of structures in multimodal dialogue: inter-rater agreement and synchronisation</title>
+                <author><first>Andy</first><last>Luecking</last></author>
+                <author><first>Hannes</first><last>Reiser</last></author>
+                <author><first>Jens</first><last>Stegmann</last></author>
+                <url>011_Luecking_semdial2004_catalog_proceedings.pdf</url></paper>   
+
+<paper id="012"><title>Speech acts and recognition of insincerity</title>
+                <author><first>William</first><last>Mann</last></author>
+                <author><first>Jörn</first><last>Kreutel</last></author>
+                <url>012_Mann_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+<paper id="013"><title>Ontologies and the structure of dialogue</title>
+                <author><first>David</first><last>Milward</last></author>
+                <author><first>Martin</first><last>Beveridge</last></author>
+                <url>013_Milward_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+<paper id="014"><title>CLARIE: The Clarification Engine</title>
+                <author><first>Matthew</first><last>Purver</last></author>
+                <url>014_Purver_semdial2004_catalog_proceedings.pdf</url></paper> 
+
+<paper id="015"><title>Incrementality, alignment and shared utterances</title>
+                <author><first>Matthew</first><last>Purver</last></author>
+                <author><first>Ruth</first><last>Kempson</last></author>
+                <url>015_Purver_semdial2004_catalog_proceedings.pdf</url></paper>     
+
+<paper id="016"><title>Pointing in Dialogue</title>
+                <author><first>Hannes</first><last>Reiser</last></author>
+                <url>016_Rieser_semdial2004_catalog_proceedings.pdf</url></paper>    
+
+<paper id="017"><title>Form, intonation and function of clarification requests in German task-oriented spoken dialogues</title>
+                <author><first>Kepa Joseba</first><last>Rodríguez</last></author>
+                <author><first>David</first><last>Schlangen</last></author>
+                <url>017_Rodriguez_semdial2004_catalog_proceedings.pdf</url></paper>    
+
+<paper id="018"><title>Case-based natural language dialogue system using facial expressions</title>
+                <author><first>Satoko</first><last>Shiga</last></author>
+                <author><first>Seishi</first><last>Okamoto</last></author>
+                <url>018_Shiga_semdial2004_catalog_proceedings.pdf</url></paper>    
+
+<paper id="019"><title>Information-seeking chat: Dialogues driven by topic structure</title>
+                <author><first>Mannfred</first><last>Stede</last></author>
+                <author><first>David</first><last>Schlangen</last></author>
+                <url>019_Stede_semdial2004_catalog_proceedings.pdf</url></paper>    
+
+<paper id="020"><title>Listener reaction to referential form</title>
+                <author><first>Gunnvald</first><last>Svensden</last></author>
+                <author><first>Bente</first><last>Evjemo</last></author>
+                <author><first>Jan A. K.</first><last>Johnsen</last></author>
+                <author><first>Svein</first><last>Bergvik</last></author>
+                <url>020_Svendsen_semdial2004_catalog_proceedings.pdf</url></paper>    
+
+<paper id="021"><title>Semantics, dialogue, and reference resolution</title>
+                <author><first>Joel</first><last>Tetrealt</last></author>
+                <author><first>James</first><last>Allen</last></author>
+                <url>021_Tetreault_semdial2004_catalog_proceedings.pdf</url></paper>    
+
+<paper id="022"><title>A free-format dialogue protocol for multi-party inquiry</title>
+                <author><first>Gerard</first><last>Vreeswijk</last></author>
+                <author><first>Joris</first><last>Hulstijn</last></author>
+                <url>022_Vreeswijk_semdial2004_catalog_proceedings.pdf</url></paper>                    
+            
+                                                    
+
+                            
+
+</volume>
+  <volume id="4">
+    <meta>
+      <booktitle>Proceedings of the 8th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+      <editor><first>Jonathan</first><last>Ginzburg</last></editor>
+      <editor><first>Enric</first><last>Vallduví</last></editor>                 
+      <publisher>SEMDIAL</publisher>
+      <address>Barcelona, Spain</address>
+      <month>July 19-21</month>
+      <year>2004</year>
+    </meta>
+
+
+<paper id="023"><title>Presupposition and belief in DRT: Towards a new implementation</title>
+                <author><first>Yafa</first><last>al-Raheb</last></author>
+                <url>023_Al-Raheb_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="024"><title>Shared scoreboards and common information</title>
+                <author><first>Anton</first><last>Benz</last></author>
+                <url>024_Benz_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="025"><title>On some effects of lexical contrast in information-seeking dialogues</title>
+                <author><first>Fransesca</first><last>Carota</last></author>
+                <url>025_Carota_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="026"><title>Developing a typology of dialogue acts: Question-answer adjacency pairs in Estonian information dialogues</title>
+                <author><first>Olga</first><last>Gerassimenko</last></author>
+                <author><first>Tiit</first><last>Hennoste</last></author>               
+                <author><first>Mare</first><last>Koit</last></author>
+                <author><first>Andriela</first><last>Rääbis</last></author>               
+                <author><first>Maret</first><last>Valdisoo</last></author>
+                <url>026_Gerassimenko_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="027"><title>Managing uncertainty in dialogue information state for real time understanding of multi-human meeting dialogues</title>
+                <author><first>Alexander</first><last>Gruenstein</last></author>
+                <author><first>Lawrence</first><last>Cavedon</last></author>   
+                <author><first>John</first><last>Niekrasz</last></author>
+                <author><first>Dominic</first><last>Widdows</last></author>
+                <author><first>Stanley</first><last>Peters</last></author>               
+                <url>027_Gruenstein_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="028"><title> Using discourse structure in a dialogue system to search in databases</title>
+                <author><first>Christian</first><last>Hying</last></author>
+                <author><first>Sunna</first><last>Torge</last></author>               
+                <url>028_Hying_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="029"><title>Unifying contrast and denial</title>
+                <author><first>Emar</first><last>Maier</last></author>
+                <author><first>Jennifer</first><last>Spenadere</last></author>               
+                <url>029_Maier_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="030"><title>Conversational gameboard and discourse structure</title>
+                <author><first>Nicolas</first><last>Maudet</last></author>
+                <author><first>Philippe</first><last>Muller</last></author>
+                <author><first>Laurent</first><last>Prévot</last></author>
+                <url>030_Maudet_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="031"><title>Small group discussion simulation for middle level of detail crowds</title>
+                <author><first>Jigish</first><last>Patel</last></author>
+                <author><first>Robert</first><last>Parker</last></author>               
+                <author><first>David</first><last>Traum</last></author>
+                <url>031_Patel_semdial2004_catalog_proceedings.pdf</url></paper>  
+
+
+<paper id="032"><title>Employing context of use in dialogue processing</title>
+                <author><first>Botund</first><last>Pakucs</last></author>        
+                <url>032_Pakucs_semdial2004_catalog_proceedings.pdf</url></paper> 
+  </volume>
+</collection>
