@@ -38,7 +38,7 @@ file using the following commands:
 \usepackage{fancyhdr}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0pt}
-\fancyfoot[CO]{\thepage \\ \textit{\small Proceedings of the XXth Workshop on the Semantics and Pragmatics of Dialogue, Month, XX–XX, YEAR, PLACE.}}
+\fancyfoot[CO]{\thepage \\ \textit{\small Proceedings of the XXth Workshop on the Semantics and Pragmatics of Dialogue, Month, XX–XX, YEAR, CITY, COUNTRY.}}
 \pagestyle{fancy}
 ```
 (adapted from [here](https://askubuntu.com/questions/712691/batch-add-header-footer-to-pdf-files)).
