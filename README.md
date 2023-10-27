@@ -53,6 +53,10 @@ First, add the new .xml file to the repository:
 
 Then,
 
+make sure you have the proper python packages:
+
+`pip install stop_words python-slugify texsoup 
+
 run `make clean && make`
 
 (You may get an error like `ERROR 2019/08/30 08:57:47 [en] REF_NOT_FOUND: Ref "/volumes/W18-50.md" from page "sigs/sigdial.md": page not found`. That's because this package was copied from the ACL Anthology and some artifacts are required for this to compile, but it stops short of compiling other venue information because it doesn't exist.)
