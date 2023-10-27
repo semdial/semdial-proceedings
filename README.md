@@ -55,7 +55,7 @@ Then,
 
 make sure you have the proper python packages:
 
-`pip install stop_words python-slugify texsoup`
+`pip install -r bin/requirements.txt`
 
 Then, run
 
