@@ -113,11 +113,3 @@ serve:
 
 # this target does not use ANTHOLOGYDIR because the official website
 # only works if ANTHOLOGYDIR == anthology.
-.PHONY: upload
-upload:
-	@if [[ $(ANTHOLOGYDIR) != "anthology" ]]; then \
-            echo "WARNING: Can't upload because ANTHOLOGYDIR was set to '$(ANTHOLOGYDIR)' instead of 'anthology'"; \
-            exit 1; \
-        fi
-	@echo "INFO     Running rsync..."
-	@rsync -azve ssh --delete build/anthology/ aclweb:anthology-static
