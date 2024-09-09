@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z24">
+  <volume id="1">
+    <meta>
+      <booktitle>Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Front Matter</booktitle>
+      <editor><first>Raffaella</first><last>Bernardi</last></editor>
+      <editor><first>Ellen</first><last>Breitholtz</last></editor>
+      <editor><first>Giuseppe</first><last>Riccardi</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Trento, Italy</address>
+      <month>September</month>
+      <year>2024</year>
+    </meta>
+    <frontmatter>
+      <url>semdial2024_trentologue_front_matter.pdf</url>
+    </frontmatter>
+  </volume>
+  
+  <volume id="2">
+    <meta>
+     <booktitle>Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Invited Talks</booktitle>
+<editor><first>Raffaella</first><last>Bernardi</last></editor>
+      <editor><first>Ellen</first><last>Breitholtz</last></editor>
+      <editor><first>Giuseppe</first><last>Riccardi</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Trento, Italy</address>
+      <month>September</month>
+      <year>2024</year>
+    </meta>
+    
+     
+<paper id="101"><title>Deep language models as a cognitive model for natural language processing in the human brain</title><author><first>Uri</first><last>Hasson</last></author><url>Z24-Hasson_semdial_0001a.pdf</url></paper>
+
+<paper id="102"><title>Emergence and Developmental trajectory of Ecological Active Learning</title><author><first>Azzurra</first><last>Ruggeri</last></author><url>Z24-Ruggeri_semdial_0002a.pdf</url></paper>
+
+<paper id="103"><title>Toward collaborative LLMs: Investigating Proactivity in Task-Oriented Dialogues</title><author><first>Bernardo</first><last>Magnini</last></author><url>Z24-Magninini_semdial_0003a.pdf</url></paper>
+
+
+
+</volume>
+  <volume id="3">
+  
+ <meta>
+     <booktitle>Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Full Papers</booktitle>
+<editor><first>Raffaella</first><last>Bernardi</last></editor>
+      <editor><first>Ellen</first><last>Breitholtz</last></editor>
+      <editor><first>Giuseppe</first><last>Riccardi</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Trento, Italy</address>
+      <month>September</month>
+      <year>2024</year>
+ </meta>
+
+
+ <paper id="1"><title>Turn-taking dynamics across different phases of explanatory dialogues</title>
+<author><first>	Petra	</first><last>	Wagner	</last></author>
+ <author><first>	Marcin	</first><last>	Włodarczak
+ </last></author>	<author><first>	Hendrik	</first><last>
+ Buschmeier 	</last></author>	<author><first>	Olcay
+ </first><last>	Türk	</last></author>	<author><first>	Emer
+ </first><last>	Gilmartin
+ </last></author><url>Z24-Wagner_semdial_0001.pdf</url></paper>
+ 
+
+<paper id="2"><title>PairwiseTurnGPT: a multi-stream turn prediction model for spoken dialogue</title><author><first>	Sean	</first><last>	Leishman 	</last></author>	<author><first>	Peter	</first><last>	Bell	</last></author>	<author><first>	Sarenne	</first><last>	Wallbridge	</last></author><url>Z24-Leishman_semdial_0002.pdf</url></paper>
+
+<paper id="3"><title>Learning Task-Oriented Dialogues through Various Degrees of Interactivity</title><author><first>	Sebastiano	</first><last>	Gigliobianco 	</last></author>	<author><first>	Dimosthenis	</first><last>	Kontogiorgos	</last></author>	<author><first>	David	</first><last>	Schlangen	</last></author><url>Z24-Gigliobianco_semdial_0003.pdf</url></paper>
+
+
+<paper id="4"><title>Behaving according to protocol: How communicative projects are carried out differently in different settings</title><author><first>	Ellen	</first><last>	Breitholtz	</last></author>	<author><first>	Christine	</first><last>	Howes	</last></author><url>Z24- Breitholtz_semdial_0004.pdf</url></paper>
+
+
+<paper id="5"><title>How do Encoder-only LMs Predict Closeness and Respect from Thai Conversations?</title><author><first>	Pakawat	</first><last>	Nakwijit 	</last></author>	<author><first>	Attapol T.	</first><last>	Rutherford	</last></author>	<author><first>	Matthew	</first><last>	Purver	</last></author><url>Z24-Nakwijit_semdial_0005.pdf</url></paper>
+
+<paper id="6"><title>Large Language Models as an active Bayesian filter: information acquisition and integration</title><author><first>	Sabrina	</first><last>	Patania 	</last></author>	<author><first>	Emanuele	</first><last>	Masiero 	</last></author>	<author><first>	Luca	</first><last>	Brini 	</last></author>	<author><first>	Gregor	</first><last>	Donabauer 	</last></author>	<author><first>	Udo	</first><last>	Kruschwitz 	</last></author>	<author><first>	Valentyn	</first><last>	Piskovskyi	</last></author>	<author><first>	Dimitri	</first><last>	Ognibene	</last></author> <url>Z24-Patania_semdial_0006.pdf</url></paper>
+ 
+ 
+<paper id="7"><title>Swann’s Name: Towards a Dialogical Brain Semantics</title><author><first>	Jonathan	</first><last>	Ginzburg 	</last></author>	<author><first>	Chris	</first><last>	Eliasmith	</last></author>	<author><first>Andy</first><last>	Lücking	</last></author><url>Z24-Ginzburg_semdial_0007.pdf</url></paper>
+
+
+<paper id="8"><title>Laughter in Dialogues with Normal-Hearing and Hearing-Impaired Children: Do they all laugh alike?</title>
+<author><first>Chiara</first><last>Mazzocconi</last></author>
+ <author><first>Céline </first><last>Hidalgo</last></author>
+ <author><first>Roxane </first><last>Bertrand</last></author>
+ <author><first>Leonardo</first><last>Lancia</last></author>
+ <author><first>Stéphane </first><last>Roman</last></author>
+ <author><first>Daniele</first><last>Schon</last></author>
+<url>Z24-Mazzocconi_semdial_0008.pdf</url></paper>
+
+
+<paper id="9"><title>Laughter in the cradle: a taxonomy of infant laughables</title><author><first>	Yingqin	</first><last>	Hu 	</last></author>
+<author><first>	Brillet	</first><last>	Capucine
+</last></author>	<author><first>	Bosko	</first><last>
+Rajkovic 	</last></author>	<author><first>	Gauhar
+</first><last>	Rustamova 	</last></author>
+<author><first>	Chiara	</first><last>	Mazzocconi
+</last></author>	<author><first>	Pelachaud	</first><last>
+Catherine	</last></author>	<author><first>	Jonathan
+</first><last>	Ginzburg	</last></author><url>Z24-Hu_semdial_0009.pdf</url></paper>
+
+
+
+<paper id="10"><title>I hea- umm think that's what they say: A Dataset of Inferences from Natural Language Dialogues</title><author><first>	Adam	</first><last>	Ek 	</last></author>	<author><first>	Bill	</first><last>	Noble 	</last></author>	<author><first>	Stergios	</first><last>	Chatzikyriakidis 	</last></author>	<author><first>	Robin	</first><last>	Cooper 	</last></author>	<author><first>	Simon	</first><last>	Dobnik 	</last></author>	<author><first>	Eleni	</first><last>	Gregoromichelaki 	</last></author>	<author><first>	Christine	</first><last>	Howes 	</last></author>	<author><first>	Staffan	</first><last>	Larsson 	</last></author>	<author><first>	Vladislav	</first><last>	Maraev 	</last></author>	<author><first>	Gregory	</first><last>	Mills	</last></author>	<author><first>	Gijs	</first><last>	Wijnholds	</last></author><url>Z24-Ek_semdial_0010.pdf</url></paper>
+
+<paper id="11"><title>Towards A Formal Semantics of Silence: An Analysis Based on the KoS Framework</title><author><first>	Haseon	</first><last>	Park	</last></author><url>Z24-Park_semdial_0011.pdf</url></paper>
+
+<paper id="12"><title>Perspectives on Language Model and Human Handling of Written Disfluency and Nonliteral Meaning</title><author><first>	Aida	</first><last>	Tarighat 	</last></author>	<author><first>	Martin	</first><last>	Corley	</last></author>	<author><first>	Patrick	</first><last>	Sturt	</last></author>
+<url>Z24-Tarighat_semdial_0012.pdf</url></paper>
+
+<paper id="13"><title>Disfluencies in conversation: a comparison of utterances with and without metaphors</title><author><first>	Amy Han	</first><last>	Qiu 	</last></author>	<author><first>	Vanessa	</first><last>	Vanzan	</last></author>	<author><first>	Chara	</first><last>	Soupiona	</last></author>	<author><first>	Christine	</first><last>	Howes	</last></author><url>Z24-Qiu_semdial_0013.pdf</url></paper>
+
+
+<paper id="14"><title>Speaker transition patterns in German: A comparison between task-based and casual conversation in face-to-face
+and remote conversation</title><author><first>	Qiang	</first><last>	Xia 	</last></author>	<author><first>	Emer	</first><last>	Gilmartin	</last></author>	<author><first>	Marcin	</first><last>	Włodarczak	</last></author>
+<url>Z24-Xia_semdial_0014.pdf</url></paper>
+
+</volume>
+  <volume id="4">
+
+<meta>
+     <booktitle>Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue - Poster Abstracts</booktitle>
+<editor><first>Raffaella</first><last>Bernardi</last></editor>
+      <editor><first>Ellen</first><last>Breitholtz</last></editor>
+      <editor><first>Giuseppe</first><last>Riccardi</last></editor>
+      <publisher>SEMDIAL</publisher>
+      <address>Trento, Italy</address>
+      <month>September</month>
+      <year>2024</year>
+</meta>
+
+<!--<paper  id="15"><title>fEMG as a window into conversational
+    commitments</title><author><first>Harriet
+    Yates</first><last>Corien Bary, Peter de Swart and Bob van
+    Tiel</last></author><url>Z24-Yates_semdial_0015.pdf</url></paper> WITHDRAWN-->
+
+<paper  id="16"><title>A Multi-party Dialogue Dataset for Dialogue Goal Tracking in a Hospital Setting and How It Can Be Used in LLM Prompt Engineering Experiments</title><author><first>	Weronika	</first><last>	Sieińska
+</last></author>	<author><first>	Angus	</first><last>
+Addlessee 	</last></author>	<author><first>	Daniel
+</first><last>	Hernández	</last></author>
+<author><first>	García 	</first><last>	Nancie	</last></author>
+<author><first>	Gunson 	</first><last>	Marta	</last></author>
+<author><first>	Romeo Christian	</first><last>	Dondrup
+</last></author>	<author><first>	Oliver	</first><last>	Lemon
+</last></author><url>Z24-Sieinska_semdial_0016.pdf</url></paper>
+
+
+
+<paper  id="17"><title>Using LLMs to generate training data for dialogue system NLUs</title><author><first>	Bogdan	</first><last>	Laszlo 	</last></author>	<author><first>	Staffan	</first><last>	Larsson	</last></author>	<author><first>	Asad	</first><last>	Sayeed	</last></author><url>Z24-Laszlo_semdial_0017.pdf</url></paper>
+
+<paper  id="18"><title>Boosting Questions' Effectiveness in Medical Interviews</title><author><first>	Davide	</first><last>	Mazzaccara 	</last></author>	<author><first>	Alberto	</first><last>	Testoni	</last></author>	<author><first>	Raffaella	</first><last>	Bernardi	</last></author><url>Z24-Mazzaccara_semdial_0018.pdf</url></paper>
+
+<paper  id="19"><title>Inferring Partner Models for Adaptive Explanation Generation</title><author><first>	Amelie	</first><last>	Robrecht
+</last></author>	<author><first>	Heike	</first><last>	Buhl
+</last></author>	<author><first>	Stefan	</first><last>	Kopp
+</last></author><url>Z24-Robrecht_semdial_0019.pdf</url></paper>
+
+
+<paper  id="20"><title>Modeling the Use-Mention Distinction in LLM-Generated Grounding Acts</title><author><first>	Milena	</first><last>	Belosevic	</last></author>	<author><first>	Hendrik	</first><last>	Buschmeier	</last></author><url>Z24-Belosevic_semdial_0020.pdf</url></paper>
+
+<paper  id="21"><title>Machine-to-Machine Generation of Explanatory Dialogues for Medical QA: an Exploratory Study</title><author><first>	Andrea	</first><last>	Zaninello	</last></author>	<author><first>	Bernardo	</first><last>	Magnini	</last></author>
+<url>Z24-Zaninello_semdial_0021.pdf</url></paper>
+
+<paper  id="22"><title>Are conversational large language models speakers?</title><author><first>	Paul	</first><last>	Piwek	</last></author>
+<url>Z24-Piwek_semdial_0022.pdf</url></paper>
+
+<paper  id="23"><title>Pre-Generative Conversational AI</title><author><first>	Staffan	</first><last>	Larsson	</last></author>
+<url>Z24-Larsson_semdial_0023.pdf</url></paper>
+
+<paper  id="24"><title>It is difficult, but not impossible: Measuring Scalar Activation in Language Models</title><author><first>	David	</first><last>	Arps	</last></author>	<author><first>	Yulia	</first><last>	Zinova	</last></author>
+<url>Z24-Arps_semdial_0024.pdf</url></paper>
+
+<paper  id="25"><title>Getting to the point: Contrasting Directness and Warmth in Motivational Embodied Conversational Agents</title><author><first>	Michael	</first><last>	O'Mahony 	</last></author>	<author><first>	Cathy	</first><last>	Ennis	</last></author>	<author><first>	Robert	</first><last>	Ross	</last></author>
+<url>Z24-OMahony_semdial_0025.pdf</url></paper>
+
+<paper  id="26"><title>"No, you listen!" A pilot experiment into escalation devices in confrontational conversation</title><author><first>	Sara	</first><last>	Amido 	</last></author>	<author><first>	Vladislav	</first><last>	Maraev	</last></author>	<author><first>	Robert	</first><last>	Ross	</last></author>
+<url>Z24-Amido_semdial_0026.pdf</url></paper>
+
+<!--<paper  id="27"><title>Speaker contribution to scalar implicature
+tasks</title><author><first>Anna Teresa Porrini</first><last>Luca
+Surian and Nausicaa
+Pouscoulous</last></author><url>Z24-Porrini_semdial_0027.pdf</url></paper> -->
+
+<paper  id="28"><title>To Your Left: A Dataset and a Task of Spatial Perspective Coordination</title><author><first>	Mattias	</first><last>	Appelgren	</last></author>	<author><first>	Simon	</first><last>	Dobnik	</last></author>
+<url>Z24-Appelgren_semdial_0028.pdf</url></paper>
+
+<!-- <paper  id="29"><title>Beat gestures and prosodic stress
+     interactively influence language
+     comprehension</title><author><first>Ambra
+     Ferrari</first><last>Peter
+     Hagoort</last></author><url>Z24-XXX_semdial_0029.pdf</url></paper> -->
+
+<paper  id="30"><title>Discourse Markers for Topic Change</title><author><first>	Paola	</first><last>	Herreño Castañeda
+</last></author>	<author><first>	Jonathan	</first><last>
+Ginzburg	</last></author>	<author><first>	Mathilde
+</first><last>	Dargnat	</last></author>
+<url>Z24-Castaneda_semdial_0030.pdf</url></paper>
+
+
+<paper  id="31"><title>The Linguistic Interpretation of Non-emblematic Gestures Must be agreed in Dialogue: Combining Perceptual Classifiers and Grounding/Clarification Mechanisms</title><author><first>	Andy	</first><last>	Lücking 	</last></author>	<author><first>	Alexander	</first><last>	Mehler	</last></author>	<author><first>	Alexander	</first><last>	Henlein	</last></author>
+<url>Z24-Lucking_semdial_0031.pdf</url></paper>
+
+<paper  id="32"><title>Every quantifier scope ambiguity is enabled by a context</title><author><first>	David	</first><last>	Pagmar	</last></author>	<author><first>	Asad	</first><last>	Sayeed	</last></author>
+<url>Z24-Pagmar_semdial_0032.pdf</url></paper>
+
+<paper  id="33"><title>Annotation Needs for Referring Expressions in Pair-Programming Dialogue</title><author><first>	Cecilia	</first><last>	Domingo 	</last></author>	<author><first>	Paul	</first><last>	Piwek 	</last></author>	<author><first>	Michel	</first><last>	Wermelinger	</last></author>	<author><first>	Svetlana	</first><last>	Stoyanchev</last></author>
+<url>Z24-Domingo_semdial_0033.pdf</url></paper>
+
+<paper  id="34"><title>Network science highlights the emotional structure of counselling conversations simulated by Large Language Models and humans</title><author><first>	Edoardo	</first><last>	Sebastiano	</last></author>	<author><first>	De	</first><last>	Duro 	</last></author>	<author><first>	Riccardo	</first><last>	Improta	</last></author>	<author><first>	Massimo	</first><last>	Stella</last></author>
+<url>Z24-DeDuro_semdial_0034.pdf</url></paper>
+
+<paper  id="35"><title>Red-teaming LLMs for patient safety in healthcare settings: the HPQ dataset and evaluation</title><author><first>	Mark	</first><last>	Monaghan 	</last></author>	<author><first>	Harry	</first><last>	Addlessee 	</last></author>	<author><first>	Jose	</first><last>	Rodriguez Assalone 	</last></author>	<author><first>	Sandra	</first><last>	Gregoire 	</last></author>	<author><first>	Buhari	</first><last>	Bashir 	</last></author>	<author><first>	Ross	</first><last>	Nelson 	</last></author>	<author><first>	Mahad	</first><last>	Mahad	</last></author>	<author><first>	Javier Sanchez	</first><last>	Castro 	</last></author>	<author><first>	Elissa	</first><last>	Westerheim 	</last></author>	<author><first>	Oliver	</first><last>	Lemon	</last></author>
+<url>Z24-Monaghan_semdial_0035.pdf</url></paper>
+
+<paper  id="36"><title>A  LLM Benchmark based on the Minecraft Builder Dialog Agent Task</title><author><first>	Chris	</first><last>	Madge	</last></author>	<author><first>	Massimo	</first><last>	Poesio	</last></author>
+<url>Z24-Madge_semdial_0036.pdf</url></paper>
+
+<paper  id="37"><title>Influence of Robot-Gaze Aversion on Human-Behavioral Dynamics and Perceptual Cognition</title><author><first>	Vidya	</first><last>	Somashekarappa	</last></author>	<author><first>	Christine	</first><last>	Howes	</last></author>
+<url>Z24-Somashekarappa_semdial_0037.pdf</url></paper>
+
+<paper  id="38"><title>Emoji-Text Mismatches: Stirring the Pot of Online Conversations</title><author><first>	Vanessa	</first><last>	Vanzan 	</last></author>	<author><first>	Amy	</first><last>	Han	</last></author>	<author><first>	Qiu 	</first><last>	Fahima	</last></author>	<author><first>	Ayub	</first><last>	Khan 	</last></author>	<author><first>	Chara	</first><last>	Soupiona	</last></author>	<author><first>	Christine	</first><last>	Howes	</last></author>
+<url>Z24-Vanzan_semdial_0038.pdf</url></paper>
+
+<paper  id="39"><title>Treebank for Dialogue: a case study from Roman Tragedy</title><author><first>	Federica	</first><last>	Iurescia	</last></author>	<author><first>	Giovanni	</first><last>	Moretti	</last></author>
+<url>Z24-Iurescia_semdial_0039.pdf</url></paper>
+
+<paper  id="40"><title>Assertion, cooperativity and evidence on X</title><author><first>	Marie	</first><last>	Boscaro 	</last></author>	<author><first>	Anastasia	</first><last>	Giannakidou 	</last></author>	<author><first>	Alda	</first><last>	Mari	</last></author>	<author><first>	Valentin	</first><last>	Tinarrage	</last></author>
+<url>Z24-Boscaro_semdial_0040.pdf</url></paper>
+
+<paper  id="41"><title>"Wait, did you mean the doctor?": Collecting a Dialogue Corpus for Topical Analysis</title><author><first>	Amandine	</first><last>	Decker	</last></author>	<author><first>	Vincent	</first><last>	Tourneur	</last></author>	<author><first>	Maxime	</first><last>	Amblard	</last></author>	<author><first>	Ellen	</first><last>	Breitholtz	</last></author>
+<url>Z24-Decker_semdial_0041.pdf</url></paper>
+
+<paper  id="42"><title>"If a foid wanted me I’d probably go mgtow": How ideology and identity are displayed in dialogues on an incel
+forum</title><author><first>	Daphne	</first><last>	Petrén	</last></author>	<author><first>	Ellen	</first><last>	Breitholtz	</last></author>
+<url>Z24-Petren_semdial_0042.pdf</url></paper>
+
+<paper  id="43"><title>Analysis of the Transitions of Spatial-Temporal Scenes in Everyday Conversation</title><author><first>	Yoshiko	</first><last>	Kawabata	</last></author>	<author><first>	Mikio	</first><last>	Nakano	</last></author>
+<url>Z24-Kawabata_semdial_0043.pdf</url></paper>
+
+<paper  id="44"><title>FLUIDITY: Defining, measuring and improving fluidity in human-robot dialogue in virtual and real-world
+settings</title><author><first>	Julian	</first><last>	Hough 	</last></author>	<author><first>	Carlos Baptista	</first><last>	De Lima	</last></author>	<author><first>	Frank	</first><last>	Foerster 	</last></author>	<author><first>	Patrick	</first><last>	Holthaus	</last></author>	<author><first>	Yongjun	</first><last>	Zheng	</last></author>
+<url>Z24-Hough_semdial_0044.pdf</url></paper>
+
+<paper  id="45"><title>VON NEUMIDAS: Enhanced Annotation Schema for Human-LLM Interactions Combining MIDAS with Von Neumann Inspired
+Semantics</title><author><first>	Andrea	</first><last>	Martinenghi 	</last></author>	<author><first>	Cansu	</first><last>	Koyuturk 	</last></author>	<author><first>	Simona	</first><last>	Amenta 	</last></author>	<author><first>	Martin	</first><last>	Ruskov	</last></author>	<author><first>	Gregor	</first><last>	Donabauer 	</last></author>	<author><first>	Udo	</first><last>	Kruschwitz	</last></author>	<author><first>	Dimitri	</first><last>	Ognibene	</last></author>
+<url>Z24-Martinenghi_semdial_0045.pdf</url></paper>
+
+<paper  id="46"><title>Dialogue with LLaVA: does it "understand" the pragmatics of the MeetUp task?</title><author><first>	Nikolai	</first><last>	Ilinykh	</last></author>	<author><first>	Simon	</first><last>	Dobnik	</last></author>
+<url>Z24-Ilinykh_semdial_0046.pdf</url></paper>
+
+<paper  id="47"><title>Accounting for comment-questions</title><author><first>	Jan	</first><last>	Fliessbach 	</last></author>	<author><first>	Lucia M	</first><last>	Tovena 	</last></author>	<author><first>	Damien	</first><last>	Fleury	</last></author>	<author><first>	Yoan	</first><last>	Lion	</last></author>
+<url>Z24-Fliessbach_semdial_0047.pdf</url></paper>
+
+</volume>
+
+</collection>
