@@ -56,7 +56,7 @@
 
 <paper id="8"><title>Multi-Task Learning for Domain-General Spoken Disfluency Detection in Dialogue Systems</title><author><first>Igor</first><last>Shalyminov</last></author><author><first>Arash</first><last>Eshghi</last></author><author><first>Oliver</first><last>Lemon</last></author><url>Z18-Shalyminov_semdial_0008.pdf</url></paper>
 
-<paper id="9"><title>Layered Semantic Graphs for Dialogue Management</title><author><first>Jiaying</first><last>Shen</last></author><author><first>Hendrik</first><last>Harkema</last></author><author><first>Richard</first><last>Crouch</last></author><author><first>Peng</first><last>Yu</last></author><author><first>Ciaran</first><last>OReilly</last></author><url>Z18-Shen_semdial_0009.pdf</url></paper>
+<paper id="9"><title>Layered Semantic Graphs for Dialogue Management</title><author><first>Jiaying</first><last>Shen</last></author><author><first>Hendrik</first><last>Harkema</last></author><author><first>Richard</first><last>Crouch</last></author><author><first>Peng</first><last>Yu</last></author><author><first>Ciaran</first><last>O'Reilly</last></author><url>Z18-Shen_semdial_0009.pdf</url></paper>
 
 <paper id="10"><title>Evaluating Subjective Feedback for Internet of Things Dialogues</title><author><first>Carla</first><last>Gordon</last></author><author><first>Kallirroi</first><last>Georgila</last></author><author><first>Hyungtak</first><last>Choi</last></author><author><first>Jill</first><last>Boberg</last></author><author><first>David</first><last>Traum</last></author><url>Z18-Gordon_semdial_0010.pdf</url></paper>
 
@@ -72,7 +72,7 @@
 
 <paper id="16"><title>Exploring Semantic Incrementality with Dynamic Syntax and Vector Space Semantics</title><author><first>Mehrnoosh</first><last>Sadrzadeh</last></author><author><first>Matthew</first><last>Purver</last></author><author><first>Julian</first><last>Hough</last></author><author><first>Ruth</first><last>Kempson</last></author><url>Z18-Sadrzadeh_semdial_0016.pdf</url></paper>
 
-<paper id="17"><title>A Multi-Task Approach to Incremental Dialogue State Tracking</title><author><first>Anh Duong</first><last>Trinh</last></author><author><first>Robert J</first><last>Ross</last></author><author><first>John D</first><last>Kelleher</last></author><url>Z18-Trinh_semdial_0017.pdf</url></paper>
+<paper id="17"><title>A Multi-Task Approach to Incremental Dialogue State Tracking</title><author><first>Anh Duong</first><last>Trinh</last></author><author><first>Robert J</first><last>Ross</last></author><author><first>John D.</first><last>Kelleher</last></author><url>Z18-Trinh_semdial_0017.pdf</url></paper>
 
 <paper id="18"><title>Learning to Buy Time: A Data-Driven Model For Avoiding Silence While Task-Related Information Cannot Yet Be Presented</title><author><first>Soledad Lopez</first><last>Gambino</last></author><author><first>Sina</first><last>Zarrie&#223;</last></author><author><first>Casey</first><last>Kennington</last></author><author><first>David</first><last>Schlangen</last></author><url>Z18-Gambino_semdial_0018.pdf</url></paper>
 
@@ -104,7 +104,7 @@
 
 <paper id="25"><title>Categorisation of conversational games in free dialogue over spatial scenes.</title><author><first>Simon</first><last>Dobnik</last></author><author><first>Axel</first><last>Storckenfeldt</last></author><url>Z18-Dobnik_semdial_0025.pdf</url></paper>
 
-<paper id="26"><title>An exploratory study on how the use of general lexical and linguistics information helps to predict the dynamic of speech rate in dyadic conversations.</title><author><first>Simone</first><last>Fuscone</last></author><author><first>Laurent</first><last>Pr\'evot</last></author><author><first>Benoit</first><last>Favre</last></author><url>Z18-Fuscone_semdial_0026.pdf</url></paper>
+<paper id="26"><title>An exploratory study on how the use of general lexical and linguistics information helps to predict the dynamic of speech rate in dyadic conversations.</title><author><first>Simone</first><last>Fuscone</last></author><author><first>Laurent</first><last>Prévot</last></author><author><first>Benoit</first><last>Favre</last></author><url>Z18-Fuscone_semdial_0026.pdf</url></paper>
 
 <paper id="27"><title>Real-time testing of non-verbal interaction: An experimental method and platform</title><author><first>Tom</first><last>Gurion</last></author><author><first>Patrick G.T.</first><last>Healey</last></author><author><first>Julian</first><last>Hough</last></author><url>Z18-Gurion_semdial_0027.pdf</url></paper>
 
