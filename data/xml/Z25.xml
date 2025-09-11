@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection id="Z25">
+
+<volume id="1">
+  <meta>
+    <booktitle>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Front Matter</booktitle>
+    <editor><first>Nikolai</first><last>Ilinykh</last></editor>
+    <editor><first>Amelie</first><last>Robrecht</last></editor>
+    <editor><first>Stefan</first><last>Kopp</last></editor>
+    <editor><first>Hendrik</first><last>Buschmeier</last></editor>
+    <publisher>SEMDIAL</publisher>
+    <address>Bielefeld, Germany</address>
+    <month>September</month>
+    <year>2025</year>
+  </meta>
+
+  <frontmatter>
+    <url>semdial2025_bialogue_front_matter.pdf</url>
+  </frontmatter>
+</volume>
+  
+
+<volume id="2">
+  <meta>
+    <booktitle>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Invited Talks</booktitle>
+    <editor><first>Nikolai</first><last>Ilinykh</last></editor>
+    <editor><first>Amelie</first><last>Robrecht</last></editor>
+    <editor><first>Stefan</first><last>Kopp</last></editor>
+    <editor><first>Hendrik</first><last>Buschmeier</last></editor>
+    <publisher>SEMDIAL</publisher>
+    <address>Bielefeld, Germany</address>
+    <month>September</month>
+    <year>2025</year>
+  </meta>
+
+  <paper id="201">
+    <title>The Many Reasons for Repetition in Dialogue</title>
+    <author><first>Arabella</first><last>Sinclair</last></author>
+    <pages>2–2</pages>
+    <url>Z25-Sinclair_semdial_2201.pdf</url>
+  </paper>
+
+  <paper id="202">
+    <title>Foraging for Common Ground</title>
+    <author><first>Robert D.</first><last>Hawkins</last></author>
+    <pages>3–3</pages>
+    <url>Z25-Hawkins_semdial_2202.pdf</url>
+  </paper>
+
+  <paper id="203">
+    <title>Meaningful Interaction with Unreal Speakers?</title>
+    <author><first>David</first><last>Schlangen</last></author>
+    <pages>4–4</pages>
+    <url>Z25-Schlangen_semdial_2203.pdf</url>
+  </paper>
+</volume>
+
+
+<volume id="3">
+  <meta>
+    <booktitle>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Full Papers</booktitle>
+    <editor><first>Nikolai</first><last>Ilinykh</last></editor>
+    <editor><first>Amelie</first><last>Robrecht</last></editor>
+    <editor><first>Stefan</first><last>Kopp</last></editor>
+    <editor><first>Hendrik</first><last>Buschmeier</last></editor>
+    <publisher>SEMDIAL</publisher>
+    <address>Bielefeld, Germany</address>
+    <month>September</month>
+    <year>2025</year>
+  </meta>
+
+  <paper id="304">
+    <title>Grammatical Person as a Clue to Interpreting French How-Questions</title>
+    <author><first>Jan</first><last>Fliessbach</last></author>
+    <author><first>Lucia M.</first><last>Tovena</last></author>
+    <author><first>Damien</first><last>Fleury</last></author>
+    <pages>6–16</pages>
+    <url>Z25-Fliessbach_semdial_3304.pdf</url>
+  </paper>
+
+  <paper id="305">
+    <title>Does It Take Two to Do an Articulatory Tango? Investigating the Production of Novel Phonetic Forms in Varying Communicative Settings</title>
+    <author><first>Leonie</first><last>Schade</last></author>
+    <author><first>Daniel</first><last>Duran</last></author>
+    <author><first>Sina</first><last>Zarrieß</last></author>
+    <author><first>Joana</first><last>Cholin</last></author>
+    <author><first>Petra</first><last>Wagner</last></author>
+    <pages>17–36</pages>
+    <url>Z25-Schade_semdial_3305.pdf</url>
+  </paper>
+
+  <paper id="306">
+    <title>‘No No No No No No No’: Multiple Repetition in Dialogue</title>
+    <author><first>Zulipiye</first><last>Yusupujiang</last></author>
+    <author><first>Paola</first><last>Herreno-Castaneda</last></author>
+    <author><first>Mathilde</first><last>Dargnat</last></author>
+    <author><first>Jonathan</first><last>Ginzburg</last></author>
+    <pages>37–47</pages>
+    <url>Z25-Yusupujiang_semdial_3306.pdf</url>
+  </paper>
+
+  <paper id="307">
+    <title>Identifying Repair Opportunities in Child-Caregiver Interactions</title>
+    <author><first>Abhishek</first><last>Agrawal</last></author>
+    <author><first>Benoit</first><last>Favre</last></author>
+    <author><first>Abdellah</first><last>Fourtassi</last></author>
+    <pages>48–59</pages>
+    <url>Z25-Agrawal_semdial_3307.pdf</url>
+  </paper>
+
+  <paper id="308">
+    <title>Do Young Adolescents Draw on Common Ground Like Adults?</title>
+    <author><first>Clara</first><last>Grégoire</last></author>
+    <author><first>Héloïse</first><last>Retournard</last></author>
+    <author><first>Stéphane</first><last>Rauzy</last>,</author>
+    <author><first>Maud</first><last>Champagne-Lavau</last></author>
+    <pages>60–70</pages>
+    <url>Z25-Gregoire_semdial_3308.pdf</url>
+  </paper>
+
+  <paper id="309">
+    <title>Social Repair</title>
+    <author><first>Alafate</first><last>Abulimiti</last></author>
+    <author><first>Vladislav</first><last>Maraev</last></author>
+    <pages>71–80</pages>
+    <url>Z25-Abulimiti_semdial_3309.pdf</url>
+  </paper>
+
+  <paper id="310">
+    <title>Misunderstanding the Concrete, Disagreeing About the Abstract: A Closer Look at Word Meaning Negotiation Triggers</title>
+    <author><first>Bill</first><last>Noble</last></author>
+    <author><first>Staffan</first><last>Larsson</last></author>
+    <author><first>Jenny</first><last>Myrendal</last></author>
+    <pages>81–91</pages>
+    <url>Z25-Noble_semdial_3310.pdf</url>
+  </paper>
+
+  <paper id="311">
+    <title>Benchmarking LLMs for Mimicking Child-Caregiver Language in Interaction</title>
+    <author><first>Jing</first><last>Liu</last></author>
+    <author><first>Abdellah</first><last>Fourtassi</last></author>
+    <pages>92–103</pages>
+    <url>Z25-Liu_semdial_3311.pdf</url>
+  </paper>
+
+  <paper id="312">
+    <title>Conv-BDI: An Extension of the BDI Framework for Conversational Agents</title>
+    <author><first>Nicholas Thomas</first><last>Walker</last></author>
+    <author><first>Nicolas</first><last>Wagner</last></author>
+    <author><first>Laetitia</first><last>Hilgendorf</last></author>
+    <author><first>Stefan</first><last>Ultes</last></author>
+    <pages>104–114</pages>
+    <url>Z25-Walker_semdial_3312.pdf</url>
+  </paper>
+
+  <paper id="313">
+    <title>Automated Administration of Questionnaires During Casual Conversation Using Question-Guiding Dialogue System</title>
+    <author><first>Yuki</first><last>Zenimoto</last></author>
+    <author><first>Mariko</first><last>Yoshida</last></author>
+    <author><first>Ryo</first><last>Hori</last></author>
+    <author><first>Mayu</first><last>Urata</last></author>
+    <author><first>Aiko</first><last>Inoue</last></author>
+    <author><first>Takahiro</first><last>Hayashi</last></author>
+    <author><first>Ryuichiro</first><last>Higashinaka</last> </author>
+    <pages>115–124</pages>
+    <url>Z25-Zenimoto_semdial_3313.pdf</url>
+  </paper>
+
+  <paper id="314">
+    <title>Why So Cold and Distant? Effects of Inter-turn Gap Durations on Observers' Attributions of Interpersonal Stance</title>
+    <author><first>Stefan</first><last>Blohm</last></author>
+    <author><first>Mathias</first><last>Barthel</last></author>
+    <pages>125–134</pages>
+    <url>Z25-Blohm_semdial_3314.pdf</url>
+  </paper>
+
+  <paper id="315">
+    <title>Alexa, You Are Too Slow! Invariant Turn-Transition Times and Conversational Flow in Natural Human–Voice Agent Interaction</title>
+    <author><first>Mathias</first><last>Barthel</last></author>
+    <pages>135–145</pages>
+    <url>Z25-Barthel_semdial_3315.pdf</url>
+  </paper>
+
+  <paper id="316">
+    <title>Head and Hand Movements During Turn Transitions: Data-Based Multimodal Analysis Using the Frankfurt VR Gesture–Speech Alignment Corpus (FraGA)</title>
+    <author><first>Andy</first><last>Lücking</last></author>
+    <author><first>Felix</first><last>Voll</last></author>
+    <author><first>Daniel</first><last>Rott</last></author>
+    <author><first>Alexander</first><last>Henlein</last></author>
+    <author><first>Alexander</first><last>Mehler</last></author>
+    <pages>146–156</pages>
+    <url>Z25-Luecking_semdial_3316.pdf</url>
+  </paper>
+
+  <paper id="317">
+    <title>Information Exchange vs. Opinion Discussion As Distinct Communicative Contexts in Online Conversations: A Corpus-Based Study of Speech Acts and Rhetorical Relations Dynamics in Dialogue</title>
+    <author><first>Gonzalo</first><last>Freijedo Aduna</last></author>
+    <author><first>Alda</first><last>Mari</last></author>
+    <pages>157–169</pages>
+    <url>Z25-Freijedo-Aduna_semdial_3317.pdf</url>
+  </paper>
+
+  <paper id="318">
+    <title>Shaping Virtual Interactions: F-Formations in Social VR</title>
+    <author><first>Karl</first><last>Clarke</last></author>
+    <author><first>Patrick</first><last>Healey</last></author>
+    <pages>170–180</pages>
+    <url>Z25-Clarke_semdial_3318.pdf</url>
+  </paper>
+
+  <paper id="319">
+    <title>Seeking Agreement in Remote Psychiatric Consultations: A Conversation Analytic Perspective</title>
+    <author><first>Naphat</first><last>Jittavisutthikul</last></author>
+    <author><first>Patrick</first><last>Healey</last></author>
+    <author><first>Sarah</first><last>Bourdin</last></author>
+    <author><first>Philip</first><last>McNamee</last></author>
+    <pages>181–192</pages>
+    <url>Z25-Jittavisutthikul_semdial_3319.pdf</url>
+  </paper>
+
+  <paper id="320">
+    <title>Constructing a Multi-Party Conversational Corpus Focusing on Interlocutor Relationships</title>
+    <author><first>Taro</first><last>Tsuda</last></author>
+    <author><first>Sanae</first><last>Yamashita</last></author>
+    <author><first>Koji</first><last>Inoue</last></author>
+    <author><first>Tatsuya</first><last>Kawahara</last></author>
+    <author><first>Ryuichiro</first><last>Higashinaka</last></author>
+    <pages>193–202</pages>
+    <url>Z25-Tsuda_semdial_3320.pdf</url>
+  </paper>
+</volume>
+
+
+<volume id="4">
+  <meta>
+     <booktitle>Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue – Poster Abstracts</booktitle>
+    <editor><first>Nikolai</first><last>Ilinykh</last></editor>
+    <editor><first>Amelie</first><last>Robrecht</last></editor>
+    <editor><first>Stefan</first><last>Kopp</last></editor>
+    <editor><first>Hendrik</first><last>Buschmeier</last></editor>
+    <publisher>SEMDIAL</publisher>
+    <address>Bielefeld, Germany</address>
+    <month>September</month>
+    <year>2025</year>
+  </meta>
+
+  <paper id="421">
+    <title>Pragmatic Reasoning for Irony Detection With Large Language Models in English and Norwegian</title>
+    <author><first>Margareta</first><last>Berg</last></author>
+    <author><first>Ildikó</first><last>Pilán</last></author>
+    <author><first>Ingrid Lossius</first><last>Falkum</last></author>
+    <author><first>Pierre</first><last>Lison</last></author>
+    <pages>204–209</pages>
+    <url>Z25-Berg_semdial_4421.pdf</url>
+  </paper>
+
+  <paper id="422">
+    <title>“It’s Simply a Different Way of Communicating” – Attitudes on Nonverbal Communication of Autistic Adults in the Netherlands</title>
+    <author><first>Anna</first><last>Palmann</last></author>
+    <author><first>James P.</first><last>Trujillo</last></author>
+    <author><first>Linda</first><last>Drijvers</last></author>
+    <author><first>Floris</first><last>Roelofsen</last></author>
+    <pages>210–212</pages>
+    <url>Z25-Palmann_semdial_4422.pdf</url>
+  </paper>
+
+  <paper id="423">
+    <title>Are You Laughing at Me? Patterns of Laughter While Playing a Voice Activated Game in Pairs Compared to Single-Player</title>
+    <author><first>Talha</first><last>Bedir</last></author>
+    <author><first>Bora</first><last>Kara</last></author>
+    <author><first>Christine</first><last>Howes</last></author>
+    <pages>213–215</pages>
+    <url>Z25-Bedir_semdial_4423.pdf</url>
+  </paper>
+
+  <paper id="424">
+    <title>Toward Emotional Description via Meta-Dialogue: A Preliminary Framework for Data Collection</title>
+    <author><first>Kei</first><last>Shimonishi</last></author>
+    <author><first>Koji</first><last>Inoue</last></author>
+    <author><first>Yasuyuki</first><last>Usuda</last></author>
+    <author><first>Rui</first><last>Sakaida</last></author>
+    <pages>216–218</pages>
+    <url>Z25-Shimonishi_semdial_4424.pdf</url>
+  </paper>
+
+  <paper id="425">
+    <title>Surprised to Kill: Quantifying LLM Uncertainty in Morally-Charged Triadic Dialogues</title>
+    <author><first>Vanessa</first><last>Vanzan</last></author>
+    <author><first>Nikolai</first><last>Ilinykh</last></author>
+    <author><first>Erik</first><last>Lagerstedt</last></author>
+    <author><first>Amy Han</first><last>Qiu</last></author>
+    <author><first>Vladislav</first><last>Maraev</last></author>
+    <author><first>Christine</first><last>Howes</last></author>
+    <pages>219–221</pages>
+    <url>Z25-Vanzan_semdial_4425.pdf</url>
+  </paper>
+
+  <paper id="426">
+    <title>Communication at an Angle</title>
+    <author><first>Mattias</first><last>Appelgren</last></author>
+    <author><first>Ellen</first><last>Breitholtz</last></author>
+    <author><first>Robin</first><last>Cooper</last></author>
+    <author><first>Simon</first><last>Dobnik</last></author>
+    <pages>222–224</pages>
+    <url>Z25-Appelgren_semdial_4426.pdf</url>
+  </paper>
+
+  <paper id="427">
+    <title>The FLEX Benchmark: Evaluating Pragmatic Competence in LLMs via False Presuppositions</title>
+    <author><first>Judith</first><last>Sieker</last></author>
+    <author><first>Clara</first><last>Lachenmaier</last></author>
+    <author><first>Sina</first><last>Zarrieß</last></author>
+    <pages>225–227</pages>
+    <url>Z25-Sieker_semdial_4427.pdf</url>
+  </paper>
+
+  <paper id="428">
+    <title>One -hii to Rule Them All: Functions and Intonation of Particle -hii in Hindi Movie Dialogues</title>
+    <author><first>Shravani</first><last>Patil</last></author>
+    <author><first>Farhat</first><last>Jabeen</last></author>
+    <pages>228–230</pages>
+    <url>Z25-Patil_semdial_4428.pdf</url>
+  </paper>
+
+  <paper id="429">
+    <title>Intonation, Prosodic Phrasing of Particle ‘-hii’ in Hindi/UrduDialogues</title>
+    <author><first>Farhat</first><last>Jabeen</last></author>
+    <author><first>Shravani</first><last>Patil</last></author>
+    <pages>231–233</pages>
+    <url>Z25-Jabeen_semdial_4429.pdf</url>
+  </paper>
+
+  <paper id="430">
+    <title>Integrating LLMs Into the DIARC Cognitive Architecture to Resolve Past Temporal References</title>
+    <author><first>Valerio</first><last>Farriciello</last></author>
+    <author><first>Frank</first><last>Förster</last></author>
+    <pages>234–242</pages>
+    <url>Z25-Farriciello_semdial_4430.pdf</url>
+  </paper>
+
+  <paper id="431">
+    <title>Across the Board: Human–Human Game Learning Dialogues</title>
+    <author><first>Mattias</first><last>Appelgren</last></author>
+    <author><first>Erik</first><last>Lagerstedt</last></author>
+    <author><first>Christine</first><last>Howes</last></author>
+    <author><first>Asad B.</first><last>Sayeed</last></author>
+    <pages>243–245</pages>
+    <url>Z25-Appelgren_semdial_4431.pdf</url>
+  </paper>
+
+  <paper id="432">
+    <title>The Dual Nature as a Local Context to Explore Verbal Behaviour in Game Explanations</title>
+    <author><first>Josephine B.</first><last>Fisher</last></author>
+    <author><first>Lutz</first><last>Terfloth</last></author>
+    <pages>246–248</pages>
+    <url>Z25-Fisher_semdial_4432.pdf</url>
+  </paper>
+
+  <paper id="433">
+    <title>Towards a Discourse-Structure Based Response Classification for Interviews</title>
+    <author><first>René</first><last>Nicolas</last></author>
+    <author><first>Arndt</first><last>Riester</last></author>
+    <pages>249–251</pages>
+    <url>Z25-Nicolas_semdial_4433.pdf</url>
+  </paper>
+
+  <paper id="434">
+    <title>Contextual Interpretation in Human-Robot Dialogue</title>
+    <author><first>Svetlana</first><last>Stoyanchev</last></author>
+    <author><first>Youmna</first><last>Farag</last></author>
+    <author><first>Simon</first><last>Keizer</last></author>
+    <author><first>Mohan</first><last>Li</last></author>
+    <author><first>Rama</first><last>Doddipatla</last></author>
+    <pages>252–254</pages>
+    <url>Z25-Stoyanchev_semdial_4434.pdf</url>
+  </paper>
+
+  <paper id="435">
+    <title>Mapping the Landscape of Dialogue Research: A Meta-Analysis of ACL Anthology 2024</title>
+    <author><first>Amandine</first><last>Decker</last></author>
+    <author><first>Maxime</first><last>Amblard</last></author>
+    <author><first>Ellen</first><last>Breitholtz</last></author>
+    <pages>255–257</pages>
+    <url>Z25-Decker_semdial_4435.pdf</url>
+  </paper>
+
+  <paper id="436">
+    <title>Evaluating Prosodic Variation in English and Icelandic Synthesized Speech</title>
+    <author><first>Caitlin Laura</first><last>Richter</last></author>
+    <author><first>Naizeth</first><last>Núñez Macías</last></author>
+    <author><first>Stefán</first><last>Ólafsson</last></author>
+    <author><first>Jon</first><last>Gudnason</last></author>
+    <author><first>Hannes</first><last>Högni Vilhjálmsson</last></author>
+    <pages>258–260</pages>
+    <url>Z25-Richter_semdial_4436.pdf</url>
+  </paper>
+
+  <paper id="437">
+    <title>Conceptual Pact Models of Reference in Building Games With Dialogue: Scaling Up From Pentomino Puzzles to the Challenge of Minecraft</title>
+    <author><first>Julian</first><last>Hough</last></author>
+    <author><first>Chris</first><last>Madge</last></author>
+    <author><first>Matthew</first><last>Purver</last></author>
+    <author><first>Massimo</first><last>Poesio</last></author>
+    <pages>261–263</pages>
+    <url>Z25-Hough_semdial_4437.pdf</url>
+  </paper>
+
+  <paper id="438">
+    <title>Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents</title>
+    <author><first>Dominik</first><last>Künkele</last></author>
+    <author><first>Simon</first><last>Dobnik</last></author>
+    <pages>264–266</pages>
+    <url>Z25-Kuenkele_semdial_4438.pdf</url>
+  </paper>
+
+  <paper id="439">
+    <title>How Task Complexity and Voice Type Shape Prosodic and Physiologic Cues of Engagement in Human-Machine Dialogue</title>
+    <author><first>Océane</first><last>Granier</last></author>
+    <author><first>Roxane</first><last>Bertrand</last></author>
+    <author><first>Kévin</first><last>Gravouil</last></author>
+    <author><first>Laurent</first><last>Prévot</last></author>
+    <pages>267–269</pages>
+    <url>Z25-Granier_semdial_4439.pdf</url>
+  </paper>
+</volume>
+
+</collection>
