@@ -10,7 +10,7 @@
     <a class="d-none" href="{{ . }}.pdf" title="Hidden link to PDF with extension">pdf</a>
       {{- end -}}
     {{- end -}}
-    {{- $bibfile := printf "/papers/%s/%s/%s.bib" (slicestr $volume_id 0 1) $volume_id .Params.anthology_id -}}
+    {{- $bibfile := printf "papers/%s/%s/%s.bib" (slicestr $volume_id 0 1) $volume_id .Params.anthology_id -}}
     {{- if (fileExists (printf "/data-export/%s" $bibfile)) -}}
     <a class="badge badge-secondary align-middle mr-1" href="{{ $bibfile | relURL }}" data-toggle="tooltip" data-placement="top" title="Export to BibTeX">
       bib

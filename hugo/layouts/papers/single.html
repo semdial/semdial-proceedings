@@ -41,7 +41,7 @@
 {{ $anthology_id := .Params.anthology_id }}
 {{ $volume_id := slicestr .Params.anthology_id 0 3 }}
 {{ $paper := index (index .Site.Data.papers $volume_id) .Params.anthology_id }}
-{{ $bibfile := printf "/papers/%s/%s/%s.bib" (slicestr $volume_id 0 1) $volume_id $anthology_id }}
+{{ $bibfile := printf "papers/%s/%s/%s.bib" (slicestr $volume_id 0 1) $volume_id $anthology_id }}
 <section id="main">
   <h2 id="title">
     <a href="{{ $paper.url }}">{{ $paper.title_html | safeHTML }}</a>
@@ -145,11 +145,11 @@
       {{ if (fileExists (printf "/data-export/%s" $bibfile)) }}
         <a class="btn btn-secondary btn-sm" href="{{ $bibfile | relURL }}">BibTeX</a>
       {{ end }}
-      {{ $expfile := printf "/papers/%s/%s/%s.xml" (slicestr $volume_id 0 1) $volume_id $anthology_id }}
+      {{ $expfile := printf "papers/%s/%s/%s.xml" (slicestr $volume_id 0 1) $volume_id $anthology_id }}
       {{ if (fileExists (printf "/data-export/%s" $expfile)) }}
         <a class="btn btn-secondary btn-sm" href="{{ $expfile | relURL }}">MODS XML</a>
       {{ end }}
-      {{ $endfile := printf "/papers/%s/%s/%s.endf" (slicestr $volume_id 0 1) $volume_id $anthology_id }}
+      {{ $endfile := printf "papers/%s/%s/%s.endf" (slicestr $volume_id 0 1) $volume_id $anthology_id }}
       {{ if (fileExists (printf "/data-export/%s" $endfile)) }}
         <a class="btn btn-secondary btn-sm" href="{{ $endfile | relURL }}">EndNote</a>
       {{ end }}
