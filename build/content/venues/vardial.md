@@ -1,4 +1,0 @@
----
-title: Workshop on Applying NLP Tools to Similar Languages, Varieties and Dialects
-venue: VarDial
----

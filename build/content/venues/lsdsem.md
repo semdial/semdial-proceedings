@@ -1,5 +1,0 @@
----
-title: Workshop on Linking Computational Models of Lexical, Sentential and Discourse-level
-  Semantics
-venue: LSDSem
----
